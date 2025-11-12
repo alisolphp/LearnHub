@@ -179,14 +179,14 @@
 
 ## ؜موازنه‌ها و گزینه‌های جایگزین
 
-| موضوع | گزینهٔ A | گزینهٔ B | نظر ویدئو | استدلال (از ویدئو) |
-| --- ؜| --- ؜| --- ؜| --- ؜| --- ؜|
-| ‎stop words‎ | حذف واژه‌های رایج | نگه‌داری/کم‌وزن‌کردن | حذف | کاهش نویز و اندازهٔ ایندکس. ؜|
-| نرمال‌سازی | ‎stemming‎ | ‎lemmatization‎ | هر دو | ریشه‌سازی برای تطبیق بهتر. ؜ [Personal note: در ۲۰۲۵ ‎lemmatization/light stemming‎ را ترجیح دهید.] |
-| ذخیرهٔ ‎postings‎ | ‎bitset‎ ساده | ‎(docID, freq, positions)‎ | غنی | پشتیبانی ‎phrase/proximity‎ و سیگنال‌های ‎ranking‎. ؜|
-| کوئری چندکلمه‌ای | ‎Conjunctive (AND)‎ | ‎Disjunctive (OR)‎ | هر دو | ‎AND‎ برای دقت؛ ‎OR‎ برای پوشش. ؜|
-| ‎prefix search‎ | دیکشنری ‎sorted‎ + ‎binary search‎ | ‎trie/k‑gram‎ | ‎sorted dict‎ | امکان ‎range lookup‎ کارا. ؜|
-| ‎index lookup‎ | ‎B‑tree/dictionary‎ | ‎hash map‎ | هر دو | نگاشت سریع ‎term→postings‎. ؜ [Personal note: امروزه ‎LSM‑style segments‎ برای ‎write throughput‎ رایج‌اند.] |
+| موضوع | گزینه A | گزینه B | تمایل ویدیو | دلیل (طبق ویدیو) |
+| --- | --- | --- | --- | --- |
+| Stop words | حذف کلمات رایج | نگه‌داشتن / وزن‌دهی کم | حذف | کاهش نویز و کوچک‌تر شدن اندازه index. |
+| Normalization | Stemming | Lemmatization | هر دو ذکر شده | یکسان‌سازی حالت‌های مختلف به یک ریشه برای match بهتر. [یادداشت شخصی: در ۲۰۲۵ ترجیح با lemmatization / light stemming برای relevance بهتر است.] |
+| Postings storage | بیت‌ست ساده | Postings با (docID، freq، positions) | Postings غنی | پشتیبانی از phrase / proximity query و سیگنال‌های ranking. |
+| Multi-term queries | Conjunctive (AND) | Disjunctive (OR) | هر دو | AND برای precision؛ OR برای recall. |
+| Prefix search | Sorted term dict + binary search | Trie / k-gram index | Sorted dict | نگه‌داشتن کلیدها به‌صورت مرتب برای range lookupهای کارآمد. |
+| Index lookup | B-tree / dictionary | Hash map | هر دو | resolve سریع term→postings. [یادداشت شخصی: خیلی از موتورهای مدرن به LSM-style index segments برای throughput بالای write و compaction گرایش دارند.] |
 
 ؜[Ask AI: Trade-offs](https://alisol.ir/?ai=Trade-offs%7CTech%20Dummies%20-%20Narendra%20Lakshmana%20Gowda%7CDesign%20Google%20Search%20%7C%20How%20Google%20searches%20one%20document%20among%20Billions%20of%20documents%20quickly%7Cfa)
 
