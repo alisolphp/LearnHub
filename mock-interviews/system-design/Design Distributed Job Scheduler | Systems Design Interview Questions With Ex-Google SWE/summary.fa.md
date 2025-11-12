@@ -206,13 +206,13 @@
 
 ## ؜۸) تبادل‌ها و گزینه‌های جایگزین
 
-| موضوع | گزینه A | گزینه B | گرایش ویدئو | دلیل (طبق ویدئو) |
-| --- ؜| --- ؜| --- ؜| --- ؜| --- ؜|
-| ورود نوبت‌ها به scheduler | CDC از Cron/DAG به Scheduler | 2PC بین جداول | ؜**CDC؜** | اجتناب از کندی 2PC در هنگام upload/update. ؜|
-| سبک broker | Log-based (Kafka) | In-memory (RabbitMQ/ActiveMQ) | ؜**In-memory؜** | مدل pull در executors جلوی HoL blocking را می‌گیرد. ؜|
-| ذخیره‌ساز DAG | MySQL (relational) | MongoDB (JSON) | ؜**MongoDB؜** | نگهداری children/depها به‌صورت JSON ساده‌تر است. ؜|
-| جلوگیری از تکرار | Idempotent jobs + Locks | تراکنش‌های قوی سراسری | ؜**Idempotency + Locks؜** | سازگاری قوی عملکرد را می‌کاهد؛ تکرار در عمل قابل تحمل است. ؜|
-| سرو وضعیت | خواندن از Leader | Read replicas | ؜**Replicas؜** | کاهش contention؛ پذیرش eventual consistency. ؜|
+| موضوع | گزینه A | گزینه B | گرایش ویدیو | دلیل (بر اساس ویدیو) |
+| --- | --- | --- | --- | --- |
+| وارد کردن runها به Scheduler | CDC از Cron/DAG به Scheduler | 2PC بین جدول‌ها | **CDC** | اجتناب از 2PC کند هنگام uploads/updates. |
+| سبک Broker | Log-based (Kafka) | In-memory queue (RabbitMQ/ActiveMQ) | **In-memory** | pull شدن توسط Executor جلوی Head‑of‑Line (HoL) blocking روی partition را می‌گیرد. |
+| دیتاستور برای DAG | MySQL (relational) | MongoDB (JSON flexibility) | **MongoDB (final)** | ذخیرهٔ children/dep maps به‌صورت JSON ساده‌تر است. |
+| جلوگیری از تکراری‌ها | Idempotent jobs + best‑effort locks | Strong global transactions | **Idempotence + locks** | Strong consistency به performance ضربه می‌زند؛ duplicates در عمل قابل‌قبول‌اند. |
+| سروینگ وضعیت | Leader reads | Read replicas | **Replicas** | کاهش contention؛ پذیرش eventual consistency. |
 
 [Ask AI: تبادل‌ها](https://alisol.ir/?ai=Trade-offs%7CJordan%7CDesign%20Distributed%20Job%20Scheduler%20%7C%20Systems%20Design%20Interview%20Questions%20With%20Ex-Google%20SWE|fa)
 
