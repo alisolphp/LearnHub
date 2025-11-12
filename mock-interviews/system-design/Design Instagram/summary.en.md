@@ -1,6 +1,6 @@
 # System Design Mock Interview: Design Instagram
 
-- **Channel/Interviewer**: Not stated in video  
+- **Channel/Interviewer**: Exponent  
 - **Duration**: 00:31:09  
 - **Original Video**: https://www.youtube.com/watch?v=VJpfO6KdyWE
 
@@ -54,7 +54,7 @@
   A: Write-through or write-back policies with targeted invalidations.  
   [Personal note: Prefer write-through + explicit key invalidation for simpler correctness in distributed caches.]
 
-[Ask AI: Executive Summary](https://alisol.ir/?ai=Executive%20Summary%7CNot%20stated%20in%20video%7CDesign%20Instagram)
+[Ask AI: Executive Summary](https://alisol.ir/?ai=Executive%20Summary%7CExponent%7CDesign%20Instagram)
 
 ---
 
@@ -66,7 +66,7 @@
 - **Infra/Tech (mentioned)**: `microservices, rest, mysql, postgres, redis, s3, cdn`  
   [Personal note: If starting today, managed Postgres/MySQL and managed Redis reduce ops overhead and speed iteration.]
 
-[Ask AI: Interview Tags](https://alisol.ir/?ai=Interview%20Tags%7CNot%20stated%20in%20video%7CDesign%20Instagram)
+[Ask AI: Interview Tags](https://alisol.ir/?ai=Interview%20Tags%7CExponent%7CDesign%20Instagram)
 
 ---
 
@@ -80,7 +80,7 @@
 - **Out of Scope**: Comments/likes, algorithmic ranking, search, complex privacy, notifications, stories/video, analytics.
 - **APIs (if discussed)**: Not stated in video.
 
-[Ask AI: Problem Understanding](https://alisol.ir/?ai=Problem%20Understanding%7CNot%20stated%20in%20video%7CDesign%20Instagram)
+[Ask AI: Problem Understanding](https://alisol.ir/?ai=Problem%20Understanding%7CExponent%7CDesign%20Instagram)
 
 ---
 
@@ -97,7 +97,7 @@
 - P99 feed read latency in low hundreds of ms with cache; object fetch via CDN under regional targets.  
 [Personal note: Likely outdated; consider setting explicit SLOs (e.g., p95/p99 latencies) early to guide cache and replica counts—verify for your stack.]
 
-[Ask AI: Requirements and Constraints](https://alisol.ir/?ai=Requirements%20and%20Constraints%7CNot%20stated%20in%20video%7CDesign%20Instagram)
+[Ask AI: Requirements and Constraints](https://alisol.ir/?ai=Requirements%20and%20Constraints%7CExponent%7CDesign%20Instagram)
 
 ---
 
@@ -111,7 +111,7 @@
 
 If more numbers are needed: *Not stated in video—skipping numerical estimation.*
 
-[Ask AI: Estimation](https://alisol.ir/?ai=Estimation%7CNot%20stated%20in%20video%7CDesign%20Instagram)
+[Ask AI: Estimation](https://alisol.ir/?ai=Estimation%7CExponent%7CDesign%20Instagram)
 
 ---
 
@@ -131,7 +131,7 @@ If more numbers are needed: *Not stated in video—skipping numerical estimation
 - **CDN**: Fronts object storage for image delivery; signed URLs recommended.  
 - **Consistency**: DB is source of truth; cache updated/invalidated on writes; eventual consistency for feeds acceptable.
 
-[Ask AI: High-Level Architecture](https://alisol.ir/?ai=High-Level%20Architecture%7CNot%20stated%20in%20video%7CDesign%20Instagram)
+[Ask AI: High-Level Architecture](https://alisol.ir/?ai=High-Level%20Architecture%7CExponent%7CDesign%20Instagram)
 
 ---
 
@@ -150,7 +150,7 @@ If more numbers are needed: *Not stated in video—skipping numerical estimation
 - **Bottlenecks & Hot Keys**: Celebrity accounts (high fan-out). Mitigate via per-user feed caches and rate limits.
 - **Failure Handling**: Idempotent writes (e.g., retry-safe uploads), fall back to DB on cache miss.
 
-[Ask AI: Subsystem - Data Model](https://alisol.ir/?ai=Subsystem%20-%20Data%20Model%7CNot%20stated%20in%20video%7CDesign%20Instagram)
+[Ask AI: Subsystem - Data Model](https://alisol.ir/?ai=Subsystem%20-%20Data%20Model%7CExponent%7CDesign%20Instagram)
 
 ---
 
@@ -162,7 +162,7 @@ If more numbers are needed: *Not stated in video—skipping numerical estimation
 - **Caching Strategy**: Write-through for user/photo lookups; targeted invalidation of feed keys for followers.
 - **Failure Handling**: Timeouts, resumable uploads, idempotency keys.
 
-[Ask AI: Subsystem - Write Path](https://alisol.ir/?ai=Subsystem%20-%20Write%20Path%7CNot%20stated%20in%20video%7CDesign%20Instagram)
+[Ask AI: Subsystem - Write Path](https://alisol.ir/?ai=Subsystem%20-%20Write%20Path%7CExponent%7CDesign%20Instagram)
 
 ---
 
@@ -175,7 +175,7 @@ If more numbers are needed: *Not stated in video—skipping numerical estimation
 - **Caching Strategy**: TTL for feed lists; manual invalidation on new posts from followed users.
 - **Hot Keys**: Celebrity feeds; mitigate via sharded cache keys and short TTLs.
 
-[Ask AI: Subsystem - Read/Feed Path](https://alisol.ir/?ai=Subsystem%20-%20Read%2FFeed%20Path%7CNot%20stated%20in%20video%7CDesign%20Instagram)
+[Ask AI: Subsystem - Read/Feed Path](https://alisol.ir/?ai=Subsystem%20-%20Read%2FFeed%20Path%7CExponent%7CDesign%20Instagram)
 
 ---
 
@@ -185,7 +185,7 @@ If more numbers are needed: *Not stated in video—skipping numerical estimation
 - **Notes from Video**: Use object storage (e.g., S3); keep references in DB; put a CDN in front for latency.  
   [Personal note: Generate responsive sizes (variants) asynchronously to optimize bandwidth and cache hit ratios.]
 
-[Ask AI: Subsystem - CDN & Storage](https://alisol.ir/?ai=Subsystem%20-%20CDN%20%26%20Storage%7CNot%20stated%20in%20video%7CDesign%20Instagram)
+[Ask AI: Subsystem - CDN & Storage](https://alisol.ir/?ai=Subsystem%20-%20CDN%20%26%20Storage%7CExponent%7CDesign%20Instagram)
 
 ---
 
@@ -200,7 +200,7 @@ If more numbers are needed: *Not stated in video—skipping numerical estimation
 | Service Shape | Monolith → split | Microservices early | Monolith-first | Evolve services after identifying hotspots. |  
 [Personal note: For feed freshness under spikes, consider hybrid fan-out-on-write using a light queue; verify ops complexity vs benefit.]
 
-[Ask AI: Trade-offs](https://alisol.ir/?ai=Trade-offs%7CNot%20stated%20in%20video%7CDesign%20Instagram)
+[Ask AI: Trade-offs](https://alisol.ir/?ai=Trade-offs%7CExponent%7CDesign%20Instagram)
 
 ---
 
@@ -213,7 +213,7 @@ If more numbers are needed: *Not stated in video—skipping numerical estimation
 - **Disaster Recovery**: Not specified.  
 [Personal note: Aim for multi-AZ by default; DR plan depends on RPO/RTO—define early.]
 
-[Ask AI: Reliability and Performance](https://alisol.ir/?ai=Reliability%20and%20Performance%7CNot%20stated%20in%20video%7CDesign%20Instagram)
+[Ask AI: Reliability and Performance](https://alisol.ir/?ai=Reliability%20and%20Performance%7CExponent%7CDesign%20Instagram)
 
 ---
 
@@ -224,7 +224,7 @@ If more numbers are needed: *Not stated in video—skipping numerical estimation
 - **Encryption**: Not stated in video.  
 [Personal note: Enforce TLS 1.3 end-to-end; store passwords with Argon2id/bcrypt + per-user salts; sign image URLs.]
 
-[Ask AI: Security and Privacy](https://alisol.ir/?ai=Security%20and%20Privacy%7CNot%20stated%20in%20video%7CDesign%20Instagram)
+[Ask AI: Security and Privacy](https://alisol.ir/?ai=Security%20and%20Privacy%7CExponent%7CDesign%20Instagram)
 
 ---
 
@@ -233,7 +233,7 @@ If more numbers are needed: *Not stated in video—skipping numerical estimation
 - Metrics, logs, tracing, SLOs: Not stated in video.  
 [Personal note: At minimum, instrument cache hit ratio, replica lag, CDN hit ratio, p95/p99 latencies for feed and image fetch.]
 
-[Ask AI: Observability](https://alisol.ir/?ai=Observability%7CNot%20stated%20in%20video%7CDesign%20Instagram)
+[Ask AI: Observability](https://alisol.ir/?ai=Observability%7CExponent%7CDesign%20Instagram)
 
 ---
 
@@ -241,7 +241,7 @@ If more numbers are needed: *Not stated in video—skipping numerical estimation
 
 Not stated in video.
 
-[Ask AI: Follow-up Questions](https://alisol.ir/?ai=Follow-up%20Questions%7CNot%20stated%20in%20video%7CDesign%20Instagram)
+[Ask AI: Follow-up Questions](https://alisol.ir/?ai=Follow-up%20Questions%7CExponent%7CDesign%20Instagram)
 
 ---
 
@@ -249,7 +249,7 @@ Not stated in video.
 
 Not stated in video.
 
-[Ask AI: Candidate Questions](https://alisol.ir/?ai=Candidate%20Questions%7CNot%20stated%20in%20video%7CDesign%20Instagram)
+[Ask AI: Candidate Questions](https://alisol.ir/?ai=Candidate%20Questions%7CExponent%7CDesign%20Instagram)
 
 ---
 
@@ -264,7 +264,7 @@ Not stated in video.
 - Capacity planning reveals storage scale (~100 TB/month at given assumptions).  
 [Personal note: Introduce feature flags and gradual rollouts for feed changes to protect latency.]
 
-[Ask AI: Key Takeaways](https://alisol.ir/?ai=Key%20Takeaways%7CNot%20stated%20in%20video%7CDesign%20Instagram)
+[Ask AI: Key Takeaways](https://alisol.ir/?ai=Key%20Takeaways%7CExponent%7CDesign%20Instagram)
 
 ---
 
@@ -277,7 +277,7 @@ Not stated in video.
 - **Hot Key**: A frequently accessed cache key causing uneven load.  
 - **Precomputed Feed**: Feed entries generated ahead of time and cached.
 
-[Ask AI: Glossary](https://alisol.ir/?ai=Glossary%7CNot%20stated%20in%20video%7CDesign%20Instagram)
+[Ask AI: Glossary](https://alisol.ir/?ai=Glossary%7CExponent%7CDesign%20Instagram)
 
 ---
 
@@ -289,7 +289,7 @@ Not stated in video.
 - Plan a staged evolution: monolith → split read/write services → further microservices as needed.  
 [Personal note: Revisit modern managed services (DB, cache, CDN) to reduce ops toil and speed up iteration.]
 
-[Ask AI: Study Plan](https://alisol.ir/?ai=Study%20Plan%7CNot%20stated%20in%20video%7CDesign%20Instagram)
+[Ask AI: Study Plan](https://alisol.ir/?ai=Study%20Plan%7CExponent%7CDesign%20Instagram)
 
 ---
 
