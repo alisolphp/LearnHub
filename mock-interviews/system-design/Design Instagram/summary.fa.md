@@ -52,7 +52,7 @@
 - ؜سوال: چطور cache را تازه نگه داریم؟  
   پاسخ: ؜**Write-through؜** یا ؜**write-back؜** با invalidation هدفمند. ؜(برای سادگی درستی، write-through + invalidation کلیدی پیشنهاد می‌شود.)
 
-[Ask AI: Executive Summary](https://alisol.ir/?ai=Executive%20Summary%7CNot%20stated%20in%20video%7CDesign%20Instagram|fa)
+[Ask AI: Executive Summary](https://alisol.ir/?ai=Executive%20Summary%7CExponent%7CDesign%20Instagram|fa)
 
 ---
 
@@ -64,7 +64,7 @@
 - ؜زیرساخت/تکنولوژی (ذکر شده): `microservices, rest, mysql, postgres, redis, s3, cdn`  
   نکته: اگر امروز شروع می‌کنید، سرویس‌های مدیریت‌شدهٔ Postgres/MySQL و Redis هزینهٔ عملیاتی را کم و سرعت iteration را زیاد می‌کنند.
 
-[Ask AI: Interview Tags](https://alisol.ir/?ai=Interview%20Tags%7CNot%20stated%20in%20video%7CDesign%20Instagram|fa)
+[Ask AI: Interview Tags](https://alisol.ir/?ai=Interview%20Tags%7CExponent%7CDesign%20Instagram|fa)
 
 ---
 
@@ -78,7 +78,7 @@
 - ؜خارج از محدوده: کامنت/لایک، ranking الگوریتمی، جستجو، privacy پیچیده، notifications، stories/video، analytics.
 - ؜APIها (اگر بحث شد): مطرح نشده.
 
-[Ask AI: Problem Understanding](https://alisol.ir/?ai=Problem%20Understanding%7CNot%20stated%20in%20video%7CDesign%20Instagram|fa)
+[Ask AI: Problem Understanding](https://alisol.ir/?ai=Problem%20Understanding%7CExponent%7CDesign%20Instagram|fa)
 
 ---
 
@@ -95,7 +95,7 @@
 - ؜هدف تاخیر p99 خواندن فید در چندصد ms با cache؛ دریافت تصویر از CDN طبق اهداف ناحیه‌ای. ؜ 
 - ؜توصیه: SLOهای صریح (p95/p99) از ابتدا تنظیم شوند تا تعداد replica و اندازهٔ cache هدایت شود.
 
-[Ask AI: Requirements and Constraints](https://alisol.ir/?ai=Requirements%20and%20Constraints%7CNot%20stated%20in%20video%7CDesign%20Instagram|fa)
+[Ask AI: Requirements and Constraints](https://alisol.ir/?ai=Requirements%20and%20Constraints%7CExponent%7CDesign%20Instagram|fa)
 
 ---
 
@@ -109,7 +109,7 @@
 
 اگر عدد بیشتری لازم است: در ویدیو نیامده—فعلاً صرف‌نظر.
 
-[Ask AI: Estimation](https://alisol.ir/?ai=Estimation%7CNot%20stated%20in%20video%7CDesign%20Instagram|fa)
+[Ask AI: Estimation](https://alisol.ir/?ai=Estimation%7CExponent%7CDesign%20Instagram|fa)
 
 ---
 
@@ -129,7 +129,7 @@
 - ؜؜**CDN؜**: جلوی object storage برای تحویل سریع؛ ؜**signed URL؜** توصیه می‌شود. ؜ 
 - ؜سازگاری: DB منبع حقیقت؛ cache با write-through و invalidation به‌روز می‌شود؛ eventual consistency برای فید قابل‌قبول است.
 
-[Ask AI: High-Level Architecture](https://alisol.ir/?ai=High-Level%20Architecture%7CNot%20stated%20in%20video%7CDesign%20Instagram|fa)
+[Ask AI: High-Level Architecture](https://alisol.ir/?ai=High-Level%20Architecture%7CExponent%7CDesign%20Instagram|fa)
 
 ---
 
@@ -148,7 +148,7 @@
 - ؜گلوگاه‌ها/Hot key: حساب‌های سلبریتی؛ کاهش با cache فید per-user و rate limit.
 - ؜خطا: writeهای idempotent و fallback به DB روی cache miss.
 
-[Ask AI: Subsystem - ؜Data Model](https://alisol.ir/?ai=Subsystem%20-%20Data%20Model%7CNot%20stated%20in%20video%7CDesign%20Instagram|fa)
+[Ask AI: Subsystem - ؜Data Model](https://alisol.ir/?ai=Subsystem%20-%20Data%20Model%7CExponent%7CDesign%20Instagram|fa)
 
 ---
 
@@ -159,7 +159,7 @@
 - ؜استراتژی cache: write-through برای lookupها؛ invalidation هدفمند برای feed دنبال‌کنندگان. ؜ 
 - ؜خطا/تحمل‌پذیری: timeout، آپلودهای resumable، کلیدهای idempotency.
 
-[Ask AI: Subsystem - ؜Write Path](https://alisol.ir/?ai=Subsystem%20-%20Write%20Path%7CNot%20stated%20in%20video%7CDesign%20Instagram|fa)
+[Ask AI: Subsystem - ؜Write Path](https://alisol.ir/?ai=Subsystem%20-%20Write%20Path%7CExponent%7CDesign%20Instagram|fa)
 
 ---
 
@@ -171,7 +171,7 @@
 - ؜استراتژی cache: TTL برای فهرست فید؛ invalidation دستی هنگام پست جدید دنبال‌شده‌ها. ؜ 
 - ؜؜**Hot key؜**: فید سلبریتی‌ها؛ کاهش با کلیدهای cache شاردشده و TTL کوتاه.
 
-[Ask AI: Subsystem - ؜Read/Feed Path](https://alisol.ir/?ai=Subsystem%20-%20Read%2FFeed%20Path%7CNot%20stated%20in%20video%7CDesign%20Instagram|fa)
+[Ask AI: Subsystem - ؜Read/Feed Path](https://alisol.ir/?ai=Subsystem%20-%20Read%2FFeed%20Path%7CExponent%7CDesign%20Instagram|fa)
 
 ---
 
@@ -181,7 +181,7 @@
 - ؜نکته‌ها: استفاده از object storage (مثلاً S3)؛ نگه‌داری reference در DB؛ قراردادن CDN جلو برای latency بهتر. ؜ 
 - ؜بهینه‌سازی: ساخت اندازه‌های responsive به‌صورت async برای بهبود bandwidth و hit-ratio.
 
-[Ask AI: Subsystem - ؜CDN & Storage](https://alisol.ir/?ai=Subsystem%20-%20CDN%20%26%20Storage%7CNot%20stated%20in%20video%7CDesign%20Instagram|fa)
+[Ask AI: Subsystem - ؜CDN & Storage](https://alisol.ir/?ai=Subsystem%20-%20CDN%20%26%20Storage%7CExponent%7CDesign%20Instagram|fa)
 
 ---
 
@@ -195,7 +195,7 @@
 | Image Delivery | CDN جلوی object storage | دسترسی مستقیم به object storage | CDN | latency کمتر + edge caching. |
 | Service Shape | Monolith → سپس split | Microservices از ابتدا | Monolith-first | بعد از شناسایی hotspotها سرویس‌ها را تکامل/تفکیک بده. |
 
-[Ask AI: Trade-offs](https://alisol.ir/?ai=Trade-offs%7CNot%20stated%20in%20video%7CDesign%20Instagram|fa)
+[Ask AI: Trade-offs](https://alisol.ir/?ai=Trade-offs%7CExponent%7CDesign%20Instagram|fa)
 
 ---
 
@@ -207,7 +207,7 @@
 - ؜تنزل کنترل‌شده: سرو کردن cache کهنه هنگام مشکل DB؛ placeholder تصویر اگر object store/CDN مشکل داشت. ؜ 
 - ؜بازیابی از فاجعه: مشخص نشده. ؜توصیه: حداقل multi-AZ؛ RPO/RTO را زود مشخص کنید.
 
-[Ask AI: Reliability and Performance](https://alisol.ir/?ai=Reliability%20and%20Performance%7CNot%20stated%20in%20video%7CDesign%20Instagram|fa)
+[Ask AI: Reliability and Performance](https://alisol.ir/?ai=Reliability%20and%20Performance%7CExponent%7CDesign%20Instagram|fa)
 
 ---
 
@@ -218,7 +218,7 @@
 - ؜Encryption: مطرح نشده. ؜ 
 - ؜توصیه: TLS 1.3 سرتاسری؛ ذخیرهٔ رمز با ؜**Argon2id/bcrypt؜** + salt؛ استفاده از ؜**signed URL؜** برای تصاویر خصوصی.
 
-[Ask AI: Security and Privacy](https://alisol.ir/?ai=Security%20and%20Privacy%7CNot%20stated%20in%20video%7CDesign%20Instagram|fa)
+[Ask AI: Security and Privacy](https://alisol.ir/?ai=Security%20and%20Privacy%7CExponent%7CDesign%20Instagram|fa)
 
 ---
 
@@ -227,7 +227,7 @@
 - ؜متریک‌ها، لاگ‌ها، tracing، و SLOها: مطرح نشده. ؜ 
 - ؜حداقل‌ها: نسبت hit در cache و CDN، lag در replica، latency p95/p99 برای فید و واکشی تصویر.
 
-[Ask AI: Observability](https://alisol.ir/?ai=Observability%7CNot%20stated%20in%20video%7CDesign%20Instagram|fa)
+[Ask AI: Observability](https://alisol.ir/?ai=Observability%7CExponent%7CDesign%20Instagram|fa)
 
 ---
 
@@ -235,7 +235,7 @@
 
 - ؜در ویدیو بیان نشده.
 
-[Ask AI: Follow-up Questions](https://alisol.ir/?ai=Follow-up%20Questions%7CNot%20stated%20in%20video%7CDesign%20Instagram|fa)
+[Ask AI: Follow-up Questions](https://alisol.ir/?ai=Follow-up%20Questions%7CExponent%7CDesign%20Instagram|fa)
 
 ---
 
@@ -243,7 +243,7 @@
 
 - ؜در ویدیو بیان نشده.
 
-[Ask AI: Candidate Questions](https://alisol.ir/?ai=Candidate%20Questions%7CNot%20stated%20in%20video%7CDesign%20Instagram|fa)
+[Ask AI: Candidate Questions](https://alisol.ir/?ai=Candidate%20Questions%7CExponent%7CDesign%20Instagram|fa)
 
 ---
 
@@ -257,7 +257,7 @@
 - ؜invalidation روی write و مدیریت ؜**hot key؜** را از اول برنامه‌ریزی کنید. ؜ 
 - ؜ظرفیت‌سنجی نشان می‌دهد مقیاس ذخیره‌سازی ~؜100 TB/ماه است (با فروض داده‌شده).
 
-[Ask AI: Key Takeaways](https://alisol.ir/?ai=Key%20Takeaways%7CNot%20stated%20in%20video%7CDesign%20Instagram|fa)
+[Ask AI: Key Takeaways](https://alisol.ir/?ai=Key%20Takeaways%7CExponent%7CDesign%20Instagram|fa)
 
 ---
 
@@ -270,7 +270,7 @@
 - ؜؜؜**Hot Key؜**: کلید cache با دسترسی بسیار بالا که بار را نامتوازن می‌کند. ؜ 
 - ؜؜؜**Precomputed Feed؜**: فید از پیش تولید و cache شده.
 
-[Ask AI: Glossary](https://alisol.ir/?ai=Glossary%7CNot%20stated%20in%20video%7CDesign%20Instagram|fa)
+[Ask AI: Glossary](https://alisol.ir/?ai=Glossary%7CExponent%7CDesign%20Instagram|fa)
 
 ---
 
@@ -282,7 +282,7 @@
 - ؜نقشهٔ تکامل مرحله‌ای: monolith → جداسازی read/write → ریزسرویس‌ها در صورت نیاز. ؜ 
 - ؜بازبینی سرویس‌های مدیریت‌شدهٔ مدرن (DB، cache، CDN) برای کاهش هزینهٔ Ops و افزایش سرعت.
 
-[Ask AI: Study Plan](https://alisol.ir/?ai=Study%20Plan%7CNot%20stated%20in%20video%7CDesign%20Instagram|fa)
+[Ask AI: Study Plan](https://alisol.ir/?ai=Study%20Plan%7CExponent%7CDesign%20Instagram|fa)
 
 ---
 
