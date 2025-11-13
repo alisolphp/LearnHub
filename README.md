@@ -101,82 +101,82 @@ In the lists below, the main link usually points to the English version if it ex
 <!-- COURSES_START -->
 <h4 id="english-communication">English &amp; Communication</h4>
 
-- [udemy-english-for-software-engineers-speak-like-a-pro](courses%2Fudemy-english-for-software-engineers-speak-like-a-pro%2Fsummary.en.md) [[en](courses%2Fudemy-english-for-software-engineers-speak-like-a-pro%2Fsummary.en.md) | [fa](courses%2Fudemy-english-for-software-engineers-speak-like-a-pro%2Fsummary.fa.md)]
+- [udemy-english-for-software-engineers-speak-like-a-pro](courses%2Fudemy-english-for-software-engineers-speak-like-a-pro%2Fsummary.en.md) [ [en](courses%2Fudemy-english-for-software-engineers-speak-like-a-pro%2Fsummary.en.md) | [fa](courses%2Fudemy-english-for-software-engineers-speak-like-a-pro%2Fsummary.fa.md) ]
 
 
 <h4 id="testing">Testing</h4>
 
-- [coursera-introduction-to-test-and-behavior-driven-development](courses%2Fcoursera-introduction-to-test-and-behavior-driven-development%2Fsummary.en.md) [[en](courses%2Fcoursera-introduction-to-test-and-behavior-driven-development%2Fsummary.en.md) | [fa](courses%2Fcoursera-introduction-to-test-and-behavior-driven-development%2Fsummary.fa.md)]
+- [coursera-introduction-to-test-and-behavior-driven-development](courses%2Fcoursera-introduction-to-test-and-behavior-driven-development%2Fsummary.en.md) [ [en](courses%2Fcoursera-introduction-to-test-and-behavior-driven-development%2Fsummary.en.md) | [fa](courses%2Fcoursera-introduction-to-test-and-behavior-driven-development%2Fsummary.fa.md) ]
 <!-- COURSES_END -->
 
 ### Mock Interviews – System Design
 <!-- SYSTEM_DESIGN_START -->
 <h4 id="system-design-distributed-systems">System Design - Distributed Systems</h4>
 
-- [Design Distributed Cache](mock-interviews%2Fsystem-design%2FDesign+Distributed+Cache%2Fsummary.en.md) [[en](mock-interviews%2Fsystem-design%2FDesign+Distributed+Cache%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign+Distributed+Cache%2Fsummary.fa.md)]
+- [Design Distributed Cache](mock-interviews%2Fsystem-design%2FDesign+Distributed+Cache%2Fsummary.en.md) [ [en](mock-interviews%2Fsystem-design%2FDesign+Distributed+Cache%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign+Distributed+Cache%2Fsummary.fa.md) ]
 
-- [Design Distributed Job Scheduler | Systems Design Interview Questions With Ex-Google SWE](mock-interviews%2Fsystem-design%2FDesign+Distributed+Job+Scheduler+%7C+Systems+Design+Interview+Questions+With+Ex-Google+SWE%2Fsummary.en.md) [[en](mock-interviews%2Fsystem-design%2FDesign+Distributed+Job+Scheduler+%7C+Systems+Design+Interview+Questions+With+Ex-Google+SWE%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign+Distributed+Job+Scheduler+%7C+Systems+Design+Interview+Questions+With+Ex-Google+SWE%2Fsummary.fa.md)]
+- [Design Distributed Job Scheduler | Systems Design Interview Questions With Ex-Google SWE](mock-interviews%2Fsystem-design%2FDesign+Distributed+Job+Scheduler+%7C+Systems+Design+Interview+Questions+With+Ex-Google+SWE%2Fsummary.en.md) [ [en](mock-interviews%2Fsystem-design%2FDesign+Distributed+Job+Scheduler+%7C+Systems+Design+Interview+Questions+With+Ex-Google+SWE%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign+Distributed+Job+Scheduler+%7C+Systems+Design+Interview+Questions+With+Ex-Google+SWE%2Fsummary.fa.md) ]
 
-- [Design Distributed Key-Value Store](mock-interviews%2Fsystem-design%2FDesign+Distributed+Key-Value+Store%2Fsummary.en.md) [[en](mock-interviews%2Fsystem-design%2FDesign+Distributed+Key-Value+Store%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign+Distributed+Key-Value+Store%2Fsummary.fa.md)]
+- [Design Distributed Key-Value Store](mock-interviews%2Fsystem-design%2FDesign+Distributed+Key-Value+Store%2Fsummary.en.md) [ [en](mock-interviews%2Fsystem-design%2FDesign+Distributed+Key-Value+Store%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign+Distributed+Key-Value+Store%2Fsummary.fa.md) ]
 
-- [Design Flight Booking System | Airline Reservation System | Distributed Transactions, Serialisation, Linearisation, Consistency](mock-interviews%2Fsystem-design%2FDesign+Flight+Booking+System+%7C+Airline+Reservation+System+%7C+Distributed+Transactions%2C+Serialisation%2C+Linearisation%2C+Consistency%2Fsummary.en.md) [[en](mock-interviews%2Fsystem-design%2FDesign+Flight+Booking+System+%7C+Airline+Reservation+System+%7C+Distributed+Transactions%2C+Serialisation%2C+Linearisation%2C+Consistency%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign+Flight+Booking+System+%7C+Airline+Reservation+System+%7C+Distributed+Transactions%2C+Serialisation%2C+Linearisation%2C+Consistency%2Fsummary.fa.md)]
+- [Design Flight Booking System | Airline Reservation System | Distributed Transactions, Serialisation, Linearisation, Consistency](mock-interviews%2Fsystem-design%2FDesign+Flight+Booking+System+%7C+Airline+Reservation+System+%7C+Distributed+Transactions%2C+Serialisation%2C+Linearisation%2C+Consistency%2Fsummary.en.md) [ [en](mock-interviews%2Fsystem-design%2FDesign+Flight+Booking+System+%7C+Airline+Reservation+System+%7C+Distributed+Transactions%2C+Serialisation%2C+Linearisation%2C+Consistency%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign+Flight+Booking+System+%7C+Airline+Reservation+System+%7C+Distributed+Transactions%2C+Serialisation%2C+Linearisation%2C+Consistency%2Fsummary.fa.md) ]
 
 
 <h4 id="system-design-e-commerce-services">System Design - E-commerce &amp; Services</h4>
 
-- [Design E-commerce Store like Amazon | Flipkart](mock-interviews%2Fsystem-design%2FDesign+E-commerce+Store+like+Amazon+%7C+Flipkart%2Fsummary.en.md) [[en](mock-interviews%2Fsystem-design%2FDesign+E-commerce+Store+like+Amazon+%7C+Flipkart%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign+E-commerce+Store+like+Amazon+%7C+Flipkart%2Fsummary.fa.md)]
+- [Design E-commerce Store like Amazon | Flipkart](mock-interviews%2Fsystem-design%2FDesign+E-commerce+Store+like+Amazon+%7C+Flipkart%2Fsummary.en.md) [ [en](mock-interviews%2Fsystem-design%2FDesign+E-commerce+Store+like+Amazon+%7C+Flipkart%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign+E-commerce+Store+like+Amazon+%7C+Flipkart%2Fsummary.fa.md) ]
 
-- [Design Google Maps System](mock-interviews%2Fsystem-design%2FDesign+Google+Maps+System%2Fsummary.en.md) [[en](mock-interviews%2Fsystem-design%2FDesign+Google+Maps+System%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign+Google+Maps+System%2Fsummary.fa.md)]
+- [Design Google Maps System](mock-interviews%2Fsystem-design%2FDesign+Google+Maps+System%2Fsummary.en.md) [ [en](mock-interviews%2Fsystem-design%2FDesign+Google+Maps+System%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign+Google+Maps+System%2Fsummary.fa.md) ]
 
-- [Design Google Search | How Google searches one document among Billions of documents quickly](mock-interviews%2Fsystem-design%2FDesign+Google+Search+%7C+How+Google+searches+one+document+among+Billions+of+documents+quickly%2Fsummary.en.md) [[en](mock-interviews%2Fsystem-design%2FDesign+Google+Search+%7C+How+Google+searches+one+document+among+Billions+of+documents+quickly%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign+Google+Search+%7C+How+Google+searches+one+document+among+Billions+of+documents+quickly%2Fsummary.fa.md)]
+- [Design Google Search | How Google searches one document among Billions of documents quickly](mock-interviews%2Fsystem-design%2FDesign+Google+Search+%7C+How+Google+searches+one+document+among+Billions+of+documents+quickly%2Fsummary.en.md) [ [en](mock-interviews%2Fsystem-design%2FDesign+Google+Search+%7C+How+Google+searches+one+document+among+Billions+of+documents+quickly%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign+Google+Search+%7C+How+Google+searches+one+document+among+Billions+of+documents+quickly%2Fsummary.fa.md) ]
 
-- [Design Netflix System](mock-interviews%2Fsystem-design%2FDesign+Netflix+System%2Fsummary.en.md) [[en](mock-interviews%2Fsystem-design%2FDesign+Netflix+System%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign+Netflix+System%2Fsummary.fa.md)]
+- [Design Netflix System](mock-interviews%2Fsystem-design%2FDesign+Netflix+System%2Fsummary.en.md) [ [en](mock-interviews%2Fsystem-design%2FDesign+Netflix+System%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign+Netflix+System%2Fsummary.fa.md) ]
 
-- [Design Uber | OLA | Amazon System Design Interview](mock-interviews%2Fsystem-design%2FDesign+Uber+%7C+OLA+%7C+Amazon+System+Design+Interview%2Fsummary.en.md) [[en](mock-interviews%2Fsystem-design%2FDesign+Uber+%7C+OLA+%7C+Amazon+System+Design+Interview%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign+Uber+%7C+OLA+%7C+Amazon+System+Design+Interview%2Fsummary.fa.md)]
+- [Design Uber | OLA | Amazon System Design Interview](mock-interviews%2Fsystem-design%2FDesign+Uber+%7C+OLA+%7C+Amazon+System+Design+Interview%2Fsummary.en.md) [ [en](mock-interviews%2Fsystem-design%2FDesign+Uber+%7C+OLA+%7C+Amazon+System+Design+Interview%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign+Uber+%7C+OLA+%7C+Amazon+System+Design+Interview%2Fsummary.fa.md) ]
 
 
 <h4 id="system-design-infrastructure">System Design - Infrastructure</h4>
 
-- [Design Content Delivery Network | CDN](mock-interviews%2Fsystem-design%2FDesign+Content+Delivery+Network+%7C+CDN%2Fsummary.en.md) [[en](mock-interviews%2Fsystem-design%2FDesign+Content+Delivery+Network+%7C+CDN%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign+Content+Delivery+Network+%7C+CDN%2Fsummary.fa.md)]
+- [Design Content Delivery Network | CDN](mock-interviews%2Fsystem-design%2FDesign+Content+Delivery+Network+%7C+CDN%2Fsummary.en.md) [ [en](mock-interviews%2Fsystem-design%2FDesign+Content+Delivery+Network+%7C+CDN%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign+Content+Delivery+Network+%7C+CDN%2Fsummary.fa.md) ]
 
-- [Design Rate Limiter | Token Bucket, Leaky Bucket, Sliding Logs](mock-interviews%2Fsystem-design%2FDesign+Rate+Limiter+%7C+Token+Bucket%2C+Leaky+Bucket%2C+Sliding+Logs%2Fsummary.en.md) [[en](mock-interviews%2Fsystem-design%2FDesign+Rate+Limiter+%7C+Token+Bucket%2C+Leaky+Bucket%2C+Sliding+Logs%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign+Rate+Limiter+%7C+Token+Bucket%2C+Leaky+Bucket%2C+Sliding+Logs%2Fsummary.fa.md)]
+- [Design Rate Limiter | Token Bucket, Leaky Bucket, Sliding Logs](mock-interviews%2Fsystem-design%2FDesign+Rate+Limiter+%7C+Token+Bucket%2C+Leaky+Bucket%2C+Sliding+Logs%2Fsummary.en.md) [ [en](mock-interviews%2Fsystem-design%2FDesign+Rate+Limiter+%7C+Token+Bucket%2C+Leaky+Bucket%2C+Sliding+Logs%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign+Rate+Limiter+%7C+Token+Bucket%2C+Leaky+Bucket%2C+Sliding+Logs%2Fsummary.fa.md) ]
 
 
 <h4 id="system-design-messaging">System Design - Messaging</h4>
 
-- [Design Notification Service System | Handle Billions of users & Notifications](mock-interviews%2Fsystem-design%2FDesign+Notification+Service+System+%7C+Handle+Billions+of+users+%26+Notifications%2Fsummary.en.md) [[en](mock-interviews%2Fsystem-design%2FDesign+Notification+Service+System+%7C+Handle+Billions+of+users+%26+Notifications%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign+Notification+Service+System+%7C+Handle+Billions+of+users+%26+Notifications%2Fsummary.fa.md)]
+- [Design Notification Service System | Handle Billions of users & Notifications](mock-interviews%2Fsystem-design%2FDesign+Notification+Service+System+%7C+Handle+Billions+of+users+%26+Notifications%2Fsummary.en.md) [ [en](mock-interviews%2Fsystem-design%2FDesign+Notification+Service+System+%7C+Handle+Billions+of+users+%26+Notifications%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign+Notification+Service+System+%7C+Handle+Billions+of+users+%26+Notifications%2Fsummary.fa.md) ]
 
-- [Design WhatsApp | Chat Messaging Systems](mock-interviews%2Fsystem-design%2FDesign+WhatsApp+%7C+Chat+Messaging+Systems%2Fsummary.en.md) [[en](mock-interviews%2Fsystem-design%2FDesign+WhatsApp+%7C+Chat+Messaging+Systems%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign+WhatsApp+%7C+Chat+Messaging+Systems%2Fsummary.fa.md)]
+- [Design WhatsApp | Chat Messaging Systems](mock-interviews%2Fsystem-design%2FDesign+WhatsApp+%7C+Chat+Messaging+Systems%2Fsummary.en.md) [ [en](mock-interviews%2Fsystem-design%2FDesign+WhatsApp+%7C+Chat+Messaging+Systems%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign+WhatsApp+%7C+Chat+Messaging+Systems%2Fsummary.fa.md) ]
 
 
 <h4 id="system-design-other">System Design - Other</h4>
 
-- [Design Online Code Editor | with @CSDojo](mock-interviews%2Fsystem-design%2FDesign+Online+Code+Editor+%7C+with+%40CSDojo%2Fsummary.en.md) [[en](mock-interviews%2Fsystem-design%2FDesign+Online+Code+Editor+%7C+with+%40CSDojo%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign+Online+Code+Editor+%7C+with+%40CSDojo%2Fsummary.fa.md)]
+- [Design Online Code Editor | with @CSDojo](mock-interviews%2Fsystem-design%2FDesign+Online+Code+Editor+%7C+with+%40CSDojo%2Fsummary.en.md) [ [en](mock-interviews%2Fsystem-design%2FDesign+Online+Code+Editor+%7C+with+%40CSDojo%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign+Online+Code+Editor+%7C+with+%40CSDojo%2Fsummary.fa.md) ]
 
-- [Design Parking Garage | Vending Machine | Amazon System Design Interview](mock-interviews%2Fsystem-design%2FDesign+Parking+Garage+%7C+Vending+Machine+%7C+Amazon+System+Design+Interview%2Fsummary.en.md) [[en](mock-interviews%2Fsystem-design%2FDesign+Parking+Garage+%7C+Vending+Machine+%7C+Amazon+System+Design+Interview%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign+Parking+Garage+%7C+Vending+Machine+%7C+Amazon+System+Design+Interview%2Fsummary.fa.md)]
+- [Design Parking Garage | Vending Machine | Amazon System Design Interview](mock-interviews%2Fsystem-design%2FDesign+Parking+Garage+%7C+Vending+Machine+%7C+Amazon+System+Design+Interview%2Fsummary.en.md) [ [en](mock-interviews%2Fsystem-design%2FDesign+Parking+Garage+%7C+Vending+Machine+%7C+Amazon+System+Design+Interview%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign+Parking+Garage+%7C+Vending+Machine+%7C+Amazon+System+Design+Interview%2Fsummary.fa.md) ]
 
 
 <h4 id="system-design-payments-finance">System Design - Payments &amp; Finance</h4>
 
-- [Design a Digital Wallet (3+ Approaches) | Google Interview Question](mock-interviews%2Fsystem-design%2FDesign+a+Digital+Wallet+%283%2B+Approaches%29+%7C+Google+Interview+Question%2Fsummary.en.md) [[en](mock-interviews%2Fsystem-design%2FDesign+a+Digital+Wallet+%283%2B+Approaches%29+%7C+Google+Interview+Question%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign+a+Digital+Wallet+%283%2B+Approaches%29+%7C+Google+Interview+Question%2Fsummary.fa.md)]
+- [Design a Digital Wallet (3+ Approaches) | Google Interview Question](mock-interviews%2Fsystem-design%2FDesign+a+Digital+Wallet+%283%2B+Approaches%29+%7C+Google+Interview+Question%2Fsummary.en.md) [ [en](mock-interviews%2Fsystem-design%2FDesign+a+Digital+Wallet+%283%2B+Approaches%29+%7C+Google+Interview+Question%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign+a+Digital+Wallet+%283%2B+Approaches%29+%7C+Google+Interview+Question%2Fsummary.fa.md) ]
 
-- [Design Payment System](mock-interviews%2Fsystem-design%2FDesign+Payment+System%2Fsummary.en.md) [[en](mock-interviews%2Fsystem-design%2FDesign+Payment+System%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign+Payment+System%2Fsummary.fa.md)]
+- [Design Payment System](mock-interviews%2Fsystem-design%2FDesign+Payment+System%2Fsummary.en.md) [ [en](mock-interviews%2Fsystem-design%2FDesign+Payment+System%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign+Payment+System%2Fsummary.fa.md) ]
 
 
 <h4 id="system-design-social-media">System Design - Social Media</h4>
 
-- [Design Facebook | Design Instagram](mock-interviews%2Fsystem-design%2FDesign+Facebook+%7C+Design+Instagram%2Fsummary.en.md) [[en](mock-interviews%2Fsystem-design%2FDesign+Facebook+%7C+Design+Instagram%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign+Facebook+%7C+Design+Instagram%2Fsummary.fa.md)]
+- [Design Facebook | Design Instagram](mock-interviews%2Fsystem-design%2FDesign+Facebook+%7C+Design+Instagram%2Fsummary.en.md) [ [en](mock-interviews%2Fsystem-design%2FDesign+Facebook+%7C+Design+Instagram%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign+Facebook+%7C+Design+Instagram%2Fsummary.fa.md) ]
 
-- [Design Instagram](mock-interviews%2Fsystem-design%2FDesign+Instagram%2Fsummary.en.md) [[en](mock-interviews%2Fsystem-design%2FDesign+Instagram%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign+Instagram%2Fsummary.fa.md)]
+- [Design Instagram](mock-interviews%2Fsystem-design%2FDesign+Instagram%2Fsummary.en.md) [ [en](mock-interviews%2Fsystem-design%2FDesign+Instagram%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign+Instagram%2Fsummary.fa.md) ]
 
-- [Design TikTok | ft. Google TPM](mock-interviews%2Fsystem-design%2FDesign+TikTok+%7C+ft.+Google+TPM%2Fsummary.en.md) [[en](mock-interviews%2Fsystem-design%2FDesign+TikTok+%7C+ft.+Google+TPM%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign+TikTok+%7C+ft.+Google+TPM%2Fsummary.fa.md)]
+- [Design TikTok | ft. Google TPM](mock-interviews%2Fsystem-design%2FDesign+TikTok+%7C+ft.+Google+TPM%2Fsummary.en.md) [ [en](mock-interviews%2Fsystem-design%2FDesign+TikTok+%7C+ft.+Google+TPM%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign+TikTok+%7C+ft.+Google+TPM%2Fsummary.fa.md) ]
 
 
 <h4 id="system-design-storage">System Design - Storage</h4>
 
-- [Design File Sharing System like Dropbox and Google Drive](mock-interviews%2Fsystem-design%2FDesign+File+Sharing+System+like+Dropbox+and+Google+Drive%2Fsummary.en.md) [[en](mock-interviews%2Fsystem-design%2FDesign+File+Sharing+System+like+Dropbox+and+Google+Drive%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign+File+Sharing+System+like+Dropbox+and+Google+Drive%2Fsummary.fa.md)]
+- [Design File Sharing System like Dropbox and Google Drive](mock-interviews%2Fsystem-design%2FDesign+File+Sharing+System+like+Dropbox+and+Google+Drive%2Fsummary.en.md) [ [en](mock-interviews%2Fsystem-design%2FDesign+File+Sharing+System+like+Dropbox+and+Google+Drive%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign+File+Sharing+System+like+Dropbox+and+Google+Drive%2Fsummary.fa.md) ]
 
-- [Design Text Storage Service like Pastebin](mock-interviews%2Fsystem-design%2FDesign+Text+Storage+Service+like+Pastebin%2Fsummary.en.md) [[en](mock-interviews%2Fsystem-design%2FDesign+Text+Storage+Service+like+Pastebin%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign+Text+Storage+Service+like+Pastebin%2Fsummary.fa.md)]
+- [Design Text Storage Service like Pastebin](mock-interviews%2Fsystem-design%2FDesign+Text+Storage+Service+like+Pastebin%2Fsummary.en.md) [ [en](mock-interviews%2Fsystem-design%2FDesign+Text+Storage+Service+like+Pastebin%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign+Text+Storage+Service+like+Pastebin%2Fsummary.fa.md) ]
 <!-- SYSTEM_DESIGN_END -->
 
 ### Books
