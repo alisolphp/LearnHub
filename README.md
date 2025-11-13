@@ -31,27 +31,26 @@ It is designed to help you learn faster, review smarter (for example before inte
 Auto-generated overview of the repository structure:
 
 - [Courses (3)](#courses)
-  - [English for Engineers (1)](#english-for-engineers)
+  - [Communication Skills (1)](#communication-skills)
   - [Serverless Architecture (1)](#serverless-architecture)
   - [Software Testing (1)](#software-testing)
-- [Mock Interviews – System Design (29)](#mock-interviews--system-design)
-  - [Authentication & Authorization (1)](#authentication-authorization)
-  - [Automation Systems (1)](#automation-systems)
-  - [Caching Strategies (1)](#caching-strategies)
-  - [Complex Systems (1)](#complex-systems)
-  - [Content Delivery & File Sharing (2)](#content-delivery-file-sharing)
-  - [Data Storage (1)](#data-storage)
-  - [Distributed Systems (3)](#distributed-systems)
+- [Mock Interviews – System Design (28)](#mock-interviews--system-design)
+  - [Authentication & Security (2)](#authentication-security)
+  - [Automation & Physical Systems (1)](#automation-physical-systems)
+  - [Content Delivery & Streaming (2)](#content-delivery-streaming)
+  - [Distributed Systems (4)](#distributed-systems)
   - [E-commerce Systems (1)](#e-commerce-systems)
+  - [File Storage & Sharing (2)](#file-storage-sharing)
   - [Location-Based Services (3)](#location-based-services)
-  - [Media Streaming (2)](#media-streaming)
   - [Messaging Systems (2)](#messaging-systems)
   - [Notification Services (1)](#notification-services)
   - [Online Collaboration Tools (1)](#online-collaboration-tools)
   - [Payment Systems (2)](#payment-systems)
-  - [Rate Limiting (1)](#rate-limiting)
-  - [Search Engines & Autocomplete (2)](#search-engines-autocomplete)
+  - [Search & Autocomplete (2)](#search-autocomplete)
   - [Social Media Platforms (4)](#social-media-platforms)
+  - [Ticketing & Reservation Systems (1)](#ticketing-reservation-systems)
+- [Books (1)](#books)
+  - [Data-Intensive Applications (1)](#data-intensive-applications)
 <!-- REPO_TOC_END -->
 
 ## How summaries are structured
@@ -111,7 +110,7 @@ In the lists below, the main link usually points to the English version if it ex
 
 ### Courses
 <!-- COURSES_START -->
-<h4 id="english-for-engineers">English for Engineers</h4>
+<h4 id="communication-skills">Communication Skills</h4>
 
 - [udemy-english-for-software-engineers-speak-like-a-pro](courses%2Fudemy-english-for-software-engineers-speak-like-a-pro%2Fsummary.en.md) [ [en](courses%2Fudemy-english-for-software-engineers-speak-like-a-pro%2Fsummary.en.md) | [fa](courses%2Fudemy-english-for-software-engineers-speak-like-a-pro%2Fsummary.fa.md) ]
 
@@ -128,39 +127,28 @@ In the lists below, the main link usually points to the English version if it ex
 
 ### Mock Interviews – System Design
 <!-- SYSTEM_DESIGN_START -->
-<h4 id="authentication-authorization">Authentication &amp; Authorization</h4>
+<h4 id="authentication-security">Authentication &amp; Security</h4>
 
 - [Design Authentication System | Design a Simple Authentication](mock-interviews%2Fsystem-design%2FDesign%20Authentication%20System%20%7C%20Design%20a%20Simple%20Authentication%2Fsummary.en.md) [ [en](mock-interviews%2Fsystem-design%2FDesign%20Authentication%20System%20%7C%20Design%20a%20Simple%20Authentication%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign%20Authentication%20System%20%7C%20Design%20a%20Simple%20Authentication%2Fsummary.fa.md) ]
 
+- [Design Rate Limiter | Token Bucket, Leaky Bucket, Sliding Logs](mock-interviews%2Fsystem-design%2FDesign%20Rate%20Limiter%20%7C%20Token%20Bucket%2C%20Leaky%20Bucket%2C%20Sliding%20Logs%2Fsummary.en.md) [ [en](mock-interviews%2Fsystem-design%2FDesign%20Rate%20Limiter%20%7C%20Token%20Bucket%2C%20Leaky%20Bucket%2C%20Sliding%20Logs%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign%20Rate%20Limiter%20%7C%20Token%20Bucket%2C%20Leaky%20Bucket%2C%20Sliding%20Logs%2Fsummary.fa.md) ]
 
-<h4 id="automation-systems">Automation Systems</h4>
+
+<h4 id="automation-physical-systems">Automation &amp; Physical Systems</h4>
 
 - [Design Parking Garage | Vending Machine | Amazon System Design Interview](mock-interviews%2Fsystem-design%2FDesign%20Parking%20Garage%20%7C%20Vending%20Machine%20%7C%20Amazon%20System%20Design%20Interview%2Fsummary.en.md) [ [en](mock-interviews%2Fsystem-design%2FDesign%20Parking%20Garage%20%7C%20Vending%20Machine%20%7C%20Amazon%20System%20Design%20Interview%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign%20Parking%20Garage%20%7C%20Vending%20Machine%20%7C%20Amazon%20System%20Design%20Interview%2Fsummary.fa.md) ]
 
 
-<h4 id="caching-strategies">Caching Strategies</h4>
-
-- [Design Distributed Cache](mock-interviews%2Fsystem-design%2FDesign%20Distributed%20Cache%2Fsummary.en.md) [ [en](mock-interviews%2Fsystem-design%2FDesign%20Distributed%20Cache%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign%20Distributed%20Cache%2Fsummary.fa.md) ]
-
-
-<h4 id="complex-systems">Complex Systems</h4>
-
-- [Design Flight Booking System | Airline Reservation System | Distributed Transactions, Serialisation, Linearisation, Consistency](mock-interviews%2Fsystem-design%2FDesign%20Flight%20Booking%20System%20%7C%20Airline%20Reservation%20System%20%7C%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency%2Fsummary.en.md) [ [en](mock-interviews%2Fsystem-design%2FDesign%20Flight%20Booking%20System%20%7C%20Airline%20Reservation%20System%20%7C%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign%20Flight%20Booking%20System%20%7C%20Airline%20Reservation%20System%20%7C%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency%2Fsummary.fa.md) ]
-
-
-<h4 id="content-delivery-file-sharing">Content Delivery &amp; File Sharing</h4>
+<h4 id="content-delivery-streaming">Content Delivery &amp; Streaming</h4>
 
 - [Design Content Delivery Network | CDN](mock-interviews%2Fsystem-design%2FDesign%20Content%20Delivery%20Network%20%7C%20CDN%2Fsummary.en.md) [ [en](mock-interviews%2Fsystem-design%2FDesign%20Content%20Delivery%20Network%20%7C%20CDN%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign%20Content%20Delivery%20Network%20%7C%20CDN%2Fsummary.fa.md) ]
 
-- [Design File Sharing System like Dropbox and Google Drive](mock-interviews%2Fsystem-design%2FDesign%20File%20Sharing%20System%20like%20Dropbox%20and%20Google%20Drive%2Fsummary.en.md) [ [en](mock-interviews%2Fsystem-design%2FDesign%20File%20Sharing%20System%20like%20Dropbox%20and%20Google%20Drive%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign%20File%20Sharing%20System%20like%20Dropbox%20and%20Google%20Drive%2Fsummary.fa.md) ]
-
-
-<h4 id="data-storage">Data Storage</h4>
-
-- [Design Text Storage Service like Pastebin](mock-interviews%2Fsystem-design%2FDesign%20Text%20Storage%20Service%20like%20Pastebin%2Fsummary.en.md) [ [en](mock-interviews%2Fsystem-design%2FDesign%20Text%20Storage%20Service%20like%20Pastebin%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign%20Text%20Storage%20Service%20like%20Pastebin%2Fsummary.fa.md) ]
+- [Design Netflix System](mock-interviews%2Fsystem-design%2FDesign%20Netflix%20System%2Fsummary.en.md) [ [en](mock-interviews%2Fsystem-design%2FDesign%20Netflix%20System%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign%20Netflix%20System%2Fsummary.fa.md) ]
 
 
 <h4 id="distributed-systems">Distributed Systems</h4>
+
+- [Design Distributed Cache](mock-interviews%2Fsystem-design%2FDesign%20Distributed%20Cache%2Fsummary.en.md) [ [en](mock-interviews%2Fsystem-design%2FDesign%20Distributed%20Cache%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign%20Distributed%20Cache%2Fsummary.fa.md) ]
 
 - [Design Distributed Job Scheduler | Systems Design Interview Questions With Ex-Google SWE](mock-interviews%2Fsystem-design%2FDesign%20Distributed%20Job%20Scheduler%20%7C%20Systems%20Design%20Interview%20Questions%20With%20Ex-Google%20SWE%2Fsummary.en.md) [ [en](mock-interviews%2Fsystem-design%2FDesign%20Distributed%20Job%20Scheduler%20%7C%20Systems%20Design%20Interview%20Questions%20With%20Ex-Google%20SWE%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign%20Distributed%20Job%20Scheduler%20%7C%20Systems%20Design%20Interview%20Questions%20With%20Ex-Google%20SWE%2Fsummary.fa.md) ]
 
@@ -174,6 +162,13 @@ In the lists below, the main link usually points to the English version if it ex
 - [Design E-commerce Store like Amazon | Flipkart](mock-interviews%2Fsystem-design%2FDesign%20E-commerce%20Store%20like%20Amazon%20%7C%20Flipkart%2Fsummary.en.md) [ [en](mock-interviews%2Fsystem-design%2FDesign%20E-commerce%20Store%20like%20Amazon%20%7C%20Flipkart%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign%20E-commerce%20Store%20like%20Amazon%20%7C%20Flipkart%2Fsummary.fa.md) ]
 
 
+<h4 id="file-storage-sharing">File Storage &amp; Sharing</h4>
+
+- [Design File Sharing System like Dropbox and Google Drive](mock-interviews%2Fsystem-design%2FDesign%20File%20Sharing%20System%20like%20Dropbox%20and%20Google%20Drive%2Fsummary.en.md) [ [en](mock-interviews%2Fsystem-design%2FDesign%20File%20Sharing%20System%20like%20Dropbox%20and%20Google%20Drive%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign%20File%20Sharing%20System%20like%20Dropbox%20and%20Google%20Drive%2Fsummary.fa.md) ]
+
+- [Design Text Storage Service like Pastebin](mock-interviews%2Fsystem-design%2FDesign%20Text%20Storage%20Service%20like%20Pastebin%2Fsummary.en.md) [ [en](mock-interviews%2Fsystem-design%2FDesign%20Text%20Storage%20Service%20like%20Pastebin%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign%20Text%20Storage%20Service%20like%20Pastebin%2Fsummary.fa.md) ]
+
+
 <h4 id="location-based-services">Location-Based Services</h4>
 
 - [Design Food Delivery App like Doordash | Geo-Hashing and WebSockets for Location Based Services](mock-interviews%2Fsystem-design%2FDesign%20Food%20Delivery%20App%20like%20Doordash%20%7C%20Geo-Hashing%20and%20WebSockets%20for%20Location%20Based%20Services%2Fsummary.en.md) [ [en](mock-interviews%2Fsystem-design%2FDesign%20Food%20Delivery%20App%20like%20Doordash%20%7C%20Geo-Hashing%20and%20WebSockets%20for%20Location%20Based%20Services%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign%20Food%20Delivery%20App%20like%20Doordash%20%7C%20Geo-Hashing%20and%20WebSockets%20for%20Location%20Based%20Services%2Fsummary.fa.md) ]
@@ -181,13 +176,6 @@ In the lists below, the main link usually points to the English version if it ex
 - [Design Google Maps System](mock-interviews%2Fsystem-design%2FDesign%20Google%20Maps%20System%2Fsummary.en.md) [ [en](mock-interviews%2Fsystem-design%2FDesign%20Google%20Maps%20System%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign%20Google%20Maps%20System%2Fsummary.fa.md) ]
 
 - [Design Uber | OLA | Amazon System Design Interview](mock-interviews%2Fsystem-design%2FDesign%20Uber%20%7C%20OLA%20%7C%20Amazon%20System%20Design%20Interview%2Fsummary.en.md) [ [en](mock-interviews%2Fsystem-design%2FDesign%20Uber%20%7C%20OLA%20%7C%20Amazon%20System%20Design%20Interview%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign%20Uber%20%7C%20OLA%20%7C%20Amazon%20System%20Design%20Interview%2Fsummary.fa.md) ]
-
-
-<h4 id="media-streaming">Media Streaming</h4>
-
-- [Design Netflix System](mock-interviews%2Fsystem-design%2FDesign%20Netflix%20System%2Fsummary.en.md) [ [en](mock-interviews%2Fsystem-design%2FDesign%20Netflix%20System%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign%20Netflix%20System%2Fsummary.fa.md) ]
-
-- [Design Spotify | ex-Google EM | Google System Design Interview](mock-interviews%2Fsystem-design%2FDesign%20Spotify%20%7C%20ex-Google%20EM%20%7C%20Google%20System%20Design%20Interview%2Fsummary.en.md) [ [en](mock-interviews%2Fsystem-design%2FDesign%20Spotify%20%7C%20ex-Google%20EM%20%7C%20Google%20System%20Design%20Interview%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign%20Spotify%20%7C%20ex-Google%20EM%20%7C%20Google%20System%20Design%20Interview%2Fsummary.fa.md) ]
 
 
 <h4 id="messaging-systems">Messaging Systems</h4>
@@ -214,12 +202,7 @@ In the lists below, the main link usually points to the English version if it ex
 - [Design Payment System](mock-interviews%2Fsystem-design%2FDesign%20Payment%20System%2Fsummary.en.md) [ [en](mock-interviews%2Fsystem-design%2FDesign%20Payment%20System%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign%20Payment%20System%2Fsummary.fa.md) ]
 
 
-<h4 id="rate-limiting">Rate Limiting</h4>
-
-- [Design Rate Limiter | Token Bucket, Leaky Bucket, Sliding Logs](mock-interviews%2Fsystem-design%2FDesign%20Rate%20Limiter%20%7C%20Token%20Bucket%2C%20Leaky%20Bucket%2C%20Sliding%20Logs%2Fsummary.en.md) [ [en](mock-interviews%2Fsystem-design%2FDesign%20Rate%20Limiter%20%7C%20Token%20Bucket%2C%20Leaky%20Bucket%2C%20Sliding%20Logs%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign%20Rate%20Limiter%20%7C%20Token%20Bucket%2C%20Leaky%20Bucket%2C%20Sliding%20Logs%2Fsummary.fa.md) ]
-
-
-<h4 id="search-engines-autocomplete">Search Engines &amp; Autocomplete</h4>
+<h4 id="search-autocomplete">Search &amp; Autocomplete</h4>
 
 - [Design Autocomplete for Search Engines | Typeahead Suggestions for Google search](mock-interviews%2Fsystem-design%2FDesign%20Autocomplete%20for%20Search%20Engines%20%7C%20Typeahead%20Suggestions%20for%20Google%20search%2Fsummary.en.md) [ [en](mock-interviews%2Fsystem-design%2FDesign%20Autocomplete%20for%20Search%20Engines%20%7C%20Typeahead%20Suggestions%20for%20Google%20search%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign%20Autocomplete%20for%20Search%20Engines%20%7C%20Typeahead%20Suggestions%20for%20Google%20search%2Fsummary.fa.md) ]
 
@@ -235,11 +218,18 @@ In the lists below, the main link usually points to the English version if it ex
 - [Design TikTok | ft. Google TPM](mock-interviews%2Fsystem-design%2FDesign%20TikTok%20%7C%20ft.%20Google%20TPM%2Fsummary.en.md) [ [en](mock-interviews%2Fsystem-design%2FDesign%20TikTok%20%7C%20ft.%20Google%20TPM%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign%20TikTok%20%7C%20ft.%20Google%20TPM%2Fsummary.fa.md) ]
 
 - [Design Twitter | x.com](mock-interviews%2Fsystem-design%2FDesign%20Twitter%20%7C%20x.com%2Fsummary.en.md) [ [en](mock-interviews%2Fsystem-design%2FDesign%20Twitter%20%7C%20x.com%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign%20Twitter%20%7C%20x.com%2Fsummary.fa.md) ]
+
+
+<h4 id="ticketing-reservation-systems">Ticketing &amp; Reservation Systems</h4>
+
+- [Design Flight Booking System | Airline Reservation System | Distributed Transactions, Serialisation, Linearisation, Consistency](mock-interviews%2Fsystem-design%2FDesign%20Flight%20Booking%20System%20%7C%20Airline%20Reservation%20System%20%7C%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency%2Fsummary.en.md) [ [en](mock-interviews%2Fsystem-design%2FDesign%20Flight%20Booking%20System%20%7C%20Airline%20Reservation%20System%20%7C%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency%2Fsummary.en.md) | [fa](mock-interviews%2Fsystem-design%2FDesign%20Flight%20Booking%20System%20%7C%20Airline%20Reservation%20System%20%7C%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency%2Fsummary.fa.md) ]
 <!-- SYSTEM_DESIGN_END -->
 
 ### Books
 <!-- BOOKS_START -->
+<h4 id="data-intensive-applications">Data-Intensive Applications</h4>
 
+- [Designing Data-Intensive Applications (DDIA)](books%2FDesigning%20Data-Intensive%20Applications%20%28DDIA%29%2Fsummary.en.md) [ [en](books%2FDesigning%20Data-Intensive%20Applications%20%28DDIA%29%2Fsummary.en.md) | [fa](books%2FDesigning%20Data-Intensive%20Applications%20%28DDIA%29%2Fsummary.fa.md) ]
 <!-- BOOKS_END -->
 
 ### Other Categories
