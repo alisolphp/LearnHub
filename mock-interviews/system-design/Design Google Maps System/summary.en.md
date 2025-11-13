@@ -211,7 +211,7 @@
 
 ## Follow-up Questions (from interviewer, if any)
 
-- Not modeled as a Q&A interview in the transcript. **Not stated in video**. 
+- **Not stated in video**. 
 
 [Ask AI: Follow-up Questions](https://alisol.ir/?ai=Follow-up%20Questions%7CcodeKarle%7CDesign%20Google%20Maps%20System)
 
@@ -219,7 +219,7 @@
 
 ## Candidate Questions (if modeled in video)
 
-- Not modeled in the transcript. **Not stated in video**. 
+- **Not stated in video**. 
 
 [Ask AI: Candidate Questions](https://alisol.ir/?ai=Candidate%20Questions%7CcodeKarle%7CDesign%20Google%20Maps%20System)
 
