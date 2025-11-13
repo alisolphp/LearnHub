@@ -1,3 +1,5 @@
+[![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+    
 # LearnHub
 > Learn and review tech topics efficiently using concise, high-quality summaries.
 
@@ -217,8 +219,14 @@ Contributions are welcome!
 
 ## License
 
-All `summary.*.md` files in this repository are licensed under the 
+All `summary.*.md` files in this repository are licensed under the
 **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** license.
+
+This applies only to my original summaries and notes in this repository.
+All rights to the original source content (courses, books, videos, etc.)
+remain with their respective creators.
+
+See the [LICENSE](./LICENSE) file for details.
 
 This project is completely free to use for personal learning and educational purposes. 
 These summaries are my personal notes and interpretations. 
