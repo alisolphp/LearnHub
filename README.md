@@ -118,7 +118,7 @@ In the lists below, the main link usually points to the English version if it ex
 
 <h4 id="serverless-architecture">Serverless Architecture</h4>
 
-- [linkedin-serverless-architecture](courses%2Flinkedin-serverless-architecture%2Fsummary.en.md) [ [en](courses%2Flinkedin-serverless-architecture%2Fsummary.en.md) ]
+- [linkedin-serverless-architecture](courses%2Flinkedin-serverless-architecture%2Fsummary.en.md) [ [en](courses%2Flinkedin-serverless-architecture%2Fsummary.en.md) | [fa](courses%2Flinkedin-serverless-architecture%2Fsummary.fa.md) ]
 
 
 <h4 id="software-testing">Software Testing</h4>
