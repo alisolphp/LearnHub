@@ -205,7 +205,7 @@
 
 ## ؜پرسش‌های پیگیری مصاحبه‌گر
 
-- ؜به‌شکل Q&A صریح مدل نشده است.
+-- ؜در ویدیو نیامده است.
 
 [Ask AI: Follow-up Questions](https://alisol.ir/?ai=Follow-up%20Questions%7CcodeKarle%7CDesign%20Google%20Maps%20System|fa)
 
@@ -213,7 +213,7 @@
 
 ## ؜پرسش‌های کاندید
 
-- ؜در متن Transcript مدل نشده است.
+- ؜در ویدیو نیامده است.
 
 [Ask AI: Candidate Questions](https://alisol.ir/?ai=Candidate%20Questions%7CcodeKarle%7CDesign%20Google%20Maps%20System|fa)
 
