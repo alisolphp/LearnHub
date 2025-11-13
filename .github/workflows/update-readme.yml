@@ -5,21 +5,31 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Get new README content from URL
         run: |
-          curl -H "Authorization: Bearer ${{ secrets.README_URL_TOKEN }}" -o README.md ${{ secrets.README_URL }}
-          
+          curl -H "Authorization: Bearer ${{ secrets.README_URL_TOKEN }}" -L -o README.md "${{ secrets.README_URL }}"
+
       - name: Commit and push updated README
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add README.md
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
           git commit -m "Update README programmatically"
           git push
