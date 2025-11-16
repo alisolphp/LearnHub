@@ -119,7 +119,7 @@ In the lists below, the main link usually points to the English version if it ex
 <!-- COURSES_START -->
 <h4 id="aws-for-developers">AWS for Developers</h4>
 
-- [Linkedin Aws Essential Training For Developers](courses%2Flinkedin-aws-essential-training-for-developers%2Fsummary.en.md) [ [En](courses%2Flinkedin-aws-essential-training-for-developers%2Fsummary.en.md) ]
+- [Linkedin Aws Essential Training For Developers](courses%2Flinkedin-aws-essential-training-for-developers%2Fsummary.en.md) [ [En](courses%2Flinkedin-aws-essential-training-for-developers%2Fsummary.en.md) | [Fa](courses%2Flinkedin-aws-essential-training-for-developers%2Fsummary.fa.md) ]
 
 
 <h4 id="english-for-software-engineers">English for Software Engineers</h4>
