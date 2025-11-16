@@ -255,7 +255,7 @@ In the lists below, the main link usually points to the English version if it ex
 
 <h4 id="management-leadership">Management &amp; Leadership</h4>
 
-- [The Manager’s Path](books%2FThe%20Manager%E2%80%99s%20Path%2Fsummary.en.md) [ [En](books%2FThe%20Manager%E2%80%99s%20Path%2Fsummary.en.md) ]
+- [The Manager’s Path](books%2FThe%20Manager%E2%80%99s%20Path%2Fsummary.en.md) [ [En](books%2FThe%20Manager%E2%80%99s%20Path%2Fsummary.en.md) | [Fa](books%2FThe%20Manager%E2%80%99s%20Path%2Fsummary.fa.md) ]
 
 
 <h4 id="microservices-architecture">Microservices Architecture</h4>
