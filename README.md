@@ -233,7 +233,7 @@ In the lists below, the main link usually points to the English version if it ex
 <!-- BOOKS_START -->
 <h4 id="clean-code">Clean Code</h4>
 
-- [Clean Code](books%2FClean%20Code%2Fsummary.en.md) [ [En](books%2FClean%20Code%2Fsummary.en.md) ]
+- [Clean Code](books%2FClean%20Code%2Fsummary.en.md) [ [En](books%2FClean%20Code%2Fsummary.en.md) | [Fa](books%2FClean%20Code%2Fsummary.fa.md) ]
 
 
 <h4 id="data-intensive-applications">Data-Intensive Applications</h4>
