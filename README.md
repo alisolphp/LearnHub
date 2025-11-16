@@ -132,7 +132,7 @@ In the lists below, the main link usually points to the English version if it ex
 
 <h4 id="design-patterns">Design Patterns</h4>
 
-- [Code With Mosh Mastering Design Patterns Part 1](courses%2Fcode-with-mosh-mastering-design-patterns-part-1%2Fsummary.en.md) [ [En](courses%2Fcode-with-mosh-mastering-design-patterns-part-1%2Fsummary.en.md) ]
+- [Code With Mosh Mastering Design Patterns Part 1](courses%2Fcode-with-mosh-mastering-design-patterns-part-1%2Fsummary.en.md) [ [En](courses%2Fcode-with-mosh-mastering-design-patterns-part-1%2Fsummary.en.md) | [Fa](courses%2Fcode-with-mosh-mastering-design-patterns-part-1%2Fsummary.fa.md) ]
 
 
 <h4 id="testing-tdd">Testing &amp; TDD</h4>
