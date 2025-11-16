@@ -2,8 +2,7 @@
 
 - **Platform**: Code with Mosh
 - **Instructor**: Mosh Hamedani
-- **Rating**: 4.3/5
-- **Release Date**: 2020
+- **Duration**: 04:00:00
 - **Course Link**: <https://codewithmosh.com/p/design-patterns-part1>
 
 _This document summarizes the key points from the course. I highly recommend watching the full course if you have the opportunity._
