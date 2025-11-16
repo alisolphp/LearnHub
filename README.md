@@ -231,7 +231,7 @@ In the lists below, the main link usually points to the English version if it ex
 <!-- BOOKS_START -->
 <h4 id="clean-code-practices">Clean Code Practices</h4>
 
-- [Clean Architecture](books%2FClean%20Architecture%2Fsummary.en.md) [ [En](books%2FClean%20Architecture%2Fsummary.en.md) ]
+- [Clean Architecture](books%2FClean%20Architecture%2Fsummary.en.md) [ [En](books%2FClean%20Architecture%2Fsummary.en.md) | [Fa](books%2FClean%20Architecture%2Fsummary.fa.md) ]
 
 - [Clean Code](books%2FClean%20Code%2Fsummary.en.md) [ [En](books%2FClean%20Code%2Fsummary.en.md) | [Fa](books%2FClean%20Code%2Fsummary.fa.md) ]
 
