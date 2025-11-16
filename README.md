@@ -249,7 +249,7 @@ In the lists below, the main link usually points to the English version if it ex
 
 <h4 id="data-engineering">Data Engineering</h4>
 
-- [Fundamentals Of Data Engineering](books%2FFundamentals%20of%20Data%20Engineering%2Fsummary.en.md) [ [En](books%2FFundamentals%20of%20Data%20Engineering%2Fsummary.en.md) ]
+- [Fundamentals Of Data Engineering](books%2FFundamentals%20of%20Data%20Engineering%2Fsummary.en.md) [ [En](books%2FFundamentals%20of%20Data%20Engineering%2Fsummary.en.md) | [Fa](books%2FFundamentals%20of%20Data%20Engineering%2Fsummary.fa.md) ]
 
 
 <h4 id="distributed-systems-design">Distributed Systems Design</h4>
