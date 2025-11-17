@@ -131,7 +131,7 @@ In the lists below, the main link usually points to the English version if it ex
 
 <h4 id="asynchronous-messaging">Asynchronous Messaging</h4>
 
-- [Linkedin Microservices Asynchronous Messaging](courses%2Flinkedin-microservices-asynchronous-messaging%2Fsummary.en.md) [ [En](courses%2Flinkedin-microservices-asynchronous-messaging%2Fsummary.en.md) ]
+- [Linkedin Microservices Asynchronous Messaging](courses%2Flinkedin-microservices-asynchronous-messaging%2Fsummary.en.md) [ [En](courses%2Flinkedin-microservices-asynchronous-messaging%2Fsummary.en.md) | [Fa](courses%2Flinkedin-microservices-asynchronous-messaging%2Fsummary.fa.md) ]
 
 
 <h4 id="cloud-platforms">Cloud Platforms</h4>
