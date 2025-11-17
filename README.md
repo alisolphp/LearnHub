@@ -167,7 +167,7 @@ In the lists below, the main link usually points to the English version if it ex
 
 <h4 id="laravel-horizon">Laravel Horizon</h4>
 
-- [Laracasts Learn Laravel Horizon](courses%2Flaracasts-learn-laravel-horizon%2Fsummary.en.md) [ [En](courses%2Flaracasts-learn-laravel-horizon%2Fsummary.en.md) ]
+- [Laracasts Learn Laravel Horizon](courses%2Flaracasts-learn-laravel-horizon%2Fsummary.en.md) [ [En](courses%2Flaracasts-learn-laravel-horizon%2Fsummary.en.md) | [Fa](courses%2Flaracasts-learn-laravel-horizon%2Fsummary.fa.md) ]
 
 
 <h4 id="openapi-specification-swagger">OpenAPI Specification (Swagger)</h4>
