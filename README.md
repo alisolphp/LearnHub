@@ -153,7 +153,7 @@ In the lists below, the main link usually points to the English version if it ex
 
 - [Laracasts Graphql With Laravel And Vue](courses%2Flaracasts-graphql-with-laravel-and-vue%2Fsummary.en.md) [ [En](courses%2Flaracasts-graphql-with-laravel-and-vue%2Fsummary.en.md) | [Fa](courses%2Flaracasts-graphql-with-laravel-and-vue%2Fsummary.fa.md) ]
 
-- [Laracasts Laravel Queue Mastery](courses%2Flaracasts-laravel-queue-mastery%2Fsummary.en.md) [ [En](courses%2Flaracasts-laravel-queue-mastery%2Fsummary.en.md) ]
+- [Laracasts Laravel Queue Mastery](courses%2Flaracasts-laravel-queue-mastery%2Fsummary.en.md) [ [En](courses%2Flaracasts-laravel-queue-mastery%2Fsummary.en.md) | [Fa](courses%2Flaracasts-laravel-queue-mastery%2Fsummary.fa.md) ]
 
 - [Laracasts Learn Laravel Horizon](courses%2Flaracasts-learn-laravel-horizon%2Fsummary.en.md) [ [En](courses%2Flaracasts-learn-laravel-horizon%2Fsummary.en.md) | [Fa](courses%2Flaracasts-learn-laravel-horizon%2Fsummary.fa.md) ]
 
