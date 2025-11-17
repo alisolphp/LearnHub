@@ -141,7 +141,7 @@ In the lists below, the main link usually points to the English version if it ex
 
 <h4 id="cloud-platforms-azure">Cloud Platforms - Azure</h4>
 
-- [Udemy System Design In Microsoft Azure Cloud](courses%2Fudemy-system-design-in-microsoft-azure-cloud%2Fsummary.en.md) [ [En](courses%2Fudemy-system-design-in-microsoft-azure-cloud%2Fsummary.en.md) ]
+- [Udemy System Design In Microsoft Azure Cloud](courses%2Fudemy-system-design-in-microsoft-azure-cloud%2Fsummary.en.md) [ [En](courses%2Fudemy-system-design-in-microsoft-azure-cloud%2Fsummary.en.md) | [Fa](courses%2Fudemy-system-design-in-microsoft-azure-cloud%2Fsummary.fa.md) ]
 
 
 <h4 id="cloud-platforms-gcp">Cloud Platforms - GCP</h4>
