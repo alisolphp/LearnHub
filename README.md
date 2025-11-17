@@ -160,7 +160,7 @@ In the lists below, the main link usually points to the English version if it ex
 
 <h4 id="graphql-with-laravel-and-vue">GraphQL with Laravel and Vue</h4>
 
-- [Laracasts Graphql With Laravel And Vue](courses%2Flaracasts-graphql-with-laravel-and-vue%2Fsummary.en.md) [ [En](courses%2Flaracasts-graphql-with-laravel-and-vue%2Fsummary.en.md) ]
+- [Laracasts Graphql With Laravel And Vue](courses%2Flaracasts-graphql-with-laravel-and-vue%2Fsummary.en.md) [ [En](courses%2Flaracasts-graphql-with-laravel-and-vue%2Fsummary.en.md) | [Fa](courses%2Flaracasts-graphql-with-laravel-and-vue%2Fsummary.fa.md) ]
 
 
 <h4 id="openapi-and-swagger">OpenAPI and Swagger</h4>
