@@ -30,42 +30,44 @@ It is designed to help you learn faster, review smarter (for example before inte
 <!-- REPO_TOC_START -->
 Auto-generated overview of the repository structure:
 
-- [Courses (17)](#courses)
-  - [API Development (1)](#api-development)
-  - [Cloud Platforms (4)](#cloud-platforms)
+- [Courses (18)](#courses)
+  - [API Design & Development (1)](#api-design-development)
+  - [Cloud Platforms (3)](#cloud-platforms)
   - [Communication Skills (1)](#communication-skills)
   - [Design Patterns (2)](#design-patterns)
-  - [Go Programming (1)](#go-programming)
+  - [Go (Golang) Programming (2)](#go-golang-programming)
   - [GraphQL (1)](#graphql)
   - [Laravel Ecosystem (2)](#laravel-ecosystem)
-  - [Microservices (3)](#microservices)
-  - [Performance Testing (1)](#performance-testing)
-  - [Testing & TDD (1)](#testing-tdd)
+  - [Microservices Architecture (4)](#microservices-architecture)
+  - [Serverless Architecture (1)](#serverless-architecture)
+  - [Testing Methodologies (1)](#testing-methodologies)
 - [Mock Interviews – System Design (29)](#mock-interviews--system-design)
-  - [Application Platforms (1)](#application-platforms)
-  - [Authentication Systems (1)](#authentication-systems)
-  - [Content Delivery Networks (1)](#content-delivery-networks)
-  - [Core Infrastructure (4)](#core-infrastructure)
-  - [E-commerce & Retail Systems (1)](#e-commerce-retail-systems)
-  - [File Storage & Sharing (1)](#file-storage-sharing)
+  - [Authentication & Authorization (1)](#authentication-authorization)
+  - [Complex Systems (1)](#complex-systems)
+  - [Content Delivery Networks (CDNs) (1)](#content-delivery-networks-cdns)
+  - [Distributed Systems Fundamentals (4)](#distributed-systems-fundamentals)
+  - [E-commerce Platforms (1)](#e-commerce-platforms)
+  - [File Storage & Sharing (2)](#file-storage-sharing)
   - [Job Scheduling (1)](#job-scheduling)
   - [Location-Based Services (3)](#location-based-services)
-  - [Media Streaming Services (2)](#media-streaming-services)
-  - [Messaging Systems (3)](#messaging-systems)
-  - [Payment & Financial Systems (2)](#payment-financial-systems)
-  - [Search & Autocomplete (2)](#search-autocomplete)
+  - [Media Streaming Platforms (2)](#media-streaming-platforms)
+  - [Messaging Systems (2)](#messaging-systems)
+  - [Online Collaboration Tools (1)](#online-collaboration-tools)
+  - [Payment Processing Systems (2)](#payment-processing-systems)
+  - [Rate Limiting (1)](#rate-limiting)
+  - [Search Engines & Autocomplete (2)](#search-engines-autocomplete)
   - [Social Media Platforms (4)](#social-media-platforms)
-  - [Specialized Applications (2)](#specialized-applications)
-  - [Travel Systems (1)](#travel-systems)
+  - [Utility Services (1)](#utility-services)
 - [Books (14)](#books)
   - [Data-Intensive Applications (1)](#data-intensive-applications)
   - [Data Engineering (1)](#data-engineering)
-  - [Machine Learning Systems (1)](#machine-learning-systems)
-  - [Management & Career (2)](#management-career)
-  - [Site Reliability Engineering (1)](#site-reliability-engineering)
-  - [Software Architecture (2)](#software-architecture)
-  - [Software Craftsmanship (3)](#software-craftsmanship)
-  - [System Design (3)](#system-design)
+  - [Distributed Systems (1)](#distributed-systems)
+  - [Machine Learning System Design (1)](#machine-learning-system-design)
+  - [Management & Career Growth (2)](#management-career-growth)
+  - [Microservices (1)](#microservices)
+  - [Site Reliability Engineering (SRE) (1)](#site-reliability-engineering-sre)
+  - [Software Craftsmanship (4)](#software-craftsmanship)
+  - [System Design Interviews (2)](#system-design-interviews)
 <!-- REPO_TOC_END -->
 
 ## How summaries are structured
@@ -125,7 +127,7 @@ In the lists below, the main link usually points to the English version if it ex
 
 ### Courses
 <!-- COURSES_START -->
-<h4 id="api-development">API Development</h4>
+<h4 id="api-design-development">API Design &amp; Development</h4>
 
 - [Udemy Openapi Specification Swagger Tools Zero To Master](courses%2Fudemy-openapi-specification-swagger-tools-zero-to-master%2Fsummary.en.md) [ [EN](courses%2Fudemy-openapi-specification-swagger-tools-zero-to-master%2Fsummary.en.md) | [FA](courses%2Fudemy-openapi-specification-swagger-tools-zero-to-master%2Fsummary.fa.md) ]
 
@@ -133,8 +135,6 @@ In the lists below, the main link usually points to the English version if it ex
 <h4 id="cloud-platforms">Cloud Platforms</h4>
 
 - [Linkedin Aws Essential Training For Developers](courses%2Flinkedin-aws-essential-training-for-developers%2Fsummary.en.md) [ [EN](courses%2Flinkedin-aws-essential-training-for-developers%2Fsummary.en.md) | [FA](courses%2Flinkedin-aws-essential-training-for-developers%2Fsummary.fa.md) ]
-
-- [Linkedin Serverless Architecture](courses%2Flinkedin-serverless-architecture%2Fsummary.en.md) [ [EN](courses%2Flinkedin-serverless-architecture%2Fsummary.en.md) | [FA](courses%2Flinkedin-serverless-architecture%2Fsummary.fa.md) ]
 
 - [Udemy Google Cloud Platform Gcp Fundamentals For Beginners](courses%2Fudemy-google-cloud-platform-gcp-fundamentals-for-beginners%2Fsummary.en.md) [ [EN](courses%2Fudemy-google-cloud-platform-gcp-fundamentals-for-beginners%2Fsummary.en.md) | [FA](courses%2Fudemy-google-cloud-platform-gcp-fundamentals-for-beginners%2Fsummary.fa.md) ]
 
@@ -153,7 +153,9 @@ In the lists below, the main link usually points to the English version if it ex
 - [Code With Mosh Mastering Design Patterns Part 2](courses%2Fcode-with-mosh-mastering-design-patterns-part-2%2Fsummary.en.md) [ [EN](courses%2Fcode-with-mosh-mastering-design-patterns-part-2%2Fsummary.en.md) | [FA](courses%2Fcode-with-mosh-mastering-design-patterns-part-2%2Fsummary.fa.md) ]
 
 
-<h4 id="go-programming">Go Programming</h4>
+<h4 id="go-golang-programming">Go (Golang) Programming</h4>
+
+- [Udemy Golang Web Development Create Powerful Servers With Golang](courses%2Fudemy-golang-web-development-create-powerful-servers-with-golang%2Fsummary.en.md) [ [EN](courses%2Fudemy-golang-web-development-create-powerful-servers-with-golang%2Fsummary.en.md) ]
 
 - [Udemy Learn How To Code Googles Go Golang Programming Language](courses%2Fudemy-learn-how-to-code-googles-go-golang-programming-language%2Fsummary.en.md) [ [EN](courses%2Fudemy-learn-how-to-code-googles-go-golang-programming-language%2Fsummary.en.md) | [FA](courses%2Fudemy-learn-how-to-code-googles-go-golang-programming-language%2Fsummary.fa.md) ]
 
@@ -170,43 +172,45 @@ In the lists below, the main link usually points to the English version if it ex
 - [Laracasts Learn Laravel Horizon](courses%2Flaracasts-learn-laravel-horizon%2Fsummary.en.md) [ [EN](courses%2Flaracasts-learn-laravel-horizon%2Fsummary.en.md) | [FA](courses%2Flaracasts-learn-laravel-horizon%2Fsummary.fa.md) ]
 
 
-<h4 id="microservices">Microservices</h4>
+<h4 id="microservices-architecture">Microservices Architecture</h4>
 
 - [Linkedin Microservices Asynchronous Messaging](courses%2Flinkedin-microservices-asynchronous-messaging%2Fsummary.en.md) [ [EN](courses%2Flinkedin-microservices-asynchronous-messaging%2Fsummary.en.md) | [FA](courses%2Flinkedin-microservices-asynchronous-messaging%2Fsummary.fa.md) ]
+
+- [Udemy K6 Automate Performance Load Testing Of Api Microservices](courses%2Fudemy-k6-automate-performance-load-testing-of-api-microservices%2Fsummary.en.md) [ [EN](courses%2Fudemy-k6-automate-performance-load-testing-of-api-microservices%2Fsummary.en.md) | [FA](courses%2Fudemy-k6-automate-performance-load-testing-of-api-microservices%2Fsummary.fa.md) ]
 
 - [Udemy Learn Microservices With Dockers](courses%2Fudemy-learn-microservices-with-dockers%2Fsummary.en.md) [ [EN](courses%2Fudemy-learn-microservices-with-dockers%2Fsummary.en.md) | [FA](courses%2Fudemy-learn-microservices-with-dockers%2Fsummary.fa.md) ]
 
 - [Udemy Microservices Clean Architecture Ddd Saga Outbox Kafka](courses%2Fudemy-microservices-clean-architecture-ddd-saga-outbox-kafka%2Fsummary.en.md) [ [EN](courses%2Fudemy-microservices-clean-architecture-ddd-saga-outbox-kafka%2Fsummary.en.md) | [FA](courses%2Fudemy-microservices-clean-architecture-ddd-saga-outbox-kafka%2Fsummary.fa.md) ]
 
 
-<h4 id="performance-testing">Performance Testing</h4>
+<h4 id="serverless-architecture">Serverless Architecture</h4>
 
-- [Udemy K6 Automate Performance Load Testing Of Api Microservices](courses%2Fudemy-k6-automate-performance-load-testing-of-api-microservices%2Fsummary.en.md) [ [EN](courses%2Fudemy-k6-automate-performance-load-testing-of-api-microservices%2Fsummary.en.md) | [FA](courses%2Fudemy-k6-automate-performance-load-testing-of-api-microservices%2Fsummary.fa.md) ]
+- [Linkedin Serverless Architecture](courses%2Flinkedin-serverless-architecture%2Fsummary.en.md) [ [EN](courses%2Flinkedin-serverless-architecture%2Fsummary.en.md) | [FA](courses%2Flinkedin-serverless-architecture%2Fsummary.fa.md) ]
 
 
-<h4 id="testing-tdd">Testing &amp; TDD</h4>
+<h4 id="testing-methodologies">Testing Methodologies</h4>
 
 - [Coursera Introduction To Test And Behavior Driven Development](courses%2Fcoursera-introduction-to-test-and-behavior-driven-development%2Fsummary.en.md) [ [EN](courses%2Fcoursera-introduction-to-test-and-behavior-driven-development%2Fsummary.en.md) | [FA](courses%2Fcoursera-introduction-to-test-and-behavior-driven-development%2Fsummary.fa.md) ]
 <!-- COURSES_END -->
 
 ### Mock Interviews – System Design
 <!-- SYSTEM_DESIGN_START -->
-<h4 id="application-platforms">Application Platforms</h4>
-
-- [Design Online Code Editor | With @CSDojo](mock-interviews%2Fsystem-design%2FDesign%20Online%20Code%20Editor%20%7C%20with%20%40CSDojo%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20Online%20Code%20Editor%20%7C%20with%20%40CSDojo%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20Online%20Code%20Editor%20%7C%20with%20%40CSDojo%2Fsummary.fa.md) ]
-
-
-<h4 id="authentication-systems">Authentication Systems</h4>
+<h4 id="authentication-authorization">Authentication &amp; Authorization</h4>
 
 - [Design Authentication System | Design A Simple Authentication](mock-interviews%2Fsystem-design%2FDesign%20Authentication%20System%20%7C%20Design%20a%20Simple%20Authentication%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20Authentication%20System%20%7C%20Design%20a%20Simple%20Authentication%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20Authentication%20System%20%7C%20Design%20a%20Simple%20Authentication%2Fsummary.fa.md) ]
 
 
-<h4 id="content-delivery-networks">Content Delivery Networks</h4>
+<h4 id="complex-systems">Complex Systems</h4>
+
+- [Design Flight Booking System | Airline Reservation System | Distributed Transactions, Serialisation, Linearisation, Consistency](mock-interviews%2Fsystem-design%2FDesign%20Flight%20Booking%20System%20%7C%20Airline%20Reservation%20System%20%7C%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20Flight%20Booking%20System%20%7C%20Airline%20Reservation%20System%20%7C%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20Flight%20Booking%20System%20%7C%20Airline%20Reservation%20System%20%7C%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency%2Fsummary.fa.md) ]
+
+
+<h4 id="content-delivery-networks-cdns">Content Delivery Networks (CDNs)</h4>
 
 - [Design Content Delivery Network | CDN](mock-interviews%2Fsystem-design%2FDesign%20Content%20Delivery%20Network%20%7C%20CDN%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20Content%20Delivery%20Network%20%7C%20CDN%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20Content%20Delivery%20Network%20%7C%20CDN%2Fsummary.fa.md) ]
 
 
-<h4 id="core-infrastructure">Core Infrastructure</h4>
+<h4 id="distributed-systems-fundamentals">Distributed Systems Fundamentals</h4>
 
 - [Design Distributed Cache](mock-interviews%2Fsystem-design%2FDesign%20Distributed%20Cache%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20Distributed%20Cache%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20Distributed%20Cache%2Fsummary.fa.md) ]
 
@@ -214,10 +218,10 @@ In the lists below, the main link usually points to the English version if it ex
 
 - [Design Distributed Locking Service | With Ex Google SWE](mock-interviews%2Fsystem-design%2FDesign%20Distributed%20Locking%20Service%20%7C%20With%20Ex-Google%20SWE%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20Distributed%20Locking%20Service%20%7C%20With%20Ex-Google%20SWE%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20Distributed%20Locking%20Service%20%7C%20With%20Ex-Google%20SWE%2Fsummary.fa.md) ]
 
-- [Design Rate Limiter | Token Bucket, Leaky Bucket, Sliding Logs](mock-interviews%2Fsystem-design%2FDesign%20Rate%20Limiter%20%7C%20Token%20Bucket%2C%20Leaky%20Bucket%2C%20Sliding%20Logs%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20Rate%20Limiter%20%7C%20Token%20Bucket%2C%20Leaky%20Bucket%2C%20Sliding%20Logs%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20Rate%20Limiter%20%7C%20Token%20Bucket%2C%20Leaky%20Bucket%2C%20Sliding%20Logs%2Fsummary.fa.md) ]
+- [Design Distributed Message Queue Like Kafka](mock-interviews%2Fsystem-design%2FDesign%20Distributed%20Message%20Queue%20like%20Kafka%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20Distributed%20Message%20Queue%20like%20Kafka%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20Distributed%20Message%20Queue%20like%20Kafka%2Fsummary.fa.md) ]
 
 
-<h4 id="e-commerce-retail-systems">E-commerce &amp; Retail Systems</h4>
+<h4 id="e-commerce-platforms">E-commerce Platforms</h4>
 
 - [Design E Commerce Store Like Amazon | Flipkart](mock-interviews%2Fsystem-design%2FDesign%20E-commerce%20Store%20like%20Amazon%20%7C%20Flipkart%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20E-commerce%20Store%20like%20Amazon%20%7C%20Flipkart%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20E-commerce%20Store%20like%20Amazon%20%7C%20Flipkart%2Fsummary.fa.md) ]
 
@@ -225,6 +229,8 @@ In the lists below, the main link usually points to the English version if it ex
 <h4 id="file-storage-sharing">File Storage &amp; Sharing</h4>
 
 - [Design File Sharing System Like Dropbox And Google Drive](mock-interviews%2Fsystem-design%2FDesign%20File%20Sharing%20System%20like%20Dropbox%20and%20Google%20Drive%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20File%20Sharing%20System%20like%20Dropbox%20and%20Google%20Drive%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20File%20Sharing%20System%20like%20Dropbox%20and%20Google%20Drive%2Fsummary.fa.md) ]
+
+- [Design Text Storage Service Like Pastebin](mock-interviews%2Fsystem-design%2FDesign%20Text%20Storage%20Service%20like%20Pastebin%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20Text%20Storage%20Service%20like%20Pastebin%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20Text%20Storage%20Service%20like%20Pastebin%2Fsummary.fa.md) ]
 
 
 <h4 id="job-scheduling">Job Scheduling</h4>
@@ -241,7 +247,7 @@ In the lists below, the main link usually points to the English version if it ex
 - [Design Uber | OLA | Amazon System Design Interview](mock-interviews%2Fsystem-design%2FDesign%20Uber%20%7C%20OLA%20%7C%20Amazon%20System%20Design%20Interview%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20Uber%20%7C%20OLA%20%7C%20Amazon%20System%20Design%20Interview%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20Uber%20%7C%20OLA%20%7C%20Amazon%20System%20Design%20Interview%2Fsummary.fa.md) ]
 
 
-<h4 id="media-streaming-services">Media Streaming Services</h4>
+<h4 id="media-streaming-platforms">Media Streaming Platforms</h4>
 
 - [Design Netflix System](mock-interviews%2Fsystem-design%2FDesign%20Netflix%20System%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20Netflix%20System%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20Netflix%20System%2Fsummary.fa.md) ]
 
@@ -250,21 +256,29 @@ In the lists below, the main link usually points to the English version if it ex
 
 <h4 id="messaging-systems">Messaging Systems</h4>
 
-- [Design Distributed Message Queue Like Kafka](mock-interviews%2Fsystem-design%2FDesign%20Distributed%20Message%20Queue%20like%20Kafka%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20Distributed%20Message%20Queue%20like%20Kafka%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20Distributed%20Message%20Queue%20like%20Kafka%2Fsummary.fa.md) ]
-
 - [Design Notification Service System | Handle Billions Of Users & Notifications](mock-interviews%2Fsystem-design%2FDesign%20Notification%20Service%20System%20%7C%20Handle%20Billions%20of%20users%20%26%20Notifications%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20Notification%20Service%20System%20%7C%20Handle%20Billions%20of%20users%20%26%20Notifications%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20Notification%20Service%20System%20%7C%20Handle%20Billions%20of%20users%20%26%20Notifications%2Fsummary.fa.md) ]
 
 - [Design WhatsApp | Chat Messaging Systems](mock-interviews%2Fsystem-design%2FDesign%20WhatsApp%20%7C%20Chat%20Messaging%20Systems%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20WhatsApp%20%7C%20Chat%20Messaging%20Systems%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20WhatsApp%20%7C%20Chat%20Messaging%20Systems%2Fsummary.fa.md) ]
 
 
-<h4 id="payment-financial-systems">Payment &amp; Financial Systems</h4>
+<h4 id="online-collaboration-tools">Online Collaboration Tools</h4>
+
+- [Design Online Code Editor | With @CSDojo](mock-interviews%2Fsystem-design%2FDesign%20Online%20Code%20Editor%20%7C%20with%20%40CSDojo%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20Online%20Code%20Editor%20%7C%20with%20%40CSDojo%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20Online%20Code%20Editor%20%7C%20with%20%40CSDojo%2Fsummary.fa.md) ]
+
+
+<h4 id="payment-processing-systems">Payment Processing Systems</h4>
 
 - [Design A Digital Wallet (3+ Approaches) | Google Interview Question](mock-interviews%2Fsystem-design%2FDesign%20a%20Digital%20Wallet%20%283%2B%20Approaches%29%20%7C%20Google%20Interview%20Question%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20a%20Digital%20Wallet%20%283%2B%20Approaches%29%20%7C%20Google%20Interview%20Question%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20a%20Digital%20Wallet%20%283%2B%20Approaches%29%20%7C%20Google%20Interview%20Question%2Fsummary.fa.md) ]
 
 - [Design Payment System](mock-interviews%2Fsystem-design%2FDesign%20Payment%20System%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20Payment%20System%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20Payment%20System%2Fsummary.fa.md) ]
 
 
-<h4 id="search-autocomplete">Search &amp; Autocomplete</h4>
+<h4 id="rate-limiting">Rate Limiting</h4>
+
+- [Design Rate Limiter | Token Bucket, Leaky Bucket, Sliding Logs](mock-interviews%2Fsystem-design%2FDesign%20Rate%20Limiter%20%7C%20Token%20Bucket%2C%20Leaky%20Bucket%2C%20Sliding%20Logs%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20Rate%20Limiter%20%7C%20Token%20Bucket%2C%20Leaky%20Bucket%2C%20Sliding%20Logs%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20Rate%20Limiter%20%7C%20Token%20Bucket%2C%20Leaky%20Bucket%2C%20Sliding%20Logs%2Fsummary.fa.md) ]
+
+
+<h4 id="search-engines-autocomplete">Search Engines &amp; Autocomplete</h4>
 
 - [Design Autocomplete For Search Engines | Typeahead Suggestions For Google Search](mock-interviews%2Fsystem-design%2FDesign%20Autocomplete%20for%20Search%20Engines%20%7C%20Typeahead%20Suggestions%20for%20Google%20search%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20Autocomplete%20for%20Search%20Engines%20%7C%20Typeahead%20Suggestions%20for%20Google%20search%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20Autocomplete%20for%20Search%20Engines%20%7C%20Typeahead%20Suggestions%20for%20Google%20search%2Fsummary.fa.md) ]
 
@@ -282,16 +296,9 @@ In the lists below, the main link usually points to the English version if it ex
 - [Design Twitter | X.com](mock-interviews%2Fsystem-design%2FDesign%20Twitter%20%7C%20x.com%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20Twitter%20%7C%20x.com%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20Twitter%20%7C%20x.com%2Fsummary.fa.md) ]
 
 
-<h4 id="specialized-applications">Specialized Applications</h4>
+<h4 id="utility-services">Utility Services</h4>
 
 - [Design Parking Garage | Vending Machine | Amazon System Design Interview](mock-interviews%2Fsystem-design%2FDesign%20Parking%20Garage%20%7C%20Vending%20Machine%20%7C%20Amazon%20System%20Design%20Interview%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20Parking%20Garage%20%7C%20Vending%20Machine%20%7C%20Amazon%20System%20Design%20Interview%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20Parking%20Garage%20%7C%20Vending%20Machine%20%7C%20Amazon%20System%20Design%20Interview%2Fsummary.fa.md) ]
-
-- [Design Text Storage Service Like Pastebin](mock-interviews%2Fsystem-design%2FDesign%20Text%20Storage%20Service%20like%20Pastebin%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20Text%20Storage%20Service%20like%20Pastebin%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20Text%20Storage%20Service%20like%20Pastebin%2Fsummary.fa.md) ]
-
-
-<h4 id="travel-systems">Travel Systems</h4>
-
-- [Design Flight Booking System | Airline Reservation System | Distributed Transactions, Serialisation, Linearisation, Consistency](mock-interviews%2Fsystem-design%2FDesign%20Flight%20Booking%20System%20%7C%20Airline%20Reservation%20System%20%7C%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20Flight%20Booking%20System%20%7C%20Airline%20Reservation%20System%20%7C%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20Flight%20Booking%20System%20%7C%20Airline%20Reservation%20System%20%7C%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency%2Fsummary.fa.md) ]
 <!-- SYSTEM_DESIGN_END -->
 
 ### Books
@@ -306,31 +313,36 @@ In the lists below, the main link usually points to the English version if it ex
 - [Fundamentals Of Data Engineering](books%2FFundamentals%20of%20Data%20Engineering%2Fsummary.en.md) [ [EN](books%2FFundamentals%20of%20Data%20Engineering%2Fsummary.en.md) | [FA](books%2FFundamentals%20of%20Data%20Engineering%2Fsummary.fa.md) ]
 
 
-<h4 id="machine-learning-systems">Machine Learning Systems</h4>
+<h4 id="distributed-systems">Distributed Systems</h4>
+
+- [Designing Distributed Systems](books%2FDesigning%20Distributed%20Systems%2Fsummary.en.md) [ [EN](books%2FDesigning%20Distributed%20Systems%2Fsummary.en.md) | [FA](books%2FDesigning%20Distributed%20Systems%2Fsummary.fa.md) ]
+
+
+<h4 id="machine-learning-system-design">Machine Learning System Design</h4>
 
 - [Designing Machine Learning Systems](books%2FDesigning%20Machine%20Learning%20Systems%2Fsummary.en.md) [ [EN](books%2FDesigning%20Machine%20Learning%20Systems%2Fsummary.en.md) | [FA](books%2FDesigning%20Machine%20Learning%20Systems%2Fsummary.fa.md) ]
 
 
-<h4 id="management-career">Management &amp; Career</h4>
+<h4 id="management-career-growth">Management &amp; Career Growth</h4>
 
 - [Soft Skills](books%2FSoft%20Skills%2Fsummary.en.md) [ [EN](books%2FSoft%20Skills%2Fsummary.en.md) | [FA](books%2FSoft%20Skills%2Fsummary.fa.md) ]
 
 - [The Manager’s Path](books%2FThe%20Manager%E2%80%99s%20Path%2Fsummary.en.md) [ [EN](books%2FThe%20Manager%E2%80%99s%20Path%2Fsummary.en.md) | [FA](books%2FThe%20Manager%E2%80%99s%20Path%2Fsummary.fa.md) ]
 
 
-<h4 id="site-reliability-engineering">Site Reliability Engineering</h4>
+<h4 id="microservices">Microservices</h4>
+
+- [Building Microservices](books%2FBuilding%20Microservices%2Fsummary.en.md) [ [EN](books%2FBuilding%20Microservices%2Fsummary.en.md) | [FA](books%2FBuilding%20Microservices%2Fsummary.fa.md) ]
+
+
+<h4 id="site-reliability-engineering-sre">Site Reliability Engineering (SRE)</h4>
 
 - [Google SRE   Site Reliability Engineering Book](books%2FGoogle%20SRE%20-%20Site%20reliability%20engineering%20book%2Fsummary.en.md) [ [EN](books%2FGoogle%20SRE%20-%20Site%20reliability%20engineering%20book%2Fsummary.en.md) | [FA](books%2FGoogle%20SRE%20-%20Site%20reliability%20engineering%20book%2Fsummary.fa.md) ]
 
 
-<h4 id="software-architecture">Software Architecture</h4>
-
-- [Building Microservices](books%2FBuilding%20Microservices%2Fsummary.en.md) [ [EN](books%2FBuilding%20Microservices%2Fsummary.en.md) | [FA](books%2FBuilding%20Microservices%2Fsummary.fa.md) ]
+<h4 id="software-craftsmanship">Software Craftsmanship</h4>
 
 - [Clean Architecture](books%2FClean%20Architecture%2Fsummary.en.md) [ [EN](books%2FClean%20Architecture%2Fsummary.en.md) | [FA](books%2FClean%20Architecture%2Fsummary.fa.md) ]
-
-
-<h4 id="software-craftsmanship">Software Craftsmanship</h4>
 
 - [Clean Code](books%2FClean%20Code%2Fsummary.en.md) [ [EN](books%2FClean%20Code%2Fsummary.en.md) | [FA](books%2FClean%20Code%2Fsummary.fa.md) ]
 
@@ -339,9 +351,7 @@ In the lists below, the main link usually points to the English version if it ex
 - [The Pragmatic Programmer](books%2FThe%20Pragmatic%20Programmer%2Fsummary.en.md) [ [EN](books%2FThe%20Pragmatic%20Programmer%2Fsummary.en.md) | [FA](books%2FThe%20Pragmatic%20Programmer%2Fsummary.fa.md) ]
 
 
-<h4 id="system-design">System Design</h4>
-
-- [Designing Distributed Systems](books%2FDesigning%20Distributed%20Systems%2Fsummary.en.md) [ [EN](books%2FDesigning%20Distributed%20Systems%2Fsummary.en.md) | [FA](books%2FDesigning%20Distributed%20Systems%2Fsummary.fa.md) ]
+<h4 id="system-design-interviews">System Design Interviews</h4>
 
 - [System Design Interview (Volume 1)](books%2FSystem%20Design%20Interview%20%28Volume%201%29%2Fsummary.en.md) [ [EN](books%2FSystem%20Design%20Interview%20%28Volume%201%29%2Fsummary.en.md) | [FA](books%2FSystem%20Design%20Interview%20%28Volume%201%29%2Fsummary.fa.md) ]
 
