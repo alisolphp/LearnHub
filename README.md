@@ -155,7 +155,7 @@ In the lists below, the main link usually points to the English version if it ex
 
 <h4 id="go-programming">Go Programming</h4>
 
-- [Udemy Learn How To Code Googles Go Golang Programming Language](courses%2Fudemy-learn-how-to-code-googles-go-golang-programming-language%2Fsummary.en.md) [ [EN](courses%2Fudemy-learn-how-to-code-googles-go-golang-programming-language%2Fsummary.en.md) ]
+- [Udemy Learn How To Code Googles Go Golang Programming Language](courses%2Fudemy-learn-how-to-code-googles-go-golang-programming-language%2Fsummary.en.md) [ [EN](courses%2Fudemy-learn-how-to-code-googles-go-golang-programming-language%2Fsummary.en.md) | [FA](courses%2Fudemy-learn-how-to-code-googles-go-golang-programming-language%2Fsummary.fa.md) ]
 
 
 <h4 id="graphql">GraphQL</h4>
