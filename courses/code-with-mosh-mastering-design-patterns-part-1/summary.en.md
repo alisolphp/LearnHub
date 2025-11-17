@@ -3,7 +3,7 @@
 - Platform : Code with Mosh
 - Instructor : Mosh Hamedani
 - Duration : 04:00:00
-- Course Link : < https://codewithmosh.com/p/design-patterns-part1>
+- Course Link : <https://codewithmosh.com/p/design-patterns-part1>
 
 This is the complete and updated English summary with all Behavioral patterns that appear in the original course.
 
@@ -175,7 +175,7 @@ Ask AI: [Visitor Pattern](https://alisol.ir/?ai=Visitor%20Pattern%7CMosh%20Hamed
 
 ---
 
-Original Course Link : < https://codewithmosh.com/p/design-patterns-part1>
+Original Course Link : <https://codewithmosh.com/p/design-patterns-part1>
 
 ---
 
