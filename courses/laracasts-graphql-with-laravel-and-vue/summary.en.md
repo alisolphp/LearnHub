@@ -58,13 +58,13 @@
 ## Topic 8: Authentication in Vue Apollo
 
 * **Summary**: On the Vue side, handle auth by storing tokens in localStorage after login mutations and including them in request headers. Covers login, registration, and logout flows manually since Vue Apollo v4 requires it.
-* **Example**: After a successful login mutation, localStorage.setItem('apollo-token', data.login.token) and redirect, then use a getHeaders function to add Authorization: Bearer in ApolloClient setup.
+* **Example**: After a successful login mutation, `localStorage.setItem('apollo-token', data.login.token)` and redirect, then use a getHeaders function to add Authorization: Bearer in ApolloClient setup.
 * **Link for More Details**: [Ask AI: Authentication in Vue Apollo](https://alisol.ir/?ai=Authentication%20in%20Vue%20Apollo%7CAndre%20Madarang%7CGraphQL%20with%20Laravel%20and%20Vue)
 
 ## Topic 9: Authorization on the Server
 
 * **Summary**: Ensure users can only perform allowed actions using @can directives tied to Laravel policies. This protects updates, deletes, and admin queries, injecting logged-in user details where needed.
-* **Example**: In updatePost mutation, @can(ability: "update", find: "id") checks if `$user->id` matches `$post->user_id` in the policy.
+* **Example**: In updatePost mutation, `@can(ability: "update", find: "id")` checks if `$user->id` matches `$post->user_id` in the policy.
 * **Link for More Details**: [Ask AI: Authorization on the Server](https://alisol.ir/?ai=Authorization%20on%20the%20Server%7CAndre%20Madarang%7CGraphQL%20with%20Laravel%20and%20Vue)
 
 ## Topic 10: Authorization Links on the Client
