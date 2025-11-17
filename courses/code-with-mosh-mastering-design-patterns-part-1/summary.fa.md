@@ -29,7 +29,7 @@
 
 روش تدریس Mosh: اول یک مسئله واقعی → چند راه‌حل بد → بهبود تدریجی → رسیدن به Design Pattern اصلی.
 
-؜Ask AI: Introduction to Design Patterns
+Ask AI: [Introduction to Design Patterns](https://alisol.ir/?ai=Introduction%20to%20Design%20Patterns%7CMosh%20Hamedani%7CMastering%20Design%20Patterns%3A%20Part%201%7Cfa)
 
 ---
 
@@ -47,7 +47,7 @@
 
 حتی برنامه‌نویس‌های باتجربه هم می‌گن همین ۳۰–۴۰ دقیقه اول، به‌تنهایی می‌ارزه.
 
-؜Ask AI: OOP Essentials
+Ask AI: [OOP Essentials](https://alisol.ir/?ai=OOP%20Essentials%20and%20Core%20Principles%7CMosh%20Hamedani%7CMastering%20Design%20Patterns%3A%20Part%201%7Cfa)
 
 ---
 
@@ -63,7 +63,8 @@
 
 **مثال:** تایپ می‌کنی A → بعد AB → بعد ABC → با Undo، برمی‌گردی به state قبلی.
 
-؜Ask AI: Memento Pattern
+؜
+Ask AI: [Memento Pattern](https://alisol.ir/?ai=Memento%20Pattern%7CMosh%20Hamedani%7CMastering%20Design%20Patterns%3A%20Part%201%7Cfa)
 
 ---
 
@@ -75,7 +76,8 @@
 
 **نتیجه:** برای اضافه‌کردن یک Tool جدید، لازم نیست کدهای قبلی رو دست بزنی؛ فقط یک کلاس جدید می‌نویسی.
 
-؜Ask AI: State Pattern
+؜
+Ask AI: [State Pattern](https://alisol.ir/?ai=State%20Pattern%7CMosh%20Hamedani%7CMastering%20Design%20Patterns%3A%20Part%201%7Cfa)
 
 ---
 
@@ -87,7 +89,8 @@
 
 **مزیت:** حتی اگر ساختار داخلی Collection عوض بشه (مثلاً از array به linked list)، کد Client هنوز با همون Iterator کار می‌کنه.
 
-؜Ask AI: Iterator Pattern
+؜
+Ask AI: [Iterator Pattern](https://alisol.ir/?ai=Iterator%20Pattern%7CMosh%20Hamedani%7CMastering%20Design%20Patterns%3A%20Part%201%7Cfa)
 
 ---
 
@@ -99,7 +102,8 @@
 
 **نتیجه:** برای اضافه‌کردن الگوریتم فشرده‌سازی یا Filter جدید، لازم نیست کد ImageStorage رو تغییر بدی؛ فقط کلاس جدید رو پیاده‌سازی می‌کنی.
 
-؜Ask AI: Strategy Pattern
+؜
+Ask AI: [Strategy Pattern](https://alisol.ir/?ai=Strategy%20Pattern%7CMosh%20Hamedani%7CMastering%20Design%20Patterns%3A%20Part%201%7Cfa)
 
 ---
 
@@ -111,7 +115,8 @@
 
 این Pattern در Frameworkها خیلی استفاده می‌شه (مثلاً ASP.NET Page Lifecycle، یا Startup در Spring Boot).
 
-؜Ask AI: Template Method Pattern
+؜
+Ask AI: [Template Method Pattern](https://alisol.ir/?ai=Template%20Method%20Pattern%7CMosh%20Hamedani%7CMastering%20Design%20Patterns%3A%20Part%201%7Cfa)
 
 ---
 
@@ -123,7 +128,8 @@
 
 **نتیجه:** Undo / Redo تقریباً مجانی به‌دست میاد و اضافه‌کردن Action جدید خیلی ساده می‌شه.
 
-؜Ask AI: Command Pattern
+؜
+Ask AI: [Command Pattern](https://alisol.ir/?ai=Command%20Pattern%7CMosh%20Hamedani%7CMastering%20Design%20Patterns%3A%20Part%201%7Cfa)
 
 ---
 
@@ -135,7 +141,8 @@
 
 کاربرد همه‌جا: eventها، listenerها، reactive programming و …
 
-؜Ask AI: Observer Pattern
+؜
+Ask AI: [Observer Pattern](https://alisol.ir/?ai=Observer%20Pattern%7CMosh%20Hamedani%7CMastering%20Design%20Patterns%3A%20Part%201%7Cfa)
 
 ---
 
@@ -147,7 +154,8 @@
 
 **نتیجه:** هر Control مستقل‌تر و قابل‌استفاده‌مجددتر می‌شه و منطق هماهنگی، وسط (داخل Mediator) متمرکز می‌مونه.
 
-؜Ask AI: Mediator Pattern
+؜
+Ask AI: [Mediator Pattern](https://alisol.ir/?ai=Mediator%20Pattern%7CMosh%20Hamedani%7CMastering%20Design%20Patterns%3A%20Part%201%7Cfa)
 
 ---
 
@@ -159,7 +167,8 @@
 
 **نتیجه:** یک Pipeline باز و قابل‌توسعه (Open/Closed): به‌راحتی می‌تونی ترتیب مراحل رو عوض کنی، مرحله جدید اضافه کنی یا مرحله‌ای رو حذف کنی.
 
-؜Ask AI: Chain of Responsibility Pattern
+؜
+Ask AI: [Chain of Responsibility Pattern](https://alisol.ir/?ai=Chain%20of%20Responsibility%20Pattern%7CMosh%20Hamedani%7CMastering%20Design%20Patterns%3A%20Part%201%7Cfa)
 
 ---
 
@@ -171,7 +180,8 @@
 
 **نتیجه:** برای اضافه‌کردن یک رفتار جدید (مثل استخراج لینک‌ها، فیلتر صوتی و …) فقط یک Visitor جدید می‌نویسی؛ لازم نیست کلاس Nodeهای اصلی رو تغییر بدی.
 
-؜Ask AI: Visitor Pattern
+؜
+Ask AI: [Visitor Pattern](https://alisol.ir/?ai=Visitor%20Pattern%7CMosh%20Hamedani%7CMastering%20Design%20Patterns%3A%20Part%201%7Cfa)
 
 ---
 
