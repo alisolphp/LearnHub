@@ -179,7 +179,7 @@ In the lists below, the main link usually points to the English version if it ex
 
 - [Coursera Introduction To Test And Behavior Driven Development](courses%2Fcoursera-introduction-to-test-and-behavior-driven-development%2Fsummary.en.md) [ [EN](courses%2Fcoursera-introduction-to-test-and-behavior-driven-development%2Fsummary.en.md) | [FA](courses%2Fcoursera-introduction-to-test-and-behavior-driven-development%2Fsummary.fa.md) ]
 
-- [Linkedin Programming Foundations Software Testing Qa](courses%2Flinkedin-programming-foundations-software-testing-qa%2Fsummary.en.md) [ [EN](courses%2Flinkedin-programming-foundations-software-testing-qa%2Fsummary.en.md) ]
+- [Linkedin Programming Foundations Software Testing Qa](courses%2Flinkedin-programming-foundations-software-testing-qa%2Fsummary.en.md) [ [EN](courses%2Flinkedin-programming-foundations-software-testing-qa%2Fsummary.en.md) | [FA](courses%2Flinkedin-programming-foundations-software-testing-qa%2Fsummary.fa.md) ]
 
 - [Pluralsight Writing Highly Maintainable Unit Tests](courses%2Fpluralsight-writing-highly-maintainable-unit-tests%2Fsummary.en.md) [ [EN](courses%2Fpluralsight-writing-highly-maintainable-unit-tests%2Fsummary.en.md) | [FA](courses%2Fpluralsight-writing-highly-maintainable-unit-tests%2Fsummary.fa.md) ]
 
