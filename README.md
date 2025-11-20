@@ -61,7 +61,7 @@ Auto-generated overview of the repository structure:
   - [Software Engineering Practices (4)](#software-engineering-practices)
   - [System Design & Architecture (3)](#system-design-architecture)
   - [System Reliability Engineering (1)](#system-reliability-engineering)
-- [Other Categories (29)](#other-categories)
+- [Other Categories (32)](#other-categories)
 <!-- REPO_TOC_END -->
 
 ## How summaries are structured
@@ -343,6 +343,7 @@ In the lists below, the main link usually points to the English version if it ex
 <!-- OTHER_START -->
 #### Other
 - [Authentication & Refreshing Tokens Implementation](youtube-videos%2FAuthentication%20%26%20Refreshing%20Tokens%20Implementation%2Fsummary.en.md) [ [EN](youtube-videos%2FAuthentication%20%26%20Refreshing%20Tokens%20Implementation%2Fsummary.en.md) ]
+- [Building AI Into Observability Workflows: Automating Dashboards, Alerts with MCP & Agents](youtube-videos%2FBuilding%20AI%20Into%20Observability%20Workflows%3A%20Automating%20Dashboards%2C%20Alerts%20with%20MCP%20%26%20Agents%2Fsummary.en.md) [ [EN](youtube-videos%2FBuilding%20AI%20Into%20Observability%20Workflows%3A%20Automating%20Dashboards%2C%20Alerts%20with%20MCP%20%26%20Agents%2Fsummary.en.md) ]
 - [ClickHouse: Breaking the Speed Limit for Observability and Analytics](youtube-videos%2FClickHouse%3A%20Breaking%20the%20Speed%20Limit%20for%20Observability%20and%20Analytics%2Fsummary.en.md) [ [EN](youtube-videos%2FClickHouse%3A%20Breaking%20the%20Speed%20Limit%20for%20Observability%20and%20Analytics%2Fsummary.en.md) ]
 - [ClickHouse for AI ML: An Overview (Open House)](youtube-videos%2FClickHouse%20for%20AI%20ML%3A%20An%20Overview%20%28Open%20House%29%2Fsummary.en.md) [ [EN](youtube-videos%2FClickHouse%20for%20AI%20ML%3A%20An%20Overview%20%28Open%20House%29%2Fsummary.en.md) ]
 - [Creating MCP server with Laravel in less than 20 mins](youtube-videos%2FCreating%20MCP%20server%20with%20Laravel%20in%20less%20than%2020%20mins%2Fsummary.en.md) [ [EN](youtube-videos%2FCreating%20MCP%20server%20with%20Laravel%20in%20less%20than%2020%20mins%2Fsummary.en.md) ]
@@ -356,11 +357,13 @@ In the lists below, the main link usually points to the English version if it ex
 - [How to Setup a Stripe Webhook in PHP to Automate Payments](youtube-videos%2FHow%20to%20Setup%20a%20Stripe%20Webhook%20in%20PHP%20to%20Automate%20Payments%2Fsummary.en.md) [ [EN](youtube-videos%2FHow%20to%20Setup%20a%20Stripe%20Webhook%20in%20PHP%20to%20Automate%20Payments%2Fsummary.en.md) ]
 - [Implement Stripe with PHP | Step by Step Guide](youtube-videos%2FImplement%20Stripe%20with%20PHP%20%7C%20Step%20by%20Step%20Guide%2Fsummary.en.md) [ [EN](youtube-videos%2FImplement%20Stripe%20with%20PHP%20%7C%20Step%20by%20Step%20Guide%2Fsummary.en.md) ]
 - [Laravel 12 in 11 hours - Laravel for Beginners Full Course](youtube-videos%2FLaravel%2012%20in%2011%20hours%20-%20Laravel%20for%20Beginners%20Full%20Course%2Fsummary.en.md) [ [EN](youtube-videos%2FLaravel%2012%20in%2011%20hours%20-%20Laravel%20for%20Beginners%20Full%20Course%2Fsummary.en.md) ]
+- [Learn Complete GitLab CI CD in 1 hour | GitLab CI CD Tutorial](youtube-videos%2FLearn%20Complete%20GitLab%20CI%20CD%20in%201%20hour%20%7C%20GitLab%20CI%20CD%20Tutorial%2Fsummary.en.md) [ [EN](youtube-videos%2FLearn%20Complete%20GitLab%20CI%20CD%20in%201%20hour%20%7C%20GitLab%20CI%20CD%20Tutorial%2Fsummary.en.md) ]
 - [Learn Symfony in 1 Hour](youtube-videos%2FLearn%20Symfony%20in%201%20Hour%2Fsummary.en.md) [ [EN](youtube-videos%2FLearn%20Symfony%20in%201%20Hour%2Fsummary.en.md) ]
 - [MASTER Angular in 90 Minutes with This Crash Course](youtube-videos%2FMASTER%20Angular%20in%2090%20Minutes%20with%20This%20Crash%20Course%2Fsummary.en.md) [ [EN](youtube-videos%2FMASTER%20Angular%20in%2090%20Minutes%20with%20This%20Crash%20Course%2Fsummary.en.md) ]
 - [Master MONGODB in ONE VIDEO: Beginner to Advanced](youtube-videos%2FMaster%20MONGODB%20in%20ONE%20VIDEO%3A%20Beginner%20to%20Advanced%2Fsummary.en.md) [ [EN](youtube-videos%2FMaster%20MONGODB%20in%20ONE%20VIDEO%3A%20Beginner%20to%20Advanced%2Fsummary.en.md) ]
 - [MongoDB Complete Course Tutorial](youtube-videos%2FMongoDB%20Complete%20Course%20Tutorial%2Fsummary.en.md) [ [EN](youtube-videos%2FMongoDB%20Complete%20Course%20Tutorial%2Fsummary.en.md) ]
 - [MongoDB Tutorial in 1 Hour (2024)](youtube-videos%2FMongoDB%20Tutorial%20in%201%20Hour%20%282024%29%2Fsummary.en.md) [ [EN](youtube-videos%2FMongoDB%20Tutorial%20in%201%20Hour%20%282024%29%2Fsummary.en.md) ]
+- [NGINX Crash Course: Web Server, Reverse Proxy & Load Balancer](youtube-videos%2FNGINX%20Crash%20Course%3A%20Web%20Server%2C%20Reverse%20Proxy%20%26%20Load%20Balancer%2Fsummary.en.md) [ [EN](youtube-videos%2FNGINX%20Crash%20Course%3A%20Web%20Server%2C%20Reverse%20Proxy%20%26%20Load%20Balancer%2Fsummary.en.md) ]
 - [Node.js Crash Course](youtube-videos%2FNode.js%20Crash%20Course%2Fsummary.en.md) [ [EN](youtube-videos%2FNode.js%20Crash%20Course%2Fsummary.en.md) ]
 - [Object-oriented Programming in JavaScript: Made Super Simple](youtube-videos%2FObject-oriented%20Programming%20in%20JavaScript%3A%20Made%20Super%20Simple%2Fsummary.en.md) [ [EN](youtube-videos%2FObject-oriented%20Programming%20in%20JavaScript%3A%20Made%20Super%20Simple%2Fsummary.en.md) ]
 - [PostgreSQL Tutorial Full Course 2022](youtube-videos%2FPostgreSQL%20Tutorial%20Full%20Course%202022%2Fsummary.en.md) [ [EN](youtube-videos%2FPostgreSQL%20Tutorial%20Full%20Course%202022%2Fsummary.en.md) ]
