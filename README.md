@@ -61,7 +61,7 @@ Auto-generated overview of the repository structure:
   - [Software Engineering Practices (4)](#software-engineering-practices)
   - [System Design & Architecture (3)](#system-design-architecture)
   - [System Reliability Engineering (1)](#system-reliability-engineering)
-- [Other Categories (11)](#other-categories)
+- [Other Categories (12)](#other-categories)
 <!-- REPO_TOC_END -->
 
 ## How summaries are structured
@@ -350,6 +350,7 @@ In the lists below, the main link usually points to the English version if it ex
 - [Master MONGODB in ONE VIDEO: Beginner to Advanced](youtube-videos%2FMaster%20MONGODB%20in%20ONE%20VIDEO%3A%20Beginner%20to%20Advanced%2Fsummary.en.md) [ [EN](youtube-videos%2FMaster%20MONGODB%20in%20ONE%20VIDEO%3A%20Beginner%20to%20Advanced%2Fsummary.en.md) ]
 - [MongoDB Complete Course Tutorial](youtube-videos%2FMongoDB%20Complete%20Course%20Tutorial%2Fsummary.en.md) [ [EN](youtube-videos%2FMongoDB%20Complete%20Course%20Tutorial%2Fsummary.en.md) ]
 - [MongoDB Tutorial in 1 Hour (2024)](youtube-videos%2FMongoDB%20Tutorial%20in%201%20Hour%20%282024%29%2Fsummary.en.md) [ [EN](youtube-videos%2FMongoDB%20Tutorial%20in%201%20Hour%20%282024%29%2Fsummary.en.md) ]
+- [Node.js Crash Course](youtube-videos%2FNode.js%20Crash%20Course%2Fsummary.en.md) [ [EN](youtube-videos%2FNode.js%20Crash%20Course%2Fsummary.en.md) ]
 - [PostgreSQL Tutorial Full Course 2022](youtube-videos%2FPostgreSQL%20Tutorial%20Full%20Course%202022%2Fsummary.en.md) [ [EN](youtube-videos%2FPostgreSQL%20Tutorial%20Full%20Course%202022%2Fsummary.en.md) ]
 - [React Tutorial Full Course - Beginner to Pro (React 19, 2025)](youtube-videos%2FReact%20Tutorial%20Full%20Course%20-%20Beginner%20to%20Pro%20%28React%2019%2C%202025%29%2Fsummary.en.md) [ [EN](youtube-videos%2FReact%20Tutorial%20Full%20Course%20-%20Beginner%20to%20Pro%20%28React%2019%2C%202025%29%2Fsummary.en.md) ]
 - [TypeScript Tutorial for Beginners](youtube-videos%2FTypeScript%20Tutorial%20for%20Beginners%2Fsummary.en.md) [ [EN](youtube-videos%2FTypeScript%20Tutorial%20for%20Beginners%2Fsummary.en.md) ]
