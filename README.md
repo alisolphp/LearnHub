@@ -61,6 +61,7 @@ Auto-generated overview of the repository structure:
   - [Software Engineering Practices (4)](#software-engineering-practices)
   - [System Design & Architecture (3)](#system-design-architecture)
   - [System Reliability Engineering (1)](#system-reliability-engineering)
+- [Other Categories (1)](#other-categories)
 <!-- REPO_TOC_END -->
 
 ## How summaries are structured
@@ -188,7 +189,7 @@ In the lists below, the main link usually points to the English version if it ex
 
 - [Pluralsight Writing Highly Maintainable Unit Tests](courses%2Fpluralsight-writing-highly-maintainable-unit-tests%2Fsummary.en.md) [ [EN](courses%2Fpluralsight-writing-highly-maintainable-unit-tests%2Fsummary.en.md) | [FA](courses%2Fpluralsight-writing-highly-maintainable-unit-tests%2Fsummary.fa.md) ]
 
-- [Udemy Mastering Unit And Integration Testing In Clean Architecture](courses%2Fudemy-mastering-unit-and-integration-testing-in-clean-architecture%2Fsummary.en.md) [ [EN](courses%2Fudemy-mastering-unit-and-integration-testing-in-clean-architecture%2Fsummary.en.md) ]
+- [Udemy Mastering Unit And Integration Testing In Clean Architecture](courses%2Fudemy-mastering-unit-and-integration-testing-in-clean-architecture%2Fsummary.en.md) [ [EN](courses%2Fudemy-mastering-unit-and-integration-testing-in-clean-architecture%2Fsummary.en.md) | [FA](courses%2Fudemy-mastering-unit-and-integration-testing-in-clean-architecture%2Fsummary.fa.md) ]
 <!-- COURSES_END -->
 
 ### Mock Interviews – System Design
@@ -340,7 +341,8 @@ In the lists below, the main link usually points to the English version if it ex
 
 ### Other Categories
 <!-- OTHER_START -->
-
+#### Other
+- [React Tutorial Full Course - Beginner to Pro (React 19, 2025)](youtube-videos%2FReact%20Tutorial%20Full%20Course%20-%20Beginner%20to%20Pro%20%28React%2019%2C%202025%29%2Fsummary.en.md) [ [EN](youtube-videos%2FReact%20Tutorial%20Full%20Course%20-%20Beginner%20to%20Pro%20%28React%2019%2C%202025%29%2Fsummary.en.md) ]
 <!-- OTHER_END -->
 
 ## Using this repo with AI
