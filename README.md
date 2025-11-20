@@ -61,7 +61,7 @@ Auto-generated overview of the repository structure:
   - [Software Engineering Practices (4)](#software-engineering-practices)
   - [System Design & Architecture (3)](#system-design-architecture)
   - [System Reliability Engineering (1)](#system-reliability-engineering)
-- [Other Categories (15)](#other-categories)
+- [Other Categories (19)](#other-categories)
 <!-- REPO_TOC_END -->
 
 ## How summaries are structured
@@ -343,9 +343,11 @@ In the lists below, the main link usually points to the English version if it ex
 <!-- OTHER_START -->
 #### Other
 - [Authentication & Refreshing Tokens Implementation](youtube-videos%2FAuthentication%20%26%20Refreshing%20Tokens%20Implementation%2Fsummary.en.md) [ [EN](youtube-videos%2FAuthentication%20%26%20Refreshing%20Tokens%20Implementation%2Fsummary.en.md) ]
+- [ClickHouse: Breaking the Speed Limit for Observability and Analytics](youtube-videos%2FClickHouse%3A%20Breaking%20the%20Speed%20Limit%20for%20Observability%20and%20Analytics%2Fsummary.en.md) [ [EN](youtube-videos%2FClickHouse%3A%20Breaking%20the%20Speed%20Limit%20for%20Observability%20and%20Analytics%2Fsummary.en.md) ]
 - [Creating MCP server with Laravel in less than 20 mins](youtube-videos%2FCreating%20MCP%20server%20with%20Laravel%20in%20less%20than%2020%20mins%2Fsummary.en.md) [ [EN](youtube-videos%2FCreating%20MCP%20server%20with%20Laravel%20in%20less%20than%2020%20mins%2Fsummary.en.md) ]
 - [Elasticsearch Course for Beginners](youtube-videos%2FElasticsearch%20Course%20for%20Beginners%2Fsummary.en.md) [ [EN](youtube-videos%2FElasticsearch%20Course%20for%20Beginners%2Fsummary.en.md) ]
 - [Full Laravel MCP Application with CodeRabbit AI (Part 1)](youtube-videos%2FFull%20Laravel%20MCP%20Application%20with%20CodeRabbit%20AI%20%28Part%201%29%2Fsummary.en.md) [ [EN](youtube-videos%2FFull%20Laravel%20MCP%20Application%20with%20CodeRabbit%20AI%20%28Part%201%29%2Fsummary.en.md) ]
+- [Full Laravel MCP Application with CodeRabbit AI (Part 2)](youtube-videos%2FFull%20Laravel%20MCP%20Application%20with%20CodeRabbit%20AI%20%28Part%202%29%2Fsummary.en.md) [ [EN](youtube-videos%2FFull%20Laravel%20MCP%20Application%20with%20CodeRabbit%20AI%20%28Part%202%29%2Fsummary.en.md) ]
 - [How Iterable Replaced RabbitMQ and Kafka with Pulsar](youtube-videos%2FHow%20Iterable%20Replaced%20RabbitMQ%20and%20Kafka%20with%20Pulsar%2Fsummary.en.md) [ [EN](youtube-videos%2FHow%20Iterable%20Replaced%20RabbitMQ%20and%20Kafka%20with%20Pulsar%2Fsummary.en.md) ]
 - [Laravel 12 in 11 hours - Laravel for Beginners Full Course](youtube-videos%2FLaravel%2012%20in%2011%20hours%20-%20Laravel%20for%20Beginners%20Full%20Course%2Fsummary.en.md) [ [EN](youtube-videos%2FLaravel%2012%20in%2011%20hours%20-%20Laravel%20for%20Beginners%20Full%20Course%2Fsummary.en.md) ]
 - [Learn Symfony in 1 Hour](youtube-videos%2FLearn%20Symfony%20in%201%20Hour%2Fsummary.en.md) [ [EN](youtube-videos%2FLearn%20Symfony%20in%201%20Hour%2Fsummary.en.md) ]
@@ -356,6 +358,8 @@ In the lists below, the main link usually points to the English version if it ex
 - [Node.js Crash Course](youtube-videos%2FNode.js%20Crash%20Course%2Fsummary.en.md) [ [EN](youtube-videos%2FNode.js%20Crash%20Course%2Fsummary.en.md) ]
 - [PostgreSQL Tutorial Full Course 2022](youtube-videos%2FPostgreSQL%20Tutorial%20Full%20Course%202022%2Fsummary.en.md) [ [EN](youtube-videos%2FPostgreSQL%20Tutorial%20Full%20Course%202022%2Fsummary.en.md) ]
 - [React Tutorial Full Course - Beginner to Pro (React 19, 2025)](youtube-videos%2FReact%20Tutorial%20Full%20Course%20-%20Beginner%20to%20Pro%20%28React%2019%2C%202025%29%2Fsummary.en.md) [ [EN](youtube-videos%2FReact%20Tutorial%20Full%20Course%20-%20Beginner%20to%20Pro%20%28React%2019%2C%202025%29%2Fsummary.en.md) ]
+- [Real World RabbitMQ: Exploring Practical Applications](youtube-videos%2FReal%20World%20RabbitMQ%3A%20Exploring%20Practical%20Applications%2Fsummary.en.md) [ [EN](youtube-videos%2FReal%20World%20RabbitMQ%3A%20Exploring%20Practical%20Applications%2Fsummary.en.md) ]
+- [Stripe Recurring Payments With Stripe API & PHP Part 1](youtube-videos%2FStripe%20Recurring%20Payments%20With%20Stripe%20API%20%26%20PHP%20Part%201%2Fsummary.en.md) [ [EN](youtube-videos%2FStripe%20Recurring%20Payments%20With%20Stripe%20API%20%26%20PHP%20Part%201%2Fsummary.en.md) ]
 - [TypeScript Tutorial for Beginners](youtube-videos%2FTypeScript%20Tutorial%20for%20Beginners%2Fsummary.en.md) [ [EN](youtube-videos%2FTypeScript%20Tutorial%20for%20Beginners%2Fsummary.en.md) ]
 <!-- OTHER_END -->
 
