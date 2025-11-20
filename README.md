@@ -61,7 +61,7 @@ Auto-generated overview of the repository structure:
   - [Software Engineering Practices (4)](#software-engineering-practices)
   - [System Design & Architecture (3)](#system-design-architecture)
   - [System Reliability Engineering (1)](#system-reliability-engineering)
-- [Other Categories (19)](#other-categories)
+- [Other Categories (20)](#other-categories)
 <!-- REPO_TOC_END -->
 
 ## How summaries are structured
@@ -349,6 +349,7 @@ In the lists below, the main link usually points to the English version if it ex
 - [Full Laravel MCP Application with CodeRabbit AI (Part 1)](youtube-videos%2FFull%20Laravel%20MCP%20Application%20with%20CodeRabbit%20AI%20%28Part%201%29%2Fsummary.en.md) [ [EN](youtube-videos%2FFull%20Laravel%20MCP%20Application%20with%20CodeRabbit%20AI%20%28Part%201%29%2Fsummary.en.md) ]
 - [Full Laravel MCP Application with CodeRabbit AI (Part 2)](youtube-videos%2FFull%20Laravel%20MCP%20Application%20with%20CodeRabbit%20AI%20%28Part%202%29%2Fsummary.en.md) [ [EN](youtube-videos%2FFull%20Laravel%20MCP%20Application%20with%20CodeRabbit%20AI%20%28Part%202%29%2Fsummary.en.md) ]
 - [How Iterable Replaced RabbitMQ and Kafka with Pulsar](youtube-videos%2FHow%20Iterable%20Replaced%20RabbitMQ%20and%20Kafka%20with%20Pulsar%2Fsummary.en.md) [ [EN](youtube-videos%2FHow%20Iterable%20Replaced%20RabbitMQ%20and%20Kafka%20with%20Pulsar%2Fsummary.en.md) ]
+- [How to Setup a Stripe Webhook in PHP to Automate Payments](youtube-videos%2FHow%20to%20Setup%20a%20Stripe%20Webhook%20in%20PHP%20to%20Automate%20Payments%2Fsummary.en.md) [ [EN](youtube-videos%2FHow%20to%20Setup%20a%20Stripe%20Webhook%20in%20PHP%20to%20Automate%20Payments%2Fsummary.en.md) ]
 - [Laravel 12 in 11 hours - Laravel for Beginners Full Course](youtube-videos%2FLaravel%2012%20in%2011%20hours%20-%20Laravel%20for%20Beginners%20Full%20Course%2Fsummary.en.md) [ [EN](youtube-videos%2FLaravel%2012%20in%2011%20hours%20-%20Laravel%20for%20Beginners%20Full%20Course%2Fsummary.en.md) ]
 - [Learn Symfony in 1 Hour](youtube-videos%2FLearn%20Symfony%20in%201%20Hour%2Fsummary.en.md) [ [EN](youtube-videos%2FLearn%20Symfony%20in%201%20Hour%2Fsummary.en.md) ]
 - [MASTER Angular in 90 Minutes with This Crash Course](youtube-videos%2FMASTER%20Angular%20in%2090%20Minutes%20with%20This%20Crash%20Course%2Fsummary.en.md) [ [EN](youtube-videos%2FMASTER%20Angular%20in%2090%20Minutes%20with%20This%20Crash%20Course%2Fsummary.en.md) ]
