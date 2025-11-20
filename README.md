@@ -61,7 +61,7 @@ Auto-generated overview of the repository structure:
   - [Software Engineering Practices (4)](#software-engineering-practices)
   - [System Design & Architecture (3)](#system-design-architecture)
   - [System Reliability Engineering (1)](#system-reliability-engineering)
-- [Other Categories (5)](#other-categories)
+- [Other Categories (6)](#other-categories)
 <!-- REPO_TOC_END -->
 
 ## How summaries are structured
@@ -342,6 +342,7 @@ In the lists below, the main link usually points to the English version if it ex
 ### Other Categories
 <!-- OTHER_START -->
 #### Other
+- [Authentication & Refreshing Tokens Implementation](youtube-videos%2FAuthentication%20%26%20Refreshing%20Tokens%20Implementation%2Fsummary.en.md) [ [EN](youtube-videos%2FAuthentication%20%26%20Refreshing%20Tokens%20Implementation%2Fsummary.en.md) ]
 - [Elasticsearch Course for Beginners](youtube-videos%2FElasticsearch%20Course%20for%20Beginners%2Fsummary.en.md) [ [EN](youtube-videos%2FElasticsearch%20Course%20for%20Beginners%2Fsummary.en.md) ]
 - [Learn Symfony in 1 Hour](youtube-videos%2FLearn%20Symfony%20in%201%20Hour%2Fsummary.en.md) [ [EN](youtube-videos%2FLearn%20Symfony%20in%201%20Hour%2Fsummary.en.md) ]
 - [PostgreSQL Tutorial Full Course 2022](youtube-videos%2FPostgreSQL%20Tutorial%20Full%20Course%202022%2Fsummary.en.md) [ [EN](youtube-videos%2FPostgreSQL%20Tutorial%20Full%20Course%202022%2Fsummary.en.md) ]
