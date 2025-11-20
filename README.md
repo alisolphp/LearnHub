@@ -61,7 +61,7 @@ Auto-generated overview of the repository structure:
   - [Software Engineering Practices (4)](#software-engineering-practices)
   - [System Design & Architecture (3)](#system-design-architecture)
   - [System Reliability Engineering (1)](#system-reliability-engineering)
-- [Other Categories (25)](#other-categories)
+- [Other Categories (28)](#other-categories)
 <!-- REPO_TOC_END -->
 
 ## How summaries are structured
@@ -350,6 +350,7 @@ In the lists below, the main link usually points to the English version if it ex
 - [Every Salesforce Cloud Explained | What are Salesforce Clouds?](youtube-videos%2FEvery%20Salesforce%20Cloud%20Explained%20%7C%20What%20are%20Salesforce%20Clouds%3F%2Fsummary.en.md) [ [EN](youtube-videos%2FEvery%20Salesforce%20Cloud%20Explained%20%7C%20What%20are%20Salesforce%20Clouds%3F%2Fsummary.en.md) ]
 - [Full Laravel MCP Application with CodeRabbit AI (Part 1)](youtube-videos%2FFull%20Laravel%20MCP%20Application%20with%20CodeRabbit%20AI%20%28Part%201%29%2Fsummary.en.md) [ [EN](youtube-videos%2FFull%20Laravel%20MCP%20Application%20with%20CodeRabbit%20AI%20%28Part%201%29%2Fsummary.en.md) ]
 - [Full Laravel MCP Application with CodeRabbit AI (Part 2)](youtube-videos%2FFull%20Laravel%20MCP%20Application%20with%20CodeRabbit%20AI%20%28Part%202%29%2Fsummary.en.md) [ [EN](youtube-videos%2FFull%20Laravel%20MCP%20Application%20with%20CodeRabbit%20AI%20%28Part%202%29%2Fsummary.en.md) ]
+- [Getting Started with Kibana (tutorial)](youtube-videos%2FGetting%20Started%20with%20Kibana%20%28tutorial%29%2Fsummary.en.md) [ [EN](youtube-videos%2FGetting%20Started%20with%20Kibana%20%28tutorial%29%2Fsummary.en.md) ]
 - [How Iterable Replaced RabbitMQ and Kafka with Pulsar](youtube-videos%2FHow%20Iterable%20Replaced%20RabbitMQ%20and%20Kafka%20with%20Pulsar%2Fsummary.en.md) [ [EN](youtube-videos%2FHow%20Iterable%20Replaced%20RabbitMQ%20and%20Kafka%20with%20Pulsar%2Fsummary.en.md) ]
 - [How to Setup a Stripe Webhook in PHP to Automate Payments](youtube-videos%2FHow%20to%20Setup%20a%20Stripe%20Webhook%20in%20PHP%20to%20Automate%20Payments%2Fsummary.en.md) [ [EN](youtube-videos%2FHow%20to%20Setup%20a%20Stripe%20Webhook%20in%20PHP%20to%20Automate%20Payments%2Fsummary.en.md) ]
 - [Implement Stripe with PHP | Step by Step Guide](youtube-videos%2FImplement%20Stripe%20with%20PHP%20%7C%20Step%20by%20Step%20Guide%2Fsummary.en.md) [ [EN](youtube-videos%2FImplement%20Stripe%20with%20PHP%20%7C%20Step%20by%20Step%20Guide%2Fsummary.en.md) ]
@@ -360,12 +361,14 @@ In the lists below, the main link usually points to the English version if it ex
 - [MongoDB Complete Course Tutorial](youtube-videos%2FMongoDB%20Complete%20Course%20Tutorial%2Fsummary.en.md) [ [EN](youtube-videos%2FMongoDB%20Complete%20Course%20Tutorial%2Fsummary.en.md) ]
 - [MongoDB Tutorial in 1 Hour (2024)](youtube-videos%2FMongoDB%20Tutorial%20in%201%20Hour%20%282024%29%2Fsummary.en.md) [ [EN](youtube-videos%2FMongoDB%20Tutorial%20in%201%20Hour%20%282024%29%2Fsummary.en.md) ]
 - [Node.js Crash Course](youtube-videos%2FNode.js%20Crash%20Course%2Fsummary.en.md) [ [EN](youtube-videos%2FNode.js%20Crash%20Course%2Fsummary.en.md) ]
+- [Object-oriented Programming in JavaScript: Made Super Simple](youtube-videos%2FObject-oriented%20Programming%20in%20JavaScript%3A%20Made%20Super%20Simple%2Fsummary.en.md) [ [EN](youtube-videos%2FObject-oriented%20Programming%20in%20JavaScript%3A%20Made%20Super%20Simple%2Fsummary.en.md) ]
 - [PostgreSQL Tutorial Full Course 2022](youtube-videos%2FPostgreSQL%20Tutorial%20Full%20Course%202022%2Fsummary.en.md) [ [EN](youtube-videos%2FPostgreSQL%20Tutorial%20Full%20Course%202022%2Fsummary.en.md) ]
 - [React Tutorial Full Course - Beginner to Pro (React 19, 2025)](youtube-videos%2FReact%20Tutorial%20Full%20Course%20-%20Beginner%20to%20Pro%20%28React%2019%2C%202025%29%2Fsummary.en.md) [ [EN](youtube-videos%2FReact%20Tutorial%20Full%20Course%20-%20Beginner%20to%20Pro%20%28React%2019%2C%202025%29%2Fsummary.en.md) ]
 - [Real World RabbitMQ: Exploring Practical Applications](youtube-videos%2FReal%20World%20RabbitMQ%3A%20Exploring%20Practical%20Applications%2Fsummary.en.md) [ [EN](youtube-videos%2FReal%20World%20RabbitMQ%3A%20Exploring%20Practical%20Applications%2Fsummary.en.md) ]
 - [Stripe Recurring Payments With Stripe API & PHP Part 1](youtube-videos%2FStripe%20Recurring%20Payments%20With%20Stripe%20API%20%26%20PHP%20Part%201%2Fsummary.en.md) [ [EN](youtube-videos%2FStripe%20Recurring%20Payments%20With%20Stripe%20API%20%26%20PHP%20Part%201%2Fsummary.en.md) ]
 - [Stripe Recurring Payments With Stripe API & PHP Part 2](youtube-videos%2FStripe%20Recurring%20Payments%20With%20Stripe%20API%20%26%20PHP%20Part%202%2Fsummary.en.md) [ [EN](youtube-videos%2FStripe%20Recurring%20Payments%20With%20Stripe%20API%20%26%20PHP%20Part%202%2Fsummary.en.md) ]
 - [TypeScript Tutorial for Beginners](youtube-videos%2FTypeScript%20Tutorial%20for%20Beginners%2Fsummary.en.md) [ [EN](youtube-videos%2FTypeScript%20Tutorial%20for%20Beginners%2Fsummary.en.md) ]
+- [UML Diagrams Full Course (Unified Modeling Language)](youtube-videos%2FUML%20Diagrams%20Full%20Course%20%28Unified%20Modeling%20Language%29%2Fsummary.en.md) [ [EN](youtube-videos%2FUML%20Diagrams%20Full%20Course%20%28Unified%20Modeling%20Language%29%2Fsummary.en.md) ]
 - [WordPress as a MCP Server | Jon learns to code with AI](youtube-videos%2FWordPress%20as%20a%20MCP%20Server%20%7C%20Jon%20learns%20to%20code%20with%20AI%2Fsummary.en.md) [ [EN](youtube-videos%2FWordPress%20as%20a%20MCP%20Server%20%7C%20Jon%20learns%20to%20code%20with%20AI%2Fsummary.en.md) ]
 <!-- OTHER_END -->
 
