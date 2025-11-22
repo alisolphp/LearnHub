@@ -1,7 +1,7 @@
 [![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
     
 # LearnHub
-> Learn and review tech topics efficiently using concise, high-quality summaries. 
+> Learn and review tech topics efficiently using concise, high-quality summaries.
 
 ## Important disclaimer
 
@@ -47,60 +47,67 @@ A simple workflow is:
 Auto-generated overview of the repository structure:
 
 - [Courses (22)](#courses)
-  - [API & Documentation (1)](#api-documentation)
-  - [Cloud Computing (4)](#cloud-computing)
+  - [API & Tooling (1)](#api-tooling)
+  - [Cloud Platforms (3)](#cloud-platforms)
   - [Design Patterns (2)](#design-patterns)
+  - [DevOps & Containerization (1)](#devops-containerization)
   - [General (1)](#general)
   - [Go/Golang (2)](#go-golang)
-  - [Microservices & Docker (5)](#microservices-docker)
+  - [Microservices & Serverless (4)](#microservices-serverless)
   - [PHP Ecosystem (3)](#php-ecosystem)
-  - [Testing (4)](#testing)
+  - [Software Testing & QA (5)](#software-testing-qa)
 - [Mock Interviews – System Design (29)](#mock-interviews--system-design)
-  - [Cloud Infrastructure & Tools (5)](#cloud-infrastructure-tools)
-  - [E-commerce (1)](#e-commerce)
+  - [Core Infrastructure & Systems (7)](#core-infrastructure-systems)
+  - [E-commerce & Retail (1)](#e-commerce-retail)
+  - [File Storage & Sharing (2)](#file-storage-sharing)
   - [Fintech & Payment (2)](#fintech-payment)
-  - [General System Design (8)](#general-system-design)
   - [Location-Based Services (3)](#location-based-services)
-  - [Messaging & Communication (2)](#messaging-communication)
-  - [Search & Autocomplete (2)](#search-autocomplete)
+  - [Messaging & Collaboration (2)](#messaging-collaboration)
+  - [Notifications & Scheduling (1)](#notifications-scheduling)
+  - [Other (2)](#other)
+  - [Search & Discovery (2)](#search-discovery)
   - [Social Media (4)](#social-media)
   - [Streaming Services (2)](#streaming-services)
-- [YouTube Videos (82)](#youtube-videos)
-  - [AI Tools & Engineering (4)](#ai-tools-engineering)
-  - [Cloud & DevOps (3)](#cloud-devops)
-  - [Coding Tools & Techniques (3)](#coding-tools-techniques)
-  - [Data Stores & Databases (10)](#data-stores-databases)
-  - [Documentation & Modeling (3)](#documentation-modeling)
-  - [General (3)](#general)
+  - [Travel & Hospitality (1)](#travel-hospitality)
+- [YouTube Videos (121)](#youtube-videos)
+  - [AI Tools & Engineering (6)](#ai-tools-engineering)
+  - [C# & .NET (3)](#c-net)
+  - [Cloud Computing & DevOps (6)](#cloud-computing-devops)
+  - [Databases (8)](#databases)
+  - [Documentation & Modeling (4)](#documentation-modeling)
+  - [E-commerce (1)](#e-commerce)
   - [General Programming & Algorithms (16)](#general-programming-algorithms)
-  - [Go/Golang (2)](#go-golang)
-  - [JavaScript & TypeScript Ecosystem (8)](#javascript-typescript-ecosystem)
-  - [Networking & Infrastructure (4)](#networking-infrastructure)
-  - [Other Languages & Frameworks (6)](#other-languages-frameworks)
-  - [Payment Processing (2)](#payment-processing)
-  - [PHP Ecosystem (15)](#php-ecosystem)
-  - [Queues & Messaging (3)](#queues-messaging)
+  - [Go/Golang (3)](#go-golang)
+  - [Infrastructure & System Administration (7)](#infrastructure-system-administration)
+  - [JavaScript & TypeScript Ecosystem (16)](#javascript-typescript-ecosystem)
+  - [Message Queues & Streaming (3)](#message-queues-streaming)
+  - [Other (1)](#other)
+  - [Other Languages & Tools (6)](#other-languages-tools)
+  - [PHP Ecosystem (19)](#php-ecosystem)
+  - [Python (3)](#python)
+  - [Ruby (3)](#ruby)
+  - [Security (6)](#security)
+  - [WordPress & CMS (10)](#wordpress-cms)
 - [Books (14)](#books)
-  - [Career & Soft Skills (2)](#career-soft-skills)
-  - [Data Engineering & Machine Learning (2)](#data-engineering-machine-learning)
-  - [Software Engineering Principles (4)](#software-engineering-principles)
-  - [System Design & Architecture (6)](#system-design-architecture)
+  - [Data Engineering & ML (2)](#data-engineering-ml)
+  - [Leadership & Soft Skills (2)](#leadership-soft-skills)
+  - [Reliability Engineering (1)](#reliability-engineering)
+  - [Software Engineering Practices (4)](#software-engineering-practices)
+  - [System Design & Architecture (5)](#system-design-architecture)
 <!-- REPO_TOC_END -->
 
 ## Repository structure
 
 ### Courses
 <!-- COURSES_START -->
-<h4 id="api-documentation">API &amp; Documentation</h4>
+<h4 id="api-tooling">API &amp; Tooling</h4>
 
 - [Udemy Openapi Specification Swagger Tools Zero To Master](courses%2Fudemy-openapi-specification-swagger-tools-zero-to-master%2Fsummary.en.md) [ [EN](courses%2Fudemy-openapi-specification-swagger-tools-zero-to-master%2Fsummary.en.md) | [FA](courses%2Fudemy-openapi-specification-swagger-tools-zero-to-master%2Fsummary.fa.md) ]
 
 
-<h4 id="cloud-computing">Cloud Computing</h4>
+<h4 id="cloud-platforms">Cloud Platforms</h4>
 
 - [Linkedin Aws Essential Training For Developers](courses%2Flinkedin-aws-essential-training-for-developers%2Fsummary.en.md) [ [EN](courses%2Flinkedin-aws-essential-training-for-developers%2Fsummary.en.md) | [FA](courses%2Flinkedin-aws-essential-training-for-developers%2Fsummary.fa.md) ]
-
-- [Linkedin Serverless Architecture](courses%2Flinkedin-serverless-architecture%2Fsummary.en.md) [ [EN](courses%2Flinkedin-serverless-architecture%2Fsummary.en.md) | [FA](courses%2Flinkedin-serverless-architecture%2Fsummary.fa.md) ]
 
 - [Udemy Google Cloud Platform Gcp Fundamentals For Beginners](courses%2Fudemy-google-cloud-platform-gcp-fundamentals-for-beginners%2Fsummary.en.md) [ [EN](courses%2Fudemy-google-cloud-platform-gcp-fundamentals-for-beginners%2Fsummary.en.md) | [FA](courses%2Fudemy-google-cloud-platform-gcp-fundamentals-for-beginners%2Fsummary.fa.md) ]
 
@@ -112,6 +119,11 @@ Auto-generated overview of the repository structure:
 - [Code With Mosh Mastering Design Patterns Part 1](courses%2Fcode-with-mosh-mastering-design-patterns-part-1%2Fsummary.en.md) [ [EN](courses%2Fcode-with-mosh-mastering-design-patterns-part-1%2Fsummary.en.md) | [FA](courses%2Fcode-with-mosh-mastering-design-patterns-part-1%2Fsummary.fa.md) ]
 
 - [Code With Mosh Mastering Design Patterns Part 2](courses%2Fcode-with-mosh-mastering-design-patterns-part-2%2Fsummary.en.md) [ [EN](courses%2Fcode-with-mosh-mastering-design-patterns-part-2%2Fsummary.en.md) | [FA](courses%2Fcode-with-mosh-mastering-design-patterns-part-2%2Fsummary.fa.md) ]
+
+
+<h4 id="devops-containerization">DevOps &amp; Containerization</h4>
+
+- [Udemy Docker Bootcamp Conquer Docker With Real World Projects](courses%2Fudemy-docker-bootcamp-conquer-docker-with-real-world-projects%2Fsummary.en.md) [ [EN](courses%2Fudemy-docker-bootcamp-conquer-docker-with-real-world-projects%2Fsummary.en.md) | [FA](courses%2Fudemy-docker-bootcamp-conquer-docker-with-real-world-projects%2Fsummary.fa.md) ]
 
 
 <h4 id="general">General</h4>
@@ -126,13 +138,11 @@ Auto-generated overview of the repository structure:
 - [Udemy Learn How To Code Googles Go Golang Programming Language](courses%2Fudemy-learn-how-to-code-googles-go-golang-programming-language%2Fsummary.en.md) [ [EN](courses%2Fudemy-learn-how-to-code-googles-go-golang-programming-language%2Fsummary.en.md) | [FA](courses%2Fudemy-learn-how-to-code-googles-go-golang-programming-language%2Fsummary.fa.md) ]
 
 
-<h4 id="microservices-docker">Microservices &amp; Docker</h4>
+<h4 id="microservices-serverless">Microservices &amp; Serverless</h4>
 
 - [Linkedin Microservices Asynchronous Messaging](courses%2Flinkedin-microservices-asynchronous-messaging%2Fsummary.en.md) [ [EN](courses%2Flinkedin-microservices-asynchronous-messaging%2Fsummary.en.md) | [FA](courses%2Flinkedin-microservices-asynchronous-messaging%2Fsummary.fa.md) ]
 
-- [Udemy Docker Bootcamp Conquer Docker With Real World Projects](courses%2Fudemy-docker-bootcamp-conquer-docker-with-real-world-projects%2Fsummary.en.md) [ [EN](courses%2Fudemy-docker-bootcamp-conquer-docker-with-real-world-projects%2Fsummary.en.md) | [FA](courses%2Fudemy-docker-bootcamp-conquer-docker-with-real-world-projects%2Fsummary.fa.md) ]
-
-- [Udemy K6 Automate Performance Load Testing Of Api Microservices](courses%2Fudemy-k6-automate-performance-load-testing-of-api-microservices%2Fsummary.en.md) [ [EN](courses%2Fudemy-k6-automate-performance-load-testing-of-api-microservices%2Fsummary.en.md) | [FA](courses%2Fudemy-k6-automate-performance-load-testing-of-api-microservices%2Fsummary.fa.md) ]
+- [Linkedin Serverless Architecture](courses%2Flinkedin-serverless-architecture%2Fsummary.en.md) [ [EN](courses%2Flinkedin-serverless-architecture%2Fsummary.en.md) | [FA](courses%2Flinkedin-serverless-architecture%2Fsummary.fa.md) ]
 
 - [Udemy Learn Microservices With Dockers](courses%2Fudemy-learn-microservices-with-dockers%2Fsummary.en.md) [ [EN](courses%2Fudemy-learn-microservices-with-dockers%2Fsummary.en.md) | [FA](courses%2Fudemy-learn-microservices-with-dockers%2Fsummary.fa.md) ]
 
@@ -148,7 +158,7 @@ Auto-generated overview of the repository structure:
 - [Laracasts Learn Laravel Horizon](courses%2Flaracasts-learn-laravel-horizon%2Fsummary.en.md) [ [EN](courses%2Flaracasts-learn-laravel-horizon%2Fsummary.en.md) | [FA](courses%2Flaracasts-learn-laravel-horizon%2Fsummary.fa.md) ]
 
 
-<h4 id="testing">Testing</h4>
+<h4 id="software-testing-qa">Software Testing &amp; QA</h4>
 
 - [Coursera Introduction To Test And Behavior Driven Development](courses%2Fcoursera-introduction-to-test-and-behavior-driven-development%2Fsummary.en.md) [ [EN](courses%2Fcoursera-introduction-to-test-and-behavior-driven-development%2Fsummary.en.md) | [FA](courses%2Fcoursera-introduction-to-test-and-behavior-driven-development%2Fsummary.fa.md) ]
 
@@ -156,27 +166,40 @@ Auto-generated overview of the repository structure:
 
 - [Pluralsight Writing Highly Maintainable Unit Tests](courses%2Fpluralsight-writing-highly-maintainable-unit-tests%2Fsummary.en.md) [ [EN](courses%2Fpluralsight-writing-highly-maintainable-unit-tests%2Fsummary.en.md) | [FA](courses%2Fpluralsight-writing-highly-maintainable-unit-tests%2Fsummary.fa.md) ]
 
+- [Udemy K6 Automate Performance Load Testing Of Api Microservices](courses%2Fudemy-k6-automate-performance-load-testing-of-api-microservices%2Fsummary.en.md) [ [EN](courses%2Fudemy-k6-automate-performance-load-testing-of-api-microservices%2Fsummary.en.md) | [FA](courses%2Fudemy-k6-automate-performance-load-testing-of-api-microservices%2Fsummary.fa.md) ]
+
 - [Udemy Mastering Unit And Integration Testing In Clean Architecture](courses%2Fudemy-mastering-unit-and-integration-testing-in-clean-architecture%2Fsummary.en.md) [ [EN](courses%2Fudemy-mastering-unit-and-integration-testing-in-clean-architecture%2Fsummary.en.md) | [FA](courses%2Fudemy-mastering-unit-and-integration-testing-in-clean-architecture%2Fsummary.fa.md) ]
 <!-- COURSES_END -->
 
 ### Mock Interviews – System Design
 <!-- SYSTEM_DESIGN_START -->
-<h4 id="cloud-infrastructure-tools">Cloud Infrastructure &amp; Tools</h4>
+<h4 id="core-infrastructure-systems">Core Infrastructure &amp; Systems</h4>
 
 - [Design Content Delivery Network | CDN](mock-interviews%2Fsystem-design%2FDesign%20Content%20Delivery%20Network%20%7C%20CDN%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20Content%20Delivery%20Network%20%7C%20CDN%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20Content%20Delivery%20Network%20%7C%20CDN%2Fsummary.fa.md) ]
 
 - [Design Distributed Cache](mock-interviews%2Fsystem-design%2FDesign%20Distributed%20Cache%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20Distributed%20Cache%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20Distributed%20Cache%2Fsummary.fa.md) ]
 
+- [Design Distributed Job Scheduler | Systems Design Interview Questions With Ex Google SWE](mock-interviews%2Fsystem-design%2FDesign%20Distributed%20Job%20Scheduler%20%7C%20Systems%20Design%20Interview%20Questions%20With%20Ex-Google%20SWE%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20Distributed%20Job%20Scheduler%20%7C%20Systems%20Design%20Interview%20Questions%20With%20Ex-Google%20SWE%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20Distributed%20Job%20Scheduler%20%7C%20Systems%20Design%20Interview%20Questions%20With%20Ex-Google%20SWE%2Fsummary.fa.md) ]
+
 - [Design Distributed Key Value Store](mock-interviews%2Fsystem-design%2FDesign%20Distributed%20Key-Value%20Store%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20Distributed%20Key-Value%20Store%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20Distributed%20Key-Value%20Store%2Fsummary.fa.md) ]
+
+- [Design Distributed Locking Service | With Ex Google SWE](mock-interviews%2Fsystem-design%2FDesign%20Distributed%20Locking%20Service%20%7C%20With%20Ex-Google%20SWE%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20Distributed%20Locking%20Service%20%7C%20With%20Ex-Google%20SWE%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20Distributed%20Locking%20Service%20%7C%20With%20Ex-Google%20SWE%2Fsummary.fa.md) ]
 
 - [Design Distributed Message Queue Like Kafka](mock-interviews%2Fsystem-design%2FDesign%20Distributed%20Message%20Queue%20like%20Kafka%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20Distributed%20Message%20Queue%20like%20Kafka%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20Distributed%20Message%20Queue%20like%20Kafka%2Fsummary.fa.md) ]
 
 - [Design Rate Limiter | Token Bucket, Leaky Bucket, Sliding Logs](mock-interviews%2Fsystem-design%2FDesign%20Rate%20Limiter%20%7C%20Token%20Bucket%2C%20Leaky%20Bucket%2C%20Sliding%20Logs%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20Rate%20Limiter%20%7C%20Token%20Bucket%2C%20Leaky%20Bucket%2C%20Sliding%20Logs%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20Rate%20Limiter%20%7C%20Token%20Bucket%2C%20Leaky%20Bucket%2C%20Sliding%20Logs%2Fsummary.fa.md) ]
 
 
-<h4 id="e-commerce">E-commerce</h4>
+<h4 id="e-commerce-retail">E-commerce &amp; Retail</h4>
 
 - [Design E Commerce Store Like Amazon | Flipkart](mock-interviews%2Fsystem-design%2FDesign%20E-commerce%20Store%20like%20Amazon%20%7C%20Flipkart%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20E-commerce%20Store%20like%20Amazon%20%7C%20Flipkart%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20E-commerce%20Store%20like%20Amazon%20%7C%20Flipkart%2Fsummary.fa.md) ]
+
+
+<h4 id="file-storage-sharing">File Storage &amp; Sharing</h4>
+
+- [Design File Sharing System Like Dropbox And Google Drive](mock-interviews%2Fsystem-design%2FDesign%20File%20Sharing%20System%20like%20Dropbox%20and%20Google%20Drive%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20File%20Sharing%20System%20like%20Dropbox%20and%20Google%20Drive%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20File%20Sharing%20System%20like%20Dropbox%20and%20Google%20Drive%2Fsummary.fa.md) ]
+
+- [Design Text Storage Service Like Pastebin](mock-interviews%2Fsystem-design%2FDesign%20Text%20Storage%20Service%20like%20Pastebin%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20Text%20Storage%20Service%20like%20Pastebin%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20Text%20Storage%20Service%20like%20Pastebin%2Fsummary.fa.md) ]
 
 
 <h4 id="fintech-payment">Fintech &amp; Payment</h4>
@@ -184,25 +207,6 @@ Auto-generated overview of the repository structure:
 - [Design A Digital Wallet (3+ Approaches) | Google Interview Question](mock-interviews%2Fsystem-design%2FDesign%20a%20Digital%20Wallet%20%283%2B%20Approaches%29%20%7C%20Google%20Interview%20Question%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20a%20Digital%20Wallet%20%283%2B%20Approaches%29%20%7C%20Google%20Interview%20Question%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20a%20Digital%20Wallet%20%283%2B%20Approaches%29%20%7C%20Google%20Interview%20Question%2Fsummary.fa.md) ]
 
 - [Design Payment System](mock-interviews%2Fsystem-design%2FDesign%20Payment%20System%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20Payment%20System%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20Payment%20System%2Fsummary.fa.md) ]
-
-
-<h4 id="general-system-design">General System Design</h4>
-
-- [Design Authentication System | Design A Simple Authentication](mock-interviews%2Fsystem-design%2FDesign%20Authentication%20System%20%7C%20Design%20a%20Simple%20Authentication%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20Authentication%20System%20%7C%20Design%20a%20Simple%20Authentication%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20Authentication%20System%20%7C%20Design%20a%20Simple%20Authentication%2Fsummary.fa.md) ]
-
-- [Design Distributed Job Scheduler | Systems Design Interview Questions With Ex Google SWE](mock-interviews%2Fsystem-design%2FDesign%20Distributed%20Job%20Scheduler%20%7C%20Systems%20Design%20Interview%20Questions%20With%20Ex-Google%20SWE%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20Distributed%20Job%20Scheduler%20%7C%20Systems%20Design%20Interview%20Questions%20With%20Ex-Google%20SWE%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20Distributed%20Job%20Scheduler%20%7C%20Systems%20Design%20Interview%20Questions%20With%20Ex-Google%20SWE%2Fsummary.fa.md) ]
-
-- [Design Distributed Locking Service | With Ex Google SWE](mock-interviews%2Fsystem-design%2FDesign%20Distributed%20Locking%20Service%20%7C%20With%20Ex-Google%20SWE%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20Distributed%20Locking%20Service%20%7C%20With%20Ex-Google%20SWE%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20Distributed%20Locking%20Service%20%7C%20With%20Ex-Google%20SWE%2Fsummary.fa.md) ]
-
-- [Design File Sharing System Like Dropbox And Google Drive](mock-interviews%2Fsystem-design%2FDesign%20File%20Sharing%20System%20like%20Dropbox%20and%20Google%20Drive%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20File%20Sharing%20System%20like%20Dropbox%20and%20Google%20Drive%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20File%20Sharing%20System%20like%20Dropbox%20and%20Google%20Drive%2Fsummary.fa.md) ]
-
-- [Design Flight Booking System | Airline Reservation System | Distributed Transactions, Serialisation, Linearisation, Consistency](mock-interviews%2Fsystem-design%2FDesign%20Flight%20Booking%20System%20%7C%20Airline%20Reservation%20System%20%7C%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20Flight%20Booking%20System%20%7C%20Airline%20Reservation%20System%20%7C%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20Flight%20Booking%20System%20%7C%20Airline%20Reservation%20System%20%7C%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency%2Fsummary.fa.md) ]
-
-- [Design Online Code Editor | With @CSDojo](mock-interviews%2Fsystem-design%2FDesign%20Online%20Code%20Editor%20%7C%20with%20%40CSDojo%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20Online%20Code%20Editor%20%7C%20with%20%40CSDojo%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20Online%20Code%20Editor%20%7C%20with%20%40CSDojo%2Fsummary.fa.md) ]
-
-- [Design Parking Garage | Vending Machine | Amazon System Design Interview](mock-interviews%2Fsystem-design%2FDesign%20Parking%20Garage%20%7C%20Vending%20Machine%20%7C%20Amazon%20System%20Design%20Interview%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20Parking%20Garage%20%7C%20Vending%20Machine%20%7C%20Amazon%20System%20Design%20Interview%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20Parking%20Garage%20%7C%20Vending%20Machine%20%7C%20Amazon%20System%20Design%20Interview%2Fsummary.fa.md) ]
-
-- [Design Text Storage Service Like Pastebin](mock-interviews%2Fsystem-design%2FDesign%20Text%20Storage%20Service%20like%20Pastebin%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20Text%20Storage%20Service%20like%20Pastebin%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20Text%20Storage%20Service%20like%20Pastebin%2Fsummary.fa.md) ]
 
 
 <h4 id="location-based-services">Location-Based Services</h4>
@@ -214,14 +218,26 @@ Auto-generated overview of the repository structure:
 - [Design Uber | OLA | Amazon System Design Interview](mock-interviews%2Fsystem-design%2FDesign%20Uber%20%7C%20OLA%20%7C%20Amazon%20System%20Design%20Interview%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20Uber%20%7C%20OLA%20%7C%20Amazon%20System%20Design%20Interview%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20Uber%20%7C%20OLA%20%7C%20Amazon%20System%20Design%20Interview%2Fsummary.fa.md) ]
 
 
-<h4 id="messaging-communication">Messaging &amp; Communication</h4>
+<h4 id="messaging-collaboration">Messaging &amp; Collaboration</h4>
 
-- [Design Notification Service System | Handle Billions Of Users & Notifications](mock-interviews%2Fsystem-design%2FDesign%20Notification%20Service%20System%20%7C%20Handle%20Billions%20of%20users%20%26%20Notifications%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20Notification%20Service%20System%20%7C%20Handle%20Billions%20of%20users%20%26%20Notifications%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20Notification%20Service%20System%20%7C%20Handle%20Billions%20of%20users%20%26%20Notifications%2Fsummary.fa.md) ]
+- [Design Online Code Editor | With @CSDojo](mock-interviews%2Fsystem-design%2FDesign%20Online%20Code%20Editor%20%7C%20with%20%40CSDojo%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20Online%20Code%20Editor%20%7C%20with%20%40CSDojo%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20Online%20Code%20Editor%20%7C%20with%20%40CSDojo%2Fsummary.fa.md) ]
 
 - [Design WhatsApp | Chat Messaging Systems](mock-interviews%2Fsystem-design%2FDesign%20WhatsApp%20%7C%20Chat%20Messaging%20Systems%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20WhatsApp%20%7C%20Chat%20Messaging%20Systems%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20WhatsApp%20%7C%20Chat%20Messaging%20Systems%2Fsummary.fa.md) ]
 
 
-<h4 id="search-autocomplete">Search &amp; Autocomplete</h4>
+<h4 id="notifications-scheduling">Notifications &amp; Scheduling</h4>
+
+- [Design Notification Service System | Handle Billions Of Users & Notifications](mock-interviews%2Fsystem-design%2FDesign%20Notification%20Service%20System%20%7C%20Handle%20Billions%20of%20users%20%26%20Notifications%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20Notification%20Service%20System%20%7C%20Handle%20Billions%20of%20users%20%26%20Notifications%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20Notification%20Service%20System%20%7C%20Handle%20Billions%20of%20users%20%26%20Notifications%2Fsummary.fa.md) ]
+
+
+<h4 id="other">Other</h4>
+
+- [Design Authentication System | Design A Simple Authentication](mock-interviews%2Fsystem-design%2FDesign%20Authentication%20System%20%7C%20Design%20a%20Simple%20Authentication%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20Authentication%20System%20%7C%20Design%20a%20Simple%20Authentication%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20Authentication%20System%20%7C%20Design%20a%20Simple%20Authentication%2Fsummary.fa.md) ]
+
+- [Design Parking Garage | Vending Machine | Amazon System Design Interview](mock-interviews%2Fsystem-design%2FDesign%20Parking%20Garage%20%7C%20Vending%20Machine%20%7C%20Amazon%20System%20Design%20Interview%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20Parking%20Garage%20%7C%20Vending%20Machine%20%7C%20Amazon%20System%20Design%20Interview%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20Parking%20Garage%20%7C%20Vending%20Machine%20%7C%20Amazon%20System%20Design%20Interview%2Fsummary.fa.md) ]
+
+
+<h4 id="search-discovery">Search &amp; Discovery</h4>
 
 - [Design Autocomplete For Search Engines | Typeahead Suggestions For Google Search](mock-interviews%2Fsystem-design%2FDesign%20Autocomplete%20for%20Search%20Engines%20%7C%20Typeahead%20Suggestions%20for%20Google%20search%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20Autocomplete%20for%20Search%20Engines%20%7C%20Typeahead%20Suggestions%20for%20Google%20search%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20Autocomplete%20for%20Search%20Engines%20%7C%20Typeahead%20Suggestions%20for%20Google%20search%2Fsummary.fa.md) ]
 
@@ -244,6 +260,11 @@ Auto-generated overview of the repository structure:
 - [Design Netflix System](mock-interviews%2Fsystem-design%2FDesign%20Netflix%20System%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20Netflix%20System%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20Netflix%20System%2Fsummary.fa.md) ]
 
 - [Design Spotify | Ex Google EM | Google System Design Interview](mock-interviews%2Fsystem-design%2FDesign%20Spotify%20%7C%20ex-Google%20EM%20%7C%20Google%20System%20Design%20Interview%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20Spotify%20%7C%20ex-Google%20EM%20%7C%20Google%20System%20Design%20Interview%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20Spotify%20%7C%20ex-Google%20EM%20%7C%20Google%20System%20Design%20Interview%2Fsummary.fa.md) ]
+
+
+<h4 id="travel-hospitality">Travel &amp; Hospitality</h4>
+
+- [Design Flight Booking System | Airline Reservation System | Distributed Transactions, Serialisation, Linearisation, Consistency](mock-interviews%2Fsystem-design%2FDesign%20Flight%20Booking%20System%20%7C%20Airline%20Reservation%20System%20%7C%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20Flight%20Booking%20System%20%7C%20Airline%20Reservation%20System%20%7C%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20Flight%20Booking%20System%20%7C%20Airline%20Reservation%20System%20%7C%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency%2Fsummary.fa.md) ]
 <!-- SYSTEM_DESIGN_END -->
 
 ### YouTube Videos
@@ -254,40 +275,46 @@ Auto-generated overview of the repository structure:
 
 - [ClickHouse For AI ML: An Overview (Open House)](youtube-videos%2FClickHouse%20for%20AI%20ML%3A%20An%20Overview%20%28Open%20House%29%2Fsummary.en.md) [ [EN](youtube-videos%2FClickHouse%20for%20AI%20ML%3A%20An%20Overview%20%28Open%20House%29%2Fsummary.en.md) ]
 
+- [CodeRabbit Demo With Usecases](youtube-videos%2FCodeRabbit%20Demo%20with%20usecases%2Fsummary.en.md) [ [EN](youtube-videos%2FCodeRabbit%20Demo%20with%20usecases%2Fsummary.en.md) ]
+
+- [EASIEST Way To Fine Tune A LLM And Use It With Ollama](youtube-videos%2FEASIEST%20Way%20to%20Fine-Tune%20a%20LLM%20and%20Use%20It%20With%20Ollama%2Fsummary.en.md) [ [EN](youtube-videos%2FEASIEST%20Way%20to%20Fine-Tune%20a%20LLM%20and%20Use%20It%20With%20Ollama%2Fsummary.en.md) ]
+
 - [How To Use Cursor AI (Full Tutorial For Beginners 2025)](youtube-videos%2FHow%20To%20Use%20Cursor%20AI%20%28Full%20Tutorial%20For%20Beginners%202025%29%2Fsummary.en.md) [ [EN](youtube-videos%2FHow%20To%20Use%20Cursor%20AI%20%28Full%20Tutorial%20For%20Beginners%202025%29%2Fsummary.en.md) ]
 
-- [WordPress As A MCP Server | Jon Learns To Code With AI](youtube-videos%2FWordPress%20as%20a%20MCP%20Server%20%7C%20Jon%20learns%20to%20code%20with%20AI%2Fsummary.en.md) [ [EN](youtube-videos%2FWordPress%20as%20a%20MCP%20Server%20%7C%20Jon%20learns%20to%20code%20with%20AI%2Fsummary.en.md) ]
+- [Windsurf Tutorial For Beginners (AI Code Editor)](youtube-videos%2FWindsurf%20Tutorial%20for%20Beginners%20%28AI%20Code%20Editor%29%2Fsummary.en.md) [ [EN](youtube-videos%2FWindsurf%20Tutorial%20for%20Beginners%20%28AI%20Code%20Editor%29%2Fsummary.en.md) ]
 
 
-<h4 id="cloud-devops">Cloud &amp; DevOps</h4>
+<h4 id="c-net">C# &amp; .NET</h4>
+
+- [.NET 8 Crash Course | Learn Dotnet, C#, Entity Framework](youtube-videos%2F.NET%208%20Crash%20Course%20%7C%20Learn%20Dotnet%2C%20C%23%2C%20Entity%20Framework%2Fsummary.en.md) [ [EN](youtube-videos%2F.NET%208%20Crash%20Course%20%7C%20Learn%20Dotnet%2C%20C%23%2C%20Entity%20Framework%2Fsummary.en.md) ]
+
+- [Learn C# FREE Tutorial Course Beginner To Advanced!](youtube-videos%2FLearn%20C%23%20FREE%20Tutorial%20Course%20Beginner%20to%20Advanced%21%2Fsummary.en.md) [ [EN](youtube-videos%2FLearn%20C%23%20FREE%20Tutorial%20Course%20Beginner%20to%20Advanced%21%2Fsummary.en.md) ]
+
+- [Spring Boot Soap Web Service Example](youtube-videos%2FSpring%20Boot%20Soap%20Web%20Service%20Example%2Fsummary.en.md) [ [EN](youtube-videos%2FSpring%20Boot%20Soap%20Web%20Service%20Example%2Fsummary.en.md) ]
+
+
+<h4 id="cloud-computing-devops">Cloud Computing &amp; DevOps</h4>
+
+- [ArgoCD + Kubernetes: Learn GitOps (Github, Helm, Kustomize)](youtube-videos%2FArgoCD%20%2B%20Kubernetes%3A%20Learn%20GitOps%20%28Github%2C%20Helm%2C%20Kustomize%29%2Fsummary.en.md) [ [EN](youtube-videos%2FArgoCD%20%2B%20Kubernetes%3A%20Learn%20GitOps%20%28Github%2C%20Helm%2C%20Kustomize%29%2Fsummary.en.md) ]
+
+- [AWS Tutorial Course For Beginners | EC2, S3, RDS, VPC, Lambda, ECS, ECR, Fargate](youtube-videos%2FAWS%20Tutorial%20Course%20for%20Beginners%20%7C%20EC2%2C%20S3%2C%20RDS%2C%20VPC%2C%20Lambda%2C%20ECS%2C%20ECR%2C%20Fargate%2Fsummary.en.md) [ [EN](youtube-videos%2FAWS%20Tutorial%20Course%20for%20Beginners%20%7C%20EC2%2C%20S3%2C%20RDS%2C%20VPC%2C%20Lambda%2C%20ECS%2C%20ECR%2C%20Fargate%2Fsummary.en.md) ]
 
 - [Every Salesforce Cloud Explained | What Are Salesforce Clouds?](youtube-videos%2FEvery%20Salesforce%20Cloud%20Explained%20%7C%20What%20are%20Salesforce%20Clouds%3F%2Fsummary.en.md) [ [EN](youtube-videos%2FEvery%20Salesforce%20Cloud%20Explained%20%7C%20What%20are%20Salesforce%20Clouds%3F%2Fsummary.en.md) ]
+
+- [Learn AWS In 60 Minutes – Quick Start With EC2, S3 & RDS](youtube-videos%2FLearn%20AWS%20in%2060%20Minutes%20%E2%80%93%20Quick%20Start%20with%20EC2%2C%20S3%20%26%20RDS%2Fsummary.en.md) [ [EN](youtube-videos%2FLearn%20AWS%20in%2060%20Minutes%20%E2%80%93%20Quick%20Start%20with%20EC2%2C%20S3%20%26%20RDS%2Fsummary.en.md) ]
 
 - [Learn Complete GitLab CI CD In 1 Hour | GitLab CI CD Tutorial](youtube-videos%2FLearn%20Complete%20GitLab%20CI%20CD%20in%201%20hour%20%7C%20GitLab%20CI%20CD%20Tutorial%2Fsummary.en.md) [ [EN](youtube-videos%2FLearn%20Complete%20GitLab%20CI%20CD%20in%201%20hour%20%7C%20GitLab%20CI%20CD%20Tutorial%2Fsummary.en.md) ]
 
 - [Master All 3 AWS Load Balancers   Full Course!](youtube-videos%2FMaster%20All%203%20AWS%20Load%20Balancers%20-%20Full%20Course%21%2Fsummary.en.md) [ [EN](youtube-videos%2FMaster%20All%203%20AWS%20Load%20Balancers%20-%20Full%20Course%21%2Fsummary.en.md) ]
 
 
-<h4 id="coding-tools-techniques">Coding Tools &amp; Techniques</h4>
-
-- [CodeRabbit Demo With Usecases](youtube-videos%2FCodeRabbit%20Demo%20with%20usecases%2Fsummary.en.md) [ [EN](youtube-videos%2FCodeRabbit%20Demo%20with%20usecases%2Fsummary.en.md) ]
-
-- [Complete Guide To GitHooks   Creating Your Own Pre Commit](youtube-videos%2FComplete%20guide%20to%20GitHooks%20-%20Creating%20your%20own%20pre-commit%2Fsummary.en.md) [ [EN](youtube-videos%2FComplete%20guide%20to%20GitHooks%20-%20Creating%20your%20own%20pre-commit%2Fsummary.en.md) ]
-
-- [Visual Studio Code (VS Code) Made Easy For Beginners   2024](youtube-videos%2FVisual%20Studio%20Code%20%28VS%20Code%29%20Made%20Easy%20For%20Beginners%20-%202024%2Fsummary.en.md) [ [EN](youtube-videos%2FVisual%20Studio%20Code%20%28VS%20Code%29%20Made%20Easy%20For%20Beginners%20-%202024%2Fsummary.en.md) ]
-
-
-<h4 id="data-stores-databases">Data Stores &amp; Databases</h4>
+<h4 id="databases">Databases</h4>
 
 - [Apache Cassandra Database – Full Course For Beginners](youtube-videos%2FApache%20Cassandra%20Database%20%E2%80%93%20Full%20Course%20for%20Beginners%2Fsummary.en.md) [ [EN](youtube-videos%2FApache%20Cassandra%20Database%20%E2%80%93%20Full%20Course%20for%20Beginners%2Fsummary.en.md) ]
-
-- [ClickHouse: Breaking The Speed Limit For Observability And Analytics](youtube-videos%2FClickHouse%3A%20Breaking%20the%20Speed%20Limit%20for%20Observability%20and%20Analytics%2Fsummary.en.md) [ [EN](youtube-videos%2FClickHouse%3A%20Breaking%20the%20Speed%20Limit%20for%20Observability%20and%20Analytics%2Fsummary.en.md) ]
 
 - [Elasticsearch Course For Beginners](youtube-videos%2FElasticsearch%20Course%20for%20Beginners%2Fsummary.en.md) [ [EN](youtube-videos%2FElasticsearch%20Course%20for%20Beginners%2Fsummary.en.md) ]
 
 - [Elasticsearch Query DSL In Details With Real Time Project Scenario](youtube-videos%2FElasticsearch%20Query%20DSL%20in%20details%20with%20real%20time%20project%20scenario%2Fsummary.en.md) [ [EN](youtube-videos%2FElasticsearch%20Query%20DSL%20in%20details%20with%20real%20time%20project%20scenario%2Fsummary.en.md) ]
-
-- [Getting Started With Kibana (tutorial)](youtube-videos%2FGetting%20Started%20with%20Kibana%20%28tutorial%29%2Fsummary.en.md) [ [EN](youtube-videos%2FGetting%20Started%20with%20Kibana%20%28tutorial%29%2Fsummary.en.md) ]
 
 - [Introduction To Apache Cassandra](youtube-videos%2FIntroduction%20to%20Apache%20Cassandra%2Fsummary.en.md) [ [EN](youtube-videos%2FIntroduction%20to%20Apache%20Cassandra%2Fsummary.en.md) ]
 
@@ -308,14 +335,12 @@ Auto-generated overview of the repository structure:
 
 - [UML Diagrams Full Course (Unified Modeling Language)](youtube-videos%2FUML%20Diagrams%20Full%20Course%20%28Unified%20Modeling%20Language%29%2Fsummary.en.md) [ [EN](youtube-videos%2FUML%20Diagrams%20Full%20Course%20%28Unified%20Modeling%20Language%29%2Fsummary.en.md) ]
 
+- [What Are SOAP, WSDL, And XSD](youtube-videos%2FWhat%20are%20SOAP%2C%20WSDL%2C%20and%20XSD%2Fsummary.en.md) [ [EN](youtube-videos%2FWhat%20are%20SOAP%2C%20WSDL%2C%20and%20XSD%2Fsummary.en.md) ]
 
-<h4 id="general">General</h4>
 
-- [Authentication & Refreshing Tokens Implementation](youtube-videos%2FAuthentication%20%26%20Refreshing%20Tokens%20Implementation%2Fsummary.en.md) [ [EN](youtube-videos%2FAuthentication%20%26%20Refreshing%20Tokens%20Implementation%2Fsummary.en.md) ]
+<h4 id="e-commerce">E-commerce</h4>
 
-- [What We Learned Introducing PHPStan To A Large Scale Project](youtube-videos%2FWhat%20we%20learned%20introducing%20PHPStan%20to%20a%20large%20scale%20project%2Fsummary.en.md) [ [EN](youtube-videos%2FWhat%20we%20learned%20introducing%20PHPStan%20to%20a%20large%20scale%20project%2Fsummary.en.md) ]
-
-- [Windsurf Tutorial For Beginners (AI Code Editor)](youtube-videos%2FWindsurf%20Tutorial%20for%20Beginners%20%28AI%20Code%20Editor%29%2Fsummary.en.md) [ [EN](youtube-videos%2FWindsurf%20Tutorial%20for%20Beginners%20%28AI%20Code%20Editor%29%2Fsummary.en.md) ]
+- [How To Make REAL Money With Magento In 2025](youtube-videos%2FHow%20to%20Make%20REAL%20Money%20with%20Magento%20in%202025%2Fsummary.en.md) [ [EN](youtube-videos%2FHow%20to%20Make%20REAL%20Money%20with%20Magento%20in%202025%2Fsummary.en.md) ]
 
 
 <h4 id="general-programming-algorithms">General Programming &amp; Algorithms</h4>
@@ -355,31 +380,20 @@ Auto-generated overview of the repository structure:
 
 <h4 id="go-golang">Go/Golang</h4>
 
+- [Build A GRPC Server With Go   Step By Step Tutorial](youtube-videos%2FBuild%20a%20gRPC%20server%20with%20Go%20-%20Step%20by%20step%20tutorial%2Fsummary.en.md) [ [EN](youtube-videos%2FBuild%20a%20gRPC%20server%20with%20Go%20-%20Step%20by%20step%20tutorial%2Fsummary.en.md) ]
+
 - [DPC2017: Golang For PHP Developers](youtube-videos%2FDPC2017%3A%20Golang%20for%20PHP%20developers%2Fsummary.en.md) [ [EN](youtube-videos%2FDPC2017%3A%20Golang%20for%20PHP%20developers%2Fsummary.en.md) ]
 
 - [Using Golang | Go As A PHP Developer](youtube-videos%2FUsing%20golang%20%7C%20Go%20As%20A%20PHP%20Developer%2Fsummary.en.md) [ [EN](youtube-videos%2FUsing%20golang%20%7C%20Go%20As%20A%20PHP%20Developer%2Fsummary.en.md) ]
 
 
-<h4 id="javascript-typescript-ecosystem">JavaScript &amp; TypeScript Ecosystem</h4>
+<h4 id="infrastructure-system-administration">Infrastructure &amp; System Administration</h4>
 
-- [MASTER Angular In 90 Minutes With This Crash Course](youtube-videos%2FMASTER%20Angular%20in%2090%20Minutes%20with%20This%20Crash%20Course%2Fsummary.en.md) [ [EN](youtube-videos%2FMASTER%20Angular%20in%2090%20Minutes%20with%20This%20Crash%20Course%2Fsummary.en.md) ]
+- [ClickHouse: Breaking The Speed Limit For Observability And Analytics](youtube-videos%2FClickHouse%3A%20Breaking%20the%20Speed%20Limit%20for%20Observability%20and%20Analytics%2Fsummary.en.md) [ [EN](youtube-videos%2FClickHouse%3A%20Breaking%20the%20Speed%20Limit%20for%20Observability%20and%20Analytics%2Fsummary.en.md) ]
 
-- [Nest.js Full Course For Beginners | Complete All In One Tutorial](youtube-videos%2FNest.js%20Full%20Course%20for%20Beginners%20%7C%20Complete%20All-in-One%20Tutorial%2Fsummary.en.md) [ [EN](youtube-videos%2FNest.js%20Full%20Course%20for%20Beginners%20%7C%20Complete%20All-in-One%20Tutorial%2Fsummary.en.md) ]
+- [Configuring And Troubleshooting PHP FPM](youtube-videos%2FConfiguring%20and%20Troubleshooting%20PHP-FPM%2Fsummary.en.md) [ [EN](youtube-videos%2FConfiguring%20and%20Troubleshooting%20PHP-FPM%2Fsummary.en.md) ]
 
-- [NextJS 15 Full Course 2025 | Become A NextJS Pro In 1.5 Hours](youtube-videos%2FNextJS%2015%20Full%20Course%202025%20%7C%20Become%20a%20NextJS%20Pro%20in%201.5%20Hours%2Fsummary.en.md) [ [EN](youtube-videos%2FNextJS%2015%20Full%20Course%202025%20%7C%20Become%20a%20NextJS%20Pro%20in%201.5%20Hours%2Fsummary.en.md) ]
-
-- [Nuxt.JS For Beginners: Build Your First App From Scratch!](youtube-videos%2FNuxt.JS%20for%20Beginners%3A%20Build%20Your%20First%20App%20from%20Scratch%21%2Fsummary.en.md) [ [EN](youtube-videos%2FNuxt.JS%20for%20Beginners%3A%20Build%20Your%20First%20App%20from%20Scratch%21%2Fsummary.en.md) ]
-
-- [Object Oriented Programming In JavaScript: Made Super Simple](youtube-videos%2FObject-oriented%20Programming%20in%20JavaScript%3A%20Made%20Super%20Simple%2Fsummary.en.md) [ [EN](youtube-videos%2FObject-oriented%20Programming%20in%20JavaScript%3A%20Made%20Super%20Simple%2Fsummary.en.md) ]
-
-- [React Tutorial Full Course   Beginner To Pro (React 19, 2025)](youtube-videos%2FReact%20Tutorial%20Full%20Course%20-%20Beginner%20to%20Pro%20%28React%2019%2C%202025%29%2Fsummary.en.md) [ [EN](youtube-videos%2FReact%20Tutorial%20Full%20Course%20-%20Beginner%20to%20Pro%20%28React%2019%2C%202025%29%2Fsummary.en.md) ]
-
-- [TypeScript Tutorial For Beginners](youtube-videos%2FTypeScript%20Tutorial%20for%20Beginners%2Fsummary.en.md) [ [EN](youtube-videos%2FTypeScript%20Tutorial%20for%20Beginners%2Fsummary.en.md) ]
-
-- [Vue.js Beginner Course | Build & Deploy A Modern Fitness App](youtube-videos%2FVue.js%20Beginner%20Course%20%7C%20Build%20%26%20Deploy%20a%20Modern%20Fitness%20App%2Fsummary.en.md) [ [EN](youtube-videos%2FVue.js%20Beginner%20Course%20%7C%20Build%20%26%20Deploy%20a%20Modern%20Fitness%20App%2Fsummary.en.md) ]
-
-
-<h4 id="networking-infrastructure">Networking &amp; Infrastructure</h4>
+- [Getting Started With Kibana (tutorial)](youtube-videos%2FGetting%20Started%20with%20Kibana%20%28tutorial%29%2Fsummary.en.md) [ [EN](youtube-videos%2FGetting%20Started%20with%20Kibana%20%28tutorial%29%2Fsummary.en.md) ]
 
 - [NGINX Crash Course: Web Server, Reverse Proxy & Load Balancer](youtube-videos%2FNGINX%20Crash%20Course%3A%20Web%20Server%2C%20Reverse%20Proxy%20%26%20Load%20Balancer%2Fsummary.en.md) [ [EN](youtube-videos%2FNGINX%20Crash%20Course%3A%20Web%20Server%2C%20Reverse%20Proxy%20%26%20Load%20Balancer%2Fsummary.en.md) ]
 
@@ -390,47 +404,93 @@ Auto-generated overview of the repository structure:
 - [You Will Never Forget Forward Vs Reverse Proxy After This](youtube-videos%2FYou%20will%20never%20forget%20Forward%20vs%20Reverse%20proxy%20after%20this%2Fsummary.en.md) [ [EN](youtube-videos%2FYou%20will%20never%20forget%20Forward%20vs%20Reverse%20proxy%20after%20this%2Fsummary.en.md) ]
 
 
-<h4 id="other-languages-frameworks">Other Languages &amp; Frameworks</h4>
+<h4 id="javascript-typescript-ecosystem">JavaScript &amp; TypeScript Ecosystem</h4>
 
-- [.NET 8 Crash Course | Learn Dotnet, C#, Entity Framework](youtube-videos%2F.NET%208%20Crash%20Course%20%7C%20Learn%20Dotnet%2C%20C%23%2C%20Entity%20Framework%2Fsummary.en.md) [ [EN](youtube-videos%2F.NET%208%20Crash%20Course%20%7C%20Learn%20Dotnet%2C%20C%23%2C%20Entity%20Framework%2Fsummary.en.md) ]
+- [Advanced React Query Patterns For Modern Applications](youtube-videos%2FAdvanced%20React%20Query%20Patterns%20for%20Modern%20Applications%2Fsummary.en.md) [ [EN](youtube-videos%2FAdvanced%20React%20Query%20Patterns%20for%20Modern%20Applications%2Fsummary.en.md) ]
+
+- [Build And Deploy A GraphQL API Using NodeJS](youtube-videos%2FBuild%20and%20Deploy%20a%20GraphQL%20API%20using%20NodeJS%2Fsummary.en.md) [ [EN](youtube-videos%2FBuild%20and%20Deploy%20a%20GraphQL%20API%20using%20NodeJS%2Fsummary.en.md) ]
+
+- [Build GraphQL API With Laravel](youtube-videos%2FBuild%20GraphQL%20API%20with%20Laravel%2Fsummary.en.md) [ [EN](youtube-videos%2FBuild%20GraphQL%20API%20with%20Laravel%2Fsummary.en.md) ]
+
+- [How To Build A Headless WordPress Blog With Next.js And GraphQL](youtube-videos%2FHow%20to%20Build%20a%20Headless%20WordPress%20Blog%20with%20Next.js%20and%20GraphQL%2Fsummary.en.md) [ [EN](youtube-videos%2FHow%20to%20Build%20a%20Headless%20WordPress%20Blog%20with%20Next.js%20and%20GraphQL%2Fsummary.en.md) ]
+
+- [How To Build A Headless WordPress Blog With Next.js And WP JSON API](youtube-videos%2FHow%20to%20Build%20a%20Headless%20WordPress%20Blog%20with%20Next.js%20and%20WP%20JSON%20API%2Fsummary.en.md) [ [EN](youtube-videos%2FHow%20to%20Build%20a%20Headless%20WordPress%20Blog%20with%20Next.js%20and%20WP%20JSON%20API%2Fsummary.en.md) ]
+
+- [Laravel Livewire Crash Course | Livewire 3 Tutorial For Beginners](youtube-videos%2FLaravel%20Livewire%20Crash%20Course%20%7C%20Livewire%203%20Tutorial%20for%20Beginners%2Fsummary.en.md) [ [EN](youtube-videos%2FLaravel%20Livewire%20Crash%20Course%20%7C%20Livewire%203%20Tutorial%20for%20Beginners%2Fsummary.en.md) ]
+
+- [Learn GraphQL In 4 Hours   From Beginner To Expert](youtube-videos%2FLearn%20GraphQL%20in%204%20Hours%20-%20From%20Beginner%20to%20Expert%2Fsummary.en.md) [ [EN](youtube-videos%2FLearn%20GraphQL%20in%204%20Hours%20-%20From%20Beginner%20to%20Expert%2Fsummary.en.md) ]
+
+- [MASTER Angular In 90 Minutes With This Crash Course](youtube-videos%2FMASTER%20Angular%20in%2090%20Minutes%20with%20This%20Crash%20Course%2Fsummary.en.md) [ [EN](youtube-videos%2FMASTER%20Angular%20in%2090%20Minutes%20with%20This%20Crash%20Course%2Fsummary.en.md) ]
+
+- [Nest.js Full Course For Beginners | Complete All In One Tutorial](youtube-videos%2FNest.js%20Full%20Course%20for%20Beginners%20%7C%20Complete%20All-in-One%20Tutorial%2Fsummary.en.md) [ [EN](youtube-videos%2FNest.js%20Full%20Course%20for%20Beginners%20%7C%20Complete%20All-in-One%20Tutorial%2Fsummary.en.md) ]
+
+- [NextJS 15 Full Course 2025 | Become A NextJS Pro In 1.5 Hours](youtube-videos%2FNextJS%2015%20Full%20Course%202025%20%7C%20Become%20a%20NextJS%20Pro%20in%201.5%20Hours%2Fsummary.en.md) [ [EN](youtube-videos%2FNextJS%2015%20Full%20Course%202025%20%7C%20Become%20a%20NextJS%20Pro%20in%201.5%20Hours%2Fsummary.en.md) ]
+
+- [Object Oriented Programming In JavaScript: Made Super Simple](youtube-videos%2FObject-oriented%20Programming%20in%20JavaScript%3A%20Made%20Super%20Simple%2Fsummary.en.md) [ [EN](youtube-videos%2FObject-oriented%20Programming%20in%20JavaScript%3A%20Made%20Super%20Simple%2Fsummary.en.md) ]
+
+- [React Query Crash Course   Learn Queries, Mutations](youtube-videos%2FReact%20Query%20Crash%20Course%20-%20Learn%20Queries%2C%20Mutations%2Fsummary.en.md) [ [EN](youtube-videos%2FReact%20Query%20Crash%20Course%20-%20Learn%20Queries%2C%20Mutations%2Fsummary.en.md) ]
+
+- [React Redux Toolkit Tutorial For Beginners](youtube-videos%2FReact%20Redux%20Toolkit%20Tutorial%20For%20Beginners%2Fsummary.en.md) [ [EN](youtube-videos%2FReact%20Redux%20Toolkit%20Tutorial%20For%20Beginners%2Fsummary.en.md) ]
+
+- [React Tutorial Full Course   Beginner To Pro (React 19, 2025)](youtube-videos%2FReact%20Tutorial%20Full%20Course%20-%20Beginner%20to%20Pro%20%28React%2019%2C%202025%29%2Fsummary.en.md) [ [EN](youtube-videos%2FReact%20Tutorial%20Full%20Course%20-%20Beginner%20to%20Pro%20%28React%2019%2C%202025%29%2Fsummary.en.md) ]
+
+- [TypeScript Tutorial For Beginners](youtube-videos%2FTypeScript%20Tutorial%20for%20Beginners%2Fsummary.en.md) [ [EN](youtube-videos%2FTypeScript%20Tutorial%20for%20Beginners%2Fsummary.en.md) ]
+
+- [Vue.js Beginner Course | Build & Deploy A Modern Fitness App](youtube-videos%2FVue.js%20Beginner%20Course%20%7C%20Build%20%26%20Deploy%20a%20Modern%20Fitness%20App%2Fsummary.en.md) [ [EN](youtube-videos%2FVue.js%20Beginner%20Course%20%7C%20Build%20%26%20Deploy%20a%20Modern%20Fitness%20App%2Fsummary.en.md) ]
+
+
+<h4 id="message-queues-streaming">Message Queues &amp; Streaming</h4>
+
+- [How Iterable Replaced RabbitMQ And Kafka With Pulsar](youtube-videos%2FHow%20Iterable%20Replaced%20RabbitMQ%20and%20Kafka%20with%20Pulsar%2Fsummary.en.md) [ [EN](youtube-videos%2FHow%20Iterable%20Replaced%20RabbitMQ%20and%20Kafka%20with%20Pulsar%2Fsummary.en.md) ]
+
+- [RabbitMQ Tutorial   Message Queues And Distributed Systems](youtube-videos%2FRabbitMQ%20Tutorial%20-%20Message%20Queues%20and%20Distributed%20Systems%2Fsummary.en.md) [ [EN](youtube-videos%2FRabbitMQ%20Tutorial%20-%20Message%20Queues%20and%20Distributed%20Systems%2Fsummary.en.md) ]
+
+- [Real World RabbitMQ: Exploring Practical Applications](youtube-videos%2FReal%20World%20RabbitMQ%3A%20Exploring%20Practical%20Applications%2Fsummary.en.md) [ [EN](youtube-videos%2FReal%20World%20RabbitMQ%3A%20Exploring%20Practical%20Applications%2Fsummary.en.md) ]
+
+
+<h4 id="other">Other</h4>
+
+- [Creating MCP Server With Laravel In Less Than 20 Mins](youtube-videos%2FCreating%20MCP%20server%20with%20Laravel%20in%20less%20than%2020%20mins%2Fsummary.en.md) [ [EN](youtube-videos%2FCreating%20MCP%20server%20with%20Laravel%20in%20less%20than%2020%20mins%2Fsummary.en.md) ]
+
+
+<h4 id="other-languages-tools">Other Languages &amp; Tools</h4>
+
+- [Complete Guide To GitHooks   Creating Your Own Pre Commit](youtube-videos%2FComplete%20guide%20to%20GitHooks%20-%20Creating%20your%20own%20pre-commit%2Fsummary.en.md) [ [EN](youtube-videos%2FComplete%20guide%20to%20GitHooks%20-%20Creating%20your%20own%20pre-commit%2Fsummary.en.md) ]
+
+- [How To Add & Manage Stripe Subscription Payments In Bubble.io (Including Paywall Feature)](youtube-videos%2FHow%20to%20Add%20%26%20Manage%20Stripe%20Subscription%20Payments%20in%20Bubble.io%20%28Including%20Paywall%20Feature%29%2Fsummary.en.md) [ [EN](youtube-videos%2FHow%20to%20Add%20%26%20Manage%20Stripe%20Subscription%20Payments%20in%20Bubble.io%20%28Including%20Paywall%20Feature%29%2Fsummary.en.md) ]
 
 - [Learn ASP.NET Core 8.0   Full Course For Beginners [Tutorial]](youtube-videos%2FLearn%20ASP.NET%20Core%208.0%20-%20Full%20Course%20for%20Beginners%20%5BTutorial%5D%2Fsummary.en.md) [ [EN](youtube-videos%2FLearn%20ASP.NET%20Core%208.0%20-%20Full%20Course%20for%20Beginners%20%5BTutorial%5D%2Fsummary.en.md) ]
 
-- [Learn C# FREE Tutorial Course Beginner To Advanced!](youtube-videos%2FLearn%20C%23%20FREE%20Tutorial%20Course%20Beginner%20to%20Advanced%21%2Fsummary.en.md) [ [EN](youtube-videos%2FLearn%20C%23%20FREE%20Tutorial%20Course%20Beginner%20to%20Advanced%21%2Fsummary.en.md) ]
-
-- [Python Full Course For Beginners [2025]](youtube-videos%2FPython%20Full%20Course%20for%20Beginners%20%5B2025%5D%2Fsummary.en.md) [ [EN](youtube-videos%2FPython%20Full%20Course%20for%20Beginners%20%5B2025%5D%2Fsummary.en.md) ]
-
-- [Ruby For Beginners | Ruby Tutorial With Real Projects](youtube-videos%2FRuby%20For%20Beginners%20%7C%20Ruby%20Tutorial%20with%20Real%20Projects%2Fsummary.en.md) [ [EN](youtube-videos%2FRuby%20For%20Beginners%20%7C%20Ruby%20Tutorial%20with%20Real%20Projects%2Fsummary.en.md) ]
+- [Nuxt.JS For Beginners: Build Your First App From Scratch!](youtube-videos%2FNuxt.JS%20for%20Beginners%3A%20Build%20Your%20First%20App%20from%20Scratch%21%2Fsummary.en.md) [ [EN](youtube-videos%2FNuxt.JS%20for%20Beginners%3A%20Build%20Your%20First%20App%20from%20Scratch%21%2Fsummary.en.md) ]
 
 - [Rust For PHP Developers](youtube-videos%2FRust%20For%20PHP%20Developers%2Fsummary.en.md) [ [EN](youtube-videos%2FRust%20For%20PHP%20Developers%2Fsummary.en.md) ]
 
-
-<h4 id="payment-processing">Payment Processing</h4>
-
-- [How To Accept Recurring Payments In WordPress (4 Methods)](youtube-videos%2FHow%20to%20Accept%20Recurring%20Payments%20in%20WordPress%20%284%20Methods%29%2Fsummary.en.md) [ [EN](youtube-videos%2FHow%20to%20Accept%20Recurring%20Payments%20in%20WordPress%20%284%20Methods%29%2Fsummary.en.md) ]
-
-- [How To Add & Manage Stripe Subscription Payments In Bubble.io (Including Paywall Feature)](youtube-videos%2FHow%20to%20Add%20%26%20Manage%20Stripe%20Subscription%20Payments%20in%20Bubble.io%20%28Including%20Paywall%20Feature%29%2Fsummary.en.md) [ [EN](youtube-videos%2FHow%20to%20Add%20%26%20Manage%20Stripe%20Subscription%20Payments%20in%20Bubble.io%20%28Including%20Paywall%20Feature%29%2Fsummary.en.md) ]
+- [Visual Studio Code (VS Code) Made Easy For Beginners   2024](youtube-videos%2FVisual%20Studio%20Code%20%28VS%20Code%29%20Made%20Easy%20For%20Beginners%20-%202024%2Fsummary.en.md) [ [EN](youtube-videos%2FVisual%20Studio%20Code%20%28VS%20Code%29%20Made%20Easy%20For%20Beginners%20-%202024%2Fsummary.en.md) ]
 
 
 <h4 id="php-ecosystem">PHP Ecosystem</h4>
 
+- [Advance PHP Full Crash Course 2022](youtube-videos%2FAdvance%20PHP%20Full%20Crash%20Course%202022%2Fsummary.en.md) [ [EN](youtube-videos%2FAdvance%20PHP%20Full%20Crash%20Course%202022%2Fsummary.en.md) ]
+
 - [An Introduction To Slim PHP Framework](youtube-videos%2FAn%20Introduction%20to%20Slim%20PHP%20Framework%2Fsummary.en.md) [ [EN](youtube-videos%2FAn%20Introduction%20to%20Slim%20PHP%20Framework%2Fsummary.en.md) ]
 
-- [Configuring And Troubleshooting PHP FPM](youtube-videos%2FConfiguring%20and%20Troubleshooting%20PHP-FPM%2Fsummary.en.md) [ [EN](youtube-videos%2FConfiguring%20and%20Troubleshooting%20PHP-FPM%2Fsummary.en.md) ]
+- [Create A Microservice With Symfony 6 (Full 5 Hour Course)](youtube-videos%2FCreate%20a%20Microservice%20with%20Symfony%206%20%28Full%205%20Hour%20Course%29%2Fsummary.en.md) [ [EN](youtube-videos%2FCreate%20a%20Microservice%20with%20Symfony%206%20%28Full%205%20Hour%20Course%29%2Fsummary.en.md) ]
 
-- [Creating MCP Server With Laravel In Less Than 20 Mins](youtube-videos%2FCreating%20MCP%20server%20with%20Laravel%20in%20less%20than%2020%20mins%2Fsummary.en.md) [ [EN](youtube-videos%2FCreating%20MCP%20server%20with%20Laravel%20in%20less%20than%2020%20mins%2Fsummary.en.md) ]
+- [Filament V4 FREE Course: 1 Hour Practical Start](youtube-videos%2FFilament%20v4%20FREE%20Course%3A%201-Hour%20Practical%20Start%2Fsummary.en.md) [ [EN](youtube-videos%2FFilament%20v4%20FREE%20Course%3A%201-Hour%20Practical%20Start%2Fsummary.en.md) ]
 
 - [Full Laravel MCP Application With CodeRabbit AI (Part 1)](youtube-videos%2FFull%20Laravel%20MCP%20Application%20with%20CodeRabbit%20AI%20%28Part%201%29%2Fsummary.en.md) [ [EN](youtube-videos%2FFull%20Laravel%20MCP%20Application%20with%20CodeRabbit%20AI%20%28Part%201%29%2Fsummary.en.md) ]
 
 - [Full Laravel MCP Application With CodeRabbit AI (Part 2)](youtube-videos%2FFull%20Laravel%20MCP%20Application%20with%20CodeRabbit%20AI%20%28Part%202%29%2Fsummary.en.md) [ [EN](youtube-videos%2FFull%20Laravel%20MCP%20Application%20with%20CodeRabbit%20AI%20%28Part%202%29%2Fsummary.en.md) ]
 
+- [Headless WordPress Tutorial](youtube-videos%2FHeadless%20WordPress%20Tutorial%2Fsummary.en.md) [ [EN](youtube-videos%2FHeadless%20WordPress%20Tutorial%2Fsummary.en.md) ]
+
 - [How To Setup A Stripe Webhook In PHP To Automate Payments](youtube-videos%2FHow%20to%20Setup%20a%20Stripe%20Webhook%20in%20PHP%20to%20Automate%20Payments%2Fsummary.en.md) [ [EN](youtube-videos%2FHow%20to%20Setup%20a%20Stripe%20Webhook%20in%20PHP%20to%20Automate%20Payments%2Fsummary.en.md) ]
 
 - [Implement Stripe With PHP | Step By Step Guide](youtube-videos%2FImplement%20Stripe%20with%20PHP%20%7C%20Step%20by%20Step%20Guide%2Fsummary.en.md) [ [EN](youtube-videos%2FImplement%20Stripe%20with%20PHP%20%7C%20Step%20by%20Step%20Guide%2Fsummary.en.md) ]
 
-- [Laravel Livewire Crash Course | Livewire 3 Tutorial For Beginners](youtube-videos%2FLaravel%20Livewire%20Crash%20Course%20%7C%20Livewire%203%20Tutorial%20for%20Beginners%2Fsummary.en.md) [ [EN](youtube-videos%2FLaravel%20Livewire%20Crash%20Course%20%7C%20Livewire%203%20Tutorial%20for%20Beginners%2Fsummary.en.md) ]
-
 - [Laravel Octane & FrankenPHP](youtube-videos%2FLaravel%20Octane%20%26%20FrankenPHP%2Fsummary.en.md) [ [EN](youtube-videos%2FLaravel%20Octane%20%26%20FrankenPHP%2Fsummary.en.md) ]
+
+- [Learn Laravel Filament Full Tutorial: Build Powerful Admin](youtube-videos%2FLearn%20Laravel%20Filament%20full%20tutorial%3A%20Build%20powerful%20admin%2Fsummary.en.md) [ [EN](youtube-videos%2FLearn%20Laravel%20Filament%20full%20tutorial%3A%20Build%20powerful%20admin%2Fsummary.en.md) ]
 
 - [Learn Symfony In 1 Hour](youtube-videos%2FLearn%20Symfony%20in%201%20Hour%2Fsummary.en.md) [ [EN](youtube-videos%2FLearn%20Symfony%20in%201%20Hour%2Fsummary.en.md) ]
 
@@ -440,37 +500,93 @@ Auto-generated overview of the repository structure:
 
 - [PhpStorm For Laravel Developers   3 Hour Full MasterClass](youtube-videos%2FPhpStorm%20for%20Laravel%20Developers%20-%203%20Hour%20Full%20MasterClass%2Fsummary.en.md) [ [EN](youtube-videos%2FPhpStorm%20for%20Laravel%20Developers%20-%203%20Hour%20Full%20MasterClass%2Fsummary.en.md) ]
 
+- [Spring Boot For PHP Developers   Get A Project Up](youtube-videos%2FSpring%20Boot%20for%20PHP%20Developers%20-%20Get%20a%20project%20up%2Fsummary.en.md) [ [EN](youtube-videos%2FSpring%20Boot%20for%20PHP%20Developers%20-%20Get%20a%20project%20up%2Fsummary.en.md) ]
+
 - [Stripe Recurring Payments With Stripe API & PHP Part 1](youtube-videos%2FStripe%20Recurring%20Payments%20With%20Stripe%20API%20%26%20PHP%20Part%201%2Fsummary.en.md) [ [EN](youtube-videos%2FStripe%20Recurring%20Payments%20With%20Stripe%20API%20%26%20PHP%20Part%201%2Fsummary.en.md) ]
 
 - [Stripe Recurring Payments With Stripe API & PHP Part 2](youtube-videos%2FStripe%20Recurring%20Payments%20With%20Stripe%20API%20%26%20PHP%20Part%202%2Fsummary.en.md) [ [EN](youtube-videos%2FStripe%20Recurring%20Payments%20With%20Stripe%20API%20%26%20PHP%20Part%202%2Fsummary.en.md) ]
 
+- [What Is Active Record Pattern & How Laravel Implements It](youtube-videos%2FWhat%20is%20active%20record%20pattern%20%26%20how%20Laravel%20implements%20it%2Fsummary.en.md) [ [EN](youtube-videos%2FWhat%20is%20active%20record%20pattern%20%26%20how%20Laravel%20implements%20it%2Fsummary.en.md) ]
 
-<h4 id="queues-messaging">Queues &amp; Messaging</h4>
 
-- [How Iterable Replaced RabbitMQ And Kafka With Pulsar](youtube-videos%2FHow%20Iterable%20Replaced%20RabbitMQ%20and%20Kafka%20with%20Pulsar%2Fsummary.en.md) [ [EN](youtube-videos%2FHow%20Iterable%20Replaced%20RabbitMQ%20and%20Kafka%20with%20Pulsar%2Fsummary.en.md) ]
+<h4 id="python">Python</h4>
 
-- [RabbitMQ Tutorial   Message Queues And Distributed Systems](youtube-videos%2FRabbitMQ%20Tutorial%20-%20Message%20Queues%20and%20Distributed%20Systems%2Fsummary.en.md) [ [EN](youtube-videos%2FRabbitMQ%20Tutorial%20-%20Message%20Queues%20and%20Distributed%20Systems%2Fsummary.en.md) ]
+- [Intro To Google Colab   Beginners' Python And Machine Learning](youtube-videos%2FIntro%20to%20Google%20Colab%20-%20Beginners%27%20Python%20and%20Machine%20Learning%2Fsummary.en.md) [ [EN](youtube-videos%2FIntro%20to%20Google%20Colab%20-%20Beginners%27%20Python%20and%20Machine%20Learning%2Fsummary.en.md) ]
 
-- [Real World RabbitMQ: Exploring Practical Applications](youtube-videos%2FReal%20World%20RabbitMQ%3A%20Exploring%20Practical%20Applications%2Fsummary.en.md) [ [EN](youtube-videos%2FReal%20World%20RabbitMQ%3A%20Exploring%20Practical%20Applications%2Fsummary.en.md) ]
+- [Python Django Full Course For Beginners](youtube-videos%2FPython%20Django%20Full%20Course%20for%20Beginners%2Fsummary.en.md) [ [EN](youtube-videos%2FPython%20Django%20Full%20Course%20for%20Beginners%2Fsummary.en.md) ]
+
+- [Python Full Course For Beginners [2025]](youtube-videos%2FPython%20Full%20Course%20for%20Beginners%20%5B2025%5D%2Fsummary.en.md) [ [EN](youtube-videos%2FPython%20Full%20Course%20for%20Beginners%20%5B2025%5D%2Fsummary.en.md) ]
+
+
+<h4 id="ruby">Ruby</h4>
+
+- [Learn Ruby On Rails 8 Fast – Create A Real Web App In 1 Hour](youtube-videos%2FLearn%20Ruby%20on%20Rails%208%20Fast%20%E2%80%93%20Create%20a%20Real%20Web%20App%20in%201%20Hour%2Fsummary.en.md) [ [EN](youtube-videos%2FLearn%20Ruby%20on%20Rails%208%20Fast%20%E2%80%93%20Create%20a%20Real%20Web%20App%20in%201%20Hour%2Fsummary.en.md) ]
+
+- [Ruby For Beginners | Ruby Tutorial With Real Projects](youtube-videos%2FRuby%20For%20Beginners%20%7C%20Ruby%20Tutorial%20with%20Real%20Projects%2Fsummary.en.md) [ [EN](youtube-videos%2FRuby%20For%20Beginners%20%7C%20Ruby%20Tutorial%20with%20Real%20Projects%2Fsummary.en.md) ]
+
+- [Ruby On Rails Crash Course](youtube-videos%2FRuby%20On%20Rails%20Crash%20Course%2Fsummary.en.md) [ [EN](youtube-videos%2FRuby%20On%20Rails%20Crash%20Course%2Fsummary.en.md) ]
+
+
+<h4 id="security">Security</h4>
+
+- [API Security OWASP Top 10 : TryHackMe](youtube-videos%2FAPI%20security%20OWASP%20top%2010%20%3A%20TryHackMe%2Fsummary.en.md) [ [EN](youtube-videos%2FAPI%20security%20OWASP%20top%2010%20%3A%20TryHackMe%2Fsummary.en.md) ]
+
+- [Authentication & Refreshing Tokens Implementation](youtube-videos%2FAuthentication%20%26%20Refreshing%20Tokens%20Implementation%2Fsummary.en.md) [ [EN](youtube-videos%2FAuthentication%20%26%20Refreshing%20Tokens%20Implementation%2Fsummary.en.md) ]
+
+- [OAuth2, OpenID: SSO Under The Hood   Daniel Garnier Moiroux](youtube-videos%2FOAuth2%2C%20OpenID%3A%20SSO%20under%20the%20hood%20-%20Daniel%20Garnier-Moiroux%2Fsummary.en.md) [ [EN](youtube-videos%2FOAuth2%2C%20OpenID%3A%20SSO%20under%20the%20hood%20-%20Daniel%20Garnier-Moiroux%2Fsummary.en.md) ]
+
+- [OWASP API Security Top 10 Course – Secure Your Web Apps](youtube-videos%2FOWASP%20API%20Security%20Top%2010%20Course%20%E2%80%93%20Secure%20Your%20Web%20Apps%2Fsummary.en.md) [ [EN](youtube-videos%2FOWASP%20API%20Security%20Top%2010%20Course%20%E2%80%93%20Secure%20Your%20Web%20Apps%2Fsummary.en.md) ]
+
+- [OWASP Top 10 For LLMs](youtube-videos%2FOWASP%20Top%2010%20for%20LLMs%2Fsummary.en.md) [ [EN](youtube-videos%2FOWASP%20Top%2010%20for%20LLMs%2Fsummary.en.md) ]
+
+- [OWASP TOP 10 Introduction   Explained With Examples](youtube-videos%2FOWASP%20TOP%2010%20Introduction%20-%20Explained%20with%20examples%2Fsummary.en.md) [ [EN](youtube-videos%2FOWASP%20TOP%2010%20Introduction%20-%20Explained%20with%20examples%2Fsummary.en.md) ]
+
+
+<h4 id="wordpress-cms">WordPress &amp; CMS</h4>
+
+- [Complete WordPress Plugin Development Full Course](youtube-videos%2FComplete%20WordPress%20Plugin%20Development%20Full%20Course%2Fsummary.en.md) [ [EN](youtube-videos%2FComplete%20WordPress%20Plugin%20Development%20Full%20Course%2Fsummary.en.md) ]
+
+- [Getting Started With Drupal Development Tools](youtube-videos%2FGetting%20Started%20with%20Drupal%20Development%20Tools%2Fsummary.en.md) [ [EN](youtube-videos%2FGetting%20Started%20with%20Drupal%20Development%20Tools%2Fsummary.en.md) ]
+
+- [How To Accept Recurring Payments In WordPress (4 Methods)](youtube-videos%2FHow%20to%20Accept%20Recurring%20Payments%20in%20WordPress%20%284%20Methods%29%2Fsummary.en.md) [ [EN](youtube-videos%2FHow%20to%20Accept%20Recurring%20Payments%20in%20WordPress%20%284%20Methods%29%2Fsummary.en.md) ]
+
+- [Live Coding WordPress Theme From Scratch | 50 Min | 2024](youtube-videos%2FLive%20Coding%20WordPress%20Theme%20from%20Scratch%20%7C%2050%20min%20%7C%202024%2Fsummary.en.md) [ [EN](youtube-videos%2FLive%20Coding%20WordPress%20Theme%20from%20Scratch%20%7C%2050%20min%20%7C%202024%2Fsummary.en.md) ]
+
+- [Magento 2 REST API Full Course](youtube-videos%2FMagento%202%20REST%20API%20Full%20Course%2Fsummary.en.md) [ [EN](youtube-videos%2FMagento%202%20REST%20API%20Full%20Course%2Fsummary.en.md) ]
+
+- [Magento 2.4 Full Course](youtube-videos%2FMagento%202.4%20Full%20Course%2Fsummary.en.md) [ [EN](youtube-videos%2FMagento%202.4%20Full%20Course%2Fsummary.en.md) ]
+
+- [Magento Tutorial For Beginners, Full Course (2024)](youtube-videos%2FMagento%20Tutorial%20For%20Beginners%2C%20Full%20Course%20%282024%29%2Fsummary.en.md) [ [EN](youtube-videos%2FMagento%20Tutorial%20For%20Beginners%2C%20Full%20Course%20%282024%29%2Fsummary.en.md) ]
+
+- [Modern Web Development With Headless Drupal](youtube-videos%2FModern%20web%20development%20with%20headless%20Drupal%2Fsummary.en.md) [ [EN](youtube-videos%2FModern%20web%20development%20with%20headless%20Drupal%2Fsummary.en.md) ]
+
+- [WordPress As A MCP Server | Jon Learns To Code With AI](youtube-videos%2FWordPress%20as%20a%20MCP%20Server%20%7C%20Jon%20learns%20to%20code%20with%20AI%2Fsummary.en.md) [ [EN](youtube-videos%2FWordPress%20as%20a%20MCP%20Server%20%7C%20Jon%20learns%20to%20code%20with%20AI%2Fsummary.en.md) ]
+
+- [WordPress Tutorial For Beginners 2025   Step By Step](youtube-videos%2FWordPress%20Tutorial%20for%20Beginners%202025%20-%20Step%20by%20Step%2Fsummary.en.md) [ [EN](youtube-videos%2FWordPress%20Tutorial%20for%20Beginners%202025%20-%20Step%20by%20Step%2Fsummary.en.md) ]
 <!-- YOUTUBE_VIDEOS_END -->
 
 ### Books
 <!-- BOOKS_START -->
-<h4 id="career-soft-skills">Career &amp; Soft Skills</h4>
-
-- [Soft Skills](books%2FSoft%20Skills%2Fsummary.en.md) [ [EN](books%2FSoft%20Skills%2Fsummary.en.md) | [FA](books%2FSoft%20Skills%2Fsummary.fa.md) ]
-
-- [The Manager’s Path](books%2FThe%20Manager%E2%80%99s%20Path%2Fsummary.en.md) [ [EN](books%2FThe%20Manager%E2%80%99s%20Path%2Fsummary.en.md) | [FA](books%2FThe%20Manager%E2%80%99s%20Path%2Fsummary.fa.md) ]
-
-
-<h4 id="data-engineering-machine-learning">Data Engineering &amp; Machine Learning</h4>
+<h4 id="data-engineering-ml">Data Engineering &amp; ML</h4>
 
 - [Designing Machine Learning Systems](books%2FDesigning%20Machine%20Learning%20Systems%2Fsummary.en.md) [ [EN](books%2FDesigning%20Machine%20Learning%20Systems%2Fsummary.en.md) | [FA](books%2FDesigning%20Machine%20Learning%20Systems%2Fsummary.fa.md) ]
 
 - [Fundamentals Of Data Engineering](books%2FFundamentals%20of%20Data%20Engineering%2Fsummary.en.md) [ [EN](books%2FFundamentals%20of%20Data%20Engineering%2Fsummary.en.md) | [FA](books%2FFundamentals%20of%20Data%20Engineering%2Fsummary.fa.md) ]
 
 
-<h4 id="software-engineering-principles">Software Engineering Principles</h4>
+<h4 id="leadership-soft-skills">Leadership &amp; Soft Skills</h4>
+
+- [Soft Skills](books%2FSoft%20Skills%2Fsummary.en.md) [ [EN](books%2FSoft%20Skills%2Fsummary.en.md) | [FA](books%2FSoft%20Skills%2Fsummary.fa.md) ]
+
+- [The Manager’s Path](books%2FThe%20Manager%E2%80%99s%20Path%2Fsummary.en.md) [ [EN](books%2FThe%20Manager%E2%80%99s%20Path%2Fsummary.en.md) | [FA](books%2FThe%20Manager%E2%80%99s%20Path%2Fsummary.fa.md) ]
+
+
+<h4 id="reliability-engineering">Reliability Engineering</h4>
+
+- [Google SRE   Site Reliability Engineering Book](books%2FGoogle%20SRE%20-%20Site%20reliability%20engineering%20book%2Fsummary.en.md) [ [EN](books%2FGoogle%20SRE%20-%20Site%20reliability%20engineering%20book%2Fsummary.en.md) | [FA](books%2FGoogle%20SRE%20-%20Site%20reliability%20engineering%20book%2Fsummary.fa.md) ]
+
+
+<h4 id="software-engineering-practices">Software Engineering Practices</h4>
 
 - [Clean Architecture](books%2FClean%20Architecture%2Fsummary.en.md) [ [EN](books%2FClean%20Architecture%2Fsummary.en.md) | [FA](books%2FClean%20Architecture%2Fsummary.fa.md) ]
 
@@ -488,8 +604,6 @@ Auto-generated overview of the repository structure:
 - [Designing Data Intensive Applications (DDIA)](books%2FDesigning%20Data-Intensive%20Applications%20%28DDIA%29%2Fsummary.en.md) [ [EN](books%2FDesigning%20Data-Intensive%20Applications%20%28DDIA%29%2Fsummary.en.md) | [FA](books%2FDesigning%20Data-Intensive%20Applications%20%28DDIA%29%2Fsummary.fa.md) ]
 
 - [Designing Distributed Systems](books%2FDesigning%20Distributed%20Systems%2Fsummary.en.md) [ [EN](books%2FDesigning%20Distributed%20Systems%2Fsummary.en.md) | [FA](books%2FDesigning%20Distributed%20Systems%2Fsummary.fa.md) ]
-
-- [Google SRE   Site Reliability Engineering Book](books%2FGoogle%20SRE%20-%20Site%20reliability%20engineering%20book%2Fsummary.en.md) [ [EN](books%2FGoogle%20SRE%20-%20Site%20reliability%20engineering%20book%2Fsummary.en.md) | [FA](books%2FGoogle%20SRE%20-%20Site%20reliability%20engineering%20book%2Fsummary.fa.md) ]
 
 - [System Design Interview (Volume 1)](books%2FSystem%20Design%20Interview%20%28Volume%201%29%2Fsummary.en.md) [ [EN](books%2FSystem%20Design%20Interview%20%28Volume%201%29%2Fsummary.en.md) | [FA](books%2FSystem%20Design%20Interview%20%28Volume%201%29%2Fsummary.fa.md) ]
 
