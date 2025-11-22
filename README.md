@@ -1,7 +1,7 @@
 [![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
     
 # LearnHub
-> Learn and review tech topics efficiently using concise, high-quality summaries. 
+> Learn and review tech topics efficiently using concise, high-quality summaries.
 
 ## Important disclaimer
 
@@ -58,7 +58,7 @@ Auto-generated overview of the repository structure:
   - [E-commerce & Delivery (Amazon, Uber, Food Delivery) (4)](#e-commerce-delivery-amazon-uber-food-delivery)
   - [Fintech & Payment Systems (Stripe, Wallet, Ledger) (2)](#fintech-payment-systems-stripe-wallet-ledger)
   - [Media Streaming & Content (YouTube, Netflix, CDN) (3)](#media-streaming-content-youtube-netflix-cdn)
-  - [Other Topics (5)](#other-topics)
+  - [Other Mock Interviews (5)](#other-mock-interviews)
   - [Search, Maps & Location Services (Google Search, Maps, Geo-hashing) (3)](#search-maps-location-services-google-search-maps-geo-hashing)
   - [Social Media & Messaging (Facebook, WhatsApp, TikTok) (5)](#social-media-messaging-facebook-whatsapp-tiktok)
 - [YouTube Videos (98)](#youtube-videos)
@@ -73,7 +73,7 @@ Auto-generated overview of the repository structure:
   - [JavaScript & TypeScript Ecosystem (12)](#javascript-typescript-ecosystem)
   - [Laravel Ecosystem (9)](#laravel-ecosystem)
   - [MCP & AI Context Servers (8)](#mcp-ai-context-servers)
-  - [Other Topics (1)](#other-topics)
+  - [Other YouTube Videos (1)](#other-youtube-videos)
   - [PHP Ecosystem (Symfony, WordPress, Slim, Zend) (3)](#php-ecosystem-symfony-wordpress-slim-zend)
   - [Python & AI/Data Science (4)](#python-ai-data-science)
   - [Ruby Engineering (3)](#ruby-engineering)
@@ -83,7 +83,7 @@ Auto-generated overview of the repository structure:
 - [Books (9)](#books)
   - [DevOps, Cloud & Infrastructure (2)](#devops-cloud-infrastructure)
   - [Management & Soft Skills (2)](#management-soft-skills)
-  - [Other Topics (1)](#other-topics)
+  - [Other Books (1)](#other-books)
   - [Python & AI/Data Science (1)](#python-ai-data-science)
   - [Software Engineering Practices (3)](#software-engineering-practices)
 <!-- REPO_TOC_END -->
@@ -188,7 +188,7 @@ Auto-generated overview of the repository structure:
 - [Design Spotify | Ex Google EM | Google System Design Interview](mock-interviews%2Fsystem-design%2FDesign%20Spotify%20%7C%20ex-Google%20EM%20%7C%20Google%20System%20Design%20Interview%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20Spotify%20%7C%20ex-Google%20EM%20%7C%20Google%20System%20Design%20Interview%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20Spotify%20%7C%20ex-Google%20EM%20%7C%20Google%20System%20Design%20Interview%2Fsummary.fa.md) ]
 
 
-<h4 id="other-topics">Other Topics</h4>
+<h4 id="other-mock-interviews">Other Mock Interviews</h4>
 
 - [Design Distributed Message Queue Like Kafka](mock-interviews%2Fsystem-design%2FDesign%20Distributed%20Message%20Queue%20like%20Kafka%2Fsummary.en.md) [ [EN](mock-interviews%2Fsystem-design%2FDesign%20Distributed%20Message%20Queue%20like%20Kafka%2Fsummary.en.md) | [FA](mock-interviews%2Fsystem-design%2FDesign%20Distributed%20Message%20Queue%20like%20Kafka%2Fsummary.fa.md) ]
 
@@ -416,7 +416,7 @@ Auto-generated overview of the repository structure:
 - [WordPress As A MCP Server | Jon Learns To Code With AI](youtube-videos%2FWordPress%20as%20a%20MCP%20Server%20%7C%20Jon%20learns%20to%20code%20with%20AI%2Fsummary.en.md) [ [EN](youtube-videos%2FWordPress%20as%20a%20MCP%20Server%20%7C%20Jon%20learns%20to%20code%20with%20AI%2Fsummary.en.md) ]
 
 
-<h4 id="other-topics">Other Topics</h4>
+<h4 id="other-youtube-videos">Other YouTube Videos</h4>
 
 - [How Iterable Replaced RabbitMQ And Kafka With Pulsar](youtube-videos%2FHow%20Iterable%20Replaced%20RabbitMQ%20and%20Kafka%20with%20Pulsar%2Fsummary.en.md) [ [EN](youtube-videos%2FHow%20Iterable%20Replaced%20RabbitMQ%20and%20Kafka%20with%20Pulsar%2Fsummary.en.md) ]
 
@@ -491,7 +491,7 @@ Auto-generated overview of the repository structure:
 - [The Manager’s Path](books%2FThe%20Manager%E2%80%99s%20Path%2Fsummary.en.md) [ [EN](books%2FThe%20Manager%E2%80%99s%20Path%2Fsummary.en.md) | [FA](books%2FThe%20Manager%E2%80%99s%20Path%2Fsummary.fa.md) ]
 
 
-<h4 id="other-topics">Other Topics</h4>
+<h4 id="other-books">Other Books</h4>
 
 - [Fundamentals Of Data Engineering](books%2FFundamentals%20of%20Data%20Engineering%2Fsummary.en.md) [ [EN](books%2FFundamentals%20of%20Data%20Engineering%2Fsummary.en.md) | [FA](books%2FFundamentals%20of%20Data%20Engineering%2Fsummary.fa.md) ]
 
