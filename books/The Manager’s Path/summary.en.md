@@ -2,6 +2,7 @@
 * **Author**: Camille Fournier
 * **Genre**: Software Engineering Management
 * **Publication Date**: 2017
+* **Book Link**: https://amazon.com/dp/1491973897
 
 This document summarizes the key lessons and insights extracted from the book.
 I highly recommend reading the original book for the full depth and author's perspective.
