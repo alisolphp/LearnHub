@@ -2,6 +2,7 @@
 * **Author**: Sam Newman
 * **Genre**: Software Engineering
 * **Publication Date**: February 2015
+* **Book Link**: https://www.amazon.com/dp/1491950358
 
 This document summarizes the key lessons and insights extracted from the book.
 I highly recommend reading the original book for the full depth and author's perspective.
