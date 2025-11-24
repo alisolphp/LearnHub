@@ -3,6 +3,11 @@
 # LearnHub
 > Learn and review tech topics efficiently using concise, high-quality summaries.
 
+## 🤿 Let's Dive into!
+Want your AI chatbot to create a personalized study plan for you using LearnHub resources? Simply click the link below!
+
+[🍚 Ask AI to Cook Up My Rapid Study Plan](https://alisol.ir/?ai=learnhub_starter)
+
 ## Important disclaimer
 
 This repository contains my personal notes and interpretations based on third-party resources
