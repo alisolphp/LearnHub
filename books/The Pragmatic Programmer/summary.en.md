@@ -2,6 +2,7 @@
 * **Author**: Andrew Hunt and David Thomas
 * **Genre**: Software Engineering
 * **Publication Date**: 1999
+* **Book Link**: https://amazon.com/dp/020161622X
 
 This document summarizes the key lessons and insights extracted from the book.
 I highly recommend reading the original book for the full depth and author's perspective.
