@@ -2,6 +2,7 @@
 * **Author**: Chip Huyen
 * **Genre**: Machine Learning Engineering / ML Systems Design
 * **Publication Date**: March 2022
+* **Book Link**: https://amazon.com/dp/1098107969
 
 This document summarizes the key lessons and insights extracted from the book.
 I highly recommend reading the original book for the full depth and author's perspective.
