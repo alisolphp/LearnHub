@@ -1,6 +1,7 @@
 # Book Summary: System Design Interview: An Insider’s Guide
 * **Author**: Alex Xu
 * **Genre**: Software Engineering
+* **Book Link**: https://amazon.com/dp/B08CMF2CQF
 
 This document summarizes the key lessons and insights extracted from the book.
 I highly recommend reading the original book for the full depth and author's perspective.
