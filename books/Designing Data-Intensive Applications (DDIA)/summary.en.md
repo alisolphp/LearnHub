@@ -2,7 +2,8 @@
 
 * **Author**: Martin Kleppmann  
 * **Genre**: Distributed systems and data engineering  
-* **Publication Date**: March 2017  
+* **Publication Date**: March 2017
+* **Book Link**: https://amazon.com/dp/1449373321
 
 This document summarizes the key lessons and insights extracted from *Designing Data-Intensive Applications*.
 I highly recommend reading the original book for the full depth and the author’s perspective.
