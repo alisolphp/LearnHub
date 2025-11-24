@@ -2,6 +2,7 @@
 * **Author**: Anne Miltenburg
 * **Genre**: Branding and Social Entrepreneurship
 * **Publication Date**: 2017
+* **Book Link**: https://amazon.com/dp/9063694784
 
 This document summarizes the key lessons and insights extracted from the book.
 I highly recommend reading the original book for the full depth and author's perspective.
