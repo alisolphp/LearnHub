@@ -25,7 +25,7 @@
 [Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang={{LANG}}&src={{SUMMARY_SRC}}) | 
 [Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang={{LANG}}&src={{SUMMARY_SRC}}) | 
 [Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang={{LANG}}&src={{SUMMARY_SRC}})
-
+ 
 </div>
 
 ---
