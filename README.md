@@ -4,7 +4,7 @@
 > Learn and review tech topics efficiently using concise, high-quality summaries.
 
 ## 🤿 Let's Dive in!
-Want your AI chatbot to create a personalized study plan for you using LearnHub resources? Simply click the link below! 
+Want your AI chatbot to create a personalized study plan for you using LearnHub resources? Simply click the link below!
 
 [🍚 Ask AI to Cook Up My Rapid Study Plan](https://alisol.ir/?ai=learnhub_starter)
 
@@ -567,10 +567,9 @@ Auto-generated overview of the repository structure:
 Contributions are welcome!
 
 - Add new resources under a suitable folder (for example `courses/`, `mock-interviews/`, `books/`, or other logical categories).
-- For each resource, create one or more `summary.XX.md` files (for example `summary.en.md`, `summary.fa.md`).
+- For each resource, create one or more `summary.XX.md` files (`summary.en.md` is necessary, but other langs are optional).
 - Keep the summary structure consistent so that learners know what to expect.
-- Run the README generator script to update the lists between the markers.
-- Keep the lists sorted alphabetically by title to make browsing easier.
+- The list and categorized TOC will be generated programmatically on push with AI-powered workflow.
 
 ## License
 
