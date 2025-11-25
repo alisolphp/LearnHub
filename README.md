@@ -8,6 +8,7 @@ Want your AI chatbot to create a personalized study plan for you using LearnHub 
 
 [🍚 Ask AI to Cook Up My Rapid Study Plan](https://alisol.ir/?ai=learnhub_starter)
 
+
 ### How it works:
 
 <p align="center">    
