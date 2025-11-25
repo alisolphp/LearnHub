@@ -12,6 +12,10 @@
 - I summarize key points from useful courses to learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## [Topic 1: Introduction to AWS]
 
 * **Summary**: This section kicks off with an overview of how to approach AWS, comparing it to a starship with various services. It covers course goals like understanding key services, their icons, and when to use them, plus prerequisites such as basic computer and networking knowledge.
