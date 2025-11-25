@@ -13,7 +13,7 @@
 - Simply click on `Ask AI` links to dive into any topic you want.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=e1d8b800 -->
+<!-- LH-BUTTONS:HASH=da0e3c2b -->
 
 ### AI-Powered buttons
 
@@ -23,7 +23,7 @@ Start teaching this to a:
 [Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=courses/linkedin-aws-essential-training-for-developers) | 
 <small> [(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer) </small>
 
-Learn the topic via different lenses:
+Learn via different lenses:
 [Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=courses/linkedin-aws-essential-training-for-developers) | 
 [Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=courses/linkedin-aws-essential-training-for-developers) | 
 [Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=courses/linkedin-aws-essential-training-for-developers) | 
