@@ -5,12 +5,12 @@ on:
     branches: [ main ]
     paths:
       - '_includes/summary-buttons.md'
-      - 'content/**/summary*.md'
+      - '**/summary*.md'
   pull_request:
     branches: [ main ]
     paths:
       - '_includes/summary-buttons.md'
-      - 'content/**/summary*.md'
+      - '**/summary*.md'
   workflow_dispatch:
 
 permissions:
@@ -33,7 +33,7 @@ jobs:
             BEFORE_SHA="$(git rev-list --max-parents=0 HEAD)"
           fi
 
-          CHANGED_SUMMARIES=$(git diff --name-only "$BEFORE_SHA" "$AFTER_SHA" -- 'content/**/summary*.md' | tr '\n' ' ')
+          CHANGED_SUMMARIES=$(git diff --name-only "$BEFORE_SHA" "$AFTER_SHA" -- '**/summary*.md' | tr '\n' ' ')
           TEMPLATE_CHANGED=$(git diff --name-only "$BEFORE_SHA" "$AFTER_SHA" -- '_includes/summary-buttons.md' | wc -l | tr -d '[:space:]')
 
           echo "changed_summaries=$CHANGED_SUMMARIES" >> "$GITHUB_OUTPUT"
