@@ -16,11 +16,13 @@ const templateHash = crypto.createHash("sha1").update(template).digest("hex").sl
 function encodePathForSrc(relDir) {
   return relDir.replace(/\\/g, "/").split("/").map(encodeURIComponent).join("/");
 }
+
 function extractLangFromFilename(filePath) {
   const base = path.basename(filePath);
   const m = base.match(/^summary\.([a-z]{2})\.md$/i);
   return m ? m[1].toLowerCase() : "en";
 }
+
 function currentBlockHash(block) {
   const i = block.indexOf(HASH_PREFIX);
   if (i === -1) return null;
@@ -29,11 +31,13 @@ function currentBlockHash(block) {
   if (j === -1) return null;
   return tail.slice(0, j).trim();
 }
+
 function inject(md, html) {
   const re = new RegExp(`(${START})([\\s\\S]*?)(${END})`, "m");
   if (!re.test(md)) return null;
   return md.replace(re, `$1\n${html.trim()}\n$3`);
 }
+
 function renderTemplate(dirRel, lang) {
   const summarySrc = encodePathForSrc(dirRel);
   const html = template
@@ -41,11 +45,12 @@ function renderTemplate(dirRel, lang) {
     .replaceAll("{{LANG}}", lang);
   return `${HASH_PREFIX}${templateHash} -->\n${html}`;
 }
+
 function targets() {
   if (!TEMPLATE_CHANGED && changedFromDiff.length > 0) {
     return changedFromDiff.filter(f => f && f.endsWith(".md"));
   }
-  return fg.sync(["content/**/summary*.md"], { dot: false });
+  return fg.sync(["**/summary*.md"], { dot: false });
 }
 
 const files = targets();
@@ -54,25 +59,31 @@ let updated = 0;
 for (const file of files) {
   const raw = fs.existsSync(file) ? fs.readFileSync(file, "utf8") : null;
   if (!raw) continue;
-
+  
   const idxStart = raw.indexOf(START);
   const idxEnd = raw.indexOf(END);
   if (idxStart === -1 || idxEnd === -1) continue;
-
-  const block = raw.slice(idxStart, idxEnd);
+  
+  const block = raw.slice(idxStart, idxEnd + END.length);
   const existingHash = currentBlockHash(block);
-
+  
   const dirRel = path.dirname(file).replace(/^content\//, "");
   const lang = extractLangFromFilename(file);
   const rendered = renderTemplate(dirRel, lang);
-
-  if (existingHash === templateHash) continue;
-
+  
+  if (existingHash === templateHash && !TEMPLATE_CHANGED) {
+    console.log(`Skipping ${file} - hash matches and template unchanged`);
+    continue;
+  }
+  
   const next = inject(raw, rendered);
   if (next && next !== raw) {
     fs.writeFileSync(file, next, "utf8");
+    console.log(`✓ Updated: ${file}`);
     updated++;
+  } else {
+    console.log(`✗ No change needed for: ${file}`);
   }
 }
 
-console.log(updated > 0 ? `updated files: ${updated}` : "no updates needed");
+console.log(updated > 0 ? `\n✓ Total updated files: ${updated}` : "\n✓ No updates needed");
