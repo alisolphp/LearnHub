@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update:buttons": "node scripts/replace-buttons.mjs"
+  },
+  "dependencies": {
+    "fast-glob": "^3.3.2"
+  }
+}
