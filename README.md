@@ -5,7 +5,7 @@
 
 ## 🤿 Let's Dive in!
 Want your AI chatbot to create a personalized study plan for you using LearnHub resources? Simply click the link below!
-
+ 
 [🍚 Ask AI to Cook Up My Rapid Study Plan](https://alisol.ir/?ai=learnhub_starter)
 
 Other langs:
