@@ -9,19 +9,17 @@
 *این سند، نکات کلیدی دوره را خلاصه می‌کند تا سریع‌تر یاد بگیری و مرور کنی. اگر فرصت داشتی، دیدن دوره‌ی کامل به‌شدت پیشنهاد می‌شود.*
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=2bb7cbc3 -->
+<!-- LH-BUTTONS:HASH=e1d8b800 -->
 
 ### AI-Powered buttons
 
 Start teaching this to a:
-
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=fa&src=courses/linkedin-aws-essential-training-for-developers) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=fa&src=courses/linkedin-aws-essential-training-for-developers) | 
 [Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=fa&src=courses/linkedin-aws-essential-training-for-developers) | 
-<small> [[reset auto redirect]](https://alisol.ir/?ai=reset_redirect_timer) </small>
+<small> [(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer) </small>
 
 Learn the topic via different lenses:
-
 [Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=fa&src=courses/linkedin-aws-essential-training-for-developers) | 
 [Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=fa&src=courses/linkedin-aws-essential-training-for-developers) | 
 [Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=fa&src=courses/linkedin-aws-essential-training-for-developers) | 
@@ -31,7 +29,6 @@ Learn the topic via different lenses:
 [Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=fa&src=courses/linkedin-aws-essential-training-for-developers)
 
 Check my understanding:
-
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=fa&src=courses/linkedin-aws-essential-training-for-developers) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=fa&src=courses/linkedin-aws-essential-training-for-developers) | 
 [Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=courses/linkedin-aws-essential-training-for-developers)
