@@ -13,7 +13,48 @@
 - Simply click on `Ask AI` links to dive into any topic you want.
 
 <!-- LH-BUTTONS:START -->
-<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:HASH=64cfa3fb -->
+
+## AI-Powered buttons
+
+### Start teaching this to a:
+
+<div align="center">
+
+[Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=courses/linkedin-aws-essential-training-for-developers) | 
+[Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=courses/linkedin-aws-essential-training-for-developers) | 
+[Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=courses/linkedin-aws-essential-training-for-developers) | 
+<small> [[reset auto redirect]](https://alisol.ir/?ai=reset_redirect_timer) </small>
+
+</div>
+
+---
+
+### Learn the topic via different lenses:
+
+<div align="center">
+
+[Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=courses/linkedin-aws-essential-training-for-developers) | 
+[Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=courses/linkedin-aws-essential-training-for-developers) | 
+[Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=courses/linkedin-aws-essential-training-for-developers) | 
+[Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=en&src=courses/linkedin-aws-essential-training-for-developers) | 
+[Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=en&src=courses/linkedin-aws-essential-training-for-developers) | 
+[Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=en&src=courses/linkedin-aws-essential-training-for-developers) | 
+[Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=en&src=courses/linkedin-aws-essential-training-for-developers)
+ 
+</div>
+
+---
+
+### Check my understanding:
+
+<div align="center">
+
+[Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=courses/linkedin-aws-essential-training-for-developers) | 
+[Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=courses/linkedin-aws-essential-training-for-developers) | 
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=courses/linkedin-aws-essential-training-for-developers)
+
+</div>
 <!-- LH-BUTTONS:END -->
 
 ## [Topic 1: Introduction to AWS]
