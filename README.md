@@ -9,6 +9,7 @@ Want your AI chatbot to create a personalized study plan for you using LearnHub 
 [🍚 Ask AI to Cook Up My Rapid Study Plan](https://alisol.ir/?ai=learnhub_starter)
 
 Other langs:
+
 [🇳🇱 NL](https://alisol.ir/?ai=learnhub_starter|NL) ·
 [🇩🇪 DE](https://alisol.ir/?ai=learnhub_starter|DE) ·
 [🇫🇷 FR](https://alisol.ir/?ai=learnhub_starter|FR) ·
