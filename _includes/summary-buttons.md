@@ -7,7 +7,7 @@ Start teaching this to a:
 [Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang={{LANG}}&src={{SUMMARY_SRC}}) | 
 <small> [(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer) </small>
 
-Learn the topic via different lenses:
+Learn via different lenses:
 [Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang={{LANG}}&src={{SUMMARY_SRC}}) | 
 [Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang={{LANG}}&src={{SUMMARY_SRC}}) | 
 [Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang={{LANG}}&src={{SUMMARY_SRC}}) | 
