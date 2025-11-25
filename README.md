@@ -14,7 +14,6 @@ Want your AI chatbot to create a personalized study plan for you using LearnHub 
   <img src="assets/learnhub_starter.gif" alt="Let's dive into LearnHub" width="853">
 </p>
 
-
 ## Important disclaimer
 
 This repository contains my personal notes and interpretations based on third-party resources
@@ -43,9 +42,11 @@ You can combine these summaries with an AI assistant to:
 
 - Ask follow-up questions about any section of a summary.
 - Turn flashcards into interactive Q&A practice.
-- Translate explanations to your preferred natural language.
+- Translate explanations into your preferred tone and natural language.
 - See examples in the programming language you are most comfortable with.
+- Get freshness notes after each explanation (useful for older books and videos). 
 - Simulate interview-style discussions using the mock interview summaries.
+- Go deeper into the topic with advanced AI hints at the end.
 
 A simple workflow is:
 
