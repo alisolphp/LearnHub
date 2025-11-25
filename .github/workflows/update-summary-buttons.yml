@@ -1,0 +1,59 @@
+name: Update Summary Buttons
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - '_includes/summary-buttons.md'
+      - 'content/**/summary*.md'
+  pull_request:
+    branches: [ main ]
+    paths:
+      - '_includes/summary-buttons.md'
+      - 'content/**/summary*.md'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-buttons:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Detect changes
+        id: diff
+        run: |
+          BEFORE_SHA="${{ github.event.before }}"
+          AFTER_SHA="${{ github.sha }}"
+          if [ -z "$BEFORE_SHA" ]; then
+            BEFORE_SHA="$(git rev-list --max-parents=0 HEAD)"
+          fi
+          CHANGED_SUMMARIES=$(git diff --name-only "$BEFORE_SHA" "$AFTER_SHA" -- 'content/**/summary*.md' | tr '\n' ' ')
+          TEMPLATE_CHANGED=$(git diff --name-only "$BEFORE_SHA" "$AFTER_SHA" -- '_includes/summary-buttons.md' | wc -l | tr -d '[:space:]')
+          echo "changed_summaries=$CHANGED_SUMMARIES" >> "$GITHUB_OUTPUT"
+          echo "template_changed=$TEMPLATE_CHANGED" >> "$GITHUB_OUTPUT"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+      - run: npm ci
+      - name: Replace buttons
+        env:
+          CHANGED_SUMMARIES: ${{ steps.diff.outputs.changed_summaries }}
+          TEMPLATE_CHANGED: ${{ steps.diff.outputs.template_changed }}
+        run: node scripts/replace-buttons.mjs "$TEMPLATE_CHANGED" $CHANGED_SUMMARIES
+      - name: Commit & Push if changed
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            if git log -1 --pretty=%an | grep -q "github-actions"; then
+              exit 0
+            fi
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add -A
+            git commit -m "chore: update summary action buttons"
+            git push
+          fi
