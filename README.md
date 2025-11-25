@@ -10,22 +10,22 @@ Want your AI chatbot to create a personalized study plan for you using LearnHub 
 
 Other langs:
 
-[🇳🇱 NL](https://alisol.ir/?ai=learnhub_starter|NL) 
-[🇩🇪 DE](https://alisol.ir/?ai=learnhub_starter|DE) 
-[🇫🇷 FR](https://alisol.ir/?ai=learnhub_starter|FR) 
-[🇪🇸 ES](https://alisol.ir/?ai=learnhub_starter|ES) 
-[🇮🇹 IT](https://alisol.ir/?ai=learnhub_starter|IT) 
-[🇸🇪 SV](https://alisol.ir/?ai=learnhub_starter|SV) 
-[🇸🇦 AR](https://alisol.ir/?ai=learnhub_starter|AR) 
-[🇮🇷 FA](https://alisol.ir/?ai=learnhub_starter|FA) 
-[🇩🇰 DA](https://alisol.ir/?ai=learnhub_starter|DA) 
-[🇮🇳 HI](https://alisol.ir/?ai=learnhub_starter|HI) 
-[🇵🇱 PL](https://alisol.ir/?ai=learnhub_starter|PL) 
-[🇧🇷 PT](https://alisol.ir/?ai=learnhub_starter|PT) 
-[🇷🇴 RO](https://alisol.ir/?ai=learnhub_starter|RO) 
-[🇷🇺 RU](https://alisol.ir/?ai=learnhub_starter|RU) 
-[🇳🇴 NO](https://alisol.ir/?ai=learnhub_starter|NO) 
-[🇹🇷 TR](https://alisol.ir/?ai=learnhub_starter|TR)
+[🇳🇱 NL](https://alisol.ir/?ai=learnhub_starter|NL)  
+[🇩🇪 DE](https://alisol.ir/?ai=learnhub_starter|DE)   
+[🇫🇷 FR](https://alisol.ir/?ai=learnhub_starter|FR)   
+[🇪🇸 ES](https://alisol.ir/?ai=learnhub_starter|ES)   
+[🇮🇹 IT](https://alisol.ir/?ai=learnhub_starter|IT)   
+[🇸🇪 SV](https://alisol.ir/?ai=learnhub_starter|SV)   
+[🇸🇦 AR](https://alisol.ir/?ai=learnhub_starter|AR)   
+[🇮🇷 FA](https://alisol.ir/?ai=learnhub_starter|FA)   
+[🇩🇰 DA](https://alisol.ir/?ai=learnhub_starter|DA)   
+[🇮🇳 HI](https://alisol.ir/?ai=learnhub_starter|HI)   
+[🇵🇱 PL](https://alisol.ir/?ai=learnhub_starter|PL)   
+[🇧🇷 PT](https://alisol.ir/?ai=learnhub_starter|PT)   
+[🇷🇴 RO](https://alisol.ir/?ai=learnhub_starter|RO)   
+[🇷🇺 RU](https://alisol.ir/?ai=learnhub_starter|RU)   
+[🇳🇴 NO](https://alisol.ir/?ai=learnhub_starter|NO)   
+[🇹🇷 TR](https://alisol.ir/?ai=learnhub_starter|TR)  
 
 ### How it works:
 
