@@ -1,10 +1,10 @@
 [![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-    
+    
 # LearnHub
 > Learn and review tech topics efficiently using concise, high-quality summaries.
 
 ## 🤿 Let's Dive in!
-Want your AI chatbot to create a personalized study plan for you using LearnHub resources? Simply click the link below! 
+Want your AI chatbot to create a personalized study plan for you using LearnHub resources? Simply click the link below!
 
 [🍚 Ask AI to Cook Up My Rapid Study Plan](https://alisol.ir/?ai=learnhub_starter)
 
@@ -16,21 +16,21 @@ Other langs:
 [🇪🇸 ES](https://alisol.ir/?ai=learnhub_starter|ES)  
 [🇮🇹 IT](https://alisol.ir/?ai=learnhub_starter|IT)  
 [🇸🇪 SV](https://alisol.ir/?ai=learnhub_starter|SV)  
-[🇸🇦 AR](https://alisol.ir/?ai=learnhub_starter|AR)  
-[🇮🇷 FA](https://alisol.ir/?ai=learnhub_starter|FA)  
 [🇩🇰 DA](https://alisol.ir/?ai=learnhub_starter|DA)  
-[🇮🇳 HI](https://alisol.ir/?ai=learnhub_starter|HI)  
+[🇳🇴 NO](https://alisol.ir/?ai=learnhub_starter|NO)  
 [🇵🇱 PL](https://alisol.ir/?ai=learnhub_starter|PL)  
-[🇧🇷 PT](https://alisol.ir/?ai=learnhub_starter|PT)  
+[🇵🇹 PT](https://alisol.ir/?ai=learnhub_starter|PT)  
 [🇷🇴 RO](https://alisol.ir/?ai=learnhub_starter|RO)  
 [🇷🇺 RU](https://alisol.ir/?ai=learnhub_starter|RU)  
-[🇳🇴 NO](https://alisol.ir/?ai=learnhub_starter|NO)  
+[🇮🇳 HI](https://alisol.ir/?ai=learnhub_starter|HI)  
+[🇸🇦 AR](https://alisol.ir/?ai=learnhub_starter|AR)  
+[🇮🇷 FA](https://alisol.ir/?ai=learnhub_starter|FA)  
 [🇹🇷 TR](https://alisol.ir/?ai=learnhub_starter|TR)
 
 ### How it works:
 
-<p align="center">    
-  <img src="assets/learnhub_starter.gif" alt="Let's dive into LearnHub" width="853">
+<p align="center">    
+  <img src="assets/learnhub_starter.gif" alt="Let's dive into LearnHub" width="853">
 </p>
 
 ## Important disclaimer
@@ -79,42 +79,42 @@ A simple workflow is:
 Auto-generated overview of the repository structure:
 
 - [Courses (21)](#courses)
-  - [DevOps, Cloud & Infrastructure (7)](#devops-cloud-infrastructure)
-  - [Go & Backend Engineering (2)](#go-backend-engineering)
-  - [Laravel Ecosystem (3)](#laravel-ecosystem)
-  - [Management & Soft Skills (1)](#management-soft-skills)
-  - [Python & AI/Data Science (1)](#python-ai-data-science)
-  - [Software Engineering Practices (7)](#software-engineering-practices)
+  - [DevOps, Cloud & Infrastructure (7)](#devops-cloud-infrastructure)
+  - [Go & Backend Engineering (2)](#go-backend-engineering)
+  - [Laravel Ecosystem (3)](#laravel-ecosystem)
+  - [Management & Soft Skills (1)](#management-soft-skills)
+  - [Python & AI/Data Science (1)](#python-ai-data-science)
+  - [Software Engineering Practices (7)](#software-engineering-practices)
 - [Mock Interviews – System Design (24)](#mock-interviews--system-design)
-  - [Core Infrastructure & Fundamentals (Cache, Auth, Rate Limiter) (8)](#core-infrastructure-fundamentals-cache-auth-rate-limiter)
-  - [E-commerce & Delivery (Amazon, Uber, Food Delivery) (4)](#e-commerce-delivery-amazon-uber-food-delivery)
-  - [Fintech & Payment Systems (Stripe, Wallet, Ledger) (2)](#fintech-payment-systems-stripe-wallet-ledger)
-  - [Media Streaming & Content (YouTube, Netflix, CDN) (3)](#media-streaming-content-youtube-netflix-cdn)
-  - [Search, Maps & Location Services (Google Search, Maps, Geo-hashing) (3)](#search-maps-location-services-google-search-maps-geo-hashing)
-  - [Social Media & Messaging (Facebook, WhatsApp, TikTok) (4)](#social-media-messaging-facebook-whatsapp-tiktok)
+  - [Core Infrastructure & Fundamentals (Cache, Auth, Rate Limiter) (8)](#core-infrastructure-fundamentals-cache-auth-rate-limiter)
+  - [E-commerce & Delivery (Amazon, Uber, Food Delivery) (4)](#e-commerce-delivery-amazon-uber-food-delivery)
+  - [Fintech & Payment Systems (Stripe, Wallet, Ledger) (2)](#fintech-payment-systems-stripe-wallet-ledger)
+  - [Media Streaming & Content (YouTube, Netflix, CDN) (3)](#media-streaming-content-youtube-netflix-cdn)
+  - [Search, Maps & Location Services (Google Search, Maps, Geo-hashing) (3)](#search-maps-location-services-google-search-maps-geo-hashing)
+  - [Social Media & Messaging (Facebook, WhatsApp, TikTok) (4)](#social-media-messaging-facebook-whatsapp-tiktok)
 - [YouTube Videos (115)](#youtube-videos)
-  - [Algorithms & Data Structures (14)](#algorithms-data-structures)
-  - [C# & .NET Ecosystem (4)](#c-net-ecosystem)
-  - [Databases (SQL & NoSQL) (9)](#databases-sql-nosql)
-  - [DevOps, Cloud & Infrastructure (10)](#devops-cloud-infrastructure)
-  - [E-commerce & Delivery (Magento, Shopify) (4)](#e-commerce-delivery-magento-shopify)
-  - [Fintech & Payment Systems (Stripe, Wallet, Ledger) (5)](#fintech-payment-systems-stripe-wallet-ledger)
-  - [Go & Backend Engineering (3)](#go-backend-engineering)
-  - [JavaScript & TypeScript Ecosystem (12)](#javascript-typescript-ecosystem)
-  - [Laravel Ecosystem (11)](#laravel-ecosystem)
-  - [MCP & AI Context Servers (9)](#mcp-ai-context-servers)
-  - [Other YouTube Videos (4)](#other-youtube-videos)
-  - [PHP Ecosystem (Symfony, WordPress, Slim, Zend) (18)](#php-ecosystem-symfony-wordpress-slim-zend)
-  - [Python & AI/Data Science (4)](#python-ai-data-science)
-  - [Rust Engineering (1)](#rust-engineering)
-  - [Security & Auth (6)](#security-auth)
-  - [Software Engineering Practices (1)](#software-engineering-practices)
+  - [Algorithms & Data Structures (14)](#algorithms-data-structures)
+  - [C# & .NET Ecosystem (4)](#c-net-ecosystem)
+  - [Databases (SQL & NoSQL) (9)](#databases-sql-nosql)
+  - [DevOps, Cloud & Infrastructure (10)](#devops-cloud-infrastructure)
+  - [E-commerce & Delivery (Magento, Shopify) (4)](#e-commerce-delivery-magento-shopify)
+  - [Fintech & Payment Systems (Stripe, Wallet, Ledger) (5)](#fintech-payment-systems-stripe-wallet-ledger)
+  - [Go & Backend Engineering (3)](#go-backend-engineering)
+  - [JavaScript & TypeScript Ecosystem (12)](#javascript-typescript-ecosystem)
+  - [Laravel Ecosystem (11)](#laravel-ecosystem)
+  - [MCP & AI Context Servers (9)](#mcp-ai-context-servers)
+  - [Other YouTube Videos (4)](#other-youtube-videos)
+  - [PHP Ecosystem (Symfony, WordPress, Slim, Zend) (18)](#php-ecosystem-symfony-wordpress-slim-zend)
+  - [Python & AI/Data Science (4)](#python-ai-data-science)
+  - [Rust Engineering (1)](#rust-engineering)
+  - [Security & Auth (6)](#security-auth)
+  - [Software Engineering Practices (1)](#software-engineering-practices)
 - [Books (15)](#books)
-  - [DevOps, Cloud & Infrastructure (4)](#devops-cloud-infrastructure)
-  - [Management & Soft Skills (3)](#management-soft-skills)
-  - [Other Books (4)](#other-books)
-  - [Python & AI/Data Science (1)](#python-ai-data-science)
-  - [Software Engineering Practices (3)](#software-engineering-practices)
+  - [DevOps, Cloud & Infrastructure (4)](#devops-cloud-infrastructure)
+  - [Management & Soft Skills (3)](#management-soft-skills)
+  - [Other Books (4)](#other-books)
+  - [Python & AI/Data Science (1)](#python-ai-data-science)
+  - [Software Engineering Practices (3)](#software-engineering-practices)
 <!-- REPO_TOC_END -->
 
 ## Repository structure
@@ -255,38 +255,38 @@ Auto-generated overview of the repository structure:
 
 - [6 GRAPH PROBLEMS SOLVED | LeetCode Grind 2023 | Blind 75 List](youtube-videos%2F6%20GRAPH%20PROBLEMS%20SOLVED%20%7C%20LeetCode%20Grind%202023%20%7C%20Blind%2075%20List%2Fsummary.en.md) [ [EN](youtube-videos%2F6%20GRAPH%20PROBLEMS%20SOLVED%20%7C%20LeetCode%20Grind%202023%20%7C%20Blind%2075%20List%2Fsummary.en.md) ]
 
-- [Alien Dictionary   Topological Sort   Leetcode 269](youtube-videos%2FAlien%20Dictionary%20-%20Topological%20Sort%20-%20Leetcode%20269%2Fsummary.en.md) [ [EN](youtube-videos%2FAlien%20Dictionary%20-%20Topological%20Sort%20-%20Leetcode%20269%2Fsummary.en.md) ]
+- [Alien Dictionary   Topological Sort   Leetcode 269](youtube-videos%2FAlien%20Dictionary%20-%20Topological%20Sort%20-%20Leetcode%20269%2Fsummary.en.md) [ [EN](youtube-videos%2FAlien%20Dictionary%20-%20Topological%20Sort%20-%20Leetcode%20269%2Fsummary.en.md) ]
 
-- [Course Schedule II   Topological Sort   Leetcode 210](youtube-videos%2FCourse%20Schedule%20II%20-%20Topological%20Sort%20-%20Leetcode%20210%2Fsummary.en.md) [ [EN](youtube-videos%2FCourse%20Schedule%20II%20-%20Topological%20Sort%20-%20Leetcode%20210%2Fsummary.en.md) ]
+- [Course Schedule II   Topological Sort   Leetcode 210](youtube-videos%2FCourse%20Schedule%20II%20-%20Topological%20Sort%20-%20Leetcode%20210%2Fsummary.en.md) [ [EN](youtube-videos%2FCourse%20Schedule%20II%20-%20Topological%20Sort%20-%20Leetcode%20210%2Fsummary.en.md) ]
 
-- [K Closest Points To Origin   Heap | Priority Queue   Leetcode 973](youtube-videos%2FK%20Closest%20Points%20to%20Origin%20-%20Heap%20%7C%20Priority%20Queue%20-%20Leetcode%20973%2Fsummary.en.md) [ [EN](youtube-videos%2FK%20Closest%20Points%20to%20Origin%20-%20Heap%20%7C%20Priority%20Queue%20-%20Leetcode%20973%2Fsummary.en.md) ]
+- [K Closest Points To Origin   Heap | Priority Queue   Leetcode 973](youtube-videos%2FK%20Closest%20Points%20to%20Origin%20-%20Heap%20%7C%20Priority%20Queue%20-%20Leetcode%20973%2Fsummary.en.md) [ [EN](youtube-videos%2FK%20Closest%20Points%20to%20Origin%20-%20Heap%20%7C%20Priority%20Queue%20-%20Leetcode%20973%2Fsummary.en.md) ]
 
-- [Kth Largest Element In An Array   Leetcode 215   Heaps](youtube-videos%2FKth%20Largest%20Element%20in%20an%20Array%20-%20Leetcode%20215%20-%20Heaps%2Fsummary.en.md) [ [EN](youtube-videos%2FKth%20Largest%20Element%20in%20an%20Array%20-%20Leetcode%20215%20-%20Heaps%2Fsummary.en.md) ]
+- [Kth Largest Element In An Array   Leetcode 215   Heaps](youtube-videos%2FKth%20Largest%20Element%20in%20an%20Array%20-%20Leetcode%20215%20-%20Heaps%2Fsummary.en.md) [ [EN](youtube-videos%2FKth%20Largest%20Element%20in%20an%20Array%20-%20Leetcode%20215%20-%20Heaps%2Fsummary.en.md) ]
 
-- [Longest Substring Without Repeating Characters   Leetcode 3](youtube-videos%2FLongest%20Substring%20Without%20Repeating%20Characters%20-%20Leetcode%203%2Fsummary.en.md) [ [EN](youtube-videos%2FLongest%20Substring%20Without%20Repeating%20Characters%20-%20Leetcode%203%2Fsummary.en.md) ]
+- [Longest Substring Without Repeating Characters   Leetcode 3](youtube-videos%2FLongest%20Substring%20Without%20Repeating%20Characters%20-%20Leetcode%203%2Fsummary.en.md) [ [EN](youtube-videos%2FLongest%20Substring%20Without%20Repeating%20Characters%20-%20Leetcode%203%2Fsummary.en.md) ]
 
-- [Max Consecutive Ones III   Leetcode 1004   Sliding Window](youtube-videos%2FMax%20Consecutive%20Ones%20III%20-%20Leetcode%201004%20-%20Sliding%20Window%2Fsummary.en.md) [ [EN](youtube-videos%2FMax%20Consecutive%20Ones%20III%20-%20Leetcode%201004%20-%20Sliding%20Window%2Fsummary.en.md) ]
+- [Max Consecutive Ones III   Leetcode 1004   Sliding Window](youtube-videos%2FMax%20Consecutive%20Ones%20III%20-%20Leetcode%201004%20-%20Sliding%20Window%2Fsummary.en.md) [ [EN](youtube-videos%2FMax%20Consecutive%20Ones%20III%20-%20Leetcode%201004%20-%20Sliding%20Window%2Fsummary.en.md) ]
 
-- [Network Delay Time   Dijkstra's Algorithm   Leetcode 743](youtube-videos%2FNetwork%20Delay%20Time%20-%20Dijkstra%27s%20algorithm%20-%20Leetcode%20743%2Fsummary.en.md) [ [EN](youtube-videos%2FNetwork%20Delay%20Time%20-%20Dijkstra%27s%20algorithm%20-%20Leetcode%20743%2Fsummary.en.md) ]
+- [Network Delay Time   Dijkstra's Algorithm   Leetcode 743](youtube-videos%2FNetwork%20Delay%20Time%20-%20Dijkstra%27s%20algorithm%20-%20Leetcode%20743%2Fsummary.en.md) [ [EN](youtube-videos%2FNetwork%20Delay%20Time%20-%20Dijkstra%27s%20algorithm%20-%20Leetcode%20743%2Fsummary.en.md) ]
 
-- [Range Sum Query 2D   Immutable   Leetcode 304](youtube-videos%2FRange%20Sum%20Query%202D%20-%20Immutable%20-%20Leetcode%20304%2Fsummary.en.md) [ [EN](youtube-videos%2FRange%20Sum%20Query%202D%20-%20Immutable%20-%20Leetcode%20304%2Fsummary.en.md) ]
+- [Range Sum Query 2D   Immutable   Leetcode 304](youtube-videos%2FRange%20Sum%20Query%202D%20-%20Immutable%20-%20Leetcode%20304%2Fsummary.en.md) [ [EN](youtube-videos%2FRange%20Sum%20Query%202D%20-%20Immutable%20-%20Leetcode%20304%2Fsummary.en.md) ]
 
-- [Shortest Path In A Binary Matrix   Leetcode 1091](youtube-videos%2FShortest%20Path%20in%20a%20Binary%20Matrix%20-%20Leetcode%201091%2Fsummary.en.md) [ [EN](youtube-videos%2FShortest%20Path%20in%20a%20Binary%20Matrix%20-%20Leetcode%201091%2Fsummary.en.md) ]
+- [Shortest Path In A Binary Matrix   Leetcode 1091](youtube-videos%2FShortest%20Path%20in%20a%20Binary%20Matrix%20-%20Leetcode%201091%2Fsummary.en.md) [ [EN](youtube-videos%2FShortest%20Path%20in%20a%20Binary%20Matrix%20-%20Leetcode%201091%2Fsummary.en.md) ]
 
-- [Shortest Path With Alternating Colors   Leetcode 1129](youtube-videos%2FShortest%20Path%20with%20Alternating%20Colors%20-%20Leetcode%201129%2Fsummary.en.md) [ [EN](youtube-videos%2FShortest%20Path%20with%20Alternating%20Colors%20-%20Leetcode%201129%2Fsummary.en.md) ]
+- [Shortest Path With Alternating Colors   Leetcode 1129](youtube-videos%2FShortest%20Path%20with%20Alternating%20Colors%20-%20Leetcode%201129%2Fsummary.en.md) [ [EN](youtube-videos%2FShortest%20Path%20with%20Alternating%20Colors%20-%20Leetcode%201129%2Fsummary.en.md) ]
 
 - [Solving The Sliding Window Problems From Blind 75 | LeetCode](youtube-videos%2FSolving%20the%20Sliding%20Window%20Problems%20from%20Blind%2075%20%7C%20LeetCode%2Fsummary.en.md) [ [EN](youtube-videos%2FSolving%20the%20Sliding%20Window%20Problems%20from%20Blind%2075%20%7C%20LeetCode%2Fsummary.en.md) ]
 
-- [Subarray Sum Equals K   Prefix Sums   Leetcode 560](youtube-videos%2FSubarray%20Sum%20Equals%20K%20-%20Prefix%20Sums%20-%20Leetcode%20560%2Fsummary.en.md) [ [EN](youtube-videos%2FSubarray%20Sum%20Equals%20K%20-%20Prefix%20Sums%20-%20Leetcode%20560%2Fsummary.en.md) ]
+- [Subarray Sum Equals K   Prefix Sums   Leetcode 560](youtube-videos%2FSubarray%20Sum%20Equals%20K%20-%20Prefix%20Sums%20-%20Leetcode%20560%2Fsummary.en.md) [ [EN](youtube-videos%2FSubarray%20Sum%20Equals%20K%20-%20Prefix%20Sums%20-%20Leetcode%20560%2Fsummary.en.md) ]
 
-- [Top K Frequent Elements   Leetcode 347](youtube-videos%2FTop%20K%20Frequent%20Elements%20-%20Leetcode%20347%2Fsummary.en.md) [ [EN](youtube-videos%2FTop%20K%20Frequent%20Elements%20-%20Leetcode%20347%2Fsummary.en.md) ]
+- [Top K Frequent Elements   Leetcode 347](youtube-videos%2FTop%20K%20Frequent%20Elements%20-%20Leetcode%20347%2Fsummary.en.md) [ [EN](youtube-videos%2FTop%20K%20Frequent%20Elements%20-%20Leetcode%20347%2Fsummary.en.md) ]
 
 
 <h4 id="c-net-ecosystem">C# &amp; .NET Ecosystem</h4>
 
 - [.NET 8 Crash Course | Learn Dotnet, C#, Entity Framework](youtube-videos%2F.NET%208%20Crash%20Course%20%7C%20Learn%20Dotnet%2C%20C%23%2C%20Entity%20Framework%2Fsummary.en.md) [ [EN](youtube-videos%2F.NET%208%20Crash%20Course%20%7C%20Learn%20Dotnet%2C%20C%23%2C%20Entity%20Framework%2Fsummary.en.md) ]
 
-- [Learn ASP.NET Core 8.0   Full Course For Beginners [Tutorial]](youtube-videos%2FLearn%20ASP.NET%20Core%208.0%20-%20Full%20Course%20for%20Beginners%20%5BTutorial%5D%2Fsummary.en.md) [ [EN](youtube-videos%2FLearn%20ASP.NET%20Core%208.0%20-%20Full%20Course%20for%20Beginners%20%5BTutorial%5D%2Fsummary.en.md) ]
+- [Learn ASP.NET Core 8.0   Full Course For Beginners [Tutorial]](youtube-videos%2FLearn%20ASP.NET%20Core%208.0%20-%20Full%20Course%20for%20Beginners%20%5BTutorial%5D%2Fsummary.en.md) [ [EN](youtube-videos%2FLearn%20ASP.NET%20Core%208.0%20-%20Full%20Course%20for%20Beginners%20%5BTutorial%5D%2Fsummary.en.md) ]
 
 - [Learn C# FREE Tutorial Course Beginner To Advanced!](youtube-videos%2FLearn%20C%23%20FREE%20Tutorial%20Course%20Beginner%20to%20Advanced%21%2Fsummary.en.md) [ [EN](youtube-videos%2FLearn%20C%23%20FREE%20Tutorial%20Course%20Beginner%20to%20Advanced%21%2Fsummary.en.md) ]
 
@@ -320,19 +320,19 @@ Auto-generated overview of the repository structure:
 
 - [AWS Tutorial Course For Beginners | EC2, S3, RDS, VPC, Lambda, ECS, ECR, Fargate](youtube-videos%2FAWS%20Tutorial%20Course%20for%20Beginners%20%7C%20EC2%2C%20S3%2C%20RDS%2C%20VPC%2C%20Lambda%2C%20ECS%2C%20ECR%2C%20Fargate%2Fsummary.en.md) [ [EN](youtube-videos%2FAWS%20Tutorial%20Course%20for%20Beginners%20%7C%20EC2%2C%20S3%2C%20RDS%2C%20VPC%2C%20Lambda%2C%20ECS%2C%20ECR%2C%20Fargate%2Fsummary.en.md) ]
 
-- [Complete Guide To GitHooks   Creating Your Own Pre Commit](youtube-videos%2FComplete%20guide%20to%20GitHooks%20-%20Creating%20your%20own%20pre-commit%2Fsummary.en.md) [ [EN](youtube-videos%2FComplete%20guide%20to%20GitHooks%20-%20Creating%20your%20own%20pre-commit%2Fsummary.en.md) ]
+- [Complete Guide To GitHooks   Creating Your Own Pre Commit](youtube-videos%2FComplete%20guide%20to%20GitHooks%20-%20Creating%20your%20own%20pre-commit%2Fsummary.en.md) [ [EN](youtube-videos%2FComplete%20guide%20to%20GitHooks%20-%20Creating%20your%20own%20pre-commit%2Fsummary.en.md) ]
 
 - [How Iterable Replaced RabbitMQ And Kafka With Pulsar](youtube-videos%2FHow%20Iterable%20Replaced%20RabbitMQ%20and%20Kafka%20with%20Pulsar%2Fsummary.en.md) [ [EN](youtube-videos%2FHow%20Iterable%20Replaced%20RabbitMQ%20and%20Kafka%20with%20Pulsar%2Fsummary.en.md) ]
 
 - [Learn Complete GitLab CI CD In 1 Hour | GitLab CI CD Tutorial](youtube-videos%2FLearn%20Complete%20GitLab%20CI%20CD%20in%201%20hour%20%7C%20GitLab%20CI%20CD%20Tutorial%2Fsummary.en.md) [ [EN](youtube-videos%2FLearn%20Complete%20GitLab%20CI%20CD%20in%201%20hour%20%7C%20GitLab%20CI%20CD%20Tutorial%2Fsummary.en.md) ]
 
-- [Master All 3 AWS Load Balancers   Full Course!](youtube-videos%2FMaster%20All%203%20AWS%20Load%20Balancers%20-%20Full%20Course%21%2Fsummary.en.md) [ [EN](youtube-videos%2FMaster%20All%203%20AWS%20Load%20Balancers%20-%20Full%20Course%21%2Fsummary.en.md) ]
+- [Master All 3 AWS Load Balancers   Full Course!](youtube-videos%2FMaster%20All%203%20AWS%20Load%20Balancers%20-%20Full%20Course%21%2Fsummary.en.md) [ [EN](youtube-videos%2FMaster%20All%203%20AWS%20Load%20Balancers%20-%20Full%20Course%21%2Fsummary.en.md) ]
 
 - [NGINX Crash Course: Web Server, Reverse Proxy & Load Balancer](youtube-videos%2FNGINX%20Crash%20Course%3A%20Web%20Server%2C%20Reverse%20Proxy%20%26%20Load%20Balancer%2Fsummary.en.md) [ [EN](youtube-videos%2FNGINX%20Crash%20Course%3A%20Web%20Server%2C%20Reverse%20Proxy%20%26%20Load%20Balancer%2Fsummary.en.md) ]
 
 - [Nginx Zero To Hero | Full Course With Hands On](youtube-videos%2FNginx%20Zero%20to%20Hero%20%7C%20Full%20Course%20with%20Hands-on%2Fsummary.en.md) [ [EN](youtube-videos%2FNginx%20Zero%20to%20Hero%20%7C%20Full%20Course%20with%20Hands-on%2Fsummary.en.md) ]
 
-- [RabbitMQ Tutorial   Message Queues And Distributed Systems](youtube-videos%2FRabbitMQ%20Tutorial%20-%20Message%20Queues%20and%20Distributed%20Systems%2Fsummary.en.md) [ [EN](youtube-videos%2FRabbitMQ%20Tutorial%20-%20Message%20Queues%20and%20Distributed%20Systems%2Fsummary.en.md) ]
+- [RabbitMQ Tutorial   Message Queues And Distributed Systems](youtube-videos%2FRabbitMQ%20Tutorial%20-%20Message%20Queues%20and%20Distributed%20Systems%2Fsummary.en.md) [ [EN](youtube-videos%2FRabbitMQ%20Tutorial%20-%20Message%20Queues%20and%20Distributed%20Systems%2Fsummary.en.md) ]
 
 - [Real World RabbitMQ: Exploring Practical Applications](youtube-videos%2FReal%20World%20RabbitMQ%3A%20Exploring%20Practical%20Applications%2Fsummary.en.md) [ [EN](youtube-videos%2FReal%20World%20RabbitMQ%3A%20Exploring%20Practical%20Applications%2Fsummary.en.md) ]
 
@@ -363,7 +363,7 @@ Auto-generated overview of the repository structure:
 
 <h4 id="go-backend-engineering">Go &amp; Backend Engineering</h4>
 
-- [Build A GRPC Server With Go   Step By Step Tutorial](youtube-videos%2FBuild%20a%20gRPC%20server%20with%20Go%20-%20Step%20by%20step%20tutorial%2Fsummary.en.md) [ [EN](youtube-videos%2FBuild%20a%20gRPC%20server%20with%20Go%20-%20Step%20by%20step%20tutorial%2Fsummary.en.md) ]
+- [Build A GRPC Server With Go   Step By Step Tutorial](youtube-videos%2FBuild%20a%20gRPC%20server%20with%20Go%20-%20Step%20by%20step%20tutorial%2Fsummary.en.md) [ [EN](youtube-videos%2FBuild%20a%20gRPC%20server%20with%20Go%20-%20Step%20by%20step%20tutorial%2Fsummary.en.md) ]
 
 - [DPC2017: Golang For PHP Developers](youtube-videos%2FDPC2017%3A%20Golang%20for%20PHP%20developers%2Fsummary.en.md) [ [EN](youtube-videos%2FDPC2017%3A%20Golang%20for%20PHP%20developers%2Fsummary.en.md) ]
 
@@ -388,11 +388,11 @@ Auto-generated overview of the repository structure:
 
 - [Object Oriented Programming In JavaScript: Made Super Simple](youtube-videos%2FObject-oriented%20Programming%20in%20JavaScript%3A%20Made%20Super%20Simple%2Fsummary.en.md) [ [EN](youtube-videos%2FObject-oriented%20Programming%20in%20JavaScript%3A%20Made%20Super%20Simple%2Fsummary.en.md) ]
 
-- [React Query Crash Course   Learn Queries, Mutations](youtube-videos%2FReact%20Query%20Crash%20Course%20-%20Learn%20Queries%2C%20Mutations%2Fsummary.en.md) [ [EN](youtube-videos%2FReact%20Query%20Crash%20Course%20-%20Learn%20Queries%2C%20Mutations%2Fsummary.en.md) ]
+- [React Query Crash Course   Learn Queries, Mutations](youtube-videos%2FReact%20Query%20Crash%20Course%20-%20Learn%20Queries%2C%20Mutations%2Fsummary.en.md) [ [EN](youtube-videos%2FReact%20Query%20Crash%20Course%20-%20Learn%20Queries%2C%20Mutations%2Fsummary.en.md) ]
 
 - [React Redux Toolkit Tutorial For Beginners](youtube-videos%2FReact%20Redux%20Toolkit%20Tutorial%20For%20Beginners%2Fsummary.en.md) [ [EN](youtube-videos%2FReact%20Redux%20Toolkit%20Tutorial%20For%20Beginners%2Fsummary.en.md) ]
 
-- [React Tutorial Full Course   Beginner To Pro (React 19, 2025)](youtube-videos%2FReact%20Tutorial%20Full%20Course%20-%20Beginner%20to%20Pro%20%28React%2019%2C%202025%29%2Fsummary.en.md) [ [EN](youtube-videos%2FReact%20Tutorial%20Full%20Course%20-%20Beginner%20to%20Pro%20%28React%2019%2C%202025%29%2Fsummary.en.md) ]
+- [React Tutorial Full Course   Beginner To Pro (React 19, 2025)](youtube-videos%2FReact%20Tutorial%20Full%20Course%20-%20Beginner%20to%20Pro%20%28React%2019%2C%202025%29%2Fsummary.en.md) [ [EN](youtube-videos%2FReact%20Tutorial%20Full%20Course%20-%20Beginner%20to%20Pro%20%28React%2019%2C%202025%29%2Fsummary.en.md) ]
 
 - [TypeScript Tutorial For Beginners](youtube-videos%2FTypeScript%20Tutorial%20for%20Beginners%2Fsummary.en.md) [ [EN](youtube-videos%2FTypeScript%20Tutorial%20for%20Beginners%2Fsummary.en.md) ]
 
@@ -407,7 +407,7 @@ Auto-generated overview of the repository structure:
 
 - [Full Laravel MCP Application With CodeRabbit AI (Part 2)](youtube-videos%2FFull%20Laravel%20MCP%20Application%20with%20CodeRabbit%20AI%20%28Part%202%29%2Fsummary.en.md) [ [EN](youtube-videos%2FFull%20Laravel%20MCP%20Application%20with%20CodeRabbit%20AI%20%28Part%202%29%2Fsummary.en.md) ]
 
-- [Laravel 12 In 11 Hours   Laravel For Beginners Full Course](youtube-videos%2FLaravel%2012%20in%2011%20hours%20-%20Laravel%20for%20Beginners%20Full%20Course%2Fsummary.en.md) [ [EN](youtube-videos%2FLaravel%2012%20in%2011%20hours%20-%20Laravel%20for%20Beginners%20Full%20Course%2Fsummary.en.md) ]
+- [Laravel 12 In 11 Hours   Laravel For Beginners Full Course](youtube-videos%2FLaravel%2012%20in%2011%20hours%20-%20Laravel%20for%20Beginners%20Full%20Course%2Fsummary.en.md) [ [EN](youtube-videos%2FLaravel%2012%20in%2011%20hours%20-%20Laravel%20for%20Beginners%20Full%20Course%2Fsummary.en.md) ]
 
 - [Laravel Livewire Crash Course | Livewire 3 Tutorial For Beginners](youtube-videos%2FLaravel%20Livewire%20Crash%20Course%20%7C%20Livewire%203%20Tutorial%20for%20Beginners%2Fsummary.en.md) [ [EN](youtube-videos%2FLaravel%20Livewire%20Crash%20Course%20%7C%20Livewire%203%20Tutorial%20for%20Beginners%2Fsummary.en.md) ]
 
@@ -417,7 +417,7 @@ Auto-generated overview of the repository structure:
 
 - [Learn Laravel Filament Full Tutorial: Build Powerful Admin](youtube-videos%2FLearn%20Laravel%20Filament%20full%20tutorial%3A%20Build%20powerful%20admin%2Fsummary.en.md) [ [EN](youtube-videos%2FLearn%20Laravel%20Filament%20full%20tutorial%3A%20Build%20powerful%20admin%2Fsummary.en.md) ]
 
-- [PhpStorm For Laravel Developers   3 Hour Full MasterClass](youtube-videos%2FPhpStorm%20for%20Laravel%20Developers%20-%203%20Hour%20Full%20MasterClass%2Fsummary.en.md) [ [EN](youtube-videos%2FPhpStorm%20for%20Laravel%20Developers%20-%203%20Hour%20Full%20MasterClass%2Fsummary.en.md) ]
+- [PhpStorm For Laravel Developers   3 Hour Full MasterClass](youtube-videos%2FPhpStorm%20for%20Laravel%20Developers%20-%203%20Hour%20Full%20MasterClass%2Fsummary.en.md) [ [EN](youtube-videos%2FPhpStorm%20for%20Laravel%20Developers%20-%203%20Hour%20Full%20MasterClass%2Fsummary.en.md) ]
 
 - [What Is Active Record Pattern & How Laravel Implements It](youtube-videos%2FWhat%20is%20active%20record%20pattern%20%26%20how%20Laravel%20implements%20it%2Fsummary.en.md) [ [EN](youtube-videos%2FWhat%20is%20active%20record%20pattern%20%26%20how%20Laravel%20implements%20it%2Fsummary.en.md) ]
 
@@ -486,18 +486,18 @@ Auto-generated overview of the repository structure:
 
 - [PHP Design Patterns In Laminas (Zend)](youtube-videos%2FPHP%20Design%20patterns%20in%20Laminas%20%28Zend%29%2Fsummary.en.md) [ [EN](youtube-videos%2FPHP%20Design%20patterns%20in%20Laminas%20%28Zend%29%2Fsummary.en.md) ]
 
-- [PHP Full Course 2025   Learn PHP From Scratch](youtube-videos%2FPHP%20Full%20Course%202025%20-%20Learn%20PHP%20from%20Scratch%2Fsummary.en.md) [ [EN](youtube-videos%2FPHP%20Full%20Course%202025%20-%20Learn%20PHP%20from%20Scratch%2Fsummary.en.md) ]
+- [PHP Full Course 2025   Learn PHP From Scratch](youtube-videos%2FPHP%20Full%20Course%202025%20-%20Learn%20PHP%20from%20Scratch%2Fsummary.en.md) [ [EN](youtube-videos%2FPHP%20Full%20Course%202025%20-%20Learn%20PHP%20from%20Scratch%2Fsummary.en.md) ]
 
-- [PhpStorm For Laravel Developers   3 Hour Full MasterClass](youtube-videos%2FPhpStorm%20for%20Laravel%20Developers%20-%203%20Hour%20Full%20MasterClass%2Fsummary.en.md) [ [EN](youtube-videos%2FPhpStorm%20for%20Laravel%20Developers%20-%203%20Hour%20Full%20MasterClass%2Fsummary.en.md) ]
+- [PhpStorm For Laravel Developers   3 Hour Full MasterClass](youtube-videos%2FPhpStorm%20for%20Laravel%20Developers%20-%203%20Hour%20Full%20MasterClass%2Fsummary.en.md) [ [EN](youtube-videos%2FPhpStorm%20for%20Laravel%20Developers%20-%203%20Hour%20Full%20MasterClass%2Fsummary.en.md) ]
 
-- [WordPress Tutorial For Beginners 2025   Step By Step](youtube-videos%2FWordPress%20Tutorial%20for%20Beginners%202025%20-%20Step%20by%20Step%2Fsummary.en.md) [ [EN](youtube-videos%2FWordPress%20Tutorial%20for%20Beginners%202025%20-%20Step%20by%20Step%2Fsummary.en.md) ]
+- [WordPress Tutorial For Beginners 2025   Step By Step](youtube-videos%2FWordPress%20Tutorial%20for%20Beginners%202025%20-%20Step%20by%20Step%2Fsummary.en.md) [ [EN](youtube-videos%2FWordPress%20Tutorial%20for%20Beginners%202025%20-%20Step%20by%20Step%2Fsummary.en.md) ]
 
 
 <h4 id="python-ai-data-science">Python &amp; AI/Data Science</h4>
 
 - [EASIEST Way To Fine Tune A LLM And Use It With Ollama](youtube-videos%2FEASIEST%20Way%20to%20Fine-Tune%20a%20LLM%20and%20Use%20It%20With%20Ollama%2Fsummary.en.md) [ [EN](youtube-videos%2FEASIEST%20Way%20to%20Fine-Tune%20a%20LLM%20and%20Use%20It%20With%20Ollama%2Fsummary.en.md) ]
 
-- [Intro To Google Colab   Beginners' Python And Machine Learning](youtube-videos%2FIntro%20to%20Google%20Colab%20-%20Beginners%27%20Python%20and%20Machine%20Learning%2Fsummary.en.md) [ [EN](youtube-videos%2FIntro%20to%20Google%20Colab%20-%20Beginners%27%20Python%20and%20Machine%20Learning%2Fsummary.en.md) ]
+- [Intro To Google Colab   Beginners' Python And Machine Learning](youtube-videos%2FIntro%20to%20Google%20Colab%20-%20Beginners%27%20Python%20and%20Machine%20Learning%2Fsummary.en.md) [ [EN](youtube-videos%2FIntro%20to%20Google%20Colab%20-%20Beginners%27%20Python%20and%20Machine%20Learning%2Fsummary.en.md) ]
 
 - [Python Django Full Course For Beginners](youtube-videos%2FPython%20Django%20Full%20Course%20for%20Beginners%2Fsummary.en.md) [ [EN](youtube-videos%2FPython%20Django%20Full%20Course%20for%20Beginners%2Fsummary.en.md) ]
 
@@ -515,13 +515,13 @@ Auto-generated overview of the repository structure:
 
 - [Authentication & Refreshing Tokens Implementation](youtube-videos%2FAuthentication%20%26%20Refreshing%20Tokens%20Implementation%2Fsummary.en.md) [ [EN](youtube-videos%2FAuthentication%20%26%20Refreshing%20Tokens%20Implementation%2Fsummary.en.md) ]
 
-- [OAuth2, OpenID: SSO Under The Hood   Daniel Garnier Moiroux](youtube-videos%2FOAuth2%2C%20OpenID%3A%20SSO%20under%20the%20hood%20-%20Daniel%20Garnier-Moiroux%2Fsummary.en.md) [ [EN](youtube-videos%2FOAuth2%2C%20OpenID%3A%20SSO%20under%20the%20hood%20-%20Daniel%20Garnier-Moiroux%2Fsummary.en.md) ]
+- [OAuth2, OpenID: SSO Under The Hood   Daniel Garnier Moiroux](youtube-videos%2FOAuth2%2C%20OpenID%3A%20SSO%20under%20the%20hood%20-%20Daniel%20Garnier-Moiroux%2Fsummary.en.md) [ [EN](youtube-videos%2FOAuth2%2C%20OpenID%3A%20SSO%20under%20the%20hood%20-%20Daniel%20Garnier-Moiroux%2Fsummary.en.md) ]
 
 - [OWASP API Security Top 10 Course – Secure Your Web Apps](youtube-videos%2FOWASP%20API%20Security%20Top%2010%20Course%20%E2%80%93%20Secure%20Your%20Web%20Apps%2Fsummary.en.md) [ [EN](youtube-videos%2FOWASP%20API%20Security%20Top%2010%20Course%20%E2%80%93%20Secure%20Your%20Web%20Apps%2Fsummary.en.md) ]
 
 - [OWASP Top 10 For LLMs](youtube-videos%2FOWASP%20Top%2010%20for%20LLMs%2Fsummary.en.md) [ [EN](youtube-videos%2FOWASP%20Top%2010%20for%20LLMs%2Fsummary.en.md) ]
 
-- [OWASP TOP 10 Introduction   Explained With Examples](youtube-videos%2FOWASP%20TOP%2010%20Introduction%20-%20Explained%20with%20examples%2Fsummary.en.md) [ [EN](youtube-videos%2FOWASP%20TOP%2010%20Introduction%20-%20Explained%20with%20examples%2Fsummary.en.md) ]
+- [OWASP TOP 10 Introduction   Explained With Examples](youtube-videos%2FOWASP%20TOP%2010%20Introduction%20-%20Explained%20with%20examples%2Fsummary.en.md) [ [EN](youtube-videos%2FOWASP%20TOP%2010%20Introduction%20-%20Explained%20with%20examples%2Fsummary.en.md) ]
 
 
 <h4 id="software-engineering-practices">Software Engineering Practices</h4>
@@ -539,7 +539,7 @@ Auto-generated overview of the repository structure:
 
 - [Designing Distributed Systems](books%2FDesigning%20Distributed%20Systems%2Fsummary.en.md) [ [EN](books%2FDesigning%20Distributed%20Systems%2Fsummary.en.md) | [FA](books%2FDesigning%20Distributed%20Systems%2Fsummary.fa.md) ]
 
-- [Google SRE   Site Reliability Engineering Book](books%2FGoogle%20SRE%20-%20Site%20reliability%20engineering%20book%2Fsummary.en.md) [ [EN](books%2FGoogle%20SRE%20-%20Site%20reliability%20engineering%20book%2Fsummary.en.md) | [FA](books%2FGoogle%20SRE%20-%20Site%20reliability%20engineering%20book%2Fsummary.fa.md) ]
+- [Google SRE   Site Reliability Engineering Book](books%2FGoogle%20SRE%20-%20Site%20reliability%20engineering%20book%2Fsummary.en.md) [ [EN](books%2FGoogle%20SRE%20-%20Site%20reliability%20engineering%20book%2Fsummary.en.md) | [FA](books%2FGoogle%20SRE%20-%20Site%20reliability%20engineering%20book%2Fsummary.fa.md) ]
 
 
 <h4 id="management-soft-skills">Management &amp; Soft Skills</h4>
