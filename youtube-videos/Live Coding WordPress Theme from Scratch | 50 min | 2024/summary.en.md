@@ -15,7 +15,7 @@
 - Simply click on `Ask AI` links to dive into any topic you want.
 
 ## Introduction and Tools for Theme Development
-Rust handles memory safety by... wait, no—sticking to the transcript: Robert introduces himself as a 13-year WordPress and WooCommerce developer, sharing his approach to building themes from scratch. He covers tools like Local for quick local WordPress setups, Visual Studio Code with GitHub Copilot for AI-assisted coding, and emphasizes structuring themes efficiently.
+Robert introduces himself as a 13-year WordPress and WooCommerce developer, sharing his approach to building themes from scratch. He covers tools like Local for quick local WordPress setups, Visual Studio Code with GitHub Copilot for AI-assisted coding, and emphasizes structuring themes efficiently.
 * **Key Takeaway/Example**: Start with a fresh WordPress install in Local, create a theme folder in wp-content/themes, and use VS Code for editing.
 * **Link for More Details**: [Ask AI: WordPress Theme Development Tools](https://alisol.ir/?ai=WordPress%20Theme%20Development%20Tools%7CRobbert%20Vermeulen%7CLive%20Coding%20WordPress%20Theme%20from%20Scratch%20%7C%2050%20min%20%7C%202024)
 
