@@ -4,7 +4,7 @@
 * **Channel/Creator**: The Codeholic
 * **Duration**: 10:54:52
 * **Release Date**: Oct 14, 2024
-* **Video Link**: https://www.tovideo.org/
+* **Video Link**: https://www.youtube.com/watch?v=0M84Nk7iWkA
 
 > **Disclaimer**: This is a personal summary and interpretation based on a YouTube video. It is not official material and not endorsed by the original creator. All rights remain with the respective creators.
 
