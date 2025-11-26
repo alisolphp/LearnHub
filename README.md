@@ -204,7 +204,7 @@ A simple workflow is:
 3. Use your AI assistant (for example via an “Ask AI” button) to go deeper, ask “why?”, or request code examples.
 
 ## Repository structure at a glance
-
+ 
 <!-- REPO_TOC_START -->
 Auto-generated overview of the repository structure:
 
