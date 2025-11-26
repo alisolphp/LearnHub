@@ -2,12 +2,14 @@ name: Update Summary Buttons
 
 on:
   push:
-    branches: [ main ]
+    branches:
+      - main
     paths:
       - '_includes/summary-buttons.md'
       - '**/summary*.md'
   pull_request:
-    branches: [ main ]
+    branches:
+      - main
     paths:
       - '_includes/summary-buttons.md'
       - '**/summary*.md'
@@ -19,25 +21,24 @@ permissions:
 jobs:
   update-buttons:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Detect changes
-        id: diff
+      - name: Determine diff range
+        id: diff-range
         run: |
           BEFORE_SHA="${{ github.event.before }}"
           AFTER_SHA="${{ github.sha }}"
+
           if [ -z "$BEFORE_SHA" ]; then
             BEFORE_SHA="$(git rev-list --max-parents=0 HEAD)"
           fi
 
-          CHANGED_SUMMARIES=$(git diff --name-only "$BEFORE_SHA" "$AFTER_SHA" -- '**/summary*.md' | tr '\n' ' ')
-          TEMPLATE_CHANGED=$(git diff --name-only "$BEFORE_SHA" "$AFTER_SHA" -- '_includes/summary-buttons.md' | wc -l | tr -d '[:space:]')
-
-          echo "changed_summaries=$CHANGED_SUMMARIES" >> "$GITHUB_OUTPUT"
-          echo "template_changed=$TEMPLATE_CHANGED" >> "$GITHUB_OUTPUT"
+          echo "before_sha=$BEFORE_SHA" >> "$GITHUB_OUTPUT"
+          echo "after_sha=$AFTER_SHA" >> "$GITHUB_OUTPUT"
 
       - uses: actions/setup-node@v4
         with:
@@ -47,9 +48,22 @@ jobs:
 
       - name: Replace buttons
         env:
-          CHANGED_SUMMARIES: ${{ steps.diff.outputs.changed_summaries }}
-          TEMPLATE_CHANGED: ${{ steps.diff.outputs.template_changed }}
-        run: node scripts/replace-buttons.mjs "$TEMPLATE_CHANGED" $CHANGED_SUMMARIES
+          BEFORE_SHA: ${{ steps.diff-range.outputs.before_sha }}
+          AFTER_SHA: ${{ steps.diff-range.outputs.after_sha }}
+        run: |
+          TEMPLATE_CHANGED=$(git diff --name-only "$BEFORE_SHA" "$AFTER_SHA" -- '_includes/summary-buttons.md' | wc -l | tr -d '[:space:]')
+
+          mapfile -t FILES < <(git diff --name-only "$BEFORE_SHA" "$AFTER_SHA" -- '**/summary*.md')
+
+          if [ "${#FILES[@]}" -eq 0 ] && [ "$TEMPLATE_CHANGED" -eq 0 ]; then
+            echo "No changed summaries or template; skipping."
+            exit 0
+          fi
+
+          echo "Template changed: $TEMPLATE_CHANGED"
+          printf 'Changed summary files:\n%s\n' "${FILES[@]}"
+
+          node scripts/replace-buttons.mjs "$TEMPLATE_CHANGED" "${FILES[@]}"
 
       - name: Commit & Push if changed
         run: |
