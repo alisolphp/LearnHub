@@ -12,6 +12,10 @@
 - I summarize key points from useful courses to learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Dispatching and Running Jobs
 
 * **Summary**: This section kicks things off by explaining how to handle long-running tasks asynchronously in Laravel. You'll learn to create a job, dispatch it to the queue, set up a database queue driver, and start a worker to process jobs in the background, ensuring your app responds quickly to users.
