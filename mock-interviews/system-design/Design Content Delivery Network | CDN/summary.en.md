@@ -80,7 +80,7 @@
   - **Compliance:** Provider handles regional regulations.
 
 **Assumptions (conservative)**
-- Static assets include HTML/CSS/JS/images; dynamic data remains behind app servers. (Assumption consistent with transcript framing.)
+- Static assets include HTML/CSS/JS/images; dynamic data remains behind app servers.
 - DNS-based geo-routing to nearest PoP. (Assumption—typical CDN behavior; not stated verbatim.)
 
 [Ask AI: Requirements & Constraints](https://alisol.ir/?ai=Requirements%20and%20Constraints%7CGaurav%20Sen%7CDesign%20Content%20Delivery%20Network%20%7C%20CDN)
