@@ -7,6 +7,10 @@
 
 > *This document summarizes the key content of a system design mock interview. I highly recommend watching the full video if you can.*
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## One-Page Executive Summary (2–3 min skim)
 
 * **Problem Prompt (One-liner)**: Design a distributed message queue that enables asynchronous communication between producers and consumers, where messages are delivered to exactly one consumer.
