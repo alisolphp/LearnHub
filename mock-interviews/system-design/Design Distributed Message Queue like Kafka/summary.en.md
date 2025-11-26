@@ -8,7 +8,29 @@
 > *This document summarizes the key content of a system design mock interview. I highly recommend watching the full video if you can.*
 
 <!-- LH-BUTTONS:START -->
-<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:HASH=da0e3c2b -->
+
+### AI-Powered buttons
+
+Start teaching this to a:
+[Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka) | 
+[Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka) | 
+[Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka) | 
+<small> [(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer) </small>
+
+Learn via different lenses:
+[Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka) | 
+[Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka) | 
+[Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka) | 
+[Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=en&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka) | 
+[Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=en&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka) | 
+[Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=en&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka) | 
+[Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=en&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka)
+
+Check my understanding:
+[Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka) | 
+[Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka) | 
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka)
 <!-- LH-BUTTONS:END -->
  
 ## One-Page Executive Summary (2–3 min skim)
