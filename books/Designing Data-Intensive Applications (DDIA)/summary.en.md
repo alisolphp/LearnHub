@@ -13,7 +13,29 @@ I highly recommend reading the original book for the full depth and author's per
 * Simply click on `Ask AI` links after each section to dive deeper.
 
 <!-- LH-BUTTONS:START -->
-<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:HASH=da0e3c2b -->
+
+### AI-Powered buttons
+
+Start teaching this to a:
+[Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=books/Designing%20Data-Intensive%20Applications%20(DDIA)) | 
+[Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=books/Designing%20Data-Intensive%20Applications%20(DDIA)) | 
+[Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=books/Designing%20Data-Intensive%20Applications%20(DDIA)) | 
+<small> [(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer) </small>
+
+Learn via different lenses:
+[Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=books/Designing%20Data-Intensive%20Applications%20(DDIA)) | 
+[Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=books/Designing%20Data-Intensive%20Applications%20(DDIA)) | 
+[Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=books/Designing%20Data-Intensive%20Applications%20(DDIA)) | 
+[Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=en&src=books/Designing%20Data-Intensive%20Applications%20(DDIA)) | 
+[Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=en&src=books/Designing%20Data-Intensive%20Applications%20(DDIA)) | 
+[Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=en&src=books/Designing%20Data-Intensive%20Applications%20(DDIA)) | 
+[Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=en&src=books/Designing%20Data-Intensive%20Applications%20(DDIA))
+
+Check my understanding:
+[Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=books/Designing%20Data-Intensive%20Applications%20(DDIA)) | 
+[Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=books/Designing%20Data-Intensive%20Applications%20(DDIA)) | 
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=books/Designing%20Data-Intensive%20Applications%20(DDIA))
 <!-- LH-BUTTONS:END -->
 
 ## Preface
