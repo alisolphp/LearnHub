@@ -1,6 +1,6 @@
 [![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
     
-# LearnHub 
+# LearnHub
 > Learn and review tech topics efficiently using concise, high-quality summaries.
 
 ## 🤿 Let's Dive in!
@@ -68,6 +68,7 @@ Other langs:
 ### Try them directly:
 
 [Mindmap - AWS Essential Training for Developers](https://alisol.ir/?ai=learnhub_summary_mindmap&src=courses/linkedin-aws-essential-training-for-developers)
+
 ( [NL](https://alisol.ir/?ai=learnhub_summary_mindmap&src=courses/linkedin-aws-essential-training-for-developers&lang=NL) | 
 [DE](https://alisol.ir/?ai=learnhub_summary_mindmap&src=courses/linkedin-aws-essential-training-for-developers&lang=DE) | 
 [FR](https://alisol.ir/?ai=learnhub_summary_mindmap&src=courses/linkedin-aws-essential-training-for-developers&lang=FR) | 
@@ -86,6 +87,7 @@ Other langs:
 [TR](https://alisol.ir/?ai=learnhub_summary_mindmap&src=courses/linkedin-aws-essential-training-for-developers&lang=TR) )
 
 [Flashcards - System Design Distributed Message Queue (Kafka)](https://alisol.ir/?ai=learnhub_summary_flashcards&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka)
+
 ( [NL](https://alisol.ir/?ai=learnhub_summary_flashcards&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka&lang=NL) | 
 [DE](https://alisol.ir/?ai=learnhub_summary_flashcards&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka&lang=DE) | 
 [FR](https://alisol.ir/?ai=learnhub_summary_flashcards&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka&lang=FR) | 
@@ -104,6 +106,7 @@ Other langs:
 [TR](https://alisol.ir/?ai=learnhub_summary_flashcards&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka&lang=TR) )
 
 [Alanogy - Code with Mosh Mastering Design Patterns Part 1](https://alisol.ir/?ai=learnhub_summary_analogy&src=courses/code-with-mosh-mastering-design-patterns-part-1)
+
 ( [NL](https://alisol.ir/?ai=learnhub_summary_analogy&src=courses/code-with-mosh-mastering-design-patterns-part-1&lang=NL) | 
 [DE](https://alisol.ir/?ai=learnhub_summary_analogy&src=courses/code-with-mosh-mastering-design-patterns-part-1&lang=DE) | 
 [FR](https://alisol.ir/?ai=learnhub_summary_analogy&src=courses/code-with-mosh-mastering-design-patterns-part-1&lang=FR) | 
@@ -122,6 +125,7 @@ Other langs:
 [TR](https://alisol.ir/?ai=learnhub_summary_analogy&src=courses/code-with-mosh-mastering-design-patterns-part-1&lang=TR) )
 
 [Advanced Teaching - Laravel Queue Mastery](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&src=courses/laracasts-laravel-queue-mastery)
+
 ( [NL](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&src=courses/laracasts-laravel-queue-mastery&lang=NL) | 
 [DE](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&src=courses/laracasts-laravel-queue-mastery&lang=DE) | 
 [FR](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&src=courses/laracasts-laravel-queue-mastery&lang=FR) | 
@@ -140,6 +144,7 @@ Other langs:
 [TR](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&src=courses/laracasts-laravel-queue-mastery&lang=TR) )
 
 [Ask AI Topic - Consistency and Consensus DDIA](https://alisol.ir/?ai=Consistency%20and%20Consensus%7CMartin%20Kleppmann%7CDesigning%20Data-Intensive%20Applications)
+
 ( [NL](https://alisol.ir/?ai=Consistency%20and%20Consensus%7CMartin%20Kleppmann%7CDesigning%20Data-Intensive%20Applications&lang=NL) | 
 [DE](https://alisol.ir/?ai=Consistency%20and%20Consensus%7CMartin%20Kleppmann%7CDesigning%20Data-Intensive%20Applications&lang=DE) | 
 [FR](https://alisol.ir/?ai=Consistency%20and%20Consensus%7CMartin%20Kleppmann%7CDesigning%20Data-Intensive%20Applications&lang=FR) | 
