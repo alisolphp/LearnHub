@@ -270,7 +270,7 @@ Not stated in video.
 ## Attribution
 - **Source Video**: https://www.youtube.com/watch?v=CeGtqouT8eA  
 - **Channel**: Tech Dummies - Narendra Lakshmana Gowda  
-- *(Provided title: "Design Google Search | How Google searches one document among Billions of documents quickly")*
+- *(Title: "Design Google Search | How Google searches one document among Billions of documents quickly")*
 
 ---
 
