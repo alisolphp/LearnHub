@@ -117,6 +117,8 @@ Design a highly available, low-latency autocomplete (typeahead) system that, giv
 10. **Q:** Is this design strongly consistent with respect to user behavior?  
     **A:** No, it’s **eventually consistent**; new trends appear after aggregators and applier jobs run.
 
+[Ask AI: Executive Summary](https://alisol.ir/?ai=Executive%20Summary%7CTushar%20Roy%20-%20Coding%20Made%20Simple%7CDesign%20Autocomplete%20for%20Search%20Engines%20%7C%20Typeahead%20Suggestions%20for%20Google%20search)
+
 ---
 
 ## 3) Interview Tags (for later filtering)
@@ -125,6 +127,8 @@ Design a highly available, low-latency autocomplete (typeahead) system that, giv
 - **Product Pattern**: `search-index`, `caching`, `cdn`
 - **System Concerns**: `high-availability`, `low-latency`, `eventual-consistency`, `hot-key`
 - **Infra/Tech (mentioned or directly implied)**: `cassandra`, `cdn`, `caching`
+
+[Ask AI: Interview Tags](https://alisol.ir/?ai=Interview%20Tags%7CTushar%20Roy%20-%20Coding%20Made%20Simple%7CDesign%20Autocomplete%20for%20Search%20Engines%20%7C%20Typeahead%20Suggestions%20for%20Google%20search)
 
 ---
 
@@ -162,6 +166,8 @@ Design an autocomplete feature for a search engine (like Google or Bing) that su
   - Output: A stream into the aggregation system (details of transport not specified).
 
 Any more specific schema (e.g., JSON structure, HTTP method, error handling): **Not stated in video**.
+
+[Ask AI: Problem Understanding](https://alisol.ir/?ai=Problem%20Understanding%7CTushar%20Roy%20-%20Coding%20Made%20Simple%7CDesign%20Autocomplete%20for%20Search%20Engines%20%7C%20Typeahead%20Suggestions%20for%20Google%20search)
 
 ---
 
@@ -202,11 +208,15 @@ Any more specific schema (e.g., JSON structure, HTTP method, error handling): **
 - **Assumption**: The number of suggestions per prefix (*K*) is moderate (e.g., 5–10), making it reasonable to store them per trie node.
 - **Assumption**: Trie nodes, shard nodes, and aggregators are deployed across multiple machines/zones for fault tolerance beyond what’s mentioned.
 
+[Ask AI: Requirements & Constraints](https://alisol.ir/?ai=Requirements%20and%20Constraints%7CTushar%20Roy%20-%20Coding%20Made%20Simple%7CDesign%20Autocomplete%20for%20Search%20Engines%20%7C%20Typeahead%20Suggestions%20for%20Google%20search)
+
 ---
 
 ## 6) Back-of-the-Envelope Estimation
 
 *Not stated in video—skipping numerical estimation.*
+
+[Ask AI: Estimation](https://alisol.ir/?ai=Estimation%7CTushar%20Roy%20-%20Coding%20Made%20Simple%7CDesign%20Autocomplete%20for%20Search%20Engines%20%7C%20Typeahead%20Suggestions%20for%20Google%20search)
 
 ---
 
@@ -276,6 +286,8 @@ Any more specific schema (e.g., JSON structure, HTTP method, error handling): **
     - Client prefetch:
       - When serving prefix “ba”, also return suggestions for “bat”, “bal”, etc.
       - Store these in the client so subsequent keystrokes don’t always hit backend.
+
+[Ask AI: High-Level Architecture](https://alisol.ir/?ai=High-Level%20Architecture%7CTushar%20Roy%20-%20Coding%20Made%20Simple%7CDesign%20Autocomplete%20for%20Search%20Engines%20%7C%20Typeahead%20Suggestions%20for%20Google%20search)
 
 ---
 
@@ -354,6 +366,8 @@ Any more specific schema (e.g., JSON structure, HTTP method, error handling): **
 - Cache and trie memory grows with number of prefixes and suggestions.
 - Sharding and pruning low-weight phrases help control memory usage.
 
+[Ask AI: Subsystem - ؜Request Flow](https://alisol.ir/?ai=Subsystem%20-%20Request%20Flow%7CTushar%20Roy%20-%20Coding%20Made%20Simple%7CDesign%20Autocomplete%20for%20Search%20Engines%20%7C%20Typeahead%20Suggestions%20for%20Google%20search)
+
 ---
 
 ### 8.2 Subsystem: Data Collection & Aggregation
@@ -423,6 +437,8 @@ Any more specific schema (e.g., JSON structure, HTTP method, error handling): **
   - Old data beyond a horizon.
   - Low-weight phrases.
 
+[Ask AI: Subsystem - ؜Data Collection & Aggregation](https://alisol.ir/?ai=Subsystem%20-%20Data%20Collection%20%26%20Aggregation%7CTushar%20Roy%20-%20Coding%20Made%20Simple%7CDesign%20Autocomplete%20for%20Search%20Engines%20%7C%20Typeahead%20Suggestions%20for%20Google%20search)
+
 ---
 
 ### 8.3 Subsystem: Trie Storage & Sharding
@@ -482,6 +498,8 @@ Any more specific schema (e.g., JSON structure, HTTP method, error handling): **
 - Memory footprint grows with number of phrases and `K`.
 - Splitting ranges and pruning low-weight phrases help keep tries within manageable size.
 
+[Ask AI: Subsystem - ؜Trie Storage & Sharding](https://alisol.ir/?ai=Subsystem%20-%20Trie%20Storage%20%26%20Sharding%7CTushar%20Roy%20-%20Coding%20Made%20Simple%7CDesign%20Autocomplete%20for%20Search%20Engines%20%7C%20Typeahead%20Suggestions%20for%20Google%20search)
+
 ---
 
 ## 9) Trade-offs & Alternatives
@@ -494,6 +512,8 @@ Any more specific schema (e.g., JSON structure, HTTP method, error handling): **
 | Config / metadata storage                      | Zookeeper for prefix ranges → node mappings                   | Hard-coded configs or app-level mapping                               | Zookeeper           | Zookeeper supports many reads, few writes, and high availability.                     |
 | Serving requests                               | Cache → trie → persistent data (multi-layer approach)         | Always hit trie (no cache/CDN)                                        | Cache + trie        | Cache/CDN reduces latency and load; trie only might be too slow or expensive.         |
 | Handling trending vs. long-term popularity     | Combine weights with time-decay / more weight to recent data  | Treat all historical data equally                                     | Time-weighted       | To surface current/trending topics more prominently than old spikes.                  |
+
+[Ask AI: Trade-offs](https://alisol.ir/?ai=Trade-offs%7CTushar%20Roy%20-%20Coding%20Made%20Simple%7CDesign%20Autocomplete%20for%20Search%20Engines%20%7C%20Typeahead%20Suggestions%20for%20Google%20search)
 
 ---
 
@@ -527,6 +547,8 @@ Any more specific schema (e.g., JSON structure, HTTP method, error handling): **
 
 - Not specified (beyond replication).
 
+[Ask AI: Reliability & Performance](https://alisol.ir/?ai=Reliability%20and%20Performance%7CTushar%20Roy%20-%20Coding%20Made%20Simple%7CDesign%20Autocomplete%20for%20Search%20Engines%20%7C%20Typeahead%20Suggestions%20for%20Google%20search)
+
 ---
 
 ## 11) Security & Privacy
@@ -535,17 +557,23 @@ Any more specific schema (e.g., JSON structure, HTTP method, error handling): **
 - Protection of user PII: **Not stated in video**.
 - Abuse/spam prevention: **Not stated in video**.
 
+[Ask AI: Security & Privacy](https://alisol.ir/?ai=Security%20and%20Privacy%7CTushar%20Roy%20-%20Coding%20Made%20Simple%7CDesign%20Autocomplete%20for%20Search%20Engines%20%7C%20Typeahead%20Suggestions%20for%20Google%20search)
+
 ---
 
 ## 12) Observability
 
 - Metrics, logging, tracing, alerting, canaries, etc.: **Not stated in video**.
 
+[Ask AI: Observability](https://alisol.ir/?ai=Observability%7CTushar%20Roy%20-%20Coding%20Made%20Simple%7CDesign%20Autocomplete%20for%20Search%20Engines%20%7C%20Typeahead%20Suggestions%20for%20Google%20search)
+
 ---
 
 ## 13) Follow-up Questions (from interviewer)
 
 - This is a talk-style video, not a Q&A mock, so **no explicit interviewer follow-ups** are present.
+
+[Ask AI: Follow-up Questions](https://alisol.ir/?ai=Follow-up%20Questions%7CTushar%20Roy%20-%20Coding%20Made%20Simple%7CDesign%20Autocomplete%20for%20Search%20Engines%20%7C%20Typeahead%20Suggestions%20for%20Google%20search)
 
 ---
 
@@ -559,6 +587,8 @@ These are **not** from the video, but are natural questions a candidate might as
 - **Freshness expectations**: “How quickly should trending queries start appearing in autocomplete?”
 - **Failure tolerance**: “What happens if Zookeeper or Cassandra are temporarily unavailable?”
 - **Ranking details**: “Is the ranking purely click/usage-based, or are there ML models involved?”
+
+[Ask AI: Candidate Questions](https://alisol.ir/?ai=Candidate%20Questions%7CTushar%20Roy%20-%20Coding%20Made%20Simple%7CDesign%20Autocomplete%20for%20Search%20Engines%20%7C%20Typeahead%20Suggestions%20for%20Google%20search)
 
 ---
 
@@ -574,6 +604,8 @@ These are **not** from the video, but are natural questions a candidate might as
 8. **Pruning low-weight phrases and old data** keeps the trie and storage from growing without bound.
 9. **Availability comes from replication**—each prefix range is backed by multiple trie nodes.
 
+[Ask AI: Key Takeaways](https://alisol.ir/?ai=Key%20Takeaways%7CTushar%20Roy%20-%20Coding%20Made%20Simple%7CDesign%20Autocomplete%20for%20Search%20Engines%20%7C%20Typeahead%20Suggestions%20for%20Google%20search)
+
 ---
 
 ## 16) Glossary
@@ -588,6 +620,8 @@ These are **not** from the video, but are natural questions a candidate might as
 - **Aggregator**: A worker that receives raw events and aggregates them (e.g., sums weights per phrase per time bucket).
 - **Cassandra**: A distributed NoSQL database used for storing large volumes of time-series or key-value data (in this design, phrase statistics).
 
+[Ask AI: Glossary](https://alisol.ir/?ai=Glossary%7CTushar%20Roy%20-%20Coding%20Made%20Simple%7CDesign%20Autocomplete%20for%20Search%20Engines%20%7C%20Typeahead%20Suggestions%20for%20Google%20search)
+
 ---
 
 ## 17) Attribution
@@ -596,11 +630,13 @@ These are **not** from the video, but are natural questions a candidate might as
 - **Channel**: Tushar Roy - Coding Made Simple  
 - **Note**: This document is a summary of the linked system design talk. All design details are taken from the video unless explicitly labeled as an assumption or personal note.
 
+[Ask AI: Attribution](https://alisol.ir/?ai=Attribution%7CTushar%20Roy%20-%20Coding%20Made%20Simple%7CDesign%20Autocomplete%20for%20Search%20Engines%20%7C%20Typeahead%20Suggestions%20for%20Google%20search)
+
 ---
 
 ## 18) About the summarizer
 
-I’m *Ali Sol*, a PHP developer. Learn more:
+I’m *Ali Sol*, a Backend developer. Learn more:
 
 - Website: https://alisol.ir  
 - LinkedIn: https://www.linkedin.com/in/alisolphp
