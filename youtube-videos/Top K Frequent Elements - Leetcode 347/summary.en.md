@@ -53,7 +53,7 @@ from collections import Counter
 def topKFrequent(nums, k):
     n = len(nums)
     counter = Counter(nums)
-    buckets = [[] for _ in range(n + 1)]  # Note: initialized as empty lists, not zeros as in transcript description
+    buckets = [[] for _ in range(n + 1)]  # Note: initialized as empty lists, not zeros
     for num, freq in counter.items():
         buckets[freq].append(num)
     result = []
