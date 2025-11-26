@@ -14,6 +14,10 @@ This is the complete and updated English summary with all Behavioral patterns th
 Quick summaries of useful courses for fast learning and review.
 Click any Ask AI link to dive deeper into a topic.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ---
 
 ## Course Introduction & Why Design Patterns Matter
