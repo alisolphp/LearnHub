@@ -15,7 +15,29 @@ Quick summaries of useful courses for fast learning and review.
 Click any Ask AI link to dive deeper into a topic.
 
 <!-- LH-BUTTONS:START -->
-<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:HASH=da0e3c2b -->
+
+### AI-Powered buttons
+
+Start teaching this to a:
+[Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=courses/code-with-mosh-mastering-design-patterns-part-1) | 
+[Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=courses/code-with-mosh-mastering-design-patterns-part-1) | 
+[Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=courses/code-with-mosh-mastering-design-patterns-part-1) | 
+<small> [(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer) </small>
+
+Learn via different lenses:
+[Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=courses/code-with-mosh-mastering-design-patterns-part-1) | 
+[Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=courses/code-with-mosh-mastering-design-patterns-part-1) | 
+[Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=courses/code-with-mosh-mastering-design-patterns-part-1) | 
+[Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=en&src=courses/code-with-mosh-mastering-design-patterns-part-1) | 
+[Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=en&src=courses/code-with-mosh-mastering-design-patterns-part-1) | 
+[Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=en&src=courses/code-with-mosh-mastering-design-patterns-part-1) | 
+[Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=en&src=courses/code-with-mosh-mastering-design-patterns-part-1)
+
+Check my understanding:
+[Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=courses/code-with-mosh-mastering-design-patterns-part-1) | 
+[Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=courses/code-with-mosh-mastering-design-patterns-part-1) | 
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=courses/code-with-mosh-mastering-design-patterns-part-1)
 <!-- LH-BUTTONS:END -->
 
 ---
