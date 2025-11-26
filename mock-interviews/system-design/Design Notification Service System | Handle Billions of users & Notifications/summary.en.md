@@ -1,6 +1,6 @@
 # System Design Mock Interview: Notification Service
 
-*(Provided title: "Design Notification Service System | Handle Billions of users & Notifications")*
+*(title: "Design Notification Service System | Handle Billions of users & Notifications")*
 
 **Channel/Interviewer**: codeKarle  
 **Duration**: 00:20:14
