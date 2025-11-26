@@ -63,6 +63,106 @@ Other langs:
   <img src="assets/learnhub_search.gif" alt="AI-powered LearnHub search" width="853">
 </p>
 
+## Summary AI-Powered Buttons
+
+### Try them directly:
+
+[Mindmap - AWS Essential Training for Developers](https://alisol.ir/?ai=learnhub_summary_mindmap&src=courses/linkedin-aws-essential-training-for-developers)
+( [NL](https://alisol.ir/?ai=learnhub_summary_mindmap&src=courses/linkedin-aws-essential-training-for-developers&lang=NL) | 
+[DE](https://alisol.ir/?ai=learnhub_summary_mindmap&src=courses/linkedin-aws-essential-training-for-developers&lang=DE) | 
+[FR](https://alisol.ir/?ai=learnhub_summary_mindmap&src=courses/linkedin-aws-essential-training-for-developers&lang=FR) | 
+[ES](https://alisol.ir/?ai=learnhub_summary_mindmap&src=courses/linkedin-aws-essential-training-for-developers&lang=ES) | 
+[IT](https://alisol.ir/?ai=learnhub_summary_mindmap&src=courses/linkedin-aws-essential-training-for-developers&lang=IT) | 
+[SV](https://alisol.ir/?ai=learnhub_summary_mindmap&src=courses/linkedin-aws-essential-training-for-developers&lang=SV) | 
+[DA](https://alisol.ir/?ai=learnhub_summary_mindmap&src=courses/linkedin-aws-essential-training-for-developers&lang=DA) | 
+[NO](https://alisol.ir/?ai=learnhub_summary_mindmap&src=courses/linkedin-aws-essential-training-for-developers&lang=NO) | 
+[PL](https://alisol.ir/?ai=learnhub_summary_mindmap&src=courses/linkedin-aws-essential-training-for-developers&lang=PL) | 
+[PT](https://alisol.ir/?ai=learnhub_summary_mindmap&src=courses/linkedin-aws-essential-training-for-developers&lang=PT) | 
+[RO](https://alisol.ir/?ai=learnhub_summary_mindmap&src=courses/linkedin-aws-essential-training-for-developers&lang=RO) | 
+[RU](https://alisol.ir/?ai=learnhub_summary_mindmap&src=courses/linkedin-aws-essential-training-for-developers&lang=RU) | 
+[HI](https://alisol.ir/?ai=learnhub_summary_mindmap&src=courses/linkedin-aws-essential-training-for-developers&lang=HI) | 
+[AR](https://alisol.ir/?ai=learnhub_summary_mindmap&src=courses/linkedin-aws-essential-training-for-developers&lang=AR) | 
+[FA](https://alisol.ir/?ai=learnhub_summary_mindmap&src=courses/linkedin-aws-essential-training-for-developers&lang=FA) | 
+[TR](https://alisol.ir/?ai=learnhub_summary_mindmap&src=courses/linkedin-aws-essential-training-for-developers&lang=TR) )
+
+[Flashcards - System Design Distributed Message Queue (Kafka)](https://alisol.ir/?ai=learnhub_summary_flashcards&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka)
+( [NL](https://alisol.ir/?ai=learnhub_summary_flashcards&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka&lang=NL) | 
+[DE](https://alisol.ir/?ai=learnhub_summary_flashcards&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka&lang=DE) | 
+[FR](https://alisol.ir/?ai=learnhub_summary_flashcards&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka&lang=FR) | 
+[ES](https://alisol.ir/?ai=learnhub_summary_flashcards&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka&lang=ES) | 
+[IT](https://alisol.ir/?ai=learnhub_summary_flashcards&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka&lang=IT) | 
+[SV](https://alisol.ir/?ai=learnhub_summary_flashcards&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka&lang=SV) | 
+[DA](https://alisol.ir/?ai=learnhub_summary_flashcards&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka&lang=DA) | 
+[NO](https://alisol.ir/?ai=learnhub_summary_flashcards&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka&lang=NO) | 
+[PL](https://alisol.ir/?ai=learnhub_summary_flashcards&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka&lang=PL) | 
+[PT](https://alisol.ir/?ai=learnhub_summary_flashcards&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka&lang=PT) | 
+[RO](https://alisol.ir/?ai=learnhub_summary_flashcards&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka&lang=RO) | 
+[RU](https://alisol.ir/?ai=learnhub_summary_flashcards&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka&lang=RU) | 
+[HI](https://alisol.ir/?ai=learnhub_summary_flashcards&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka&lang=HI) | 
+[AR](https://alisol.ir/?ai=learnhub_summary_flashcards&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka&lang=AR) | 
+[FA](https://alisol.ir/?ai=learnhub_summary_flashcards&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka&lang=FA) | 
+[TR](https://alisol.ir/?ai=learnhub_summary_flashcards&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka&lang=TR) )
+
+[Alanogy - Code with Mosh Mastering Design Patterns Part 1](https://alisol.ir/?ai=learnhub_summary_analogy&src=courses/code-with-mosh-mastering-design-patterns-part-1)
+( [NL](https://alisol.ir/?ai=learnhub_summary_analogy&src=courses/code-with-mosh-mastering-design-patterns-part-1&lang=NL) | 
+[DE](https://alisol.ir/?ai=learnhub_summary_analogy&src=courses/code-with-mosh-mastering-design-patterns-part-1&lang=DE) | 
+[FR](https://alisol.ir/?ai=learnhub_summary_analogy&src=courses/code-with-mosh-mastering-design-patterns-part-1&lang=FR) | 
+[ES](https://alisol.ir/?ai=learnhub_summary_analogy&src=courses/code-with-mosh-mastering-design-patterns-part-1&lang=ES) | 
+[IT](https://alisol.ir/?ai=learnhub_summary_analogy&src=courses/code-with-mosh-mastering-design-patterns-part-1&lang=IT) | 
+[SV](https://alisol.ir/?ai=learnhub_summary_analogy&src=courses/code-with-mosh-mastering-design-patterns-part-1&lang=SV) | 
+[DA](https://alisol.ir/?ai=learnhub_summary_analogy&src=courses/code-with-mosh-mastering-design-patterns-part-1&lang=DA) | 
+[NO](https://alisol.ir/?ai=learnhub_summary_analogy&src=courses/code-with-mosh-mastering-design-patterns-part-1&lang=NO) | 
+[PL](https://alisol.ir/?ai=learnhub_summary_analogy&src=courses/code-with-mosh-mastering-design-patterns-part-1&lang=PL) | 
+[PT](https://alisol.ir/?ai=learnhub_summary_analogy&src=courses/code-with-mosh-mastering-design-patterns-part-1&lang=PT) | 
+[RO](https://alisol.ir/?ai=learnhub_summary_analogy&src=courses/code-with-mosh-mastering-design-patterns-part-1&lang=RO) | 
+[RU](https://alisol.ir/?ai=learnhub_summary_analogy&src=courses/code-with-mosh-mastering-design-patterns-part-1&lang=RU) | 
+[HI](https://alisol.ir/?ai=learnhub_summary_analogy&src=courses/code-with-mosh-mastering-design-patterns-part-1&lang=HI) | 
+[AR](https://alisol.ir/?ai=learnhub_summary_analogy&src=courses/code-with-mosh-mastering-design-patterns-part-1&lang=AR) | 
+[FA](https://alisol.ir/?ai=learnhub_summary_analogy&src=courses/code-with-mosh-mastering-design-patterns-part-1&lang=FA) | 
+[TR](https://alisol.ir/?ai=learnhub_summary_analogy&src=courses/code-with-mosh-mastering-design-patterns-part-1&lang=TR) )
+
+[Advanced Teaching - Laravel Queue Mastery](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&src=courses/laracasts-laravel-queue-mastery)
+( [NL](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&src=courses/laracasts-laravel-queue-mastery&lang=NL) | 
+[DE](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&src=courses/laracasts-laravel-queue-mastery&lang=DE) | 
+[FR](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&src=courses/laracasts-laravel-queue-mastery&lang=FR) | 
+[ES](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&src=courses/laracasts-laravel-queue-mastery&lang=ES) | 
+[IT](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&src=courses/laracasts-laravel-queue-mastery&lang=IT) | 
+[SV](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&src=courses/laracasts-laravel-queue-mastery&lang=SV) | 
+[DA](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&src=courses/laracasts-laravel-queue-mastery&lang=DA) | 
+[NO](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&src=courses/laracasts-laravel-queue-mastery&lang=NO) | 
+[PL](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&src=courses/laracasts-laravel-queue-mastery&lang=PL) | 
+[PT](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&src=courses/laracasts-laravel-queue-mastery&lang=PT) | 
+[RO](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&src=courses/laracasts-laravel-queue-mastery&lang=RO) | 
+[RU](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&src=courses/laracasts-laravel-queue-mastery&lang=RU) | 
+[HI](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&src=courses/laracasts-laravel-queue-mastery&lang=HI) | 
+[AR](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&src=courses/laracasts-laravel-queue-mastery&lang=AR) | 
+[FA](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&src=courses/laracasts-laravel-queue-mastery&lang=FA) | 
+[TR](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&src=courses/laracasts-laravel-queue-mastery&lang=TR) )
+
+[Ask AI Topic - Consistency and Consensus DDIA](https://alisol.ir/?ai=Consistency%20and%20Consensus%7CMartin%20Kleppmann%7CDesigning%20Data-Intensive%20Applications)
+( [NL](https://alisol.ir/?ai=Consistency%20and%20Consensus%7CMartin%20Kleppmann%7CDesigning%20Data-Intensive%20Applications&lang=NL) | 
+[DE](https://alisol.ir/?ai=Consistency%20and%20Consensus%7CMartin%20Kleppmann%7CDesigning%20Data-Intensive%20Applications&lang=DE) | 
+[FR](https://alisol.ir/?ai=Consistency%20and%20Consensus%7CMartin%20Kleppmann%7CDesigning%20Data-Intensive%20Applications&lang=FR) | 
+[ES](https://alisol.ir/?ai=Consistency%20and%20Consensus%7CMartin%20Kleppmann%7CDesigning%20Data-Intensive%20Applications&lang=ES) | 
+[IT](https://alisol.ir/?ai=Consistency%20and%20Consensus%7CMartin%20Kleppmann%7CDesigning%20Data-Intensive%20Applications&lang=IT) | 
+[SV](https://alisol.ir/?ai=Consistency%20and%20Consensus%7CMartin%20Kleppmann%7CDesigning%20Data-Intensive%20Applications&lang=SV) | 
+[DA](https://alisol.ir/?ai=Consistency%20and%20Consensus%7CMartin%20Kleppmann%7CDesigning%20Data-Intensive%20Applications&lang=DA) | 
+[NO](https://alisol.ir/?ai=Consistency%20and%20Consensus%7CMartin%20Kleppmann%7CDesigning%20Data-Intensive%20Applications&lang=NO) | 
+[PL](https://alisol.ir/?ai=Consistency%20and%20Consensus%7CMartin%20Kleppmann%7CDesigning%20Data-Intensive%20Applications&lang=PL) | 
+[PT](https://alisol.ir/?ai=Consistency%20and%20Consensus%7CMartin%20Kleppmann%7CDesigning%20Data-Intensive%20Applications&lang=PT) | 
+[RO](https://alisol.ir/?ai=Consistency%20and%20Consensus%7CMartin%20Kleppmann%7CDesigning%20Data-Intensive%20Applications&lang=RO) | 
+[RU](https://alisol.ir/?ai=Consistency%20and%20Consensus%7CMartin%20Kleppmann%7CDesigning%20Data-Intensive%20Applications&lang=RU) | 
+[HI](https://alisol.ir/?ai=Consistency%20and%20Consensus%7CMartin%20Kleppmann%7CDesigning%20Data-Intensive%20Applications&lang=HI) | 
+[AR](https://alisol.ir/?ai=Consistency%20and%20Consensus%7CMartin%20Kleppmann%7CDesigning%20Data-Intensive%20Applications&lang=AR) | 
+[FA](https://alisol.ir/?ai=Consistency%20and%20Consensus%7CMartin%20Kleppmann%7CDesigning%20Data-Intensive%20Applications&lang=FA) | 
+[TR](https://alisol.ir/?ai=Consistency%20and%20Consensus%7CMartin%20Kleppmann%7CDesigning%20Data-Intensive%20Applications&lang=TR) )
+
+### How it works:
+
+<p align="center">    
+  <img src="assets/summary_ai_powered_btns.gif" alt="AI-powered Summary Buttons" width="853">
+</p>
+
 ## Important disclaimer
 
 This repository contains my personal notes and interpretations based on third-party resources
