@@ -11,6 +11,10 @@ I highly recommend reading the original book for the full depth and author's per
 * I summarize key points from useful books to learn and review quickly.
 * Simply click on `Ask AI` links after each section to dive deeper.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Preface and Introduction
 
 **Summary**: The book stems from the authors' experiences transitioning from data science to data engineering, highlighting how data scientists often face foundational issues like data collection and infrastructure that data engineering solves. It focuses on fundamental concepts rather than specific tools, emphasizing the data engineering lifecycle—generation, storage, ingestion, transformation, and serving—while taking a cloud-first approach. Aimed at technical practitioners like software engineers or data scientists moving into data engineering, it assumes familiarity with SQL, Python, and cloud services, aiming to help readers build robust architectures and incorporate best practices across the lifecycle.
