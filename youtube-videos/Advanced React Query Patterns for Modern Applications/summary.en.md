@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Basic Query Setup
 React Query simplifies fetching data with its useQuery hook, which handles loading, errors, and caching automatically. Start by importing useQuery, providing a query function (like an async API call), and a unique query key for caching. It returns useful states like data, isPending, isError, and a refetch function to retry on failures.
 * **Key Takeaway/Example**: Use the returned states to render loading indicators, error alerts with retry buttons, or the actual data table.
