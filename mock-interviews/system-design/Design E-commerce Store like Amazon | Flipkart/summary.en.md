@@ -7,6 +7,10 @@
 
 ---
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## One-Page Executive Summary (2–3 min skim)
 
 - **Problem Prompt (one-liner):** Design an e-commerce platform similar to Amazon/Flipkart supporting search, serviceability (can we deliver and when), cart/wishlist, checkout and orders history.
