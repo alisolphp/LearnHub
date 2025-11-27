@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Introduction to RabbitMQ in Microservices
 **Summary**: RabbitMQ fits into microservices to handle failures and asynchronous communication, especially when external services like Twilio or Firebase slow down. Current synchronous setups cause delays and failures if notifications take too long or services go down.
 **Key Takeaway/Example**: Synchronous calls from customer to fraud to notification create bottlenecks; async messaging allows delays without failing the whole system.
