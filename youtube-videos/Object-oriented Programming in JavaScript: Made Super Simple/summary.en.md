@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Introduction to Object-Oriented Programming
 OOP centers around objects rather than functions, a style that's been around since the 1970s and remains relevant. It works in languages like C#, Java, Ruby, Python, and JavaScript, and many frameworks like Angular are built with OOP concepts.
 * **Key Takeaway/Example**: OOP isn't a language or tool but a paradigm. JavaScript's OOP support is debated, but it's effective for structuring code beyond simple procedural styles.
