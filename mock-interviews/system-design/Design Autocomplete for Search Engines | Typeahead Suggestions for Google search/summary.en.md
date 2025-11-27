@@ -9,6 +9,10 @@
 
 ---
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## 2) One-Page Executive Summary (2–3 min skim)
 
 **Problem Prompt (One-liner)**  
