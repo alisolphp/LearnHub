@@ -7,6 +7,10 @@
 
 ---
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## One-Page Executive Summary (2–3 min skim)
 
 - **Problem Prompt (One-liner)**: Design a Google-Maps–like navigation platform that returns routes, distance, and ETA between two points, and remains extensible for traffic, weather, incidents, and new road discovery.   
