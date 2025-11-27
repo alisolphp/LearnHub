@@ -6,6 +6,10 @@
 
 > این سند، خلاصه‌ای از یک mock interview در حوزهٔ system design است. ؜دیدن ویدئو به‌طور کامل به‌شدت توصیه می‌شود.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## ؜مرور کوتاه
 
 ؜**مسئله (یک‌خطی)؜**: طراحی سامانه‌ای شبیه Twitter با تمرکز بر ارسال سریع tweet برای followerها، ساخت timelineها (home، user، search) و محاسبهٔ trending hashtagها بر اساس location.
