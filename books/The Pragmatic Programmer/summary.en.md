@@ -11,6 +11,10 @@ I highly recommend reading the original book for the full depth and author's per
 * I summarize key points from useful books to learn and review quickly.
 * Simply click on `Ask AI` links after each section to dive deeper.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## A Pragmatic Philosophy
 
 **Summary**: This opening chapter lays out the mindset of a pragmatic programmer—someone who takes responsibility for their work, fights against software decay, and knows when software is good enough. It stresses owning up to mistakes without excuses, keeping projects tidy to avoid "broken windows" that lead to bigger issues, and sparking positive change like the soldiers in the stone soup story. It also warns against boiling-frog scenarios where small problems build up unnoticed. Quality isn't about perfection; involve users in deciding what's sufficient, build your knowledge like a portfolio, and communicate clearly because programming is as much about people as code.
