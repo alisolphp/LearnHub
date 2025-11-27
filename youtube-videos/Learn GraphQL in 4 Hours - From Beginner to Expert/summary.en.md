@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Introduction to the GraphQL Series
 **Summary**: The video is a compilation of a series teaching GraphQL from basics to practical implementation. It covers what GraphQL is, differences from REST APIs, building a GraphQL server with Node.js and Apollo Server, and integrating it with React using Apollo Client. The structure starts with theory, moves to hands-on building, and ends with front-end fetching and mutations.
 
