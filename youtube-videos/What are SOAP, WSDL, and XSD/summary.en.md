@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Introduction to SOAP Protocol
 * **Summary**: SOAP stands for Simple Object Access Protocol, designed as a simpler alternative to RPC for client-server communication. It's a family of protocols and standards, often seen as complex but offers advantages over REST in certain scenarios, especially where security is critical.
 * **Key Takeaway/Example**: SOAP is used in projects like banking or billing systems due to its standardization, which enhances security and data protection.
