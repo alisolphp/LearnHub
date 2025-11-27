@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Introduction to Recurring Payments in WordPress
 * **Summary**: The video covers four methods for setting up subscription payments, each suited to different scenarios like simple services, memberships, small business forms, or e-commerce. It emphasizes choosing based on needs, such as avoiding shopping carts or integrating with existing sites.
 * **Key Takeaway/Example**: Scenarios include lawn care services for basic recurring billing or online communities for memberships; jump around timestamps to find the right fit.
