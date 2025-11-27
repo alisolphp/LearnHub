@@ -12,6 +12,10 @@
 - I summarize key points from useful courses to learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 Hey there! If you're diving into software testing, this course is a game-changer. John Rofrano, a DevOps whiz from IBM, breaks down why testing isn't just a checkbox—it's the secret sauce for building rock-solid code that doesn't crumble under pressure. We'll walk through the basics, get hands-on with TDD and BDD, and even tackle a real-world project. Think of this as your cheat sheet to code with confidence, minus the endless debugging marathons.
 
 ## Foundations of Testing: Why It Matters and How It Fits In
