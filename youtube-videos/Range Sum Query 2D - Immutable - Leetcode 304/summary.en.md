@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Problem Introduction
 Rust handles memory safety by using ownership and borrowing rules, but here we're focusing on a 2D matrix sum query. You get a 2D matrix and need to compute the sum of any submatrix defined by its top-left (row1, col1) and bottom-right (row2, col2) coordinates. Multiple queries make efficiency key.
 
