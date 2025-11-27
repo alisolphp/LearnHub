@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Course Overview and Prerequisites
 * **Summary**: Plugins in WordPress are software pieces that add features like SEO improvements, contact forms, or sliders without core code changes. This course covers building 12 custom plugins from scratch, assuming basic WordPress knowledge, simple MySQL queries (CREATE, INSERT, UPDATE, DELETE), and some HTML/jQuery familiarity.
 * **Key Takeaway/Example**: The course spans about 10 hours, focusing on practical projects to teach plugin development fundamentals.
