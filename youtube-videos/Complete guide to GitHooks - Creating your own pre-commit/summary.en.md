@@ -15,7 +15,29 @@
 - Simply click on `Ask AI` links to dive into any topic you want.
 
 <!-- LH-BUTTONS:START -->
-<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:HASH=005796ea -->
+
+### AI-Powered buttons
+
+Start teaching this to a:
+[Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=youtube-videos/Complete%20guide%20to%20GitHooks%20-%20Creating%20your%20own%20pre-commit) | 
+[Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=youtube-videos/Complete%20guide%20to%20GitHooks%20-%20Creating%20your%20own%20pre-commit) | 
+[Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=youtube-videos/Complete%20guide%20to%20GitHooks%20-%20Creating%20your%20own%20pre-commit) | 
+[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer)
+
+Learn via different lenses:
+[Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=youtube-videos/Complete%20guide%20to%20GitHooks%20-%20Creating%20your%20own%20pre-commit) | 
+[Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=youtube-videos/Complete%20guide%20to%20GitHooks%20-%20Creating%20your%20own%20pre-commit) | 
+[Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=youtube-videos/Complete%20guide%20to%20GitHooks%20-%20Creating%20your%20own%20pre-commit) | 
+[Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=en&src=youtube-videos/Complete%20guide%20to%20GitHooks%20-%20Creating%20your%20own%20pre-commit) | 
+[Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=en&src=youtube-videos/Complete%20guide%20to%20GitHooks%20-%20Creating%20your%20own%20pre-commit) | 
+[Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=en&src=youtube-videos/Complete%20guide%20to%20GitHooks%20-%20Creating%20your%20own%20pre-commit) | 
+[Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=en&src=youtube-videos/Complete%20guide%20to%20GitHooks%20-%20Creating%20your%20own%20pre-commit)
+
+Check my understanding:
+[Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=youtube-videos/Complete%20guide%20to%20GitHooks%20-%20Creating%20your%20own%20pre-commit) | 
+[Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=youtube-videos/Complete%20guide%20to%20GitHooks%20-%20Creating%20your%20own%20pre-commit) | 
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/Complete%20guide%20to%20GitHooks%20-%20Creating%20your%20own%20pre-commit)
 <!-- LH-BUTTONS:END -->
 
 ## Introduction to Git Hooks

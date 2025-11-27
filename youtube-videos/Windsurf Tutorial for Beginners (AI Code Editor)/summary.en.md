@@ -15,7 +15,29 @@
 - Simply click on `Ask AI` links to dive into any topic you want.
 
 <!-- LH-BUTTONS:START -->
-<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:HASH=005796ea -->
+
+### AI-Powered buttons
+
+Start teaching this to a:
+[Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=youtube-videos/Windsurf%20Tutorial%20for%20Beginners%20(AI%20Code%20Editor)) | 
+[Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=youtube-videos/Windsurf%20Tutorial%20for%20Beginners%20(AI%20Code%20Editor)) | 
+[Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=youtube-videos/Windsurf%20Tutorial%20for%20Beginners%20(AI%20Code%20Editor)) | 
+[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer)
+
+Learn via different lenses:
+[Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=youtube-videos/Windsurf%20Tutorial%20for%20Beginners%20(AI%20Code%20Editor)) | 
+[Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=youtube-videos/Windsurf%20Tutorial%20for%20Beginners%20(AI%20Code%20Editor)) | 
+[Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=youtube-videos/Windsurf%20Tutorial%20for%20Beginners%20(AI%20Code%20Editor)) | 
+[Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=en&src=youtube-videos/Windsurf%20Tutorial%20for%20Beginners%20(AI%20Code%20Editor)) | 
+[Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=en&src=youtube-videos/Windsurf%20Tutorial%20for%20Beginners%20(AI%20Code%20Editor)) | 
+[Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=en&src=youtube-videos/Windsurf%20Tutorial%20for%20Beginners%20(AI%20Code%20Editor)) | 
+[Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=en&src=youtube-videos/Windsurf%20Tutorial%20for%20Beginners%20(AI%20Code%20Editor))
+
+Check my understanding:
+[Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=youtube-videos/Windsurf%20Tutorial%20for%20Beginners%20(AI%20Code%20Editor)) | 
+[Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=youtube-videos/Windsurf%20Tutorial%20for%20Beginners%20(AI%20Code%20Editor)) | 
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/Windsurf%20Tutorial%20for%20Beginners%20(AI%20Code%20Editor))
 <!-- LH-BUTTONS:END -->
 
 ## What is Windsurf?

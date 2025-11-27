@@ -15,7 +15,29 @@
 - Simply click on `Ask AI` links to dive into any topic you want.
 
 <!-- LH-BUTTONS:START -->
-<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:HASH=005796ea -->
+
+### AI-Powered buttons
+
+Start teaching this to a:
+[Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=youtube-videos/Spring%20Boot%20for%20PHP%20Developers%20-%20Get%20a%20project%20up) | 
+[Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=youtube-videos/Spring%20Boot%20for%20PHP%20Developers%20-%20Get%20a%20project%20up) | 
+[Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=youtube-videos/Spring%20Boot%20for%20PHP%20Developers%20-%20Get%20a%20project%20up) | 
+[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer)
+
+Learn via different lenses:
+[Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=youtube-videos/Spring%20Boot%20for%20PHP%20Developers%20-%20Get%20a%20project%20up) | 
+[Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=youtube-videos/Spring%20Boot%20for%20PHP%20Developers%20-%20Get%20a%20project%20up) | 
+[Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=youtube-videos/Spring%20Boot%20for%20PHP%20Developers%20-%20Get%20a%20project%20up) | 
+[Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=en&src=youtube-videos/Spring%20Boot%20for%20PHP%20Developers%20-%20Get%20a%20project%20up) | 
+[Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=en&src=youtube-videos/Spring%20Boot%20for%20PHP%20Developers%20-%20Get%20a%20project%20up) | 
+[Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=en&src=youtube-videos/Spring%20Boot%20for%20PHP%20Developers%20-%20Get%20a%20project%20up) | 
+[Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=en&src=youtube-videos/Spring%20Boot%20for%20PHP%20Developers%20-%20Get%20a%20project%20up)
+
+Check my understanding:
+[Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=youtube-videos/Spring%20Boot%20for%20PHP%20Developers%20-%20Get%20a%20project%20up) | 
+[Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=youtube-videos/Spring%20Boot%20for%20PHP%20Developers%20-%20Get%20a%20project%20up) | 
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/Spring%20Boot%20for%20PHP%20Developers%20-%20Get%20a%20project%20up)
 <!-- LH-BUTTONS:END -->
 
 ## Introduction to App Agility and Choosing Spring Boot

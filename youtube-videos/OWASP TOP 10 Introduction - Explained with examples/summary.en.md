@@ -15,7 +15,29 @@
 - Simply click on `Ask AI` links to dive into any topic you want.
 
 <!-- LH-BUTTONS:START -->
-<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:HASH=005796ea -->
+
+### AI-Powered buttons
+
+Start teaching this to a:
+[Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=youtube-videos/OWASP%20TOP%2010%20Introduction%20-%20Explained%20with%20examples) | 
+[Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=youtube-videos/OWASP%20TOP%2010%20Introduction%20-%20Explained%20with%20examples) | 
+[Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=youtube-videos/OWASP%20TOP%2010%20Introduction%20-%20Explained%20with%20examples) | 
+[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer)
+
+Learn via different lenses:
+[Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=youtube-videos/OWASP%20TOP%2010%20Introduction%20-%20Explained%20with%20examples) | 
+[Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=youtube-videos/OWASP%20TOP%2010%20Introduction%20-%20Explained%20with%20examples) | 
+[Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=youtube-videos/OWASP%20TOP%2010%20Introduction%20-%20Explained%20with%20examples) | 
+[Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=en&src=youtube-videos/OWASP%20TOP%2010%20Introduction%20-%20Explained%20with%20examples) | 
+[Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=en&src=youtube-videos/OWASP%20TOP%2010%20Introduction%20-%20Explained%20with%20examples) | 
+[Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=en&src=youtube-videos/OWASP%20TOP%2010%20Introduction%20-%20Explained%20with%20examples) | 
+[Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=en&src=youtube-videos/OWASP%20TOP%2010%20Introduction%20-%20Explained%20with%20examples)
+
+Check my understanding:
+[Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=youtube-videos/OWASP%20TOP%2010%20Introduction%20-%20Explained%20with%20examples) | 
+[Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=youtube-videos/OWASP%20TOP%2010%20Introduction%20-%20Explained%20with%20examples) | 
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/OWASP%20TOP%2010%20Introduction%20-%20Explained%20with%20examples)
 <!-- LH-BUTTONS:END -->
 
 ## Introduction to OWASP Top 10

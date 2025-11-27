@@ -15,7 +15,29 @@
 - Simply click on `Ask AI` links to dive into any topic you want.
 
 <!-- LH-BUTTONS:START -->
-<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:HASH=005796ea -->
+
+### AI-Powered buttons
+
+Start teaching this to a:
+[Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=youtube-videos/Kth%20Largest%20Element%20in%20an%20Array%20-%20Leetcode%20215%20-%20Heaps) | 
+[Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=youtube-videos/Kth%20Largest%20Element%20in%20an%20Array%20-%20Leetcode%20215%20-%20Heaps) | 
+[Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=youtube-videos/Kth%20Largest%20Element%20in%20an%20Array%20-%20Leetcode%20215%20-%20Heaps) | 
+[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer)
+
+Learn via different lenses:
+[Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=youtube-videos/Kth%20Largest%20Element%20in%20an%20Array%20-%20Leetcode%20215%20-%20Heaps) | 
+[Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=youtube-videos/Kth%20Largest%20Element%20in%20an%20Array%20-%20Leetcode%20215%20-%20Heaps) | 
+[Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=youtube-videos/Kth%20Largest%20Element%20in%20an%20Array%20-%20Leetcode%20215%20-%20Heaps) | 
+[Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=en&src=youtube-videos/Kth%20Largest%20Element%20in%20an%20Array%20-%20Leetcode%20215%20-%20Heaps) | 
+[Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=en&src=youtube-videos/Kth%20Largest%20Element%20in%20an%20Array%20-%20Leetcode%20215%20-%20Heaps) | 
+[Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=en&src=youtube-videos/Kth%20Largest%20Element%20in%20an%20Array%20-%20Leetcode%20215%20-%20Heaps) | 
+[Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=en&src=youtube-videos/Kth%20Largest%20Element%20in%20an%20Array%20-%20Leetcode%20215%20-%20Heaps)
+
+Check my understanding:
+[Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=youtube-videos/Kth%20Largest%20Element%20in%20an%20Array%20-%20Leetcode%20215%20-%20Heaps) | 
+[Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=youtube-videos/Kth%20Largest%20Element%20in%20an%20Array%20-%20Leetcode%20215%20-%20Heaps) | 
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/Kth%20Largest%20Element%20in%20an%20Array%20-%20Leetcode%20215%20-%20Heaps)
 <!-- LH-BUTTONS:END -->
 
 ## Problem Explanation

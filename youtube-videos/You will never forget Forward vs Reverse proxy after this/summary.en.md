@@ -15,7 +15,7 @@
 - Simply click on `Ask AI` links to dive into any topic you want.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=da0e3c2b -->
+<!-- LH-BUTTONS:HASH=005796ea -->
 
 ### AI-Powered buttons
 
@@ -23,7 +23,7 @@ Start teaching this to a:
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=youtube-videos/You%20will%20never%20forget%20Forward%20vs%20Reverse%20proxy%20after%20this) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=youtube-videos/You%20will%20never%20forget%20Forward%20vs%20Reverse%20proxy%20after%20this) | 
 [Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=youtube-videos/You%20will%20never%20forget%20Forward%20vs%20Reverse%20proxy%20after%20this) | 
-<small> [(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer) </small>
+[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer)
 
 Learn via different lenses:
 [Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=youtube-videos/You%20will%20never%20forget%20Forward%20vs%20Reverse%20proxy%20after%20this) | 
