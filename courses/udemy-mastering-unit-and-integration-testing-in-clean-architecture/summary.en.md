@@ -13,6 +13,10 @@
 - I summarize key points from useful courses to learn and review quickly.  
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## 1. Course Introduction – What You’ll Learn and Tools You’ll Use
 **Summary**: Junior starts with a clear overview: you’ll build a complete Clean Architecture e-commerce demo (ABC Store) with two entities (Category & Product), implement full CQRS using MediatR, and write **55 real tests** (23 unit + 32 integration) that all pass independently. Tools covered: xUnit, FluentAssertions, Moq, AutoMapper, Entity Framework Core, WebApplicationFactory for integration tests.
 
