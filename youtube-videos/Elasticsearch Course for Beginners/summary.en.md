@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Course Introduction
 * **Summary**: The course covers Elasticsearch basics for beginners, including indexing, data types, analyzers, embeddings, semantic search, and pipelines. It includes a final project building a full-stack web app with Vue.js and FastAPI, themed around astronomy using NASA's Astronomy Picture of the Day dataset.
 * **Key Takeaway/Example**: Focuses on practical application, like transforming data with pipelines and enabling regular vs. semantic search in the app.
