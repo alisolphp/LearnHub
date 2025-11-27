@@ -1,7 +1,23 @@
 [![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
     
-# LearnHub - AI-Augmented Learning Notes (150+ Summaries) 
+# LearnHub
+
+## AI-Augmented Learning Partner (150+ Summaries)
+
 > Learn and review tech topics efficiently using concise, high-quality summaries.
+
+---
+
+## 📚 Project docs
+
+- 🧭 **[VISION.md](VISION.md)** – Why LearnHub exists, what it is (and is not), and the long-term dream.
+- 🗺 **[ROADMAP.md](ROADMAP.md)** – What’s shipped, what’s in progress, and where the project is headed next.
+- 🤖 **[AI_FEATURES.md](AI_FEATURES.md)** – How AI-powered flows work, global entry points, per-summary buttons, and live examples.
+- 🤝 **[CONTRIBUTING.md](CONTRIBUTING.md)** – How to request new topics, report issues, and improve docs / code without touching summaries.
+
+If you are new here, read **VISION** first, then skim **AI_FEATURES**, and finally check the **ROADMAP** and **CONTRIBUTING** docs.
+
+---
 
 ## 🤿 Let's Dive in!
 Want your AI chatbot to create a personalized study plan for you using LearnHub resources? Simply click the link below!
@@ -63,12 +79,13 @@ Other langs:
   <img src="assets/learnhub_search.gif" alt="AI-powered LearnHub search" width="853">
 </p>
 
-## Summary AI-Powered Buttons
+## 💪 Summary AI-Powered Buttons
 
 ### Try them directly:
 
-[Mindmap - AWS Essential Training for Developers](https://alisol.ir/?ai=learnhub_summary_mindmap&src=courses/linkedin-aws-essential-training-for-developers)
+[🧠 Mindmap - AWS Essential Training for Developers](https://alisol.ir/?ai=learnhub_summary_mindmap&src=courses/linkedin-aws-essential-training-for-developers)
 
+Other langs:
 ( [NL](https://alisol.ir/?ai=learnhub_summary_mindmap&src=courses/linkedin-aws-essential-training-for-developers&lang=NL) | 
 [DE](https://alisol.ir/?ai=learnhub_summary_mindmap&src=courses/linkedin-aws-essential-training-for-developers&lang=DE) | 
 [FR](https://alisol.ir/?ai=learnhub_summary_mindmap&src=courses/linkedin-aws-essential-training-for-developers&lang=FR) | 
@@ -88,8 +105,9 @@ Other langs:
 
 ---
 
-[Flashcards - System Design Distributed Message Queue (Kafka)](https://alisol.ir/?ai=learnhub_summary_flashcards&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka)
+[📇 Flashcards - System Design Distributed Message Queue (Kafka)](https://alisol.ir/?ai=learnhub_summary_flashcards&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka)
 
+Other langs:
 ( [NL](https://alisol.ir/?ai=learnhub_summary_flashcards&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka&lang=NL) | 
 [DE](https://alisol.ir/?ai=learnhub_summary_flashcards&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka&lang=DE) | 
 [FR](https://alisol.ir/?ai=learnhub_summary_flashcards&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka&lang=FR) | 
@@ -109,8 +127,9 @@ Other langs:
 
 ---
 
-[Alanogy - Code with Mosh Mastering Design Patterns Part 1](https://alisol.ir/?ai=learnhub_summary_analogy&src=courses/code-with-mosh-mastering-design-patterns-part-1)
+[🧩 Alanogy - Code with Mosh Mastering Design Patterns Part 1](https://alisol.ir/?ai=learnhub_summary_analogy&src=courses/code-with-mosh-mastering-design-patterns-part-1)
 
+Other langs:
 ( [NL](https://alisol.ir/?ai=learnhub_summary_analogy&src=courses/code-with-mosh-mastering-design-patterns-part-1&lang=NL) | 
 [DE](https://alisol.ir/?ai=learnhub_summary_analogy&src=courses/code-with-mosh-mastering-design-patterns-part-1&lang=DE) | 
 [FR](https://alisol.ir/?ai=learnhub_summary_analogy&src=courses/code-with-mosh-mastering-design-patterns-part-1&lang=FR) | 
@@ -130,8 +149,9 @@ Other langs:
 
 ---
 
-[Advanced Teaching - Laravel Queue Mastery](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&src=courses/laracasts-laravel-queue-mastery)
+[🎯 Advanced Teaching - Laravel Queue Mastery](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&src=courses/laracasts-laravel-queue-mastery)
 
+Other langs:
 ( [NL](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&src=courses/laracasts-laravel-queue-mastery&lang=NL) | 
 [DE](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&src=courses/laracasts-laravel-queue-mastery&lang=DE) | 
 [FR](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&src=courses/laracasts-laravel-queue-mastery&lang=FR) | 
@@ -151,8 +171,9 @@ Other langs:
 
 ---
 
-[Ask AI Topic - Consistency and Consensus DDIA](https://alisol.ir/?ai=Consistency%20and%20Consensus%7CMartin%20Kleppmann%7CDesigning%20Data-Intensive%20Applications)
+[🤖 Ask AI Topic - Consistency and Consensus DDIA](https://alisol.ir/?ai=Consistency%20and%20Consensus%7CMartin%20Kleppmann%7CDesigning%20Data-Intensive%20Applications)
 
+Other langs:
 ( [NL](https://alisol.ir/?ai=Consistency%20and%20Consensus%7CMartin%20Kleppmann%7CDesigning%20Data-Intensive%20Applications&lang=NL) | 
 [DE](https://alisol.ir/?ai=Consistency%20and%20Consensus%7CMartin%20Kleppmann%7CDesigning%20Data-Intensive%20Applications&lang=DE) | 
 [FR](https://alisol.ir/?ai=Consistency%20and%20Consensus%7CMartin%20Kleppmann%7CDesigning%20Data-Intensive%20Applications&lang=FR) | 
@@ -176,6 +197,8 @@ Other langs:
   <img src="assets/summary_ai_powered_btns.gif" alt="AI-powered Summary Buttons" width="853">
 </p>
 
+---
+
 ## Important disclaimer
 
 This repository contains my personal notes and interpretations based on third-party resources
@@ -192,13 +215,23 @@ If you are the owner of a work and you are unhappy about the presence of a summa
 please contact me at [alisolphp@gmail.com](mailto:alisolphp@gmail.com). 
 I will review it and remove it if necessary as soon as possible.
 
-## Why this repo exists
+---
 
-Are you tired of spending hours watching long videos or going through entire books just to extract the key ideas? 
-LearnHub is a curated collection of concise, high-signal summaries for courses, YouTube videos, books, and mock interviews. 
-It is designed to help you learn faster, review smarter (for example before interviews), and use your favourite programming language and natural language when drilling into details with an AI assistant.
+## 💡 Why this repo exists (short version)
 
-## Using this repo with AI
+LearnHub is a curated collection of concise, high-signal summaries for courses, YouTube videos, books, and mock interviews.
+
+It is designed to help you:
+
+- learn faster,
+- review smarter (for example before interviews),
+- and use your favourite programming language and natural language when drilling into details with an AI assistant.
+
+For the full story and philosophy, see **[VISION.md](VISION.md)**.
+
+---
+
+## 🧠 Using this repo with AI
 
 You can combine these summaries with an AI assistant to:
 
@@ -206,17 +239,43 @@ You can combine these summaries with an AI assistant to:
 - Turn flashcards into interactive Q&A practice.
 - Translate explanations into your preferred tone and natural language.
 - See examples in the programming language you are most comfortable with.
-- Get freshness notes after each explanation (useful for older books and videos). 
+- Get freshness notes after each explanation (useful for older books and videos).
 - Simulate interview-style discussions using the mock interview summaries.
 - Go deeper into the topic with advanced AI hints at the end.
 
-A simple workflow is:
+Typical workflow:
 
 1. Open a `summary.*.md` file for the topic you are studying.
-2. Highlight the part you care about.
-3. Use your AI assistant (for example via an “Ask AI” button) to go deeper, ask “why?”, or request code examples.
+2. Use the **AI buttons** at the top (teach / flashcards / quiz / projects / …), or:
+3. Highlight a section and ask your AI assistant to go deeper, ask “why?”, or request code examples.
 
-## Repository structure at a glance
+See **[AI_FEATURES.md](AI_FEATURES.md)** for detailed routes and prompts.
+
+---
+
+## 🧭 Contributing
+
+This is an opinionated, curated project. Summaries are **not crowd-sourced** – they are maintained by the project owner (and maybe a small trusted core team later).
+
+You can still help a lot by:
+
+- requesting new topics / resources,
+- reporting broken links or AI buttons,
+- suggesting better prompts and workflows,
+- improving docs, and
+- sending small, focused code improvements.
+
+Read **[CONTRIBUTING.md](CONTRIBUTING.md)** for:
+
+- what kinds of contributions are welcome **right now**,
+- what is out of scope (e.g. editing summaries),
+- and how to open good issues / PRs.
+
+---
+
+## 🗺 Repository structure at a glance
+
+Auto-generated overview of the repository structure:
 
 <!-- REPO_TOC_START -->
 Auto-generated overview of the repository structure:
@@ -260,7 +319,9 @@ Auto-generated overview of the repository structure:
   - [Software Engineering Practices (3)](#software-engineering-practices)
 <!-- REPO_TOC_END -->
 
-## Repository structure
+## 📂 Repository structure
+
+> The sections below are auto-generated and list all existing summaries.
 
 ### Courses
 <!-- COURSES_START -->
@@ -723,15 +784,6 @@ Auto-generated overview of the repository structure:
 <!-- OTHER_START -->
 
 <!-- OTHER_END -->
-
-## Contributing
-
-Contributions are welcome!
-
-- Add new resources under a suitable folder (for example `courses/`, `mock-interviews/`, `books/`, or other logical categories).
-- For each resource, create one or more `summary.XX.md` files (`summary.en.md` is necessary, but other langs are optional).
-- Keep the summary structure consistent so that learners know what to expect.
-- The list and categorized TOC will be generated programmatically on push with AI-powered workflow.
 
 ## License
 
