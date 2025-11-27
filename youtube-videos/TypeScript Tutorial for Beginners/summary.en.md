@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Course Overview and Prerequisites
 **Summary**: The course covers TypeScript from basics to advanced, helping you build large-scale apps. It's comprehensive, practical, and aimed at taking you from zero to hero. Mosh Hamidani, from codewithmosh.com, teaches it—no need for prior TypeScript knowledge, but basic JavaScript (variables, arrays, objects, functions, arrow functions, destructuring) is required. Links to JavaScript refreshers are provided.
 **Key Takeaway/Example**: Refresh JavaScript basics if needed before diving in.
