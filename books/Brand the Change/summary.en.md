@@ -11,6 +11,10 @@ I highly recommend reading the original book for the full depth and author's per
 * I summarize key points from useful books to learn and review quickly.
 * Simply click on `Ask AI` links after each section to dive deeper.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Chapter 1: Branding 101
 
 **Summary**: This chapter lays out the basics of branding in a straightforward way, starting with its history from ancient symbols of allegiance to modern tools for building trust and loyalty. Branding is defined as directing how others think and feel about you, not just a logo or ad, but a guiding force for all your actions and communications. It helps audiences navigate choices in a crowded world and gives your organization purpose, direction, and a way to make decisions. Strong brands stand out by being recognizably different, rooted in a clear 'why,' easy to retell as a story, clear in messaging, alive in every interaction, and trustworthy. For changemakers, branding isn't optional—it's essential to attract support, outperform traditional businesses, and shift paradigms toward social good. But beware: just highlighting social impact isn't always the best strategy, as it can backfire if it distracts from quality, offends audiences, or faces scrutiny.
