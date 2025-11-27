@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Introduction and Prerequisites
 **Summary**: Symfony is a PHP framework for building web apps, demonstrated by creating a simple product management application. You need prior knowledge of PHP, databases, classes, objects, and Composer. Install PHP, a database like SQLite or MySQL, Composer, and a code editor like VS Code. XAMPP is a quick way to get PHP and MySQL running.
 
