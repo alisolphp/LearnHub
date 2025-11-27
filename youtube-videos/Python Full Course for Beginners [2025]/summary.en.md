@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Course Introduction and Python Overview
 * **Summary**: The course covers Python from basics to advanced topics like AI, machine learning, web development, and automation. No prior knowledge is needed, and it's designed for beginners to build a solid foundation. Python is the fastest-growing language, used by companies like Google and Spotify.
 * **Key Takeaway/Example**: Python solves complex problems with fewer lines of code compared to C or JavaScript. For example, extracting the first three characters of "hello world" is simple: `"hello world"[:3]`.
