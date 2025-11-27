@@ -8,6 +8,10 @@
 
 ---
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## One-Page Executive Summary (2–3 min skim)
 
 **Problem Prompt (One-liner).** Build an airline reservation system where users can search flights and book seats; admins can add flights. Handle limited seats, high contention, and payments. 
