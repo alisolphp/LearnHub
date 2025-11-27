@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Introduction to Magento Development
 * **Summary**: Mark Shust shares his experience learning Magento, which was overwhelming due to complex concepts. This course breaks down introductory topics into simple lessons to help beginners get started quickly.
 * **Key Takeaway/Example**: The course is a jumpstart, not comprehensive; more advanced content is available in premium lessons at M Academy.
