@@ -11,6 +11,10 @@ I highly recommend reading the original book for the full depth and author's per
 * I summarize key points from useful books to learn and review quickly.
 * Simply click on `Ask AI` links after each section to dive deeper.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Chapter 1: Clean Code
 
 **Summary**: This chapter kicks off by emphasizing that clean code is essential for any professional developer—it's readable, maintainable, and crafted with care. Bad code leads to messes that slow down teams and inflate costs over time, like a snowballing disaster where quick fixes only make things worse. The author stresses that writing clean code is an art, requiring discipline and attention to detail, and shares views from experts on what makes code "clean," such as being elegant, efficient, and free of clutter. It's about leaving the code better than you found it, following the Boy Scout Rule.
