@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Course Overview
 Apache Cassandra is an open-source NoSQL distributed database. This beginner course breaks down into four modules: basics of Cassandra, data modeling fundamentals, advanced modeling techniques, and practical applications. It contrasts with relational databases and builds toward real-world use cases like setting up Cassandra on the cloud.
 
