@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Introduction to AWS Load Balancers
 * **Summary**: The video covers all three types of AWS load balancers—Application Load Balancer (ALB), Network Load Balancer (NLB), and Gateway Load Balancer (GLB)—with independent demos. You can skip to specific sections using timestamps in the description.
 * **Key Takeaway/Example**: Focuses on practical setups in AWS, including VPCs, subnets, EC2 instances, and load balancing traffic. A Udemy course on AWS networking is promoted for deeper learning on related topics like VPCs and Terraform.
