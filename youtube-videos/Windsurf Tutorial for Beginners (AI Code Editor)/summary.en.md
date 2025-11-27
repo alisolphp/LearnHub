@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## What is Windsurf?
 Windsurf is a VS Code fork with a built-in AI agent called Cascade. It launched at the end of 2024 and has quickly become one of the strongest AI code editors available. It can read your whole project, run terminal commands, install dependencies, edit multiple files, and even start dev servers – all autonomously.
 
