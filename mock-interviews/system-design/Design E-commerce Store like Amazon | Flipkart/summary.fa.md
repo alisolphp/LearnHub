@@ -7,6 +7,10 @@
 
 ---
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## ؜‏خلاصهٔ اجرایی یک‌صفحه‌ای (۲–۳ دقیقه)
 
 - ؜؜**صورت مسئله (یک‌خطی):؜** طراحی یک پلتفرم ecommerce شبیه Amazon/Flipkart با قابلیت‌های جستجو، سرویس‌دهی/ETA، سبد خرید/ویishlist، checkout و تاریخچهٔ سفارش‌ها.
