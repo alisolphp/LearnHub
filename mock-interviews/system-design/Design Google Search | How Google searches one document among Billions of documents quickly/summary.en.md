@@ -7,6 +7,10 @@
 
 ---
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## One-Page Executive Summary (2–3 min skim)
 
 **Problem Prompt (One-liner)**: Why and how do web-scale search engines (e.g., Google) return relevant pages from billions of documents in milliseconds, while your laptop often takes seconds to find a local file?
