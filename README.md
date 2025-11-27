@@ -24,7 +24,7 @@ If you are new here, read **VISION** first, then skim **AI_FEATURES**, and final
 ---
 
 ## 🤿 Let's Dive in!
-Want your AI chatbot to create a personalized study plan for you using LearnHub resources? Simply click the link below!
+Want your AI chatbot to create a personalized study plan for you using LearnHub resources? Click the link below!
 
 [🍚 Ask AI to Cook Up My Rapid Study Plan](https://alisol.ir/?ai=learnhub_starter)
 
