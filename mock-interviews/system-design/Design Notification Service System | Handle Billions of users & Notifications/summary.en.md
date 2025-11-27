@@ -8,6 +8,10 @@
 
 > *This document summarizes the key content of a system design mock interview. I highly recommend watching the full video if you can.*
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 # One-Page Executive Summary
 
 **Problem Prompt (One-liner)**: Design a scalable notification service capable of handling billions of users and notifications, often embedded in larger systems like e-commerce or booking platforms.
