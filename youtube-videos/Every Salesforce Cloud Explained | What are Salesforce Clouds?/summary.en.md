@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Introduction to the Series
 Salesforce offers a wide range of clouds, more than initially expected, covering various industries and functions. This video kicks off a series diving into each one, including features, use cases, and certifications. It lists 24 clouds with basic overviews to help understand their purposes.
 * **Key Takeaway**: The series will explore certifications, including accredited professional exams for some specialized clouds, and hands-on details for implementation.
