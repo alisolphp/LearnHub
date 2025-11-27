@@ -10,6 +10,10 @@
 
 ---
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 # One-Page Executive Summary
 
 **Problem Prompt (One-liner)**: Design a food delivery system like DoorDash, focusing on matching customers with nearby delivery personnel (dashers) and enabling real-time location tracking.
