@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Introduction to Active Record Pattern
 Active Record ties objects directly to database rows, where each object instance represents a single row in a table. Creating an object and saving it adds a row to the table, while updating the object updates the row. The class wraps accessor methods or properties for each column.
 
