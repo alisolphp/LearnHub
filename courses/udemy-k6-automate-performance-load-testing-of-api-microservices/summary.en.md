@@ -13,6 +13,10 @@
 - I summarize key points from useful courses to learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## [Topic 1: Introduction to K6]
 
 * **Summary**: This section covers the basics of K6 as an open-source load testing tool for APIs and microservices. It highlights features like being free, developer-friendly, and its use for performance monitoring, automation in CI/CD, and cloud execution from multiple locations.
