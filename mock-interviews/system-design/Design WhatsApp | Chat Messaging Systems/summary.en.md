@@ -8,6 +8,10 @@
 
 ---
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## One-Page Executive Summary (2–3 min skim)
 
 - **Problem Prompt (One-liner)**: Design a WhatsApp-style chat app supporting 1:1 messaging, groups, media messages, and read/delivered receipts, with online/last-seen indicators.
