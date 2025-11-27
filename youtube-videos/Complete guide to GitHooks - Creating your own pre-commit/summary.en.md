@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Introduction to Git Hooks
 Git hooks let you automate scripts at specific points in your Git workflow, like before commits or pushes. They run locally on your machine or on the server side, and can block actions if conditions fail. Common ones include pre-commit, pre-push, and pre-receive, but all hooks work similarly.
 * **Key Takeaway**: Hooks enhance productivity by enforcing rules automatically, such as checking code before it enters the repo.
