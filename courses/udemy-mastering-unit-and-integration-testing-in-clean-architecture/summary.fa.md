@@ -14,6 +14,10 @@ _این سند، نکات مهم دوره رو خلاصه می‌کنه. اگه 
 - من معمولاً نکات کلیدی دوره‌های مفید رو خلاصه می‌کنم تا هم برای خودم مرور سریع باشه، هم برای بقیه.  
 - فقط کافیه روی لینک‌های `Ask AI` کلیک کنی تا روی همون مبحث عمیق‌تر کار کنی.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## ۲. مقدمه دوره – چی یاد می‌گیری و چه ابزارهایی استفاده می‌شن
 
 **خلاصه**: تو این دوره یه پروژه e-commerce نمونه با Clean Architecture می‌سازیم (ABC Store) که دو تا entity داره: ‎Category‎ و ‎Product‎. روی این پروژه، ‎CQRS‎ رو با MediatR پیاده می‌کنیم و در مجموع **۵۵ تست واقعی** می‌نویسیم (‎23 Unit Test‎ + ‎32 Integration Test‎) که همشون کاملاً مستقل از هم pass می‌شن. ابزارهایی که استفاده می‌شه: ‎xUnit‎، ‎FluentAssertions‎، ‎Moq‎، ‎AutoMapper‎، ‎Entity Framework Core‎ و ‎WebApplicationFactory‎ برای Integration Test ها.
