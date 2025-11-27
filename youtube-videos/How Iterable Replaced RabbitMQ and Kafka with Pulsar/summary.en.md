@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## What Iterable Actually Does
 Iterable is a SaaS customer-lifecycle / marketing-automation platform. Everything that happens between a brand and its users (ingesting events, storing profiles, deciding what to send, actually sending emails/SMS/WhatsApp/push/etc., and tracking results) flows through their system.
 
