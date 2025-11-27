@@ -9,6 +9,10 @@
 
 ---
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## ؜۱) خلاصه‌ی یک‌صفحه‌ای (۲–۳ دقیقه)
 
 - ؜؜**مسئله‌ی اصلی (یک‌خطی):؜** طراحی یک Notification Service مقیاس‌پذیر برای چند محصول، با پشتیبانی چند کاناله (SMS، Email و قابلیت افزودن سریع کانال‌هایی مثل in-app/WhatsApp).
