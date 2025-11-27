@@ -7,6 +7,10 @@
 
 ---
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## One-Page Executive Summary (2–3 min skim)
 
 **Problem Prompt (One-liner)**: Design Netflix’s end-to-end system to stream video at scale with smooth UX worldwide.
