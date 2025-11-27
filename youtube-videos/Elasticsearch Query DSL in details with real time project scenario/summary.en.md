@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Introduction to Query DSL
 Query DSL comes in two types: leaf query clauses for single fields and compound for multiple. Focus on practical use over theory, especially full-text queries like match, match_phrase, match_phrase_prefix, and multi_match for handling searches like comments or email bodies that are tough in RDBMS.
 
