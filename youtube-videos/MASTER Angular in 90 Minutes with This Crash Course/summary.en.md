@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Prerequisites & Tools You Need
 * **Summary**: Before starting, make sure you’re comfortable with HTML, CSS, JavaScript/TypeScript basics (variables, functions, loops, conditionals), and Git. The tutorial uses VS Code, Node.js, Angular CLI, and the Angular Language Service extension.
 * **Key Takeaway/Example**: Install Angular CLI globally with `npm install -g @angular/cli`. Check version with `ng version`.
