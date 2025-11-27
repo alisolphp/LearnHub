@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Introduction to CodeRabbit AI and Code Review Challenges
 CodeRabbit AI automates code reviews to tackle common pain points like manual testing, verifying standards, avoiding vulnerabilities, and the fear of production breaks. It integrates at multiple stages: local changes in VS Code, pull request summarization, and interactive GitHub reviews.
 Key takeaway: Use it to shift reviews left, catching issues early without waiting for peers.
