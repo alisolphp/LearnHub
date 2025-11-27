@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Introduction to OWASP Top 10
 **Summary**: OWASP Top 10 is a key application security standard, with the 2021 version being the latest revision since 2017. It lists the top risks in web applications, and a new version is expected around 2025 every four years or so.
 **Key Takeaway/Example**: Developers using more frameworks and libraries has shifted the rankings, like injection dropping to third place while broken access control rose to first.
