@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Introduction to SOAP Web Services in Spring Boot
 * **Summary**: SOAP-based web services still have a role in modern Java architectures, and Spring Boot makes building them straightforward, similar to RESTful services. The tutorial focuses on creating a simple SOAP service for an online rock-paper-scissors game to track user scores.
 * **Key Takeaway/Example**: Start with a top-down approach using an XSD file to define methods and data, then generate Java beans and endpoints.
