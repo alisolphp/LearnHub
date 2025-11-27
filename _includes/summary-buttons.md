@@ -5,7 +5,7 @@ Start teaching this to a:
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang={{LANG}}&src={{SUMMARY_SRC}}) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang={{LANG}}&src={{SUMMARY_SRC}}) | 
 [Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang={{LANG}}&src={{SUMMARY_SRC}}) | 
-[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer)
+[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer) 
 
 Learn via different lenses:
 [Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang={{LANG}}&src={{SUMMARY_SRC}}) | 
