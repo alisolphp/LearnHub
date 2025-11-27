@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Introduction to Headless WordPress
 Headless WordPress uses WordPress as a backend for content management while building the frontend from scratch with HTML, CSS, and JavaScript. This approach gives more control, unique designs, and the ability to charge higher fees like $5,000 per project, avoiding generic page-builder sites.
 Key takeaway: Focus on creating custom post types and fields in WordPress, then fetch data via REST API for dynamic frontend rendering, applicable to sites like real estate listings.
