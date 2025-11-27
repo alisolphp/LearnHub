@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## What is Node.js?
 Node.js is a JavaScript runtime built on Chrome’s V8 engine that lets you run JavaScript outside the browser — on your computer or on a server. It’s not a framework or a language, just an environment that gives JavaScript access to the file system, network, and other OS features.
 
