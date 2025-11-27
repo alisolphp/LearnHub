@@ -8,6 +8,10 @@
 
 ---
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## ؜خلاصهٔ یک‌صفحه‌ای (۲–۳ دقیقه)
 
 - ؜؜**صورت‌مسئله (یک‌خطی)؜**: طراحی یک اپ چت به سبک WhatsApp با ۱:۱، گروه‌ها، پیام‌های media، رسیدهای sent/delivered/read و وضعیت online/last‑seen.
