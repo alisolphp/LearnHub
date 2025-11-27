@@ -11,6 +11,10 @@ I highly recommend reading the original book for the full depth and author's per
 * I summarize key points from useful books to learn and review quickly.
 * Simply click on `Ask AI` links after each section to dive deeper.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Part I: Introduction
 
 **Summary**: The book kicks off by clarifying that design and architecture in software are essentially the same thing—a continuous fabric of decisions from high-level structure to low-level details. The ultimate goal is to minimize the effort needed to build and maintain a system, keeping human resources low while meeting customer needs. Through a real-world case study, it shows how messy code leads to plummeting productivity and skyrocketing costs, like a team where early releases flew out but later ones crawled despite more developers. The core message is that clean code and thoughtful architecture prevent this mess, and developers must prioritize it over just cranking out features.
