@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Fundamentals of Nginx
 * **Summary**: Nginx is an open-source, high-performance web server designed for serving static content like HTML files, but it also excels as a reverse proxy, load balancer, and for HTTP caching. Compared to Apache HTTPD, Nginx uses an event-driven architecture for better performance with high traffic, lower memory usage, and faster static content delivery, making it ideal for cloud-native environments like containers and Kubernetes.
 * **Key Takeaway/Example**: Nginx handles large numbers of users efficiently due to its architecture, unlike Apache's thread-based model. For instance, Android switched to Rust but the point extends to why Nginx outperforms in similar scenarios with reduced vulnerabilities.
