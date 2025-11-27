@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Introduction to AI at Grafana
 Yas introduces himself and sets the stage for discussing how Grafana is integrating AI, moving from simple text responses to actionable workflows with agentic LLMs. He mentions using Slido for questions and shares fun facts about Belgium.
 * **Summary**: The talk focuses on evolving AI from basic queries to driving Grafana tasks, with a demo glimpse from the previous day.
