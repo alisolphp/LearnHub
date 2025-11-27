@@ -8,6 +8,10 @@
 
 ---
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## One-Page Executive Summary
 
 - **Problem Prompt (one-liner)**: Build a Pastebin-style text storage and sharing service with upload, download, and text search. 
