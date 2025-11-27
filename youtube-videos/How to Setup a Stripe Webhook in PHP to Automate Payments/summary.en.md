@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Why Use a Custom Stripe Webhook?
 Stripe Checkout is great, but the default success page is very limited. A webhook lets you run your own code the moment a payment succeeds — send custom emails, create accounts, grant access to a Telegram group, add users to a course platform, send WhatsApp confirmations, update your own database… basically anything you want.
 
