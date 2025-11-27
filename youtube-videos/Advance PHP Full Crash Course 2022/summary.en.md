@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Course Introduction
 * **Summary**: PHP offers advanced techniques for building flexible applications, covering namespaces, interfaces, traits, libraries, and exceptions to avoid crashes.
 * **Key Takeaway/Example**: Focus on PHP 5.6 or higher for features like namespaces in functions.
