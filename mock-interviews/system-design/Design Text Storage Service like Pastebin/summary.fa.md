@@ -8,6 +8,10 @@
 
 ---
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## ؜خلاصهٔ یک‌صفحه‌ای
 
 - ؜؜**تعریف مسئله (یک‌خطی)؜**: ساخت سرویس Pastebin برای ذخیره و اشتراک متن با قابلیت upload، download و جستجوی متن.
