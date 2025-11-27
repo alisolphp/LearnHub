@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Workshop Introduction and Presenters
 * **Summary**: The workshop is hosted by Aaron Ploetz and Alex Leventer, developer advocates at DataStax with extensive experience in Apache Cassandra, including enterprise deployments, authorship, and MVP recognition. They emphasize using the right tools efficiently and introduce the team behind the content.
 * **Key Takeaway/Example**: Focus on practical application of Cassandra to solve real-world inefficiency in data handling.
