@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Problem Description
 Rust handles memory safety by... wait, no—this is about a graph problem. Nodes are numbered from 0 to n-1 in a directed graph with edges colored red or blue. Start at node 0 and find the shortest path to every other node where edge colors alternate. Return an array with these lengths; use -1 if no such path exists.
 
