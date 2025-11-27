@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Introduction to OWASP Top 10 for LLMs
 The speaker kicks off by outlining the OWASP Top 10 vulnerabilities for Large Language Models (LLMs), noting the rapid evolution of AI and the need for secure architectures. They share their background in app security and highlight real-world headlines, hype, and actual attacks like data leaks in tools such as ChatGPT and Copilot. OWASP's resources, including the Gen AI Security Project, are recommended for governance, red teaming, and secure implementation.
 * **Key Takeaway**: The Top 10 includes familiar issues like prompt injection (similar to SQL injection), excessive agency, and misinformation, emphasizing that AI security builds on traditional concepts but adapts to LLM specifics.
