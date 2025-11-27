@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Course Introduction and Premium Features
 **Summary**: The course covers C# from beginner to advanced, including basics like variables and loops, intermediate topics like interfaces and generics, and advanced ones like reflection and multithreading. It's based on 10+ years of experience, with 97 lectures. The free version includes all video content, while premium adds a companion Unity project with FAQs, quizzes, exercises, error helpers, AI support, ad-free videos, private Discord, and live Q&A.
 
