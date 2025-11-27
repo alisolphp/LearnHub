@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Introduction to Building a WordPress Site
 * **Summary**: The tutorial guides beginners through creating a professional WordPress site using Elementor for drag-and-drop design, free themes and plugins, and affordable hosting. No prior knowledge or coding is needed, and it covers accessing professionally designed templates.
 * **Key Takeaway/Example**: Focus on using Elementor to build visually without code, and only pay for hosting around $3/month.
