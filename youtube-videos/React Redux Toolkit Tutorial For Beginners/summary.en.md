@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Introduction to Redux Toolkit
 * **Summary**: Redux Toolkit simplifies state management in React apps, especially for beginners. It builds on Redux but reduces boilerplate code, making it easier to set up and use compared to traditional Redux.
 * **Key Takeaway/Example**: It's recommended over older Redux due to its ease, while maintaining full power. Alternatives like Zustand exist, but Redux Toolkit is great for complex apps.
