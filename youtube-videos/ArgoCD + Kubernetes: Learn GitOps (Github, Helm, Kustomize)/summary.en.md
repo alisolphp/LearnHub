@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Introduction to GitOps with ArgoCD
 * **Summary**: GitOps uses a Git repository as the single source of truth for deployments in Kubernetes. ArgoCD monitors the repo and auto-applies changes. The tutorial covers three workflows: basic repo pointing, using Kustomize for environments, and handling Helm charts.
 * **Key Takeaway/Example**: Focus on hands-on setup with provided files and a dev environment to implement these workflows practically.
