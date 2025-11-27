@@ -8,6 +8,10 @@
 
 ---
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## 1) One-Page Executive Summary (2–3 min skim)
 
 - **Problem Prompt (One-liner):** Build a distributed job scheduler that executes uploaded binaries on a cluster, supports cron-like schedules and DAGs, exposes per-job status, and runs millions of jobs per day.
