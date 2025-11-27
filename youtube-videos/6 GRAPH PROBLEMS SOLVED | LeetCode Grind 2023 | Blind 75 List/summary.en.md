@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Introduction to Graph Problems in Blind 75
 The video covers six graph problems from the Blind 75 LeetCode list, focusing on common patterns like DFS, graph cloning, and cycle detection. It uses Python implementations and explains time/space complexities.
 
