@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Introduction to PHPStan
 PHPStan is a static analysis tool that catches errors in your PHP code without executing it. It analyzes the flow of code to ensure components work together properly, much like checking if your coffee-making process will succeed before pouring. This helps avoid runtime issues like white screens of death in Drupal.
 
