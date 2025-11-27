@@ -10,6 +10,10 @@
 - I summarize key points from useful courses to learn and review quickly.  
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Introduction
 This is the second part of the Ultimate/Mastering Design Patterns series. Part 1 was about behavioral patterns (how objects communicate). Part 2 focuses on structural patterns – how objects are composed and related to each other to build flexible, maintainable systems.  
 Mosh assumes you’ve already completed Part 1 (or are comfortable with SOLID principles and basic patterns), so the pace is fast and focused on real-world implementation.
