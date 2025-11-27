@@ -15,7 +15,29 @@
 - کافی است روی لینک‌های `Ask AI` کلیک کنید تا در مورد هر مبحثی که می‌خواهید، عمیق‌تر کاوش کنید.
 
 <!-- LH-BUTTONS:START -->
-<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:HASH=b47981dc -->
+
+### AI-Powered buttons
+
+Start teaching this to a:
+[Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=fa&src=courses/udemy-docker-bootcamp-conquer-docker-with-real-world-projects) | 
+[Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=fa&src=courses/udemy-docker-bootcamp-conquer-docker-with-real-world-projects) | 
+[Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=fa&src=courses/udemy-docker-bootcamp-conquer-docker-with-real-world-projects) | 
+[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer) 
+
+Learn via different lenses:
+[Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=fa&src=courses/udemy-docker-bootcamp-conquer-docker-with-real-world-projects) | 
+[Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=fa&src=courses/udemy-docker-bootcamp-conquer-docker-with-real-world-projects) | 
+[Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=fa&src=courses/udemy-docker-bootcamp-conquer-docker-with-real-world-projects) | 
+[Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=fa&src=courses/udemy-docker-bootcamp-conquer-docker-with-real-world-projects) | 
+[Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=fa&src=courses/udemy-docker-bootcamp-conquer-docker-with-real-world-projects) | 
+[Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=fa&src=courses/udemy-docker-bootcamp-conquer-docker-with-real-world-projects) | 
+[Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=fa&src=courses/udemy-docker-bootcamp-conquer-docker-with-real-world-projects)
+
+Check my understanding:
+[Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=fa&src=courses/udemy-docker-bootcamp-conquer-docker-with-real-world-projects) | 
+[Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=fa&src=courses/udemy-docker-bootcamp-conquer-docker-with-real-world-projects) | 
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=courses/udemy-docker-bootcamp-conquer-docker-with-real-world-projects)
 <!-- LH-BUTTONS:END -->
 
 ## ؜‎؜۱. معرفی دوره و چیزی که خواهید ساخت

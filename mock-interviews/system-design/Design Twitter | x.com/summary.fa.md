@@ -7,7 +7,29 @@
 > این سند، خلاصه‌ای از یک mock interview در حوزهٔ system design است. ؜دیدن ویدئو به‌طور کامل به‌شدت توصیه می‌شود.
 
 <!-- LH-BUTTONS:START -->
-<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:HASH=b47981dc -->
+
+### AI-Powered buttons
+
+Start teaching this to a:
+[Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=fa&src=mock-interviews/system-design/Design%20Twitter%20%7C%20x.com) | 
+[Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=fa&src=mock-interviews/system-design/Design%20Twitter%20%7C%20x.com) | 
+[Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=fa&src=mock-interviews/system-design/Design%20Twitter%20%7C%20x.com) | 
+[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer) 
+
+Learn via different lenses:
+[Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=fa&src=mock-interviews/system-design/Design%20Twitter%20%7C%20x.com) | 
+[Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=fa&src=mock-interviews/system-design/Design%20Twitter%20%7C%20x.com) | 
+[Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=fa&src=mock-interviews/system-design/Design%20Twitter%20%7C%20x.com) | 
+[Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=fa&src=mock-interviews/system-design/Design%20Twitter%20%7C%20x.com) | 
+[Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=fa&src=mock-interviews/system-design/Design%20Twitter%20%7C%20x.com) | 
+[Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=fa&src=mock-interviews/system-design/Design%20Twitter%20%7C%20x.com) | 
+[Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=fa&src=mock-interviews/system-design/Design%20Twitter%20%7C%20x.com)
+
+Check my understanding:
+[Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=fa&src=mock-interviews/system-design/Design%20Twitter%20%7C%20x.com) | 
+[Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=fa&src=mock-interviews/system-design/Design%20Twitter%20%7C%20x.com) | 
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=mock-interviews/system-design/Design%20Twitter%20%7C%20x.com)
 <!-- LH-BUTTONS:END -->
 
 ## ؜مرور کوتاه

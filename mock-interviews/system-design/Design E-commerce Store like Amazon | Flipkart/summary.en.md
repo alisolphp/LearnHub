@@ -8,7 +8,29 @@
 ---
 
 <!-- LH-BUTTONS:START -->
-<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:HASH=b47981dc -->
+
+### AI-Powered buttons
+
+Start teaching this to a:
+[Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=mock-interviews/system-design/Design%20E-commerce%20Store%20like%20Amazon%20%7C%20Flipkart) | 
+[Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=mock-interviews/system-design/Design%20E-commerce%20Store%20like%20Amazon%20%7C%20Flipkart) | 
+[Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=mock-interviews/system-design/Design%20E-commerce%20Store%20like%20Amazon%20%7C%20Flipkart) | 
+[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer) 
+
+Learn via different lenses:
+[Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=mock-interviews/system-design/Design%20E-commerce%20Store%20like%20Amazon%20%7C%20Flipkart) | 
+[Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=mock-interviews/system-design/Design%20E-commerce%20Store%20like%20Amazon%20%7C%20Flipkart) | 
+[Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=mock-interviews/system-design/Design%20E-commerce%20Store%20like%20Amazon%20%7C%20Flipkart) | 
+[Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=en&src=mock-interviews/system-design/Design%20E-commerce%20Store%20like%20Amazon%20%7C%20Flipkart) | 
+[Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=en&src=mock-interviews/system-design/Design%20E-commerce%20Store%20like%20Amazon%20%7C%20Flipkart) | 
+[Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=en&src=mock-interviews/system-design/Design%20E-commerce%20Store%20like%20Amazon%20%7C%20Flipkart) | 
+[Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=en&src=mock-interviews/system-design/Design%20E-commerce%20Store%20like%20Amazon%20%7C%20Flipkart)
+
+Check my understanding:
+[Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=mock-interviews/system-design/Design%20E-commerce%20Store%20like%20Amazon%20%7C%20Flipkart) | 
+[Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=mock-interviews/system-design/Design%20E-commerce%20Store%20like%20Amazon%20%7C%20Flipkart) | 
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=mock-interviews/system-design/Design%20E-commerce%20Store%20like%20Amazon%20%7C%20Flipkart)
 <!-- LH-BUTTONS:END -->
 
 ## One-Page Executive Summary (2–3 min skim)

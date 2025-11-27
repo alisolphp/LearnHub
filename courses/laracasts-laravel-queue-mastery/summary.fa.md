@@ -13,7 +13,29 @@
 - برای اینکه در هر بخش عمیق‌تر بشوی، کافی است روی لینک‌های «Ask AI» کلیک کنی.
 
 <!-- LH-BUTTONS:START -->
-<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:HASH=b47981dc -->
+
+### AI-Powered buttons
+
+Start teaching this to a:
+[Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=fa&src=courses/laracasts-laravel-queue-mastery) | 
+[Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=fa&src=courses/laracasts-laravel-queue-mastery) | 
+[Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=fa&src=courses/laracasts-laravel-queue-mastery) | 
+[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer) 
+
+Learn via different lenses:
+[Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=fa&src=courses/laracasts-laravel-queue-mastery) | 
+[Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=fa&src=courses/laracasts-laravel-queue-mastery) | 
+[Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=fa&src=courses/laracasts-laravel-queue-mastery) | 
+[Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=fa&src=courses/laracasts-laravel-queue-mastery) | 
+[Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=fa&src=courses/laracasts-laravel-queue-mastery) | 
+[Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=fa&src=courses/laracasts-laravel-queue-mastery) | 
+[Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=fa&src=courses/laracasts-laravel-queue-mastery)
+
+Check my understanding:
+[Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=fa&src=courses/laracasts-laravel-queue-mastery) | 
+[Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=fa&src=courses/laracasts-laravel-queue-mastery) | 
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=courses/laracasts-laravel-queue-mastery)
 <!-- LH-BUTTONS:END -->
 
 ## صف‌ها در عمل (Dispatching and Running Jobs)

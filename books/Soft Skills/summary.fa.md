@@ -13,7 +13,29 @@
 * بعد از هر بخش روی لینک‌های `Ask AI` کلیک کن تا عمیق‌تر وارد جزئیات بشوی.
 
 <!-- LH-BUTTONS:START -->
-<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:HASH=b47981dc -->
+
+### AI-Powered buttons
+
+Start teaching this to a:
+[Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=fa&src=books/Soft%20Skills) | 
+[Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=fa&src=books/Soft%20Skills) | 
+[Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=fa&src=books/Soft%20Skills) | 
+[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer) 
+
+Learn via different lenses:
+[Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=fa&src=books/Soft%20Skills) | 
+[Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=fa&src=books/Soft%20Skills) | 
+[Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=fa&src=books/Soft%20Skills) | 
+[Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=fa&src=books/Soft%20Skills) | 
+[Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=fa&src=books/Soft%20Skills) | 
+[Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=fa&src=books/Soft%20Skills) | 
+[Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=fa&src=books/Soft%20Skills)
+
+Check my understanding:
+[Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=fa&src=books/Soft%20Skills) | 
+[Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=fa&src=books/Soft%20Skills) | 
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=books/Soft%20Skills)
 <!-- LH-BUTTONS:END -->
 
 ## مقدمه – چرا این کتاب نوشته شده است؟

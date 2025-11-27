@@ -15,7 +15,29 @@
 - Simply click on `Ask AI` links to dive into any topic you want.
 
 <!-- LH-BUTTONS:START -->
-<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:HASH=b47981dc -->
+
+### AI-Powered buttons
+
+Start teaching this to a:
+[Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=youtube-videos/Ruby%20For%20Beginners%20%7C%20Ruby%20Tutorial%20with%20Real%20Projects) | 
+[Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=youtube-videos/Ruby%20For%20Beginners%20%7C%20Ruby%20Tutorial%20with%20Real%20Projects) | 
+[Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=youtube-videos/Ruby%20For%20Beginners%20%7C%20Ruby%20Tutorial%20with%20Real%20Projects) | 
+[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer) 
+
+Learn via different lenses:
+[Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=youtube-videos/Ruby%20For%20Beginners%20%7C%20Ruby%20Tutorial%20with%20Real%20Projects) | 
+[Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=youtube-videos/Ruby%20For%20Beginners%20%7C%20Ruby%20Tutorial%20with%20Real%20Projects) | 
+[Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=youtube-videos/Ruby%20For%20Beginners%20%7C%20Ruby%20Tutorial%20with%20Real%20Projects) | 
+[Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=en&src=youtube-videos/Ruby%20For%20Beginners%20%7C%20Ruby%20Tutorial%20with%20Real%20Projects) | 
+[Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=en&src=youtube-videos/Ruby%20For%20Beginners%20%7C%20Ruby%20Tutorial%20with%20Real%20Projects) | 
+[Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=en&src=youtube-videos/Ruby%20For%20Beginners%20%7C%20Ruby%20Tutorial%20with%20Real%20Projects) | 
+[Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=en&src=youtube-videos/Ruby%20For%20Beginners%20%7C%20Ruby%20Tutorial%20with%20Real%20Projects)
+
+Check my understanding:
+[Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=youtube-videos/Ruby%20For%20Beginners%20%7C%20Ruby%20Tutorial%20with%20Real%20Projects) | 
+[Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=youtube-videos/Ruby%20For%20Beginners%20%7C%20Ruby%20Tutorial%20with%20Real%20Projects) | 
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/Ruby%20For%20Beginners%20%7C%20Ruby%20Tutorial%20with%20Real%20Projects)
 <!-- LH-BUTTONS:END -->
 
 ## Course Overview

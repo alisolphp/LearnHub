@@ -15,7 +15,29 @@
 - Simply click on `Ask AI` links to dive into any topic you want.
 
 <!-- LH-BUTTONS:START -->
-<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:HASH=b47981dc -->
+
+### AI-Powered buttons
+
+Start teaching this to a:
+[Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=youtube-videos/Nest.js%20Full%20Course%20for%20Beginners%20%7C%20Complete%20All-in-One%20Tutorial) | 
+[Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=youtube-videos/Nest.js%20Full%20Course%20for%20Beginners%20%7C%20Complete%20All-in-One%20Tutorial) | 
+[Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=youtube-videos/Nest.js%20Full%20Course%20for%20Beginners%20%7C%20Complete%20All-in-One%20Tutorial) | 
+[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer) 
+
+Learn via different lenses:
+[Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=youtube-videos/Nest.js%20Full%20Course%20for%20Beginners%20%7C%20Complete%20All-in-One%20Tutorial) | 
+[Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=youtube-videos/Nest.js%20Full%20Course%20for%20Beginners%20%7C%20Complete%20All-in-One%20Tutorial) | 
+[Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=youtube-videos/Nest.js%20Full%20Course%20for%20Beginners%20%7C%20Complete%20All-in-One%20Tutorial) | 
+[Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=en&src=youtube-videos/Nest.js%20Full%20Course%20for%20Beginners%20%7C%20Complete%20All-in-One%20Tutorial) | 
+[Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=en&src=youtube-videos/Nest.js%20Full%20Course%20for%20Beginners%20%7C%20Complete%20All-in-One%20Tutorial) | 
+[Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=en&src=youtube-videos/Nest.js%20Full%20Course%20for%20Beginners%20%7C%20Complete%20All-in-One%20Tutorial) | 
+[Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=en&src=youtube-videos/Nest.js%20Full%20Course%20for%20Beginners%20%7C%20Complete%20All-in-One%20Tutorial)
+
+Check my understanding:
+[Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=youtube-videos/Nest.js%20Full%20Course%20for%20Beginners%20%7C%20Complete%20All-in-One%20Tutorial) | 
+[Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=youtube-videos/Nest.js%20Full%20Course%20for%20Beginners%20%7C%20Complete%20All-in-One%20Tutorial) | 
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/Nest.js%20Full%20Course%20for%20Beginners%20%7C%20Complete%20All-in-One%20Tutorial)
 <!-- LH-BUTTONS:END -->
 
 ## What is NestJS and Why Use It?

@@ -15,7 +15,29 @@
 - Simply click on `Ask AI` links to dive into any topic you want.
 
 <!-- LH-BUTTONS:START -->
-<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:HASH=b47981dc -->
+
+### AI-Powered buttons
+
+Start teaching this to a:
+[Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=youtube-videos/Python%20Full%20Course%20for%20Beginners%20%5B2025%5D) | 
+[Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=youtube-videos/Python%20Full%20Course%20for%20Beginners%20%5B2025%5D) | 
+[Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=youtube-videos/Python%20Full%20Course%20for%20Beginners%20%5B2025%5D) | 
+[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer) 
+
+Learn via different lenses:
+[Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=youtube-videos/Python%20Full%20Course%20for%20Beginners%20%5B2025%5D) | 
+[Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=youtube-videos/Python%20Full%20Course%20for%20Beginners%20%5B2025%5D) | 
+[Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=youtube-videos/Python%20Full%20Course%20for%20Beginners%20%5B2025%5D) | 
+[Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=en&src=youtube-videos/Python%20Full%20Course%20for%20Beginners%20%5B2025%5D) | 
+[Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=en&src=youtube-videos/Python%20Full%20Course%20for%20Beginners%20%5B2025%5D) | 
+[Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=en&src=youtube-videos/Python%20Full%20Course%20for%20Beginners%20%5B2025%5D) | 
+[Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=en&src=youtube-videos/Python%20Full%20Course%20for%20Beginners%20%5B2025%5D)
+
+Check my understanding:
+[Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=youtube-videos/Python%20Full%20Course%20for%20Beginners%20%5B2025%5D) | 
+[Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=youtube-videos/Python%20Full%20Course%20for%20Beginners%20%5B2025%5D) | 
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/Python%20Full%20Course%20for%20Beginners%20%5B2025%5D)
 <!-- LH-BUTTONS:END -->
 
 ## Course Introduction and Python Overview

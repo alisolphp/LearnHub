@@ -15,7 +15,7 @@
 - Simply click on `Ask AI` links to dive into any topic you want.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=005796ea -->
+<!-- LH-BUTTONS:HASH=b47981dc -->
 
 ### AI-Powered buttons
 
@@ -23,7 +23,7 @@ Start teaching this to a:
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=youtube-videos/WordPress%20Tutorial%20for%20Beginners%202025%20-%20Step%20by%20Step) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=youtube-videos/WordPress%20Tutorial%20for%20Beginners%202025%20-%20Step%20by%20Step) | 
 [Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=youtube-videos/WordPress%20Tutorial%20for%20Beginners%202025%20-%20Step%20by%20Step) | 
-[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer)
+[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer) 
 
 Learn via different lenses:
 [Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=youtube-videos/WordPress%20Tutorial%20for%20Beginners%202025%20-%20Step%20by%20Step) | 

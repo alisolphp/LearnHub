@@ -15,7 +15,7 @@
 - Simply click on `Ask AI` links to dive into any topic you want.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=005796ea -->
+<!-- LH-BUTTONS:HASH=b47981dc -->
 
 ### AI-Powered buttons
 
@@ -23,7 +23,7 @@ Start teaching this to a:
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=youtube-videos/Subarray%20Sum%20Equals%20K%20-%20Prefix%20Sums%20-%20Leetcode%20560) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=youtube-videos/Subarray%20Sum%20Equals%20K%20-%20Prefix%20Sums%20-%20Leetcode%20560) | 
 [Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=youtube-videos/Subarray%20Sum%20Equals%20K%20-%20Prefix%20Sums%20-%20Leetcode%20560) | 
-[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer)
+[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer) 
 
 Learn via different lenses:
 [Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=youtube-videos/Subarray%20Sum%20Equals%20K%20-%20Prefix%20Sums%20-%20Leetcode%20560) | 

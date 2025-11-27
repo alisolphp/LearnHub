@@ -12,7 +12,29 @@
 * بعد از هر بخش، می‌توانید روی لینک `Ask AI` کلیک کنید و در مورد همان بخش سؤالات عمیق‌تری بپرسید.
 
 <!-- LH-BUTTONS:START -->
-<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:HASH=b47981dc -->
+
+### AI-Powered buttons
+
+Start teaching this to a:
+[Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=fa&src=books/Fundamentals%20of%20Data%20Engineering) | 
+[Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=fa&src=books/Fundamentals%20of%20Data%20Engineering) | 
+[Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=fa&src=books/Fundamentals%20of%20Data%20Engineering) | 
+[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer) 
+
+Learn via different lenses:
+[Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=fa&src=books/Fundamentals%20of%20Data%20Engineering) | 
+[Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=fa&src=books/Fundamentals%20of%20Data%20Engineering) | 
+[Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=fa&src=books/Fundamentals%20of%20Data%20Engineering) | 
+[Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=fa&src=books/Fundamentals%20of%20Data%20Engineering) | 
+[Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=fa&src=books/Fundamentals%20of%20Data%20Engineering) | 
+[Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=fa&src=books/Fundamentals%20of%20Data%20Engineering) | 
+[Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=fa&src=books/Fundamentals%20of%20Data%20Engineering)
+
+Check my understanding:
+[Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=fa&src=books/Fundamentals%20of%20Data%20Engineering) | 
+[Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=fa&src=books/Fundamentals%20of%20Data%20Engineering) | 
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=books/Fundamentals%20of%20Data%20Engineering)
 <!-- LH-BUTTONS:END -->
 
 ## پارت ۱: Foundation and Building Blocks - Chapter 1: Data Engineering Described

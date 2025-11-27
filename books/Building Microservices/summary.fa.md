@@ -12,7 +12,29 @@
 - بعد از هر بخش، می‌توانی روی لینک‌های `Ask AI` کلیک کنی و در مورد همان بخش سؤال‌های عمیق‌تر بپرسی.
 
 <!-- LH-BUTTONS:START -->
-<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:HASH=b47981dc -->
+
+### AI-Powered buttons
+
+Start teaching this to a:
+[Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=fa&src=books/Building%20Microservices) | 
+[Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=fa&src=books/Building%20Microservices) | 
+[Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=fa&src=books/Building%20Microservices) | 
+[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer) 
+
+Learn via different lenses:
+[Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=fa&src=books/Building%20Microservices) | 
+[Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=fa&src=books/Building%20Microservices) | 
+[Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=fa&src=books/Building%20Microservices) | 
+[Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=fa&src=books/Building%20Microservices) | 
+[Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=fa&src=books/Building%20Microservices) | 
+[Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=fa&src=books/Building%20Microservices) | 
+[Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=fa&src=books/Building%20Microservices)
+
+Check my understanding:
+[Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=fa&src=books/Building%20Microservices) | 
+[Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=fa&src=books/Building%20Microservices) | 
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=books/Building%20Microservices)
 <!-- LH-BUTTONS:END -->
 
 ---

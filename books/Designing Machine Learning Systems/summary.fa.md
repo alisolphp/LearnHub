@@ -11,7 +11,29 @@
 * فقط کافی است روی لینک‌های `Ask AI` بعد از هر بخش کلیک کنید تا عمیق‌تر وارد جزئیات شوید.
 
 <!-- LH-BUTTONS:START -->
-<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:HASH=b47981dc -->
+
+### AI-Powered buttons
+
+Start teaching this to a:
+[Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=fa&src=books/Designing%20Machine%20Learning%20Systems) | 
+[Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=fa&src=books/Designing%20Machine%20Learning%20Systems) | 
+[Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=fa&src=books/Designing%20Machine%20Learning%20Systems) | 
+[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer) 
+
+Learn via different lenses:
+[Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=fa&src=books/Designing%20Machine%20Learning%20Systems) | 
+[Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=fa&src=books/Designing%20Machine%20Learning%20Systems) | 
+[Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=fa&src=books/Designing%20Machine%20Learning%20Systems) | 
+[Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=fa&src=books/Designing%20Machine%20Learning%20Systems) | 
+[Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=fa&src=books/Designing%20Machine%20Learning%20Systems) | 
+[Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=fa&src=books/Designing%20Machine%20Learning%20Systems) | 
+[Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=fa&src=books/Designing%20Machine%20Learning%20Systems)
+
+Check my understanding:
+[Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=fa&src=books/Designing%20Machine%20Learning%20Systems) | 
+[Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=fa&src=books/Designing%20Machine%20Learning%20Systems) | 
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=books/Designing%20Machine%20Learning%20Systems)
 <!-- LH-BUTTONS:END -->
 
 ## ؜Overview of Machine Learning Systems

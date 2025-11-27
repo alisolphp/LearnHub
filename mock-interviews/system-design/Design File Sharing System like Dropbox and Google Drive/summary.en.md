@@ -8,7 +8,29 @@
 ---
 
 <!-- LH-BUTTONS:START -->
-<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:HASH=b47981dc -->
+
+### AI-Powered buttons
+
+Start teaching this to a:
+[Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=mock-interviews/system-design/Design%20File%20Sharing%20System%20like%20Dropbox%20and%20Google%20Drive) | 
+[Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=mock-interviews/system-design/Design%20File%20Sharing%20System%20like%20Dropbox%20and%20Google%20Drive) | 
+[Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=mock-interviews/system-design/Design%20File%20Sharing%20System%20like%20Dropbox%20and%20Google%20Drive) | 
+[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer) 
+
+Learn via different lenses:
+[Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=mock-interviews/system-design/Design%20File%20Sharing%20System%20like%20Dropbox%20and%20Google%20Drive) | 
+[Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=mock-interviews/system-design/Design%20File%20Sharing%20System%20like%20Dropbox%20and%20Google%20Drive) | 
+[Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=mock-interviews/system-design/Design%20File%20Sharing%20System%20like%20Dropbox%20and%20Google%20Drive) | 
+[Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=en&src=mock-interviews/system-design/Design%20File%20Sharing%20System%20like%20Dropbox%20and%20Google%20Drive) | 
+[Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=en&src=mock-interviews/system-design/Design%20File%20Sharing%20System%20like%20Dropbox%20and%20Google%20Drive) | 
+[Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=en&src=mock-interviews/system-design/Design%20File%20Sharing%20System%20like%20Dropbox%20and%20Google%20Drive) | 
+[Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=en&src=mock-interviews/system-design/Design%20File%20Sharing%20System%20like%20Dropbox%20and%20Google%20Drive)
+
+Check my understanding:
+[Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=mock-interviews/system-design/Design%20File%20Sharing%20System%20like%20Dropbox%20and%20Google%20Drive) | 
+[Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=mock-interviews/system-design/Design%20File%20Sharing%20System%20like%20Dropbox%20and%20Google%20Drive) | 
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=mock-interviews/system-design/Design%20File%20Sharing%20System%20like%20Dropbox%20and%20Google%20Drive)
 <!-- LH-BUTTONS:END -->
 
 ## 1) One-Page Executive Summary (2–3 min skim)

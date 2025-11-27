@@ -15,7 +15,29 @@
 - فقط کافی است روی لینک‌های `Ask AI` کلیک کنی تا روی هر موضوعی که خواستی، عمیق‌تر گفتگو کنی.
 
 <!-- LH-BUTTONS:START -->
-<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:HASH=b47981dc -->
+
+### AI-Powered buttons
+
+Start teaching this to a:
+[Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=fa&src=courses/udemy-k6-automate-performance-load-testing-of-api-microservices) | 
+[Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=fa&src=courses/udemy-k6-automate-performance-load-testing-of-api-microservices) | 
+[Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=fa&src=courses/udemy-k6-automate-performance-load-testing-of-api-microservices) | 
+[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer) 
+
+Learn via different lenses:
+[Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=fa&src=courses/udemy-k6-automate-performance-load-testing-of-api-microservices) | 
+[Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=fa&src=courses/udemy-k6-automate-performance-load-testing-of-api-microservices) | 
+[Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=fa&src=courses/udemy-k6-automate-performance-load-testing-of-api-microservices) | 
+[Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=fa&src=courses/udemy-k6-automate-performance-load-testing-of-api-microservices) | 
+[Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=fa&src=courses/udemy-k6-automate-performance-load-testing-of-api-microservices) | 
+[Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=fa&src=courses/udemy-k6-automate-performance-load-testing-of-api-microservices) | 
+[Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=fa&src=courses/udemy-k6-automate-performance-load-testing-of-api-microservices)
+
+Check my understanding:
+[Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=fa&src=courses/udemy-k6-automate-performance-load-testing-of-api-microservices) | 
+[Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=fa&src=courses/udemy-k6-automate-performance-load-testing-of-api-microservices) | 
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=courses/udemy-k6-automate-performance-load-testing-of-api-microservices)
 <!-- LH-BUTTONS:END -->
 
 ## [موضوع ۱: Introduction to K6]

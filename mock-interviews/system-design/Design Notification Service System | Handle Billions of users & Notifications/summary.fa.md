@@ -10,7 +10,29 @@
 ---
 
 <!-- LH-BUTTONS:START -->
-<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:HASH=b47981dc -->
+
+### AI-Powered buttons
+
+Start teaching this to a:
+[Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=fa&src=mock-interviews/system-design/Design%20Notification%20Service%20System%20%7C%20Handle%20Billions%20of%20users%20%26%20Notifications) | 
+[Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=fa&src=mock-interviews/system-design/Design%20Notification%20Service%20System%20%7C%20Handle%20Billions%20of%20users%20%26%20Notifications) | 
+[Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=fa&src=mock-interviews/system-design/Design%20Notification%20Service%20System%20%7C%20Handle%20Billions%20of%20users%20%26%20Notifications) | 
+[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer) 
+
+Learn via different lenses:
+[Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=fa&src=mock-interviews/system-design/Design%20Notification%20Service%20System%20%7C%20Handle%20Billions%20of%20users%20%26%20Notifications) | 
+[Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=fa&src=mock-interviews/system-design/Design%20Notification%20Service%20System%20%7C%20Handle%20Billions%20of%20users%20%26%20Notifications) | 
+[Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=fa&src=mock-interviews/system-design/Design%20Notification%20Service%20System%20%7C%20Handle%20Billions%20of%20users%20%26%20Notifications) | 
+[Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=fa&src=mock-interviews/system-design/Design%20Notification%20Service%20System%20%7C%20Handle%20Billions%20of%20users%20%26%20Notifications) | 
+[Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=fa&src=mock-interviews/system-design/Design%20Notification%20Service%20System%20%7C%20Handle%20Billions%20of%20users%20%26%20Notifications) | 
+[Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=fa&src=mock-interviews/system-design/Design%20Notification%20Service%20System%20%7C%20Handle%20Billions%20of%20users%20%26%20Notifications) | 
+[Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=fa&src=mock-interviews/system-design/Design%20Notification%20Service%20System%20%7C%20Handle%20Billions%20of%20users%20%26%20Notifications)
+
+Check my understanding:
+[Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=fa&src=mock-interviews/system-design/Design%20Notification%20Service%20System%20%7C%20Handle%20Billions%20of%20users%20%26%20Notifications) | 
+[Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=fa&src=mock-interviews/system-design/Design%20Notification%20Service%20System%20%7C%20Handle%20Billions%20of%20users%20%26%20Notifications) | 
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=mock-interviews/system-design/Design%20Notification%20Service%20System%20%7C%20Handle%20Billions%20of%20users%20%26%20Notifications)
 <!-- LH-BUTTONS:END -->
 
 ## ؜۱) خلاصه‌ی یک‌صفحه‌ای (۲–۳ دقیقه)

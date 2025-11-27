@@ -15,7 +15,29 @@
 - Simply click on `Ask AI` links to dive into any topic you want.
 
 <!-- LH-BUTTONS:START -->
-<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:HASH=b47981dc -->
+
+### AI-Powered buttons
+
+Start teaching this to a:
+[Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=youtube-videos/ArgoCD%20%2B%20Kubernetes%3A%20Learn%20GitOps%20(Github%2C%20Helm%2C%20Kustomize)) | 
+[Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=youtube-videos/ArgoCD%20%2B%20Kubernetes%3A%20Learn%20GitOps%20(Github%2C%20Helm%2C%20Kustomize)) | 
+[Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=youtube-videos/ArgoCD%20%2B%20Kubernetes%3A%20Learn%20GitOps%20(Github%2C%20Helm%2C%20Kustomize)) | 
+[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer) 
+
+Learn via different lenses:
+[Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=youtube-videos/ArgoCD%20%2B%20Kubernetes%3A%20Learn%20GitOps%20(Github%2C%20Helm%2C%20Kustomize)) | 
+[Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=youtube-videos/ArgoCD%20%2B%20Kubernetes%3A%20Learn%20GitOps%20(Github%2C%20Helm%2C%20Kustomize)) | 
+[Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=youtube-videos/ArgoCD%20%2B%20Kubernetes%3A%20Learn%20GitOps%20(Github%2C%20Helm%2C%20Kustomize)) | 
+[Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=en&src=youtube-videos/ArgoCD%20%2B%20Kubernetes%3A%20Learn%20GitOps%20(Github%2C%20Helm%2C%20Kustomize)) | 
+[Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=en&src=youtube-videos/ArgoCD%20%2B%20Kubernetes%3A%20Learn%20GitOps%20(Github%2C%20Helm%2C%20Kustomize)) | 
+[Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=en&src=youtube-videos/ArgoCD%20%2B%20Kubernetes%3A%20Learn%20GitOps%20(Github%2C%20Helm%2C%20Kustomize)) | 
+[Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=en&src=youtube-videos/ArgoCD%20%2B%20Kubernetes%3A%20Learn%20GitOps%20(Github%2C%20Helm%2C%20Kustomize))
+
+Check my understanding:
+[Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=youtube-videos/ArgoCD%20%2B%20Kubernetes%3A%20Learn%20GitOps%20(Github%2C%20Helm%2C%20Kustomize)) | 
+[Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=youtube-videos/ArgoCD%20%2B%20Kubernetes%3A%20Learn%20GitOps%20(Github%2C%20Helm%2C%20Kustomize)) | 
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/ArgoCD%20%2B%20Kubernetes%3A%20Learn%20GitOps%20(Github%2C%20Helm%2C%20Kustomize))
 <!-- LH-BUTTONS:END -->
 
 ## Introduction to GitOps with ArgoCD

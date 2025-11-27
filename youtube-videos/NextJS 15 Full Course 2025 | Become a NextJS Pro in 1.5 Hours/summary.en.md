@@ -9,7 +9,29 @@
 > **Disclaimer**: This is a personal summary and interpretation based on a YouTube video. It is not official material and not endorsed by the original creator. All rights remain with the respective creators.
 
 <!-- LH-BUTTONS:START -->
-<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:HASH=b47981dc -->
+
+### AI-Powered buttons
+
+Start teaching this to a:
+[Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=youtube-videos/NextJS%2015%20Full%20Course%202025%20%7C%20Become%20a%20NextJS%20Pro%20in%201.5%20Hours) | 
+[Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=youtube-videos/NextJS%2015%20Full%20Course%202025%20%7C%20Become%20a%20NextJS%20Pro%20in%201.5%20Hours) | 
+[Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=youtube-videos/NextJS%2015%20Full%20Course%202025%20%7C%20Become%20a%20NextJS%20Pro%20in%201.5%20Hours) | 
+[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer) 
+
+Learn via different lenses:
+[Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=youtube-videos/NextJS%2015%20Full%20Course%202025%20%7C%20Become%20a%20NextJS%20Pro%20in%201.5%20Hours) | 
+[Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=youtube-videos/NextJS%2015%20Full%20Course%202025%20%7C%20Become%20a%20NextJS%20Pro%20in%201.5%20Hours) | 
+[Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=youtube-videos/NextJS%2015%20Full%20Course%202025%20%7C%20Become%20a%20NextJS%20Pro%20in%201.5%20Hours) | 
+[Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=en&src=youtube-videos/NextJS%2015%20Full%20Course%202025%20%7C%20Become%20a%20NextJS%20Pro%20in%201.5%20Hours) | 
+[Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=en&src=youtube-videos/NextJS%2015%20Full%20Course%202025%20%7C%20Become%20a%20NextJS%20Pro%20in%201.5%20Hours) | 
+[Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=en&src=youtube-videos/NextJS%2015%20Full%20Course%202025%20%7C%20Become%20a%20NextJS%20Pro%20in%201.5%20Hours) | 
+[Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=en&src=youtube-videos/NextJS%2015%20Full%20Course%202025%20%7C%20Become%20a%20NextJS%20Pro%20in%201.5%20Hours)
+
+Check my understanding:
+[Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=youtube-videos/NextJS%2015%20Full%20Course%202025%20%7C%20Become%20a%20NextJS%20Pro%20in%201.5%20Hours) | 
+[Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=youtube-videos/NextJS%2015%20Full%20Course%202025%20%7C%20Become%20a%20NextJS%20Pro%20in%201.5%20Hours) | 
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/NextJS%2015%20Full%20Course%202025%20%7C%20Become%20a%20NextJS%20Pro%20in%201.5%20Hours)
 <!-- LH-BUTTONS:END -->
 
 *This document summarizes the key takeaways from the video. I highly recommend watching the full video for visual context and coding demonstrations.*

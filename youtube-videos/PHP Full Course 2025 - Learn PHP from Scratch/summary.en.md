@@ -15,7 +15,29 @@
 - Simply click on `Ask AI` links to dive into any topic you want.
 
 <!-- LH-BUTTONS:START -->
-<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:HASH=b47981dc -->
+
+### AI-Powered buttons
+
+Start teaching this to a:
+[Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=youtube-videos/PHP%20Full%20Course%202025%20-%20Learn%20PHP%20from%20Scratch) | 
+[Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=youtube-videos/PHP%20Full%20Course%202025%20-%20Learn%20PHP%20from%20Scratch) | 
+[Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=youtube-videos/PHP%20Full%20Course%202025%20-%20Learn%20PHP%20from%20Scratch) | 
+[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer) 
+
+Learn via different lenses:
+[Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=youtube-videos/PHP%20Full%20Course%202025%20-%20Learn%20PHP%20from%20Scratch) | 
+[Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=youtube-videos/PHP%20Full%20Course%202025%20-%20Learn%20PHP%20from%20Scratch) | 
+[Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=youtube-videos/PHP%20Full%20Course%202025%20-%20Learn%20PHP%20from%20Scratch) | 
+[Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=en&src=youtube-videos/PHP%20Full%20Course%202025%20-%20Learn%20PHP%20from%20Scratch) | 
+[Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=en&src=youtube-videos/PHP%20Full%20Course%202025%20-%20Learn%20PHP%20from%20Scratch) | 
+[Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=en&src=youtube-videos/PHP%20Full%20Course%202025%20-%20Learn%20PHP%20from%20Scratch) | 
+[Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=en&src=youtube-videos/PHP%20Full%20Course%202025%20-%20Learn%20PHP%20from%20Scratch)
+
+Check my understanding:
+[Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=youtube-videos/PHP%20Full%20Course%202025%20-%20Learn%20PHP%20from%20Scratch) | 
+[Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=youtube-videos/PHP%20Full%20Course%202025%20-%20Learn%20PHP%20from%20Scratch) | 
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/PHP%20Full%20Course%202025%20-%20Learn%20PHP%20from%20Scratch)
 <!-- LH-BUTTONS:END -->
 
 ## Course Introduction and Target Audience

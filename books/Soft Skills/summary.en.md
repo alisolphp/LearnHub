@@ -13,7 +13,29 @@ I highly recommend reading the original book for the full depth and author's per
 * Simply click on `Ask AI` links after each section to dive deeper.
 
 <!-- LH-BUTTONS:START -->
-<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:HASH=b47981dc -->
+
+### AI-Powered buttons
+
+Start teaching this to a:
+[Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=books/Soft%20Skills) | 
+[Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=books/Soft%20Skills) | 
+[Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=books/Soft%20Skills) | 
+[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer) 
+
+Learn via different lenses:
+[Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=books/Soft%20Skills) | 
+[Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=books/Soft%20Skills) | 
+[Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=books/Soft%20Skills) | 
+[Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=en&src=books/Soft%20Skills) | 
+[Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=en&src=books/Soft%20Skills) | 
+[Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=en&src=books/Soft%20Skills) | 
+[Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=en&src=books/Soft%20Skills)
+
+Check my understanding:
+[Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=books/Soft%20Skills) | 
+[Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=books/Soft%20Skills) | 
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=books/Soft%20Skills)
 <!-- LH-BUTTONS:END -->
 
 ## Introduction – Why this book exists

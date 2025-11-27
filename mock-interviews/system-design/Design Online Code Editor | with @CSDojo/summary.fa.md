@@ -11,7 +11,29 @@
 ---
 
 <!-- LH-BUTTONS:START -->
-<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:HASH=b47981dc -->
+
+### AI-Powered buttons
+
+Start teaching this to a:
+[Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=fa&src=mock-interviews/system-design/Design%20Online%20Code%20Editor%20%7C%20with%20%40CSDojo) | 
+[Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=fa&src=mock-interviews/system-design/Design%20Online%20Code%20Editor%20%7C%20with%20%40CSDojo) | 
+[Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=fa&src=mock-interviews/system-design/Design%20Online%20Code%20Editor%20%7C%20with%20%40CSDojo) | 
+[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer) 
+
+Learn via different lenses:
+[Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=fa&src=mock-interviews/system-design/Design%20Online%20Code%20Editor%20%7C%20with%20%40CSDojo) | 
+[Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=fa&src=mock-interviews/system-design/Design%20Online%20Code%20Editor%20%7C%20with%20%40CSDojo) | 
+[Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=fa&src=mock-interviews/system-design/Design%20Online%20Code%20Editor%20%7C%20with%20%40CSDojo) | 
+[Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=fa&src=mock-interviews/system-design/Design%20Online%20Code%20Editor%20%7C%20with%20%40CSDojo) | 
+[Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=fa&src=mock-interviews/system-design/Design%20Online%20Code%20Editor%20%7C%20with%20%40CSDojo) | 
+[Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=fa&src=mock-interviews/system-design/Design%20Online%20Code%20Editor%20%7C%20with%20%40CSDojo) | 
+[Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=fa&src=mock-interviews/system-design/Design%20Online%20Code%20Editor%20%7C%20with%20%40CSDojo)
+
+Check my understanding:
+[Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=fa&src=mock-interviews/system-design/Design%20Online%20Code%20Editor%20%7C%20with%20%40CSDojo) | 
+[Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=fa&src=mock-interviews/system-design/Design%20Online%20Code%20Editor%20%7C%20with%20%40CSDojo) | 
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=mock-interviews/system-design/Design%20Online%20Code%20Editor%20%7C%20with%20%40CSDojo)
 <!-- LH-BUTTONS:END -->
 
 ## ؜۲) خلاصه یک‌صفحه‌ای (برای مرور ۲–۳ دقیقه‌ای)

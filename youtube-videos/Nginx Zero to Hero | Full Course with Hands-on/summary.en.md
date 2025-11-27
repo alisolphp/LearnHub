@@ -15,7 +15,29 @@
 - Simply click on `Ask AI` links to dive into any topic you want.
 
 <!-- LH-BUTTONS:START -->
-<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:HASH=b47981dc -->
+
+### AI-Powered buttons
+
+Start teaching this to a:
+[Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=youtube-videos/Nginx%20Zero%20to%20Hero%20%7C%20Full%20Course%20with%20Hands-on) | 
+[Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=youtube-videos/Nginx%20Zero%20to%20Hero%20%7C%20Full%20Course%20with%20Hands-on) | 
+[Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=youtube-videos/Nginx%20Zero%20to%20Hero%20%7C%20Full%20Course%20with%20Hands-on) | 
+[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer) 
+
+Learn via different lenses:
+[Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=youtube-videos/Nginx%20Zero%20to%20Hero%20%7C%20Full%20Course%20with%20Hands-on) | 
+[Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=youtube-videos/Nginx%20Zero%20to%20Hero%20%7C%20Full%20Course%20with%20Hands-on) | 
+[Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=youtube-videos/Nginx%20Zero%20to%20Hero%20%7C%20Full%20Course%20with%20Hands-on) | 
+[Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=en&src=youtube-videos/Nginx%20Zero%20to%20Hero%20%7C%20Full%20Course%20with%20Hands-on) | 
+[Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=en&src=youtube-videos/Nginx%20Zero%20to%20Hero%20%7C%20Full%20Course%20with%20Hands-on) | 
+[Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=en&src=youtube-videos/Nginx%20Zero%20to%20Hero%20%7C%20Full%20Course%20with%20Hands-on) | 
+[Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=en&src=youtube-videos/Nginx%20Zero%20to%20Hero%20%7C%20Full%20Course%20with%20Hands-on)
+
+Check my understanding:
+[Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=youtube-videos/Nginx%20Zero%20to%20Hero%20%7C%20Full%20Course%20with%20Hands-on) | 
+[Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=youtube-videos/Nginx%20Zero%20to%20Hero%20%7C%20Full%20Course%20with%20Hands-on) | 
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/Nginx%20Zero%20to%20Hero%20%7C%20Full%20Course%20with%20Hands-on)
 <!-- LH-BUTTONS:END -->
 
 ## Fundamentals of Nginx

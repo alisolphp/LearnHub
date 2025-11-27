@@ -15,7 +15,29 @@
 - Simply click on `Ask AI` links to dive into any topic you want.
 
 <!-- LH-BUTTONS:START -->
-<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:HASH=b47981dc -->
+
+### AI-Powered buttons
+
+Start teaching this to a:
+[Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=youtube-videos/ClickHouse%20for%20AI%20ML%3A%20An%20Overview%20(Open%20House)) | 
+[Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=youtube-videos/ClickHouse%20for%20AI%20ML%3A%20An%20Overview%20(Open%20House)) | 
+[Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=youtube-videos/ClickHouse%20for%20AI%20ML%3A%20An%20Overview%20(Open%20House)) | 
+[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer) 
+
+Learn via different lenses:
+[Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=youtube-videos/ClickHouse%20for%20AI%20ML%3A%20An%20Overview%20(Open%20House)) | 
+[Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=youtube-videos/ClickHouse%20for%20AI%20ML%3A%20An%20Overview%20(Open%20House)) | 
+[Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=youtube-videos/ClickHouse%20for%20AI%20ML%3A%20An%20Overview%20(Open%20House)) | 
+[Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=en&src=youtube-videos/ClickHouse%20for%20AI%20ML%3A%20An%20Overview%20(Open%20House)) | 
+[Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=en&src=youtube-videos/ClickHouse%20for%20AI%20ML%3A%20An%20Overview%20(Open%20House)) | 
+[Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=en&src=youtube-videos/ClickHouse%20for%20AI%20ML%3A%20An%20Overview%20(Open%20House)) | 
+[Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=en&src=youtube-videos/ClickHouse%20for%20AI%20ML%3A%20An%20Overview%20(Open%20House))
+
+Check my understanding:
+[Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=youtube-videos/ClickHouse%20for%20AI%20ML%3A%20An%20Overview%20(Open%20House)) | 
+[Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=youtube-videos/ClickHouse%20for%20AI%20ML%3A%20An%20Overview%20(Open%20House)) | 
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/ClickHouse%20for%20AI%20ML%3A%20An%20Overview%20(Open%20House))
 <!-- LH-BUTTONS:END -->
 
 ## Introduction to AI Creativity and Data's Role

@@ -9,7 +9,29 @@
 > **Disclaimer**: This is a personal summary and interpretation based on a YouTube video. It is not official material and not endorsed by the original creator. All rights remain with the respective creators.
 
 <!-- LH-BUTTONS:START -->
-<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:HASH=b47981dc -->
+
+### AI-Powered buttons
+
+Start teaching this to a:
+[Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=youtube-videos/API%20security%20OWASP%20top%2010%20%3A%20TryHackMe) | 
+[Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=youtube-videos/API%20security%20OWASP%20top%2010%20%3A%20TryHackMe) | 
+[Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=youtube-videos/API%20security%20OWASP%20top%2010%20%3A%20TryHackMe) | 
+[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer) 
+
+Learn via different lenses:
+[Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=youtube-videos/API%20security%20OWASP%20top%2010%20%3A%20TryHackMe) | 
+[Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=youtube-videos/API%20security%20OWASP%20top%2010%20%3A%20TryHackMe) | 
+[Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=youtube-videos/API%20security%20OWASP%20top%2010%20%3A%20TryHackMe) | 
+[Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=en&src=youtube-videos/API%20security%20OWASP%20top%2010%20%3A%20TryHackMe) | 
+[Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=en&src=youtube-videos/API%20security%20OWASP%20top%2010%20%3A%20TryHackMe) | 
+[Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=en&src=youtube-videos/API%20security%20OWASP%20top%2010%20%3A%20TryHackMe) | 
+[Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=en&src=youtube-videos/API%20security%20OWASP%20top%2010%20%3A%20TryHackMe)
+
+Check my understanding:
+[Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=youtube-videos/API%20security%20OWASP%20top%2010%20%3A%20TryHackMe) | 
+[Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=youtube-videos/API%20security%20OWASP%20top%2010%20%3A%20TryHackMe) | 
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/API%20security%20OWASP%20top%2010%20%3A%20TryHackMe)
 <!-- LH-BUTTONS:END -->
 
 *This document summarizes the key takeaways from the video. I highly recommend watching the full video for visual context and coding demonstrations.*
