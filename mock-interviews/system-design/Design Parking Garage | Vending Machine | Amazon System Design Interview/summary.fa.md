@@ -4,6 +4,10 @@
 
 ---
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## ؜خلاصهٔ یک‌صفحه‌ای (۲–۳ دقیقه)
 
 - ؜**صورت مسئله (یک‌خطی)**: طراحی سیستم **reservation** و **payment** برای یک پارکینگ با نوع جایگاه‌ها (compact، regular، large)، نرخ ثابت بر اساس اندازهٔ خودرو، و امکان **reserve / pay / cancel**.
