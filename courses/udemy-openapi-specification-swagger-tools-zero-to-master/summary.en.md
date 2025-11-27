@@ -12,6 +12,10 @@
 - I summarize key points from useful courses to learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Topic 1: Introduction to OpenAPI
 
 * **Summary**: This section kicks off by explaining what OpenAPI is—a standard for describing APIs, especially RESTful ones. It covers the problems it solves, like unclear documentation and the need for collaboration between API producers and consumers. You'll learn why describing APIs properly helps avoid questions about request formats, responses, and security.
