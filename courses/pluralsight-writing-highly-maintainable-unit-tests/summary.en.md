@@ -13,6 +13,10 @@
 - I summarize key points from useful courses to learn and review quickly.  
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## 1. Why Unit Tests Become Unmaintainable and What We Can Do About It
 
 **Summary**: Zoran kicks off by sharing his 15+ years of pain with huge, fragile test suites. The core promise of the course is to show you how to write tests that don’t break every time you refactor production code, how to eliminate almost all duplication in tests, and how to build reusable testing utilities that last for years.
