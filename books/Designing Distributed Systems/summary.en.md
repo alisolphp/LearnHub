@@ -11,6 +11,10 @@ I highly recommend reading the original book for the full depth and author's per
 * I summarize key points from useful books to learn and review quickly.
 * Simply click on `Ask AI` links after each section to dive deeper.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## 1. Introduction
 
 **Summary**: Brendan Burns kicks things off by explaining how distributed systems have become essential in today's tech world, where apps need to be always-on and scalable. He traces the evolution from single-machine programs to complex networks of services, highlighting how containers and orchestrators like Kubernetes are game-changers. The book aims to provide reusable patterns to make building these systems easier, drawing parallels to how design patterns revolutionized object-oriented programming. It's all about standing on the shoulders of others, sharing a common language, and reusing components to avoid reinventing the wheel every time.
