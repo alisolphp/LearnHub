@@ -13,6 +13,10 @@
 - I summarize key points from useful courses to learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Topic 1: Introduction and Course Structure
 
 * **Summary**: The course kicks off with an overview of the main concepts you'll dive into, like building microservices with Spring Boot, applying Clean and Hexagonal Architectures for better maintainability, and using Domain-Driven Design (DDD) principles. It also covers patterns such as SAGA for distributed transactions, Outbox for reliable messaging, CQRS for separating reads and writes, and Kafka as the event bus. You'll wrap up by deploying everything to Kubernetes and Google Kubernetes Engine (GKE).
