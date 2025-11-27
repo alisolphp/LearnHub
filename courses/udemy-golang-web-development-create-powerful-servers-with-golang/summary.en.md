@@ -13,6 +13,10 @@
 - I summarize key points from useful courses to learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## 1. Course Introduction & Why Go for Web Development
 
 Rajan kicks off the course by explaining why big companies are moving to Go: it’s fast, memory-efficient, and perfect for building scalable backend services. He gives a high-level roadmap: start with a bare-bones Go server, add Gin for nicer routing, use Docker + PostgreSQL, build full CRUD APIs, add Google OAuth + JWT auth, and finally deploy everything to AWS with CI/CD in mind.
