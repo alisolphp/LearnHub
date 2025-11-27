@@ -7,6 +7,10 @@
 
 ---
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## 1) One-Page Executive Summary (2–3 min skim)
 
 **Problem Prompt (one-liner).** Design a file syncing/sharing system like Dropbox, iCloud, or Google Drive: upload/download files, sync across devices, and notify clients of changes.   
