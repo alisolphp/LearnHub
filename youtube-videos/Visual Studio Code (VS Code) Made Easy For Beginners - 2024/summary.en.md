@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Downloading and Installing VS Code
 VS Code is a lightweight code editor perfect for beginners due to its small size and low system requirements. Head to code.visualstudio.com, select your OS (like Windows), and download the installer. Run through the setup, accepting terms, and it installs quickly. Once open, you'll see the welcome screen with options like walkthroughs.
 
