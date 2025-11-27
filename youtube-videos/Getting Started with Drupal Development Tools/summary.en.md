@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Introduction to Drupal Development Tools
 * **Summary**: The video introduces four essential tools for Drupal development and site building: Devel (for debugging and content generation), Web Profiler (for performance profiling), Module Builder (for generating module code), and Drush (a CLI tool for site management). These can be installed via Composer and are great for both developers and non-coders working with Drupal.
 * **Key Takeaway/Example**: Focus on quick setup—tools like these speed up workflows without needing complex environments like DDEV or Xdebug right away. For instance, install Devel with `composer require drupal/devel`.
