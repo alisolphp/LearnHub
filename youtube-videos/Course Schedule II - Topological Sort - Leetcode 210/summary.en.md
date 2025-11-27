@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Problem Overview
 We’re given `numCourses` (0 to n-1) and a list of prerequisite pairs `[course, prereq]` where you must take `prereq` before `course`.  
 The goal is to return any valid order to finish all courses. If a cycle exists (impossible to finish everything), return an empty array.
