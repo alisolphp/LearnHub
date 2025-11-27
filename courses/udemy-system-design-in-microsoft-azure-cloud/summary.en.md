@@ -12,6 +12,10 @@
 - I summarize key points from useful courses to learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Topic 1: Course Introduction
 
 * **Summary**: The instructor introduces himself as a senior IT consultant with over 15 years of experience, focusing on digital transformation. The course covers fundamentals of system design using Azure services for applications like Facebook, YouTube, and WhatsApp. It emphasizes that designs evolve with technology and encourages applying personal logic to enhance them. No actual deployments are done; it's about architectural choices.
