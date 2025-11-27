@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Introduction to Building a Popup Extension
 * **Summary**: The video covers building a popup extension for Magento 2, including frontend features like custom JavaScript, CSS, and templates, as well as backend elements such as UI components, grids, forms, database schema, models, and API interfaces. It emphasizes CRUD operations, security, and cookie handling for business logic.
 * **Key Takeaway/Example**: Start by creating a new module directory like "majmastery/popup" and set up basic files like module.xml. Use declarative schema for database tables with fields like popup_id, name, content, created_at, updated_at, timeout, and is_active.
