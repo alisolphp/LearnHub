@@ -23,3 +23,26 @@ assignees: []
 
 Paste the full URL if you are comfortable (you can remove any private tokens):
 
+```
+https://...
+```
+
+---
+
+### What did you expect to happen?
+
+(What you thought the AI / button would do.)
+
+---
+
+### What actually happened?
+
+(Unexpected output, errors, empty response, wrong language, wrong topic, etc.)
+
+---
+
+### Extra info
+
+- Screenshots (optional)
+- Any error messages from the AI
+- Anything else that might help debug
