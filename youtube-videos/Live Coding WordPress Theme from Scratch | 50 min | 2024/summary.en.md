@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Introduction and Tools for Theme Development
 Robert introduces himself as a 13-year WordPress and WooCommerce developer, sharing his approach to building themes from scratch. He covers tools like Local for quick local WordPress setups, Visual Studio Code with GitHub Copilot for AI-assisted coding, and emphasizes structuring themes efficiently.
 * **Key Takeaway/Example**: Start with a fresh WordPress install in Local, create a theme folder in wp-content/themes, and use VS Code for editing.
