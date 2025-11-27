@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Problem Explanation
 The task is to find the k-th largest element in an unsorted array (1-indexed, in the sorted descending order). Duplicates are counted separately — it is NOT the k-th distinct element.
 
