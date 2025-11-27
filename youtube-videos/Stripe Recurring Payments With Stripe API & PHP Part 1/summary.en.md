@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## What This Series Will Cover
 The tutorial is a three-part series that goes beyond just creating a recurring subscription. You’ll build a complete mini SaaS flow:
 - Pricing page with multiple packages
