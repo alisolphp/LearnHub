@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Course Overview
 This is a full-stack style MongoDB course in Hindi that goes from absolute basics to advanced topics and ends with practical projects. Everything is taught hands-on with live coding. The course covers:
 - MongoDB introduction & history
