@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Introduction and Project Setup
 * **Summary**: The course recreates a real website like malle.com, featuring Stripe payments, OmniAuth login, pro-only posts, search, filters, and categories. Start by installing Rails 8, then run `rails new malaki_rails_clone --database=postgresql --css=tailwind` to set up the app with PostgreSQL and Tailwind CSS. Use `rails g scaffold post title:string description:text thumbnail_url:string video_url:string pro:boolean` to generate the Post model, then migrate with `rails db:migrate` and start the server with `rails s`.
 * **Key Takeaway/Example**: Rails scaffolds provide instant CRUD functionality out of the box, making it quick to build and test models like posts.
