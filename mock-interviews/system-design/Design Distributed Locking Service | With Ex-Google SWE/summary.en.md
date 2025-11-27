@@ -8,6 +8,10 @@
 
 ---
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 # One-Page Executive Summary
 
 - **Problem Prompt (One-liner)**: Design a distributed locking service that ensures mutual exclusion across multiple nodes, even in the presence of hardware failures.
