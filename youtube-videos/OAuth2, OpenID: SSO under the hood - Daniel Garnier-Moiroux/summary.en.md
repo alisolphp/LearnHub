@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Introduction to the Speaker and Talk
 **Summary**: Daniel Garnier-Moiroux introduces himself as a member of the Spring team, focusing on Spring Security, authorization servers, and related technologies. He shares contact details and encourages interaction for feedback. The talk is an introductory overview of OAuth2 and OpenID Connect, with hands-on code examples in Java, JavaScript, and Python, but the demo uses Java based on audience preference.
 **Key Takeaway/Example**: The session aims to explain SSO mechanics under the hood, starting with concepts and moving to implementation, assuming basic familiarity for about half the audience.
