@@ -16,14 +16,14 @@ I highly recommend reading the original book for the full depth and author's per
 <!-- auto-generated; do not edit -->
 <!-- LH-BUTTONS:END -->
 
-## Chapter 1 – Refactoring: A First Example
+## Refactoring: A First Example
 
 **Summary**: Instead of starting with abstract principles, Fowler jumps straight into a concrete, step-by-step refactoring of a real-ish JavaScript program that generates customer invoices for a theater company. The initial code is a single long function that mixes calculation logic, formatting, and string building. Through dozens of tiny, safe steps — each followed by running tests — he transforms it into a clean set of small, focused functions while keeping the external behavior identical. The chapter drives home that refactoring is a disciplined technique for improving the internal structure of working code, making it dramatically easier (and safer) to add new features later.
 
 **Example**: A `statement(invoice, plays)` function starts as ~60 lines with a `switch`, temporary variables, and string concatenation. It ends as a short top-level function that orchestrates tiny nested helpers like `amountFor`, `volumeCreditsFor`, `totalVolumeCredits()`, `totalAmount()`, and a nicely named `usd()` formatter. Every step is shown in full code diffs.
 
 **Link for More Details**:
-[Ask AI: Chapter 1 refactoring example](https://alisol.ir/?ai=Chapter%201%20Refactoring%20A%20First%20Example%7CMartin%20Fowler%7CRefactoring%3A%20Improving%20the%20Design%20of%20Existing%20Code%20%282nd%20Edition%29)
+[Ask AI: refactoring example](https://alisol.ir/?ai=Chapter%201%20Refactoring%20A%20First%20Example%7CMartin%20Fowler%7CRefactoring%3A%20Improving%20the%20Design%20of%20Existing%20Code%20%282nd%20Edition%29)
 
 ## The Absolute Rule: Tests First, Tests Always
 
@@ -43,7 +43,7 @@ I highly recommend reading the original book for the full depth and author's per
 [Personal note: These exact refactorings are still my daily bread in 2025. Modern IDEs (WebStorm, VS Code + ESLint) automate most of them with a keystroke, but the principles haven’t aged a day.]
 
 **Link for More Details**:
-[Ask AI: Core refactorings from Chapter 1](https://alisol.ir/?ai=Core%20refactorings%20from%20Chapter%201%7CMartin%20Fowler%7CRefactoring%3A%20Improving%20the%20Design%20of%20Existing%20Code%20%282nd%20Edition%29)
+[Ask AI: Core refactorings](https://alisol.ir/?ai=Core%20refactorings%20from%20Chapter%201%7CMartin%20Fowler%7CRefactoring%3A%20Improving%20the%20Design%20of%20Existing%20Code%20%282nd%20Edition%29)
 
 ## When Inheritance Goes Wrong – Replace Subclass with Delegate
 
