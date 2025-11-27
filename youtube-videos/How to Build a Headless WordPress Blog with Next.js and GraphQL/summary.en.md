@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Project Overview and Initial Setup
 Next.js 15 is used to build a blog frontend with WordPress as the headless CMS via GraphQL. The layout includes a header, footer, hero section, social icons, categories, search, latest posts with pagination, and individual post pages styled with Tailwind CSS.
 - **Key Takeaway/Example**: Run `npx create-next-app@latest` to initialize the project with TypeScript, ESLint, Tailwind CSS, and App Router enabled. Configure global CSS for background image and fonts from Google Fonts.
