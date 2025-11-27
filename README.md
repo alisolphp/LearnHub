@@ -1,7 +1,11 @@
 [![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+![AI-Powered](https://img.shields.io/badge/Made%20with-AI-informational)
+![150+ Summaries](https://img.shields.io/badge/Summaries-200%2B-blue)
+[![Update README](https://github.com/alisolphp/LearnHub/actions/workflows/update-readme.yml/badge.svg)](https://github.com/alisolphp/LearnHub/actions/workflows/update-readme.yml)
     
 # LearnHub
- 
+
 ## AI-Augmented Learning Partner (150+ Summaries)
 
 > Learn and review tech topics efficiently using concise, high-quality summaries.
@@ -274,8 +278,6 @@ Read **[CONTRIBUTING.md](CONTRIBUTING.md)** for:
 ---
 
 ## 🗺 Repository structure at a glance
-
-Auto-generated overview of the repository structure:
 
 <!-- REPO_TOC_START -->
 Auto-generated overview of the repository structure:
