@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Project Overview and Setup
 * **Summary**: The video covers building a basic blog using Next.js 15 as the frontend and WordPress as the backend CMS, fetching data via the WP JSON API. It includes a header, hero section, social links, categories, latest posts, search bar, pagination, about/contact pages, and a sitemap.
 * **Key Takeaway/Example**: Start by installing Next.js with `npx create-next-app@latest`, then configure fonts like Inter from Google Fonts and set up a background image in globals.css for the layout.
