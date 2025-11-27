@@ -13,6 +13,10 @@
 - I summarize key points from useful courses to learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Topic 1: Introduction to the Course
 
 * **Summary**: The course kicks off with a warm welcome, explaining how it takes you from beginner to expert in microservices using Docker. It covers the basics of microservices development, emphasizing scalability, flexibility, and real-world applications across various tech stacks like HTML/CSS/JS, React, Node.js, PHP, Flask, RESTful APIs, MySQL, and MongoDB. The instructor shares his background as a lecturer with over eight years in academia and programming, focusing on microservices, DevOps, and cloud-native computing.
