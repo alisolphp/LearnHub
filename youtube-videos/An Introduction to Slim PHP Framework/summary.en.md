@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Speaker's Background and Evolution of Web Development
 **Summary**: The speaker shares their journey from telecom software to web programming as a hobby, starting with basic HTML and inline CSS, evolving to JavaScript, CSS styling, and frameworks like React and Nuxt.js. On the server side, PHP emerged in the mid-1990s and became widely adopted.
 **Key Takeaway/Example**: Early web development was simple, but technologies advanced rapidly, making server-side languages like PHP essential for dynamic sites.
