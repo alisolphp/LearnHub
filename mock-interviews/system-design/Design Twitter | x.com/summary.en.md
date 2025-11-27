@@ -10,6 +10,10 @@
 
 ---
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 # One-Page Executive Summary
 
 **Problem Prompt (One-liner)**: Design a system like Twitter, focusing on fast tweeting to followers, timelines (home, user, search), and trending hashtags by location.
