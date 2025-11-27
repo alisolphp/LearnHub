@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Setting Up the Environment
 * **Summary**: Start by installing the .NET 8 SDK from the official site, tailored to your OS like Mac or Windows. Grab Postman for testing HTTP requests later. Use VS Code as your IDE to create a new web API project via the terminal with commands like `dotnet new webapi`.
 * **Key Takeaway/Example**: The SDK includes tools for building and running apps. For project creation: run `dotnet new webapi -o ZooSimulator` in your folder.
