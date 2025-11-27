@@ -16,10 +16,10 @@
 
 - 🧭 **[VISION.md](VISION.md)** – Why LearnHub exists, what it is (and is not), and the long-term dream.
 - 🗺 **[ROADMAP.md](ROADMAP.md)** – What’s shipped, what’s in progress, and where the project is headed next.
-- 🤖 **[AI_FEATURES.md](AI_FEATURES.md)** – How AI-powered flows work, global entry points, per-summary buttons, and live examples.
-- 🤝 **[CONTRIBUTING.md](CONTRIBUTING.md)** – How to request new topics, report issues, and improve docs / code without touching summaries.
+- 🤖 **[AI_FEATURES.md](AI_FEATURES.md)** – How AI-powered flows, global entry points, per-summary buttons, and live examples.
+- 🤝 **[CONTRIBUTING.md](CONTRIBUTING.md)** – How to request new topics, report issues, and improve docs / code.
 
-If you are new here, read **VISION** first, then skim **AI_FEATURES**, and finally check the **ROADMAP** and **CONTRIBUTING** docs.
+If you are new here, read **VISION** first, then skim **AI_FEATURES**, and finally check the **ROADMAP** and **CONTRIBUTING**.
 
 ---
 
