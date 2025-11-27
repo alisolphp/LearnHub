@@ -12,6 +12,10 @@
 - I summarize key points from useful courses to learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Topic 1: Installation, Usage, and Features
 
 * **Summary**: This opening episode gets you started with Laravel Horizon by covering the basics of installation, setting up Redis as your queue driver, and exploring the dashboard's main features. Andre explains how to configure queues, monitor jobs, handle failures, and use tools like metrics and tags to keep an eye on your application's performance. It's all about making queue management straightforward and visual.
