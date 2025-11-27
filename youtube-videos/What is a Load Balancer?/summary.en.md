@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Introduction to Load Balancers
 Load balancers handle traffic for high-traffic websites by distributing requests across multiple servers to prevent any single one from getting overwhelmed.
 Key takeaway: For a site expecting millions of users, a load balancer sits between the internet and your app servers, routing traffic intelligently.
