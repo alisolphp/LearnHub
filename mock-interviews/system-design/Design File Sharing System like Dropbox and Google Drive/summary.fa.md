@@ -7,6 +7,10 @@
 
 ---
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## ؜خلاصهٔ اجرایی یک‌صفحه‌ای (۲–۳ دقیقه)
 
 ؜**مسئله (یک‌خطی).؜** طراحی سرویس فایل‌شیرینگ و همگام‌سازی شبیه Dropbox/iCloud/Google Drive: آپلود/دانلود فایل، Sync بین دستگاه‌ها و ؜Notifications برای تغییرات.
