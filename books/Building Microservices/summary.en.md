@@ -11,6 +11,10 @@ I highly recommend reading the original book for the full depth and author's per
 * I summarize key points from useful books to learn and review quickly.
 * Simply click on `Ask AI` links after each section to dive deeper.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## 1. Microservices
 
 **Summary**: This chapter kicks things off by explaining what microservices are—small, autonomous services that work together, focused on doing one thing well. They're all about breaking down big, clunky systems into manageable pieces that can evolve independently. The benefits include better tech choices for different parts, more resilience since one failure doesn't tank everything, easier scaling of just the bits that need it, quicker deployments, and aligning teams better with the code they own. But it's not all smooth; there's no silver bullet, and you have to watch out for things like distributed system headaches. It contrasts microservices with stuff like service-oriented architecture, shared libraries, and modules, pointing out why microservices stand out for real-world flexibility.
