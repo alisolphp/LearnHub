@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Why Choose Postgres
 * **Summary**: Postgres is an object-relational database that's as fast as MySQL but sticks closer to SQL standards, handles concurrency well, avoids data corruption, and offers advanced data types with options for custom ones. It's ideal for extensibility, scalability, and data integrity.
 * **Key Takeaway/Example**: Compared to MySQL, Postgres excels in complex scenarios like custom operators or index types.
