@@ -11,6 +11,10 @@ I highly recommend reading the original book for the full depth and author's per
 * I summarize key points from useful books to learn and review quickly.
 * Simply click on `Ask AI` links after each section to dive deeper.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Chapter 1. Management 101
 
 **Summary**: This chapter kicks things off by flipping the script—focusing on what it's like to be managed before diving into how to manage others. It stresses that a good manager isn't just about benign neglect or micromanaging; instead, they build real human connections, provide timely feedback, and help you see how your work fits into the bigger picture. Expect regular one-on-ones that aren't just status updates but chances to discuss life stuff and get guidance. Feedback should come quick—praise publicly, criticism privately—and managers ought to help with career growth, like pointing you to training or advocating for promotions. But hey, you're not off the hook; owning your career means thinking about what you want and speaking up.
