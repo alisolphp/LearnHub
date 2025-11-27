@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Problem Statement
 The task is to find the number of contiguous subarrays in a given array of integers that sum up to a target value k. The array can include negative numbers, which adds complexity.
 
