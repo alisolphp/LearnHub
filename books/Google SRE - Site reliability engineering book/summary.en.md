@@ -11,6 +11,10 @@ I highly recommend reading the original book for the full depth and author's per
 * I summarize key points from useful books to learn and review quickly.
 * Simply click on `Ask AI` links after each section to dive deeper.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Introduction
 
 **Summary**: This chapter kicks things off by explaining what Site Reliability Engineering (SRE) really means at Google. It's all about treating operations as a software problem, where engineers build systems to manage services reliably at massive scale. Ben Treynor Sloss shares how SRE evolved from traditional sysadmin roles to a more engineering-focused approach, emphasizing automation over manual toil. It contrasts the old dev/ops divide with SRE's collaborative model, where reliability is everyone's goal, and introduces key ideas like error budgets to balance innovation and stability.
