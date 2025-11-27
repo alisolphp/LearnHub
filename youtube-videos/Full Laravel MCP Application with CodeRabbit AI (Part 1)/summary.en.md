@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## What is Laravel MCP and Why It Matters
 Laravel MCP is a new package that adds a dedicated entry point for AI agents (Cursor, Claude, Junie, etc.) to interact with your Laravel app — just like you already have web routes, API routes, and console commands. Think of it as “an API for agents”. It lets agents perform actions on behalf of the user without the user ever touching a browser or Postman.
 
