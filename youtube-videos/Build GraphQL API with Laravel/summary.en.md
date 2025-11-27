@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Introduction to GraphQL
 GraphQL serves as a powerful alternative to REST APIs for building robust APIs in Laravel. It allows querying specific data from the frontend without needing custom resources for attributes.
 * **Key Takeaway/Example**: The tutorial builds a simple CRUD app to create, read, update, and delete company data, demonstrated in GraphQL Playground where you can query company names or additional fields like domains.
