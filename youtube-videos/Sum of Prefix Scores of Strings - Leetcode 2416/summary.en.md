@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Problem Overview
 Given an array of strings `words`, for each word we need to compute its “prefix score”:  
 take every prefix of the word (from length 1 to the full word), count how many words in the input have that exact prefix (including the word itself), then sum those counts.  
