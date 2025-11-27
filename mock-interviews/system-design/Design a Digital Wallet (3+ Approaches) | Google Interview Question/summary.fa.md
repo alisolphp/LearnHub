@@ -7,6 +7,10 @@
 
 ---
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## ؜خلاصهٔ خیلی کوتاه (TL;DR)
 - ؜سیستم را به ؜**Transaction Service/DB؜** و ؜**Wallet Service/DB؜** تفکیک کن.
 - ؜برای هماهنگی دبیـت→کردیـت و جبران‌ها از ؜**Saga؜** استفاده کن.
