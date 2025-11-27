@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Overview of the Tutorial
 * **Summary**: This video continues from part 1, focusing on processing payments after the user submits credit card details on the pricing page. It covers verifying inputs, creating a user account in the database, sending login details via email, and redirecting to a thank you page.
 * **Key Takeaway/Example**: The flow starts with a pricing page offering three plans, each with a "Buy Now" button that posts to paymentProcess.php for handling subscriptions and account creation.
