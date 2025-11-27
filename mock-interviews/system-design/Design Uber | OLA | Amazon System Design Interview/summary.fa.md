@@ -8,6 +8,10 @@
 
 ---
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## ؜خلاصهٔ اجرایی یک‌صفحه‌ای (۲–۳ دقیقه)
 
 ؜**صورت‌مسئله (یک‌خطی):؜**  
