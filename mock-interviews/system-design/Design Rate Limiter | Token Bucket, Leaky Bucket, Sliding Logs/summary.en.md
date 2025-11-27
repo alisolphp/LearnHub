@@ -8,6 +8,10 @@
 
 ---
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## One-Page Executive Summary (2–3 min skim)
 
 - **Problem Prompt (One-liner):** Design a rate limiter that protects APIs from abuse, supports paid vs. free quotas, and works in distributed deployments.
