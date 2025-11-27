@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## What is Fine-Tuning and When to Use It
 * **Summary**: Fine-tuning takes a pre-trained LLM like GPT or Claude and adapts it to excel at a specific task using your examples, such as customer service or legal docs. It's different from parameter tuning, which just tweaks settings like temperature. Use it for consistent output formats, domain-specific data the model hasn't seen, or to cut costs with smaller models. It requires less data and compute than training from scratch but can make the model worse at general tasks.
 * **Key Takeaway/Example**: Think of it like training an experienced chef on your recipes—efficient but specialized. For instance, fine-tune for JSON outputs or handling medical records.
