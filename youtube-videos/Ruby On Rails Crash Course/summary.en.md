@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Introduction to Ruby on Rails and the Project
 * **Summary**: Ruby on Rails is an MVC framework built with Ruby, used by companies like GitHub and Shopify. The video builds a simple food log app to track meals with calories, proteins, carbs, and fats, demonstrating core Rails features.
 * **Key Takeaway/Example**: Start with companies using Rails and resources like the official Rails site and GoRails for installation guides.
