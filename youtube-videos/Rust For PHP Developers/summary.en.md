@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Speaker Introduction and Background
 * **Summary**: Nuno Maduro, a Laravel core team member, introduces himself and his open-source tools like Pest PHP, Collision, and Laravel Zero. He explains the talk's focus on Rust from a PHP developer's viewpoint, including live coding a simple CLI todo app.
 * **Key Takeaway/Example**: Pest PHP is highlighted as an elegant testing framework—check it out if you're into clean PHP testing setups.
