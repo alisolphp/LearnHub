@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Developer Loop and Hot Reloading
 Go offers a fast iteration cycle similar to PHP, where changes reflect immediately without waiting for compilation. Tools like 'air' enable hot reloading, including live reload via proxy without extra setup. For templating systems like Temple, it handles recompilation and server restarts seamlessly.
 Key takeaway: On slower machines, there might be a slight delay, but overall, it mimics PHP's quick refresh in the browser.
