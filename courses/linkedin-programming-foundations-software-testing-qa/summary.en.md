@@ -13,6 +13,10 @@
 - I summarize key points from useful courses to learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Topic 1: Introduction to Quality Assurance
 
 * **Summary**: This section kicks off by explaining why quality assurance matters in software development—it's all about preventing frustrating user experiences like crashes or bugs. It covers the basics of what QA involves, from planning tests to collaborating with teams, and highlights the skills needed to thrive in this role.
