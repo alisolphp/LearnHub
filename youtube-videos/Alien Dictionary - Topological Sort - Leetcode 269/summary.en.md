@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Problem Introduction
 * **Summary**: The problem involves deriving the order of letters in an alien language using a list of words sorted in that language's lexicographical order. The alphabet uses English lowercase letters, but with unknown ordering. Return a string of unique letters in the alien order, or an empty string if no valid order exists.
 * **Key Takeaway/Example**: Multiple valid orders may exist; return any one. If invalid (e.g., due to contradictions), return empty string.
