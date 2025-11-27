@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Course Introduction and Promotion
 * **Summary**: The course covers Filament v4 from scratch, with the first half (13 lessons up to table actions) released for free in this video. It aims to introduce more people to Filament's capabilities. There's also a promotion for Laravel Daily membership with 40% off, providing access to 80 courses, including AI-related ones, private Discord, and project repositories.
 * **Key Takeaway/Example**: Focus on practical Filament usage to help developers adapt in an AI-driven world.
