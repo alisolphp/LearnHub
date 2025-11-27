@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Introduction to REST API in Magento 2
 Magento 2 uses REST API to connect with third-party systems, allowing custom endpoints for extensions. Focus on creating CRUD operations (Create, Read, Update, Delete) using webapi.xml and PHP classes/interfaces. Tools include Magento Open Source 2.4.6, Postman for requests, and Cloudways for hosting. Builds on a popup extension from a prior course.
 - **Key Takeaway**: Ensure your entity has service interfaces like PopupRepositoryInterface for methods such as save, delete, getById, and getList.
