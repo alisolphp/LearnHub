@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## What is MongoDB?
 MongoDB is a document-oriented NoSQL database that stores data in flexible, JSON-like BSON documents. Unlike traditional SQL databases with rigid tables and rows, MongoDB uses databases → collections → documents. This schema-less design means every document in a collection can have completely different fields — perfect when your data structure evolves over time.
 
