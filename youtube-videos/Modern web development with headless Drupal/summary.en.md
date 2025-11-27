@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Introduction and Speaker Background
 Alexi Gorbatov, Director of Engineering at Jakala (formerly FFW and Pro People), shares his experience with Drupal and non-Drupal ecosystems. He's worked on Stanford projects like GSB in 2012-2013 and aims to showcase modern front-end tools alongside headless Drupal for developers interested in cool demos and integrations.
 * **Key Takeaway/Example**: Highlights his ties to Stanford, including photos from the Knight Management Center and favorite spots like Jimmy V's Cafe.
