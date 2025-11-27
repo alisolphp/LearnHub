@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Introduction to Microservices
 * **Summary**: Microservices break down applications into loosely coupled services, contrasting with monolithic architectures where everything is in one repo. Monoliths are simple to develop and deploy but suffer from scalability issues, code complexity, and tech stack lock-in. Microservices allow independent development, easier maintenance, and fault isolation but introduce distributed system complexity.
 * **Key Takeaway/Example**: Use cloud tools like AWS for networking services. Monoliths scale horizontally behind load balancers, but microservices enable autonomous teams and tech flexibility.
