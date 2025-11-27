@@ -9,6 +9,10 @@
 
 ---
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## ؜بخش ۲) خلاصه اجرایی یک‌صفحه‌ای
 
 ؜**صورت مسئله (در یک جمله)؜**  
