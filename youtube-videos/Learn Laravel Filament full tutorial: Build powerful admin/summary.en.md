@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Project Setup and Filament Installation
 - **Summary**: Start by creating a new Laravel project named "filament-tutorial" without a starter kit. Set up the database, run migrations for default tables, and install Filament v3 via Composer. Use the filament:install --panels command to set up panels, forms, tables, and notifications. Create an admin user and access the /admin dashboard.
 - **Key Takeaway/Example**: After installation, the dashboard appears with user options like theme switching and logout. No code blocks needed here, but ensure the .env file has the correct DB_DATABASE.
