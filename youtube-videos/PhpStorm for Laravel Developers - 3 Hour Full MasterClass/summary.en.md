@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Introduction to PhpStorm
 * **Summary**: PhpStorm stands out as a comprehensive IDE for Laravel developers, offering seamless integration with tools like Prettier, PHPCS Fixer, dynamic snippets, multiple cursors, refactoring, and strong Laravel support via plugins. It eliminates the need to switch editors frequently due to its robust features and attractive UI.
 * **Key Takeaway/Example**: The new UI allows customization from a command center with icons to a bare-bones setup, ticking every box for debugging, testing, and more.
