@@ -8,6 +8,10 @@
 
 ---
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## ؜جمع‌بندی یک‌صفحه‌ای (برای مرور ۲–۳ دقیقه‌ای)
 
 - ؜؜**مسئله (یک‌خطی)؜**: طراحی یک Cache توزیع‌شدهٔ سریع، مقیاس‌پذیر و highly available که از `PUT(key, value)` و `GET(key)` برای کلید/مقدار رشته‌ای پشتیبانی کند.
