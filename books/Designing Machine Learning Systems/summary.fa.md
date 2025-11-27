@@ -10,6 +10,10 @@
 * من نکته‌های کلیدی کتاب‌های مفید را خلاصه می‌کنم تا یادگیری و مرور آن‌ها سریع‌تر شود.
 * فقط کافی است روی لینک‌های `Ask AI` بعد از هر بخش کلیک کنید تا عمیق‌تر وارد جزئیات شوید.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## ؜Overview of Machine Learning Systems
 
 **خلاصه**:  
