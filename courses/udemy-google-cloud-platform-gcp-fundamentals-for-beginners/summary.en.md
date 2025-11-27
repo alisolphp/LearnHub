@@ -12,6 +12,10 @@
 - I summarize key points from useful courses to learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Topic 1: Introduction to the Course
 
 * **Summary**: This opening section welcomes learners to the fundamentals of Google Cloud, highlighting the instructor's background and the course's focus on helping beginners get started with GCP's building blocks like compute, storage, and networking. It emphasizes hands-on demos, quizzes, and a new section on Anthos for hybrid and multi-cloud setups.
