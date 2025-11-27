@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Course Overview
 * **Summary**: This project-based Ruby course focuses on problem-solving skills for programmers, covering fundamentals through exercises and 10 projects. It includes setting up the environment, basics like variables and data types, operations, conditionals, loops, functions, modules, data structures, file handling, and OOP.
 * **Key Takeaway/Example**: Emphasizes hands-on learning with real projects to build practical skills.
