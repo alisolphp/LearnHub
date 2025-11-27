@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Introduction to Laravel Octane and FrankenPHP
 * **Summary**: Laravel Octane boosts your app's speed with a new integration for FrankenPHP, making it a super-fast server option.
 * **Key Takeaway/Example**: This setup handles high loads efficiently, keeping response times under a millisecond even with concurrency.
