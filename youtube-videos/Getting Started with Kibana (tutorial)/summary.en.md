@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## What is Kibana?
 Kibana serves as a user interface for visualizing and analyzing data from Elasticsearch. It runs in a browser with its own built-in web server, communicating directly with an Elasticsearch cluster to fetch data. All Kibana data gets stored in Elasticsearch indices, simplifying management since no separate database is needed—if the Kibana server fails, data persists in the cluster.
 * **Key Takeaway/Example**: This setup ensures easy recovery; spin up a new Kibana instance, and you're back in action without losing configurations or data.
