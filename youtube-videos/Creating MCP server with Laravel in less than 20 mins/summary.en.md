@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## What is MCP (Model Context Protocol)?
 
 * **Summary**: MCP stands for Model Context Protocol – a standard introduced by Anthropic in 2024 that defines how language models can securely and predictably interact with external data and tools. It is basically the “REST API specification” for AI: it tells the LLM what tools, prompts, and resources are available, what parameters they expect, and what they return – exactly like Swagger/OpenAPI does for traditional APIs.
