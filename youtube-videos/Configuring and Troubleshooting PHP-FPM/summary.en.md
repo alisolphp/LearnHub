@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## What is PHP-FPM and How It Handles Requests
 * **Summary**: PHP-FPM acts as an intermediary between Nginx and your PHP application, using the FastCGI protocol to spawn a separate PHP process for each incoming web request. Each child process can only handle one request at a time, so to manage concurrency, multiple processes are needed.
 * **Key Takeaway**: The max_children setting caps the total number of processes, directly limiting how many concurrent requests your app can process before hitting resource issues or errors.
