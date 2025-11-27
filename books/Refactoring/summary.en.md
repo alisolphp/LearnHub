@@ -12,6 +12,10 @@ I highly recommend reading the original book for the full depth and author's per
 * I summarize key points from useful books to learn and review quickly.
 * Simply click on `Ask AI` links after each section to dive deeper.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Chapter 1 – Refactoring: A First Example
 
 **Summary**: Instead of starting with abstract principles, Fowler jumps straight into a concrete, step-by-step refactoring of a real-ish JavaScript program that generates customer invoices for a theater company. The initial code is a single long function that mixes calculation logic, formatting, and string building. Through dozens of tiny, safe steps — each followed by running tests — he transforms it into a clean set of small, focused functions while keeping the external behavior identical. The chapter drives home that refactoring is a disciplined technique for improving the internal structure of working code, making it dramatically easier (and safer) to add new features later.
