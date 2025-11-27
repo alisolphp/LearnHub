@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Introduction to App Agility and Choosing Spring Boot
 * **Summary**: Spring Boot stands out for building APIs due to its focus on app agility, drawing from experiences with older frameworks like Zen. Java with Spring Boot handles API design efficiently, avoiding legacy issues common in PHP.
 * **Key Takeaway/Example**: If you're tired of outdated frameworks, Spring Boot provides a modern, performant alternative for APIs, reducing vulnerabilities like those in C/C++.
