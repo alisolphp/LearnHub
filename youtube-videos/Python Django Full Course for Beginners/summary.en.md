@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Introduction to Django
 * **Summary**: Django is a high-level Python web framework for rapid development, emphasizing security, scalability, and clean design. The course assumes basic Python knowledge and uses VS Code as the editor.
 * **Key Takeaway/Example**: Start at django.com for docs. Install Python 3.12+ and create a virtual environment with `python -m venv venv`, then activate it.
