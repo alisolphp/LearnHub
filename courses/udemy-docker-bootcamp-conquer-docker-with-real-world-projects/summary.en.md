@@ -13,6 +13,10 @@
 - I summarize key points from useful courses to learn and review quickly.  
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## 1. Course Introduction & What You’ll Build
 The course kicks off with a high-level overview: you’ll learn how to package apps and their dependencies into Docker containers, run web apps, microservices, and databases, and finally orchestrate everything with Docker Compose.  
 The star of the show is a complete e-commerce application made of seven microservices (Python/Flask, Node.js, Java/Spring Boot, Go, Ruby, etc.) connected to six different databases. By the end you’ll have containerized a real-world-looking system that mirrors what big companies actually do.
