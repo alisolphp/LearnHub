@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Introduction to React Query
 **Summary**: React Query simplifies data fetching, caching, and real-time updates in React apps, handling complexities like loading states, errors, and synchronization without clunky code.
 **Key Takeaway/Example**: It's not a fetching library like Axios but manages what happens after the fetch, making UIs faster and more efficient.
