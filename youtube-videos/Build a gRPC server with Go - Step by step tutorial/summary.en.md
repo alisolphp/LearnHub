@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Initializing the Go Project
 * **Summary**: Start by setting up a Go module for the project using `go mod init` followed by the module path, like `github.com/maximilienandile/demo-grpc`. This creates a `go.mod` file with the module details and Go version.
 * **Key Takeaway/Example**: Use this to organize dependencies and ensure the project is modular from the beginning.
