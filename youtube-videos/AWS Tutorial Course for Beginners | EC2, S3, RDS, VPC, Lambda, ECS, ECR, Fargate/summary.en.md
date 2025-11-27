@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Course Introduction and Overview
 * **Summary**: The course is designed for developers and DevOps engineers starting from scratch, covering cloud basics and hands-on with in-demand AWS services like EC2 for virtual servers, S3 for storage, RDS for databases, Lambda for serverless code, and container tools like ECS, ECR, and Fargate. It's structured for beginners with a day-by-day plan via timestamps, emphasizing practical demos over slides.
 * **Key Takeaway/Example**: Focus on building foundations for certifications, jobs, and projects—start with minimal setup and scale as needed, like deploying apps on EC2 or running serverless containers without managing infrastructure.
