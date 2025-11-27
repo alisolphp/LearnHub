@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Introduction to AI Creativity and Data's Role
 * **Summary**: The talk kicks off with an AI-generated song from Suno to highlight how AI can creatively produce content, turning hallucinations into a feature for music generation. It emphasizes that while models are accessible via papers and blogs, the true edge in AI comes from the quality and volume of training data, like all human-produced music for Suno or vast text for language models.
 * **Key Takeaway/Example**: Data differentiates AI performance—models trained on massive, high-quality datasets outperform others. For instance, Anthropic feeds models with premium data assets.
