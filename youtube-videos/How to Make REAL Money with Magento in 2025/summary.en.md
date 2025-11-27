@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Earning Potential with Magento Development
 Magento projects can command high fees due to its complexity and power for large-scale e-commerce. Real-world examples include Maid Store charging $12,000 to $57,000 for Magento Open Source development, Web Meridian at $20,000 to $35,000, seccom.vn at $60,000 per project, and Mitanchi from $20,000 to $100,000. These numbers show the global demand, from the US and Europe to Vietnam and India.
 Key takeaway: Transitioning from low-fee platforms like WordPress ($1,000 sites) to Magento requires a gradual shift, but the payoff is significant for handling big inventories and multi-million companies.
