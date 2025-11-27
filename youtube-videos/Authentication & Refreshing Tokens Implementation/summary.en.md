@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Introduction to JWT Authentication
 JWT stands for JSON Web Tokens, and it's used here to handle authentication in a Django backend with a React frontend. The focus is on implementing access and refresh tokens, including how to rotate and blacklist refresh tokens for better security. Access tokens are short-lived (e.g., 5-15 minutes) and hold user info, while refresh tokens have longer lifespans (e.g., days or months) to renew access tokens without re-login.
 * **Key Takeaway**: Store tokens in localStorage on the frontend; use private routes to redirect unauthenticated users to login.
