@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Problem Overview
 * **Summary**: The problem involves finding the shortest path in an N x N binary matrix from the top-left (0,0) to the bottom-right (N-1, N-1). Cells with 1 are obstacles, and you can only move through 0s. Movement is allowed in eight directions, including diagonals. The path length counts the number of cells visited, and return -1 if no path exists.
 * **Key Takeaway/Example**: For a 1x1 grid with [0], the path length is 1 since you're already at the start and end. In larger grids, treat 1s as blocks and find the minimal steps.
