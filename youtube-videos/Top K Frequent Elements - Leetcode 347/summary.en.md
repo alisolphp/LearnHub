@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Problem Statement
 * **Summary**: Given an integer array nums and an integer k, return the k most frequent elements in any order. The solution is guaranteed to be unique, avoiding ties in frequencies for the k-th position.
 * **Key Takeaway/Example**: For nums = [1,1,1,2,2,3] and k=2, the frequencies are 1:3, 2:2, 3:1, so top 2 are 1 and 2.
