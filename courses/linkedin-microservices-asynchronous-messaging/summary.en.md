@@ -12,6 +12,10 @@
 - I summarize key points from useful courses to learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Topic 1: Introduction to Asynchronous Messaging in Microservices
 
 * **Summary**: The course kicks off by explaining how asynchronous messaging offers an alternative to traditional synchronous RESTful calls in microservices architectures, allowing systems to handle communications more efficiently, especially for large-scale deployments where background tasks need to run without straining daily operations.
