@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Proxy Basics – Client, Server, and the Middleman
 * **Summary**: Every HTTP request has a client (your browser/laptop) and a server (the application). A proxy is simply an intermediate server that sits between them. The magic lies in *where* you place it and *who* it protects.
 * **Key Takeaway**: Forward proxy = client-side gatekeeper. Reverse proxy = server-side bodyguard.
