@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Introduction to the Tutorial
 * **Summary**: The tutorial focuses on building a minimum viable project (MVP) for CRUD operations in ASP.NET Core 8.0 using a decoupled architecture with Blazor on the frontend and a RESTful API on the backend. It condenses typical long tutorials into about 3.5 hours, emphasizing efficiency for beginners while covering data persistence in a SQL Server database.
 * **Key Takeaway/Example**: Use Blazor for a responsive single-page app feel, similar to React or Angular, and separate concerns for backend (API) and frontend developers. Data validation occurs on both ends, with Bootstrap for UI styling.
