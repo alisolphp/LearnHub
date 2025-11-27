@@ -7,6 +7,10 @@
 
 ---
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## TL;DR (what to remember)
 - Split the system into **Transaction Service/DB** and **Wallet Service/DB**.
 - Use **Sagas** for debit→credit coordination and compensations.
