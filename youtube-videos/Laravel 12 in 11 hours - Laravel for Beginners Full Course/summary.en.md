@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Course Introduction & What You Will Build
 The Codeholic released the first ~11 hours (19 modules) of his premium Laravel for Beginners course for free on YouTube.  
 You will build a fully functional car marketplace (grabacar.xyz) where users can browse, search, filter, add to watchlist, view seller contact info (with partial phone masking + AJAX reveal), upload multiple images, and sellers can manage their listings.  
