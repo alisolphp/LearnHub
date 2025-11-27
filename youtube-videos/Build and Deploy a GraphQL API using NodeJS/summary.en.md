@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Introduction to GraphQL and Tutorial Overview
 * **Summary**: The video focuses on building a GraphQL API from scratch using Node.js, emphasizing server-side fundamentals. It contrasts with client-side consumption and previous tutorials using StepZen for quick setups. The goal is to understand the underlying mechanics by creating a DIY API with Node.js, GraphQL HTTP, and MongoDB, then deploying to AWS EC2.
 * **Key Takeaway/Example**: GraphQL allows defining data shapes and querying specific fields, avoiding over-fetching like in REST APIs. For complex data, one GraphQL query can fetch related info (e.g., player, teams, matches) versus multiple REST endpoints.
