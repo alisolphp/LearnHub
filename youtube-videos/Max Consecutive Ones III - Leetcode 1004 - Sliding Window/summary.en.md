@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Problem Statement
 * **Summary**: The problem involves a binary array of 0s and 1s, and an integer K. The goal is to find the maximum number of consecutive 1s achievable by flipping at most K 0s to 1s.
 * **Key Takeaway/Example**: This is a variable-length sliding window problem where you expand and contract a window to maintain validity based on the number of 0s.
