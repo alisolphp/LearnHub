@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Course Overview and Prerequisites
 * **Summary**: The course covers building complex websites with React, including two projects: a chatbot and an e-commerce site. It starts from basics like setup and progresses to advanced topics like backend integration, deployment with AWS, TypeScript, and AI. Over 125 exercises are included for practice.
 * **Key Takeaway/Example**: Prerequisites include basic JavaScript (variables, functions, arrays, objects) and HTML (elements like div, button, input). Tools needed: Google Chrome and VS Code. Use Live Server extension for auto-refresh.
