@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Introduction to UML
 * **Summary**: UML stands for Unified Modeling Language, a standardized way to visualize systems using diagrams. It helps developers define, design, and document software artifacts. UML 2.0 includes structure diagrams (like class, component, deployment) and behavior diagrams (like use case, activity, sequence). These diagrams address different aspects for various stakeholders, from analysts to coders.
 * **Key Takeaway/Example**: UML provides best practices for modeling complex systems, focusing on graphical notation for object-oriented development. It's divided into structure (static) and behavior (dynamic) categories to cover everything from system architecture to interactions.
