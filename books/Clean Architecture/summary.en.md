@@ -24,7 +24,7 @@ I highly recommend reading the original book for the full depth and author's per
 **Link for More Details**:
 [Ask AI: Introduction to Software Architecture](https://alisol.ir/?ai=Introduction%20to%20Software%20Architecture%7CRobert%20C.%20Martin%7CClean%20Architecture)
 
-## Chapter 1: What Is Design and Architecture?
+## What Is Design and Architecture?
 
 **Summary**: Here, the author stresses there's no real divide between high-level architecture and low-level design; they're intertwined. Good architecture minimizes long-term effort by making systems easy to change and maintain. A case study illustrates how unchecked messy code can tank productivity, with lines of code growth stalling while staff balloons, leading to unsustainable costs. It's a wake-up call that rushing without cleanliness is like the hare in the fable—overconfident speed that ultimately loses the race.
 
@@ -33,7 +33,7 @@ I highly recommend reading the original book for the full depth and author's per
 **Link for More Details**:
 [Ask AI: Design vs Architecture](https://alisol.ir/?ai=Design%20vs%20Architecture%7CRobert%20C.%20Martin%7CClean%20Architecture)
 
-## Chapter 2: A Tale of Two Values
+## A Tale of Two Values
 
 **Summary**: Software delivers two key values: behavior (making it work) and architecture (making it easy to change). Behavior is urgent but often less important long-term, while architecture is crucial yet rarely feels pressing. Developers and managers must fight to prioritize architecture, as neglecting it leads to rigid systems that become impossible to adapt. Using Eisenhower's matrix, the book argues architecture ranks high in importance, even if not urgent, and teams should push back against short-term feature rushes.
 
@@ -51,7 +51,7 @@ I highly recommend reading the original book for the full depth and author's per
 **Link for More Details**:
 [Ask AI: Programming Paradigms Overview](https://alisol.ir/?ai=Programming%20Paradigms%20Overview%7CRobert%20C.%20Martin%7CClean%20Architecture)
 
-## Chapter 3: Paradigm Overview
+## Paradigm Overview
 
 **Summary**: A quick rundown of the three big paradigms: structured for disciplined control, OO for dependency management via polymorphism, and functional for immutability to handle concurrency. They're not just styles but restrictions that enable scalable, maintainable software, with the book teasing how they tie into architecture.
 
@@ -60,7 +60,7 @@ I highly recommend reading the original book for the full depth and author's per
 **Link for More Details**:
 [Ask AI: Three Paradigms](https://alisol.ir/?ai=Three%20Paradigms%7CRobert%20C.%20Martin%7CClean%20Architecture)
 
-## Chapter 4: Structured Programming
+## Structured Programming
 
 **Summary**: Born from Dijkstra's critique of goto statements, this paradigm uses sequence, selection, and iteration as provable building blocks. It allows decomposition into smaller, testable units, replacing formal proofs with tests in practice. Science backs it by falsifying bugs, making structured code the bedrock for reliable systems.
 
@@ -69,7 +69,7 @@ I highly recommend reading the original book for the full depth and author's per
 **Link for More Details**:
 [Ask AI: Structured Programming](https://alisol.ir/?ai=Structured%20Programming%7CRobert%20C.%20Martin%7CClean%20Architecture)
 
-## Chapter 5: Object-Oriented Programming
+## Object-Oriented Programming
 
 **Summary**: OO shines in encapsulation (hiding data), inheritance (reuse hierarchies), and polymorphism (flexible dependencies). It inverts control, letting high-level policies depend on abstractions, not details, which protects architecture from changes in I/O or frameworks.
 
@@ -78,7 +78,7 @@ I highly recommend reading the original book for the full depth and author's per
 **Link for More Details**:
 [Ask AI: Object-Oriented Programming](https://alisol.ir/?ai=Object-Oriented%20Programming%7CRobert%20C.%20Martin%7CClean%20Architecture)
 
-## Chapter 6: Functional Programming
+## Functional Programming
 
 **Summary**: Rooted in immutability, this paradigm avoids mutable state to eliminate race conditions and concurrency woes. Segregate mutable parts, or use event sourcing (store transactions, not state) for fault-tolerant systems like banks.
 
@@ -96,7 +96,7 @@ I highly recommend reading the original book for the full depth and author's per
 **Link for More Details**:
 [Ask AI: SOLID Design Principles](https://alisol.ir/?ai=SOLID%20Design%20Principles%7CRobert%20C.%20Martin%7CClean%20Architecture)
 
-## Chapter 7: SRP: The Single Responsibility Principle
+## SRP: The Single Responsibility Principle
 
 **Summary**: A module should change for only one reason or actor, avoiding accidental duplication and merge conflicts. Solutions include separating code by actors or facades.
 
@@ -105,7 +105,7 @@ I highly recommend reading the original book for the full depth and author's per
 **Link for More Details**:
 [Ask AI: Single Responsibility Principle](https://alisol.ir/?ai=Single%20Responsibility%20Principle%7CRobert%20C.%20Martin%7CClean%20Architecture)
 
-## Chapter 8: OCP: The Open-Closed Principle
+## OCP: The Open-Closed Principle
 
 **Summary**: Systems should be open for extension but closed for modification, achieved by abstracting behaviors and hiding information. This directs dependencies properly for flexibility.
 
@@ -114,7 +114,7 @@ I highly recommend reading the original book for the full depth and author's per
 **Link for More Details**:
 [Ask AI: Open-Closed Principle](https://alisol.ir/?ai=Open-Closed%20Principle%7CRobert%20C.%20Martin%7CClean%20Architecture)
 
-## Chapter 9: LSP: The Liskov Substitution Principle
+## LSP: The Liskov Substitution Principle
 
 **Summary**: Subtypes must be substitutable without breaking expectations, guiding inheritance to avoid violations that complicate architecture, like the square-rectangle issue.
 
@@ -123,7 +123,7 @@ I highly recommend reading the original book for the full depth and author's per
 **Link for More Details**:
 [Ask AI: Liskov Substitution Principle](https://alisol.ir/?ai=Liskov%20Substitution%20Principle%7CRobert%20C.%20Martin%7CClean%20Architecture)
 
-## Chapter 10: ISP: The Interface Segregation Principle
+## ISP: The Interface Segregation Principle
 
 **Summary**: Avoid fat interfaces that force unnecessary dependencies; segregate them for cleaner, language-agnostic designs that benefit architecture.
 
@@ -132,7 +132,7 @@ I highly recommend reading the original book for the full depth and author's per
 **Link for More Details**:
 [Ask AI: Interface Segregation Principle](https://alisol.ir/?ai=Interface%20Segregation%20Principle%7CRobert%20C.%20Martin%7CClean%20Architecture)
 
-## Chapter 11: DIP: The Dependency Inversion Principle
+## DIP: The Dependency Inversion Principle
 
 **Summary**: High-level policies shouldn't depend on low-level details; both depend on abstractions. Use factories for concretes, keeping volatiles isolated.
 
@@ -150,7 +150,7 @@ I highly recommend reading the original book for the full depth and author's per
 **Link for More Details**:
 [Ask AI: Component Principles](https://alisol.ir/?ai=Component%20Principles%7CRobert%20C.%20Martin%7CClean%20Architecture)
 
-## Chapter 12: Components
+## Components
 
 **Summary**: From early linkers to modern jars/DLLs, components enable relocatability and independent deployment, evolving with hardware.
 
@@ -159,7 +159,7 @@ I highly recommend reading the original book for the full depth and author's per
 **Link for More Details**:
 [Ask AI: History of Components](https://alisol.ir/?ai=History%20of%20Components%7CRobert%20C.%20Martin%7CClean%20Architecture)
 
-## Chapter 13: Component Cohesion
+## Component Cohesion
 
 **Summary**: Balance REP (reuse equivalency), CCP (common closure), and CRP (common reuse) to decide what goes in a component, using tension diagrams.
 
@@ -168,7 +168,7 @@ I highly recommend reading the original book for the full depth and author's per
 **Link for More Details**:
 [Ask AI: Component Cohesion](https://alisol.ir/?ai=Component%20Cohesion%7CRobert%20C.%20Martin%7CClean%20Architecture)
 
-## Chapter 14: Component Coupling
+## Component Coupling
 
 **Summary**: ADP prevents cycles with bottom-up design; SDP depends on stable components; SAP pairs stability with abstraction. Metrics guide placement.
 
@@ -186,7 +186,7 @@ I highly recommend reading the original book for the full depth and author's per
 **Link for More Details**:
 [Ask AI: Core Architecture Concepts](https://alisol.ir/?ai=Core%20Architecture%20Concepts%7CRobert%20C.%20Martin%7CClean%20Architecture)
 
-## Chapter 15: What Is Architecture?
+## What Is Architecture?
 
 **Summary**: Architecture handles development (team structure), deployment (ease of install), operation (runtime efficiency), and maintenance (change cost). Keep options open by decoupling from devices and details.
 
@@ -195,7 +195,7 @@ I highly recommend reading the original book for the full depth and author's per
 **Link for More Details**:
 [Ask AI: Defining Architecture](https://alisol.ir/?ai=Defining%20Architecture%7CRobert%20C.%20Martin%7CClean%20Architecture)
 
-## Chapter 16: Independence
+## Independence
 
 **Summary**: Decouple layers, use cases, and modes for independent development, deployment, and operation. Embrace some duplication if it aids decoupling.
 
@@ -204,7 +204,7 @@ I highly recommend reading the original book for the full depth and author's per
 **Link for More Details**:
 [Ask AI: Architectural Independence](https://alisol.ir/?ai=Architectural%20Independence%7CRobert%20C.%20Martin%7CClean%20Architecture)
 
-## Chapter 17: Boundaries: Drawing Lines
+## Boundaries: Drawing Lines
 
 **Summary**: Draw boundaries early to separate core business from details; use plugins and avoid full boundaries initially to save cost. Stories show over-coupling's pitfalls.
 
@@ -213,7 +213,7 @@ I highly recommend reading the original book for the full depth and author's per
 **Link for More Details**:
 [Ask AI: Drawing Boundaries](https://alisol.ir/?ai=Drawing%20Boundaries%7CRobert%20C.%20Martin%7CClean%20Architecture)
 
-## Chapter 18: Boundary Anatomy
+## Boundary Anatomy
 
 **Summary**: Boundaries range from source-level (monoliths) to deployment (DLLs) to services; choose based on needs, with monoliths often sufficient.
 
@@ -222,7 +222,7 @@ I highly recommend reading the original book for the full depth and author's per
 **Link for More Details**:
 [Ask AI: Boundary Types](https://alisol.ir/?ai=Boundary%20Types%7CRobert%20C.%20Martin%7CClean%20Architecture)
 
-## Chapter 19: Policy and Level
+## Policy and Level
 
 **Summary**: Policies are grouped by change reasons; levels are distance from I/O. High-level policies drive the system, independent of lows.
 
@@ -231,7 +231,7 @@ I highly recommend reading the original book for the full depth and author's per
 **Link for More Details**:
 [Ask AI: Policy Levels](https://alisol.ir/?ai=Policy%20Levels%7CRobert%20C.%20Martin%7CClean%20Architecture)
 
-## Chapter 20: Business Rules
+## Business Rules
 
 **Summary**: Core rules (entities, use cases) are critical and device-agnostic; request/response models keep them pure.
 
@@ -240,7 +240,7 @@ I highly recommend reading the original book for the full depth and author's per
 **Link for More Details**:
 [Ask AI: Business Rules](https://alisol.ir/?ai=Business%20Rules%7CRobert%20C.%20Martin%7CClean%20Architecture)
 
-## Chapter 21: Screaming Architecture
+## Screaming Architecture
 
 **Summary**: Architecture should scream the system's intent, like a library app shouting "books!" not "framework." Focus on use cases, make it testable.
 
@@ -249,7 +249,7 @@ I highly recommend reading the original book for the full depth and author's per
 **Link for More Details**:
 [Ask AI: Screaming Architecture](https://alisol.ir/?ai=Screaming%20Architecture%7CRobert%20C.%20Martin%7CClean%20Architecture)
 
-## Chapter 22: The Clean Architecture
+## The Clean Architecture
 
 **Summary**: Dependency rule points inward: outer circles (frameworks, UI) depend on inner (business rules). Keeps core independent and testable.
 
@@ -258,7 +258,7 @@ I highly recommend reading the original book for the full depth and author's per
 **Link for More Details**:
 [Ask AI: Clean Architecture](https://alisol.ir/?ai=Clean%20Architecture%7CRobert%20C.%20Martin%7CClean%20Architecture)
 
-## Chapter 23: Presenters and Humble Objects
+## Presenters and Humble Objects
 
 **Summary**: Use humble objects for hard-to-test boundaries (like GUIs); presenters format data, enabling architecture-independent tests.
 
@@ -267,7 +267,7 @@ I highly recommend reading the original book for the full depth and author's per
 **Link for More Details**:
 [Ask AI: Presenters and Humble Objects](https://alisol.ir/?ai=Presenters%20and%20Humble%20Objects%7CRobert%20C.%20Martin%7CClean%20Architecture)
 
-## Chapter 24: Partial Boundaries
+## Partial Boundaries
 
 **Summary**: Full boundaries are costly; partial ones (separate compilation, facades) offer flexibility at lower expense.
 
@@ -276,7 +276,7 @@ I highly recommend reading the original book for the full depth and author's per
 **Link for More Details**:
 [Ask AI: Partial Boundaries](https://alisol.ir/?ai=Partial%20Boundaries%7CRobert%20C.%20Martin%7CClean%20Architecture)
 
-## Chapter 25: Layers and Boundaries
+## Layers and Boundaries
 
 **Summary**: Boundaries exist even if not implemented; over-layering can hurt. Example: Hunt the Wumpus game shows pragmatic boundary choices.
 
@@ -285,7 +285,7 @@ I highly recommend reading the original book for the full depth and author's per
 **Link for More Details**:
 [Ask AI: Layers and Boundaries](https://alisol.ir/?ai=Layers%20and%20Boundaries%7CRobert%20C.%20Martin%7CClean%20Architecture)
 
-## Chapter 26: The Main Component
+## The Main Component
 
 **Summary**: Main configures the system, injecting dependencies—it's the ultimate low-level detail, plugin to the architecture.
 
@@ -294,7 +294,7 @@ I highly recommend reading the original book for the full depth and author's per
 **Link for More Details**:
 [Ask AI: Main Component](https://alisol.ir/?ai=Main%20Component%7CRobert%20C.%20Martin%7CClean%20Architecture)
 
-## Chapter 27: Services: Great and Small
+## Services: Great and Small
 
 **Summary**: Services aren't architecture; they're details. Decouple truly independent parts, use OO for cross-cuts, not just for scalability hype.
 
@@ -304,7 +304,7 @@ I highly recommend reading the original book for the full depth and author's per
 [Ask AI: Services in Architecture](https://alisol.ir/?ai=Services%20in%20Architecture%7CRobert%20C.%20Martin%7CClean%20Architecture)
 [Personal note: REST is still solid for APIs, but I'd check GraphQL for more flexible querying in modern apps.]
 
-## Chapter 28: The Test Boundary
+## The Test Boundary
 
 **Summary**: Tests are components following dependency rules; design for testability with APIs to avoid fragility.
 
@@ -313,7 +313,7 @@ I highly recommend reading the original book for the full depth and author's per
 **Link for More Details**:
 [Ask AI: Test Boundaries](https://alisol.ir/?ai=Test%20Boundaries%7CRobert%20C.%20Martin%7CClean%20Architecture)
 
-## Chapter 29: Clean Embedded Architecture
+## Clean Embedded Architecture
 
 **Summary**: Treat hardware/OS as details; use layers like HAL for testability. Avoid hardware specifics leaking into app code.
 
@@ -332,7 +332,7 @@ I highly recommend reading the original book for the full depth and author's per
 **Link for More Details**:
 [Ask AI: Handling Details](https://alisol.ir/?ai=Handling%20Details%7CRobert%20C.%20Martin%7CClean%20Architecture)
 
-## Chapter 30: The Database Is a Detail
+## The Database Is a Detail
 
 **Summary**: Databases are tools for storage, not core; relational ones organize data, but if no disks, alternatives like RAM suffice. Performance tweaks are secondary.
 
@@ -342,7 +342,7 @@ I highly recommend reading the original book for the full depth and author's per
 [Ask AI: Database as Detail](https://alisol.ir/?ai=Database%20as%20Detail%7CRobert%20C.%20Martin%7CClean%20Architecture)
 [Personal note: Relational DBs are still key, but NoSQL like MongoDB or cloud options like DynamoDB often fit better for scalable, unstructured data now.]
 
-## Chapter 31: The Web Is a Detail
+## The Web Is a Detail
 
 **Summary**: Web is just an I/O channel; architecture should survive shifts from terminals to apps. Pendulum swings, but core remains.
 
@@ -351,7 +351,7 @@ I highly recommend reading the original book for the full depth and author's per
 **Link for More Details**:
 [Ask AI: Web as Detail](https://alisol.ir/?ai=Web%20as%20Detail%7CRobert%20C.%20Martin%7CClean%20Architecture)
 
-## Chapter 32: Frameworks Are Details
+## Frameworks Are Details
 
 **Summary**: Frameworks offer power but risk lock-in; treat as details, use proxies to avoid deep marriage.
 
@@ -360,7 +360,7 @@ I highly recommend reading the original book for the full depth and author's per
 **Link for More Details**:
 [Ask AI: Frameworks as Details](https://alisol.ir/?ai=Frameworks%20as%20Details%7CRobert%20C.%20Martin%7CClean%20Architecture)
 
-## Chapter 33: Case Study: Video Sales
+## Case Study: Video Sales
 
 **Summary**: A sales site architecture: use cases drive components, with clean dependencies for easy changes.
 
@@ -369,7 +369,7 @@ I highly recommend reading the original book for the full depth and author's per
 **Link for More Details**:
 [Ask AI: Video Sales Case Study](https://alisol.ir/?ai=Video%20Sales%20Case%20Study%7CRobert%20C.%20Martin%7CClean%20Architecture)
 
-## Chapter 34: The Missing Chapter
+## The Missing Chapter
 
 **Summary**: Compare packaging strategies: layer (horizontal), feature (vertical), component (SOLID-based). Favor component for better encapsulation and decoupling.
 
