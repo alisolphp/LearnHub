@@ -10,6 +10,10 @@
 
 ---
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 # One-Page Executive Summary
 
 **Problem Prompt (One-liner)**: Design a simple authentication system allowing users to register, log in, and sign out, with emphasis on secure login to distinguish legitimate users from impersonators.
