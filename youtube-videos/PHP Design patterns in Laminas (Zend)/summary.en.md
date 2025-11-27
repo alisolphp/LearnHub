@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Exploring Laminas Source Code for Design Patterns
 Rust handles memory safety by... wait, no—let's dive into how Laminas (formerly Zend) implements design patterns. A solid approach to understanding a framework is examining its internal code. Here, we look at index.php as the entry point, where the application initializes, loads configurations via Composer, and runs the app. This setup reveals patterns like service managers and bootstrapping listeners.
 * **Key Takeaway/Example**: The bootstrap method sets up listeners for events, showing how the framework triggers actions during the app's lifecycle.
