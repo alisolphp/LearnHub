@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Introduction to the Speaker and Talk Structure
 * **Summary**: The speaker, Richard Dunn, introduces himself as a PHP developer from the Netherlands, now starting at a new job, and shares his background including organizing conferences and creating Camilla Proxy. He outlines the talk: covering Golang basics, its origins, a use case with Camilla Proxy, and tips to get started, assuming a PHP audience.
 * **Key Takeaway/Example**: Golang is presented as a nice addition to your stack without replacing PHP, with a focus on excitement around its features.
