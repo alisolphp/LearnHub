@@ -7,6 +7,10 @@
 
 ---
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## ؜خلاصه‌ی یک‌صفحه‌ای (مطالعه ۲–۳ دقیقه‌ای)
 
 ؜**صورت مسئله (یک‌خطی)؜**  
