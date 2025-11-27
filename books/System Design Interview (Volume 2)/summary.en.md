@@ -11,6 +11,10 @@ I highly recommend reading the original book for the full depth and author's per
 * I summarize key points from useful books to learn and review quickly.
 * Simply click on `Ask AI` links after each section to dive deeper.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Chapter 1: Proximity Service
 
 **Summary**: This chapter dives into building a service that finds nearby places like restaurants or gas stations based on a user's location and a specified radius. It covers understanding requirements like low latency and data privacy, then proposes APIs for searching and managing businesses. The high-level design splits into location-based and business services, with a focus on scaling databases and using geospatial indexes. Different algorithms like geohash, quadtree, and Google S2 are compared for fetching nearby spots, handling edge cases like boundaries. Deep dive includes sharding the business table, caching with Redis for geohashes and business info, and deploying across regions for better availability. Filtering by time or type happens after fetching results.
