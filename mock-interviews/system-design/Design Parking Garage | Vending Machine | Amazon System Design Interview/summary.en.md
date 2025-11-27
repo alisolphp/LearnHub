@@ -8,6 +8,10 @@
 
 ---
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## One-Page Executive Summary (2–3 min skim)
 
 * **Problem Prompt (One-liner)**: Design a reservation and payment system for a parking garage supporting spot types (compact, regular, large), flat rates by vehicle size, and the ability to reserve, pay, and cancel. 
