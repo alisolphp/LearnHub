@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Stream Recovery & CodeRabbit Review of Send Message Tool
 CodeRabbit finishes reviewing the pull request that added the “send message” functionality. It correctly identifies the new Nuno Nation chat experience, input validation, and even draws an accurate diagram of the full flow: user → AI agent → MCP chat endpoint → MCP server → send_message tool → response back through the chain.  
 It also points out that the unused validated variables in the placeholder responses can be removed and suggests loading `ai.php` routes the modern Laravel way (via `bootstrap/app.php` → `withRouting`). No major blockers — everything looks solid.
