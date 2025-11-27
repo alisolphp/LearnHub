@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Course Introduction and Target Audience
 * **Summary**: The course is designed for beginners new to PHP or programming, starting simple to avoid overwhelming newcomers. It builds from basics to advanced topics, ensuring accessibility for those intimidated by coding.
 * **Key Takeaway/Example**: Focuses on easing into PHP without prior experience, emphasizing that initial intimidation is normal.
