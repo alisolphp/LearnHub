@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Problem Introduction
 * **Summary**: The problem involves a network of n nodes with directed edges representing travel times. Starting from node k, calculate the maximum time for a signal to reach all nodes; return -1 if impossible.
 * **Key Takeaway/Example**: Nodes are labeled 1 to n, edges are triples [source, target, weight], where weight is the time to traverse the edge. It's a shortest path problem using Dijkstra's algorithm.
