@@ -9,6 +9,10 @@
 
 ---
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## ؜؜خلاصهٔ یک‌صفحه‌ای (۲–۳ دقیقه)
 
 ؜**خلاصهٔ مسئله (یک‌خطی)؜**  
