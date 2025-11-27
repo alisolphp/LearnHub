@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Getting Started with Cursor Download and Setup
 * **Summary**: Cursor is a desktop app for Mac or Windows that helps generate and manage code locally, connecting to tools like Supabase for databases and Vercel for deployment. Download it from cursor.com, sign up for an account, and create a new project by opening a folder.
 * **Key Takeaway/Example**: Start with a blank project in your downloads folder for testing, and it integrates as a fork of VS Code for powerful coding features.
