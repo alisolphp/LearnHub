@@ -13,6 +13,10 @@
 - I summarize key points from useful courses to learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Topic 1: Introduction to GraphQL
 
 * **Summary**: This opening episode dives into what GraphQL is all about, positioning it as a modern alternative to REST APIs. It covers the basics of making queries to fetch exactly the data you need, using real-world examples from public APIs like GitHub, weather services, and movie databases. You'll see how GraphQL's single endpoint and intuitive syntax make it easier to work with compared to multiple REST endpoints.
