@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## What is NestJS and Why Use It?
 NestJS is a progressive Node.js framework that uses TypeScript by default and follows an opinionated, Angular-inspired architecture (modules, controllers, providers). It sits on top of Express (or Fastify) and brings structure, scalability, and built-in support for things like dependency injection, decorators, and modular design.
 
