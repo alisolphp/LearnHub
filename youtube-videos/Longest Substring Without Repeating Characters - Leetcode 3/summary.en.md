@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Problem Introduction
 Rust handles memory safety by... wait, no—this is about LeetCode 3. We're given a string and need to find the length of the longest contiguous substring without any repeating characters. It's a classic for learning sliding window, which often pops up in interviews.
 
