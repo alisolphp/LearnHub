@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Introduction to the Problem
 **Summary**: The problem involves finding the lowest common ancestor (LCA) of two nodes in a binary search tree (BST). The root is always a common ancestor, but the goal is to find the deepest one where both nodes are descendants, including the possibility of a node being its own ancestor.
 **Key Takeaway/Example**: This is part of a list of 75 blind problems, with plans for more videos and a playlist.
