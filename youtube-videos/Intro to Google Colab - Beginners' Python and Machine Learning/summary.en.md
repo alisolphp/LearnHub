@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Getting Started with Google Colab
 Google Colab provides a free, cloud-based environment for running Python code without needing local installations. Access shared notebooks via links, and copy them to your Drive to edit and save changes. It's built on a Linux Ubuntu server with pre-installed packages, ideal for beginners and data scientists. The virtual machine resets after use, but notebooks persist.
 * **Key Takeaway/Example**: Click "Copy to Drive" on a shared notebook to create your editable version. Outputs aren't saved by default, but you can adjust settings.
