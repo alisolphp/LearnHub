@@ -13,6 +13,10 @@
 - I summarize key points from useful courses to learn and review quickly.  
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Welcome to the Course – Let’s Get Excited About Go!
 
 **Summary**  
