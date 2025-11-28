@@ -9,7 +9,7 @@
 > **Disclaimer**: This is a personal summary and interpretation based on a YouTube video. It is not official material and not endorsed by the original creator. All rights remain with the respective creators.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=b47981dc -->
+<!-- LH-BUTTONS:HASH=005796ea -->
 
 ### AI-Powered buttons
 
@@ -17,7 +17,7 @@ Start teaching this to a:
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=youtube-videos/NextJS%2015%20Full%20Course%202025%20%7C%20Become%20a%20NextJS%20Pro%20in%201.5%20Hours) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=youtube-videos/NextJS%2015%20Full%20Course%202025%20%7C%20Become%20a%20NextJS%20Pro%20in%201.5%20Hours) | 
 [Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=youtube-videos/NextJS%2015%20Full%20Course%202025%20%7C%20Become%20a%20NextJS%20Pro%20in%201.5%20Hours) | 
-[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer) 
+[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer)
 
 Learn via different lenses:
 [Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=youtube-videos/NextJS%2015%20Full%20Course%202025%20%7C%20Become%20a%20NextJS%20Pro%20in%201.5%20Hours) | 

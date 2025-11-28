@@ -14,7 +14,7 @@
 * می‌توانی روی لینک‌های `Ask AI` کلیک کنی و در مورد همان بخش، تعاملی سؤال بپرسی یا عمیق‌تر یاد بگیری.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=b47981dc -->
+<!-- LH-BUTTONS:HASH=005796ea -->
 
 ### AI-Powered buttons
 
@@ -22,7 +22,7 @@ Start teaching this to a:
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=fa&src=books/Designing%20Data-Intensive%20Applications%20(DDIA)) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=fa&src=books/Designing%20Data-Intensive%20Applications%20(DDIA)) | 
 [Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=fa&src=books/Designing%20Data-Intensive%20Applications%20(DDIA)) | 
-[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer) 
+[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer)
 
 Learn via different lenses:
 [Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=fa&src=books/Designing%20Data-Intensive%20Applications%20(DDIA)) | 

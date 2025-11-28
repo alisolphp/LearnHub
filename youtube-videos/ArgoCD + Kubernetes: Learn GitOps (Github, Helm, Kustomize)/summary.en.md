@@ -15,7 +15,7 @@
 - Simply click on `Ask AI` links to dive into any topic you want.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=b47981dc -->
+<!-- LH-BUTTONS:HASH=005796ea -->
 
 ### AI-Powered buttons
 
@@ -23,7 +23,7 @@ Start teaching this to a:
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=youtube-videos/ArgoCD%20%2B%20Kubernetes%3A%20Learn%20GitOps%20(Github%2C%20Helm%2C%20Kustomize)) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=youtube-videos/ArgoCD%20%2B%20Kubernetes%3A%20Learn%20GitOps%20(Github%2C%20Helm%2C%20Kustomize)) | 
 [Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=youtube-videos/ArgoCD%20%2B%20Kubernetes%3A%20Learn%20GitOps%20(Github%2C%20Helm%2C%20Kustomize)) | 
-[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer) 
+[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer)
 
 Learn via different lenses:
 [Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=youtube-videos/ArgoCD%20%2B%20Kubernetes%3A%20Learn%20GitOps%20(Github%2C%20Helm%2C%20Kustomize)) | 

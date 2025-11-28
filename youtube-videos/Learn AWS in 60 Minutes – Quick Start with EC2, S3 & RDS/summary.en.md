@@ -9,7 +9,7 @@
 > **Disclaimer**: This is a personal summary and interpretation based on a YouTube video. It is not official material and not endorsed by the original creator. All rights remain with the respective creators.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=b47981dc -->
+<!-- LH-BUTTONS:HASH=005796ea -->
 
 ### AI-Powered buttons
 
@@ -17,7 +17,7 @@ Start teaching this to a:
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=youtube-videos/Learn%20AWS%20in%2060%20Minutes%20%E2%80%93%20Quick%20Start%20with%20EC2%2C%20S3%20%26%20RDS) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=youtube-videos/Learn%20AWS%20in%2060%20Minutes%20%E2%80%93%20Quick%20Start%20with%20EC2%2C%20S3%20%26%20RDS) | 
 [Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=youtube-videos/Learn%20AWS%20in%2060%20Minutes%20%E2%80%93%20Quick%20Start%20with%20EC2%2C%20S3%20%26%20RDS) | 
-[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer) 
+[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer)
 
 Learn via different lenses:
 [Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=youtube-videos/Learn%20AWS%20in%2060%20Minutes%20%E2%80%93%20Quick%20Start%20with%20EC2%2C%20S3%20%26%20RDS) | 

@@ -10,7 +10,7 @@
 *این سند، نکات کلیدی دوره را خلاصه می‌کند. اگر فرصت داشتی، دیدن خود دوره خیلی مفیدتر است.*
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=b47981dc -->
+<!-- LH-BUTTONS:HASH=005796ea -->
 
 ### AI-Powered buttons
 
@@ -18,7 +18,7 @@ Start teaching this to a:
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=fa&src=courses/pluralsight-writing-highly-maintainable-unit-tests) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=fa&src=courses/pluralsight-writing-highly-maintainable-unit-tests) | 
 [Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=fa&src=courses/pluralsight-writing-highly-maintainable-unit-tests) | 
-[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer) 
+[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer)
 
 Learn via different lenses:
 [Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=fa&src=courses/pluralsight-writing-highly-maintainable-unit-tests) | 
