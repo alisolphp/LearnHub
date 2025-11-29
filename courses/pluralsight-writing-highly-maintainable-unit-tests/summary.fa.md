@@ -10,11 +10,11 @@
 *این سند، نکات کلیدی دوره را خلاصه می‌کند. اگر فرصت داشتی، دیدن خود دوره خیلی مفیدتر است.*
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=3bb5ce7c -->
+<!-- LH-BUTTONS:HASH=4ea0b5d0 -->
 
 ### AI-Powered buttons
 
-Teach Me::
+Teach Me:
 [5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=fa&src=courses/pluralsight-writing-highly-maintainable-unit-tests) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=fa&src=courses/pluralsight-writing-highly-maintainable-unit-tests) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=fa&src=courses/pluralsight-writing-highly-maintainable-unit-tests) | 
@@ -34,6 +34,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=fa&src=courses/pluralsight-writing-highly-maintainable-unit-tests) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=fa&src=courses/pluralsight-writing-highly-maintainable-unit-tests) | 
+[Refactor Challenge](https://alisol.ir/?ai=learnhub_summary_refactor&lang=fa&src=courses/pluralsight-writing-highly-maintainable-unit-tests) | 
 [Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=courses/pluralsight-writing-highly-maintainable-unit-tests) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=fa&src=courses/pluralsight-writing-highly-maintainable-unit-tests)
 <!-- LH-BUTTONS:END -->

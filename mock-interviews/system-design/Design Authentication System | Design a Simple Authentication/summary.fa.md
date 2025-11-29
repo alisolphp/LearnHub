@@ -11,11 +11,11 @@
 ---
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=3bb5ce7c -->
+<!-- LH-BUTTONS:HASH=4ea0b5d0 -->
 
 ### AI-Powered buttons
 
-Teach Me::
+Teach Me:
 [5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=fa&src=mock-interviews/system-design/Design%20Authentication%20System%20%7C%20Design%20a%20Simple%20Authentication) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=fa&src=mock-interviews/system-design/Design%20Authentication%20System%20%7C%20Design%20a%20Simple%20Authentication) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=fa&src=mock-interviews/system-design/Design%20Authentication%20System%20%7C%20Design%20a%20Simple%20Authentication) | 
@@ -35,6 +35,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=fa&src=mock-interviews/system-design/Design%20Authentication%20System%20%7C%20Design%20a%20Simple%20Authentication) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=fa&src=mock-interviews/system-design/Design%20Authentication%20System%20%7C%20Design%20a%20Simple%20Authentication) | 
+[Refactor Challenge](https://alisol.ir/?ai=learnhub_summary_refactor&lang=fa&src=mock-interviews/system-design/Design%20Authentication%20System%20%7C%20Design%20a%20Simple%20Authentication) | 
 [Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=mock-interviews/system-design/Design%20Authentication%20System%20%7C%20Design%20a%20Simple%20Authentication) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=fa&src=mock-interviews/system-design/Design%20Authentication%20System%20%7C%20Design%20a%20Simple%20Authentication)
 <!-- LH-BUTTONS:END -->

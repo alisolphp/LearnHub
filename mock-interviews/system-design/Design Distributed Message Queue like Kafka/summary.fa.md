@@ -8,11 +8,11 @@
 > *این سند خلاصه محتوای کلیدی یک مصاحبه آزمایشی طراحی سیستم است. ؜پیشنهاد می‌کنم اگر می‌توانید، ویدیو کامل را تماشا کنید.*
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=3bb5ce7c -->
+<!-- LH-BUTTONS:HASH=4ea0b5d0 -->
 
 ### AI-Powered buttons
 
-Teach Me::
+Teach Me:
 [5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=fa&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=fa&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=fa&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka) | 
@@ -32,6 +32,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=fa&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=fa&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka) | 
+[Refactor Challenge](https://alisol.ir/?ai=learnhub_summary_refactor&lang=fa&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka) | 
 [Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=fa&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka)
 <!-- LH-BUTTONS:END -->

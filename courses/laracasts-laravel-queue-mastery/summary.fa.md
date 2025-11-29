@@ -13,11 +13,11 @@
 - برای اینکه در هر بخش عمیق‌تر بشوی، کافی است روی لینک‌های «Ask AI» کلیک کنی.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=3bb5ce7c -->
+<!-- LH-BUTTONS:HASH=4ea0b5d0 -->
 
 ### AI-Powered buttons
 
-Teach Me::
+Teach Me:
 [5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=fa&src=courses/laracasts-laravel-queue-mastery) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=fa&src=courses/laracasts-laravel-queue-mastery) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=fa&src=courses/laracasts-laravel-queue-mastery) | 
@@ -37,6 +37,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=fa&src=courses/laracasts-laravel-queue-mastery) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=fa&src=courses/laracasts-laravel-queue-mastery) | 
+[Refactor Challenge](https://alisol.ir/?ai=learnhub_summary_refactor&lang=fa&src=courses/laracasts-laravel-queue-mastery) | 
 [Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=courses/laracasts-laravel-queue-mastery) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=fa&src=courses/laracasts-laravel-queue-mastery)
 <!-- LH-BUTTONS:END -->

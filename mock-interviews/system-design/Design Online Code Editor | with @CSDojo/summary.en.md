@@ -11,11 +11,11 @@
 ---
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=3bb5ce7c -->
+<!-- LH-BUTTONS:HASH=4ea0b5d0 -->
 
 ### AI-Powered buttons
 
-Teach Me::
+Teach Me:
 [5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=en&src=mock-interviews/system-design/Design%20Online%20Code%20Editor%20%7C%20with%20%40CSDojo) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=mock-interviews/system-design/Design%20Online%20Code%20Editor%20%7C%20with%20%40CSDojo) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=mock-interviews/system-design/Design%20Online%20Code%20Editor%20%7C%20with%20%40CSDojo) | 
@@ -35,6 +35,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=mock-interviews/system-design/Design%20Online%20Code%20Editor%20%7C%20with%20%40CSDojo) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=mock-interviews/system-design/Design%20Online%20Code%20Editor%20%7C%20with%20%40CSDojo) | 
+[Refactor Challenge](https://alisol.ir/?ai=learnhub_summary_refactor&lang=en&src=mock-interviews/system-design/Design%20Online%20Code%20Editor%20%7C%20with%20%40CSDojo) | 
 [Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=mock-interviews/system-design/Design%20Online%20Code%20Editor%20%7C%20with%20%40CSDojo) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=mock-interviews/system-design/Design%20Online%20Code%20Editor%20%7C%20with%20%40CSDojo)
 <!-- LH-BUTTONS:END -->

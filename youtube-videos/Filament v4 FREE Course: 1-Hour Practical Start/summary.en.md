@@ -15,11 +15,11 @@
 - Simply click on `Ask AI` links to dive into any topic you want.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=3bb5ce7c -->
+<!-- LH-BUTTONS:HASH=4ea0b5d0 -->
 
 ### AI-Powered buttons
 
-Teach Me::
+Teach Me:
 [5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=en&src=youtube-videos/Filament%20v4%20FREE%20Course%3A%201-Hour%20Practical%20Start) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=youtube-videos/Filament%20v4%20FREE%20Course%3A%201-Hour%20Practical%20Start) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=youtube-videos/Filament%20v4%20FREE%20Course%3A%201-Hour%20Practical%20Start) | 
@@ -39,6 +39,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=youtube-videos/Filament%20v4%20FREE%20Course%3A%201-Hour%20Practical%20Start) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=youtube-videos/Filament%20v4%20FREE%20Course%3A%201-Hour%20Practical%20Start) | 
+[Refactor Challenge](https://alisol.ir/?ai=learnhub_summary_refactor&lang=en&src=youtube-videos/Filament%20v4%20FREE%20Course%3A%201-Hour%20Practical%20Start) | 
 [Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/Filament%20v4%20FREE%20Course%3A%201-Hour%20Practical%20Start) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=youtube-videos/Filament%20v4%20FREE%20Course%3A%201-Hour%20Practical%20Start)
 <!-- LH-BUTTONS:END -->

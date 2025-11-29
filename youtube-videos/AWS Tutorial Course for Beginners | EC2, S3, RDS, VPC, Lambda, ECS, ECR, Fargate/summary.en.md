@@ -15,11 +15,11 @@
 - Simply click on `Ask AI` links to dive into any topic you want.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=3bb5ce7c -->
+<!-- LH-BUTTONS:HASH=4ea0b5d0 -->
 
 ### AI-Powered buttons
 
-Teach Me::
+Teach Me:
 [5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=en&src=youtube-videos/AWS%20Tutorial%20Course%20for%20Beginners%20%7C%20EC2%2C%20S3%2C%20RDS%2C%20VPC%2C%20Lambda%2C%20ECS%2C%20ECR%2C%20Fargate) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=youtube-videos/AWS%20Tutorial%20Course%20for%20Beginners%20%7C%20EC2%2C%20S3%2C%20RDS%2C%20VPC%2C%20Lambda%2C%20ECS%2C%20ECR%2C%20Fargate) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=youtube-videos/AWS%20Tutorial%20Course%20for%20Beginners%20%7C%20EC2%2C%20S3%2C%20RDS%2C%20VPC%2C%20Lambda%2C%20ECS%2C%20ECR%2C%20Fargate) | 
@@ -39,6 +39,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=youtube-videos/AWS%20Tutorial%20Course%20for%20Beginners%20%7C%20EC2%2C%20S3%2C%20RDS%2C%20VPC%2C%20Lambda%2C%20ECS%2C%20ECR%2C%20Fargate) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=youtube-videos/AWS%20Tutorial%20Course%20for%20Beginners%20%7C%20EC2%2C%20S3%2C%20RDS%2C%20VPC%2C%20Lambda%2C%20ECS%2C%20ECR%2C%20Fargate) | 
+[Refactor Challenge](https://alisol.ir/?ai=learnhub_summary_refactor&lang=en&src=youtube-videos/AWS%20Tutorial%20Course%20for%20Beginners%20%7C%20EC2%2C%20S3%2C%20RDS%2C%20VPC%2C%20Lambda%2C%20ECS%2C%20ECR%2C%20Fargate) | 
 [Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/AWS%20Tutorial%20Course%20for%20Beginners%20%7C%20EC2%2C%20S3%2C%20RDS%2C%20VPC%2C%20Lambda%2C%20ECS%2C%20ECR%2C%20Fargate) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=youtube-videos/AWS%20Tutorial%20Course%20for%20Beginners%20%7C%20EC2%2C%20S3%2C%20RDS%2C%20VPC%2C%20Lambda%2C%20ECS%2C%20ECR%2C%20Fargate)
 <!-- LH-BUTTONS:END -->

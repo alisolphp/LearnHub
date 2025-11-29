@@ -11,11 +11,11 @@
 ---
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=3bb5ce7c -->
+<!-- LH-BUTTONS:HASH=4ea0b5d0 -->
 
 ### AI-Powered buttons
 
-Teach Me::
+Teach Me:
 [5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=fa&src=mock-interviews/system-design/Design%20Food%20Delivery%20App%20like%20Doordash%20%7C%20Geo-Hashing%20and%20WebSockets%20for%20Location%20Based%20Services) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=fa&src=mock-interviews/system-design/Design%20Food%20Delivery%20App%20like%20Doordash%20%7C%20Geo-Hashing%20and%20WebSockets%20for%20Location%20Based%20Services) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=fa&src=mock-interviews/system-design/Design%20Food%20Delivery%20App%20like%20Doordash%20%7C%20Geo-Hashing%20and%20WebSockets%20for%20Location%20Based%20Services) | 
@@ -35,6 +35,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=fa&src=mock-interviews/system-design/Design%20Food%20Delivery%20App%20like%20Doordash%20%7C%20Geo-Hashing%20and%20WebSockets%20for%20Location%20Based%20Services) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=fa&src=mock-interviews/system-design/Design%20Food%20Delivery%20App%20like%20Doordash%20%7C%20Geo-Hashing%20and%20WebSockets%20for%20Location%20Based%20Services) | 
+[Refactor Challenge](https://alisol.ir/?ai=learnhub_summary_refactor&lang=fa&src=mock-interviews/system-design/Design%20Food%20Delivery%20App%20like%20Doordash%20%7C%20Geo-Hashing%20and%20WebSockets%20for%20Location%20Based%20Services) | 
 [Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=mock-interviews/system-design/Design%20Food%20Delivery%20App%20like%20Doordash%20%7C%20Geo-Hashing%20and%20WebSockets%20for%20Location%20Based%20Services) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=fa&src=mock-interviews/system-design/Design%20Food%20Delivery%20App%20like%20Doordash%20%7C%20Geo-Hashing%20and%20WebSockets%20for%20Location%20Based%20Services)
 <!-- LH-BUTTONS:END -->

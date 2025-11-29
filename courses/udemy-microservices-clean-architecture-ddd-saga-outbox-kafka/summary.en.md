@@ -14,11 +14,11 @@
 - Simply click on `Ask AI` links to dive into any topic you want.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=3bb5ce7c -->
+<!-- LH-BUTTONS:HASH=4ea0b5d0 -->
 
 ### AI-Powered buttons
 
-Teach Me::
+Teach Me:
 [5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=en&src=courses/udemy-microservices-clean-architecture-ddd-saga-outbox-kafka) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=courses/udemy-microservices-clean-architecture-ddd-saga-outbox-kafka) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=courses/udemy-microservices-clean-architecture-ddd-saga-outbox-kafka) | 
@@ -38,6 +38,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=courses/udemy-microservices-clean-architecture-ddd-saga-outbox-kafka) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=courses/udemy-microservices-clean-architecture-ddd-saga-outbox-kafka) | 
+[Refactor Challenge](https://alisol.ir/?ai=learnhub_summary_refactor&lang=en&src=courses/udemy-microservices-clean-architecture-ddd-saga-outbox-kafka) | 
 [Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=courses/udemy-microservices-clean-architecture-ddd-saga-outbox-kafka) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=courses/udemy-microservices-clean-architecture-ddd-saga-outbox-kafka)
 <!-- LH-BUTTONS:END -->

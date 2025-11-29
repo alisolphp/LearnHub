@@ -9,11 +9,11 @@
 *این سند، نکات کلیدی دوره را خلاصه می‌کند تا سریع‌تر یاد بگیری و مرور کنی. اگر فرصت داشتی، دیدن دوره‌ی کامل به‌شدت پیشنهاد می‌شود.*
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=3bb5ce7c -->
+<!-- LH-BUTTONS:HASH=4ea0b5d0 -->
 
 ### AI-Powered buttons
 
-Teach Me::
+Teach Me:
 [5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=fa&src=courses/linkedin-aws-essential-training-for-developers) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=fa&src=courses/linkedin-aws-essential-training-for-developers) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=fa&src=courses/linkedin-aws-essential-training-for-developers) | 
@@ -33,6 +33,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=fa&src=courses/linkedin-aws-essential-training-for-developers) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=fa&src=courses/linkedin-aws-essential-training-for-developers) | 
+[Refactor Challenge](https://alisol.ir/?ai=learnhub_summary_refactor&lang=fa&src=courses/linkedin-aws-essential-training-for-developers) | 
 [Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=courses/linkedin-aws-essential-training-for-developers) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=fa&src=courses/linkedin-aws-essential-training-for-developers)
 <!-- LH-BUTTONS:END -->

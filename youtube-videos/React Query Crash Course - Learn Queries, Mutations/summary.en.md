@@ -15,11 +15,11 @@
 - Simply click on `Ask AI` links to dive into any topic you want.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=3bb5ce7c -->
+<!-- LH-BUTTONS:HASH=4ea0b5d0 -->
 
 ### AI-Powered buttons
 
-Teach Me::
+Teach Me:
 [5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=en&src=youtube-videos/React%20Query%20Crash%20Course%20-%20Learn%20Queries%2C%20Mutations) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=youtube-videos/React%20Query%20Crash%20Course%20-%20Learn%20Queries%2C%20Mutations) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=youtube-videos/React%20Query%20Crash%20Course%20-%20Learn%20Queries%2C%20Mutations) | 
@@ -39,6 +39,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=youtube-videos/React%20Query%20Crash%20Course%20-%20Learn%20Queries%2C%20Mutations) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=youtube-videos/React%20Query%20Crash%20Course%20-%20Learn%20Queries%2C%20Mutations) | 
+[Refactor Challenge](https://alisol.ir/?ai=learnhub_summary_refactor&lang=en&src=youtube-videos/React%20Query%20Crash%20Course%20-%20Learn%20Queries%2C%20Mutations) | 
 [Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/React%20Query%20Crash%20Course%20-%20Learn%20Queries%2C%20Mutations) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=youtube-videos/React%20Query%20Crash%20Course%20-%20Learn%20Queries%2C%20Mutations)
 <!-- LH-BUTTONS:END -->

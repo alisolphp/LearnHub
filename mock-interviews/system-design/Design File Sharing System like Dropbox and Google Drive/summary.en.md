@@ -8,11 +8,11 @@
 ---
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=3bb5ce7c -->
+<!-- LH-BUTTONS:HASH=4ea0b5d0 -->
 
 ### AI-Powered buttons
 
-Teach Me::
+Teach Me:
 [5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=en&src=mock-interviews/system-design/Design%20File%20Sharing%20System%20like%20Dropbox%20and%20Google%20Drive) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=mock-interviews/system-design/Design%20File%20Sharing%20System%20like%20Dropbox%20and%20Google%20Drive) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=mock-interviews/system-design/Design%20File%20Sharing%20System%20like%20Dropbox%20and%20Google%20Drive) | 
@@ -32,6 +32,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=mock-interviews/system-design/Design%20File%20Sharing%20System%20like%20Dropbox%20and%20Google%20Drive) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=mock-interviews/system-design/Design%20File%20Sharing%20System%20like%20Dropbox%20and%20Google%20Drive) | 
+[Refactor Challenge](https://alisol.ir/?ai=learnhub_summary_refactor&lang=en&src=mock-interviews/system-design/Design%20File%20Sharing%20System%20like%20Dropbox%20and%20Google%20Drive) | 
 [Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=mock-interviews/system-design/Design%20File%20Sharing%20System%20like%20Dropbox%20and%20Google%20Drive) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=mock-interviews/system-design/Design%20File%20Sharing%20System%20like%20Dropbox%20and%20Google%20Drive)
 <!-- LH-BUTTONS:END -->

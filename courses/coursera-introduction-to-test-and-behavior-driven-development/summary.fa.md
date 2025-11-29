@@ -13,11 +13,11 @@
 - فقط روی لینک‌های `Ask AI` کلیک کن تا عمیق‌تر وارد هر موضوعی بشی.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=3bb5ce7c -->
+<!-- LH-BUTTONS:HASH=4ea0b5d0 -->
 
 ### AI-Powered buttons
 
-Teach Me::
+Teach Me:
 [5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=fa&src=courses/coursera-introduction-to-test-and-behavior-driven-development) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=fa&src=courses/coursera-introduction-to-test-and-behavior-driven-development) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=fa&src=courses/coursera-introduction-to-test-and-behavior-driven-development) | 
@@ -37,6 +37,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=fa&src=courses/coursera-introduction-to-test-and-behavior-driven-development) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=fa&src=courses/coursera-introduction-to-test-and-behavior-driven-development) | 
+[Refactor Challenge](https://alisol.ir/?ai=learnhub_summary_refactor&lang=fa&src=courses/coursera-introduction-to-test-and-behavior-driven-development) | 
 [Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=courses/coursera-introduction-to-test-and-behavior-driven-development) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=fa&src=courses/coursera-introduction-to-test-and-behavior-driven-development)
 <!-- LH-BUTTONS:END -->

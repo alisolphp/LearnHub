@@ -9,11 +9,11 @@
 > **Disclaimer**: This is a personal summary and interpretation based on a YouTube video. It is not official material and not endorsed by the original creator. All rights remain with the respective creators.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=3bb5ce7c -->
+<!-- LH-BUTTONS:HASH=4ea0b5d0 -->
 
 ### AI-Powered buttons
 
-Teach Me::
+Teach Me:
 [5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=en&src=youtube-videos/ClickHouse%3A%20Breaking%20the%20Speed%20Limit%20for%20Observability%20and%20Analytics) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=youtube-videos/ClickHouse%3A%20Breaking%20the%20Speed%20Limit%20for%20Observability%20and%20Analytics) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=youtube-videos/ClickHouse%3A%20Breaking%20the%20Speed%20Limit%20for%20Observability%20and%20Analytics) | 
@@ -33,6 +33,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=youtube-videos/ClickHouse%3A%20Breaking%20the%20Speed%20Limit%20for%20Observability%20and%20Analytics) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=youtube-videos/ClickHouse%3A%20Breaking%20the%20Speed%20Limit%20for%20Observability%20and%20Analytics) | 
+[Refactor Challenge](https://alisol.ir/?ai=learnhub_summary_refactor&lang=en&src=youtube-videos/ClickHouse%3A%20Breaking%20the%20Speed%20Limit%20for%20Observability%20and%20Analytics) | 
 [Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/ClickHouse%3A%20Breaking%20the%20Speed%20Limit%20for%20Observability%20and%20Analytics) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=youtube-videos/ClickHouse%3A%20Breaking%20the%20Speed%20Limit%20for%20Observability%20and%20Analytics)
 <!-- LH-BUTTONS:END -->

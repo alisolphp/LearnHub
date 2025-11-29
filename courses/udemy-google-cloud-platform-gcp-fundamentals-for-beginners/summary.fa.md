@@ -14,11 +14,11 @@
 این خلاصه فقط نکات مهم را پوشش می‌دهد. ؜اگر امکانش را داری، دیدن خود دوره (به‌خصوص دموها و لاب‌ها) تجربه خیلی کامل‌تری می‌دهد.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=3bb5ce7c -->
+<!-- LH-BUTTONS:HASH=4ea0b5d0 -->
 
 ### AI-Powered buttons
 
-Teach Me::
+Teach Me:
 [5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=fa&src=courses/udemy-google-cloud-platform-gcp-fundamentals-for-beginners) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=fa&src=courses/udemy-google-cloud-platform-gcp-fundamentals-for-beginners) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=fa&src=courses/udemy-google-cloud-platform-gcp-fundamentals-for-beginners) | 
@@ -38,6 +38,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=fa&src=courses/udemy-google-cloud-platform-gcp-fundamentals-for-beginners) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=fa&src=courses/udemy-google-cloud-platform-gcp-fundamentals-for-beginners) | 
+[Refactor Challenge](https://alisol.ir/?ai=learnhub_summary_refactor&lang=fa&src=courses/udemy-google-cloud-platform-gcp-fundamentals-for-beginners) | 
 [Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=courses/udemy-google-cloud-platform-gcp-fundamentals-for-beginners) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=fa&src=courses/udemy-google-cloud-platform-gcp-fundamentals-for-beginners)
 <!-- LH-BUTTONS:END -->

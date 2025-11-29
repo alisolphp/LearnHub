@@ -12,11 +12,11 @@
 * بعد از هر بخش، می‌توانید روی لینک `Ask AI` کلیک کنید و در مورد همان بخش سؤالات عمیق‌تری بپرسید.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=3bb5ce7c -->
+<!-- LH-BUTTONS:HASH=4ea0b5d0 -->
 
 ### AI-Powered buttons
 
-Teach Me::
+Teach Me:
 [5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=fa&src=books/Fundamentals%20of%20Data%20Engineering) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=fa&src=books/Fundamentals%20of%20Data%20Engineering) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=fa&src=books/Fundamentals%20of%20Data%20Engineering) | 
@@ -36,6 +36,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=fa&src=books/Fundamentals%20of%20Data%20Engineering) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=fa&src=books/Fundamentals%20of%20Data%20Engineering) | 
+[Refactor Challenge](https://alisol.ir/?ai=learnhub_summary_refactor&lang=fa&src=books/Fundamentals%20of%20Data%20Engineering) | 
 [Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=books/Fundamentals%20of%20Data%20Engineering) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=fa&src=books/Fundamentals%20of%20Data%20Engineering)
 <!-- LH-BUTTONS:END -->

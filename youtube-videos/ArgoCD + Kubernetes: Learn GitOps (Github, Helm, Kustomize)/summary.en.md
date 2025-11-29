@@ -15,11 +15,11 @@
 - Simply click on `Ask AI` links to dive into any topic you want.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=3bb5ce7c -->
+<!-- LH-BUTTONS:HASH=4ea0b5d0 -->
 
 ### AI-Powered buttons
 
-Teach Me::
+Teach Me:
 [5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=en&src=youtube-videos/ArgoCD%20%2B%20Kubernetes%3A%20Learn%20GitOps%20(Github%2C%20Helm%2C%20Kustomize)) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=youtube-videos/ArgoCD%20%2B%20Kubernetes%3A%20Learn%20GitOps%20(Github%2C%20Helm%2C%20Kustomize)) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=youtube-videos/ArgoCD%20%2B%20Kubernetes%3A%20Learn%20GitOps%20(Github%2C%20Helm%2C%20Kustomize)) | 
@@ -39,6 +39,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=youtube-videos/ArgoCD%20%2B%20Kubernetes%3A%20Learn%20GitOps%20(Github%2C%20Helm%2C%20Kustomize)) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=youtube-videos/ArgoCD%20%2B%20Kubernetes%3A%20Learn%20GitOps%20(Github%2C%20Helm%2C%20Kustomize)) | 
+[Refactor Challenge](https://alisol.ir/?ai=learnhub_summary_refactor&lang=en&src=youtube-videos/ArgoCD%20%2B%20Kubernetes%3A%20Learn%20GitOps%20(Github%2C%20Helm%2C%20Kustomize)) | 
 [Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/ArgoCD%20%2B%20Kubernetes%3A%20Learn%20GitOps%20(Github%2C%20Helm%2C%20Kustomize)) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=youtube-videos/ArgoCD%20%2B%20Kubernetes%3A%20Learn%20GitOps%20(Github%2C%20Helm%2C%20Kustomize))
 <!-- LH-BUTTONS:END -->

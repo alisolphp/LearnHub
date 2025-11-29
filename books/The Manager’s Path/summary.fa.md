@@ -11,11 +11,11 @@
 * بعد از هر بخش یک لینک `Ask AI` هست که می‌توانی با کلیک روی آن، در سایت من عمیق‌تر در مورد همان بخش سؤال بپرسی.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=3bb5ce7c -->
+<!-- LH-BUTTONS:HASH=4ea0b5d0 -->
 
 ### AI-Powered buttons
 
-Teach Me::
+Teach Me:
 [5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=fa&src=books/The%20Manager%E2%80%99s%20Path) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=fa&src=books/The%20Manager%E2%80%99s%20Path) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=fa&src=books/The%20Manager%E2%80%99s%20Path) | 
@@ -35,6 +35,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=fa&src=books/The%20Manager%E2%80%99s%20Path) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=fa&src=books/The%20Manager%E2%80%99s%20Path) | 
+[Refactor Challenge](https://alisol.ir/?ai=learnhub_summary_refactor&lang=fa&src=books/The%20Manager%E2%80%99s%20Path) | 
 [Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=books/The%20Manager%E2%80%99s%20Path) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=fa&src=books/The%20Manager%E2%80%99s%20Path)
 <!-- LH-BUTTONS:END -->

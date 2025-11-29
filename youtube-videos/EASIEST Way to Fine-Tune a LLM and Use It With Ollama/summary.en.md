@@ -15,11 +15,11 @@
 - Simply click on `Ask AI` links to dive into any topic you want.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=3bb5ce7c -->
+<!-- LH-BUTTONS:HASH=4ea0b5d0 -->
 
 ### AI-Powered buttons
 
-Teach Me::
+Teach Me:
 [5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=en&src=youtube-videos/EASIEST%20Way%20to%20Fine-Tune%20a%20LLM%20and%20Use%20It%20With%20Ollama) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=youtube-videos/EASIEST%20Way%20to%20Fine-Tune%20a%20LLM%20and%20Use%20It%20With%20Ollama) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=youtube-videos/EASIEST%20Way%20to%20Fine-Tune%20a%20LLM%20and%20Use%20It%20With%20Ollama) | 
@@ -39,6 +39,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=youtube-videos/EASIEST%20Way%20to%20Fine-Tune%20a%20LLM%20and%20Use%20It%20With%20Ollama) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=youtube-videos/EASIEST%20Way%20to%20Fine-Tune%20a%20LLM%20and%20Use%20It%20With%20Ollama) | 
+[Refactor Challenge](https://alisol.ir/?ai=learnhub_summary_refactor&lang=en&src=youtube-videos/EASIEST%20Way%20to%20Fine-Tune%20a%20LLM%20and%20Use%20It%20With%20Ollama) | 
 [Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/EASIEST%20Way%20to%20Fine-Tune%20a%20LLM%20and%20Use%20It%20With%20Ollama) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=youtube-videos/EASIEST%20Way%20to%20Fine-Tune%20a%20LLM%20and%20Use%20It%20With%20Ollama)
 <!-- LH-BUTTONS:END -->

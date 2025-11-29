@@ -15,11 +15,11 @@
 - Simply click on `Ask AI` links to dive into any topic you want.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=3bb5ce7c -->
+<!-- LH-BUTTONS:HASH=4ea0b5d0 -->
 
 ### AI-Powered buttons
 
-Teach Me::
+Teach Me:
 [5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=en&src=youtube-videos/How%20to%20Add%20%26%20Manage%20Stripe%20Subscription%20Payments%20in%20Bubble.io%20(Including%20Paywall%20Feature)) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=youtube-videos/How%20to%20Add%20%26%20Manage%20Stripe%20Subscription%20Payments%20in%20Bubble.io%20(Including%20Paywall%20Feature)) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=youtube-videos/How%20to%20Add%20%26%20Manage%20Stripe%20Subscription%20Payments%20in%20Bubble.io%20(Including%20Paywall%20Feature)) | 
@@ -39,6 +39,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=youtube-videos/How%20to%20Add%20%26%20Manage%20Stripe%20Subscription%20Payments%20in%20Bubble.io%20(Including%20Paywall%20Feature)) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=youtube-videos/How%20to%20Add%20%26%20Manage%20Stripe%20Subscription%20Payments%20in%20Bubble.io%20(Including%20Paywall%20Feature)) | 
+[Refactor Challenge](https://alisol.ir/?ai=learnhub_summary_refactor&lang=en&src=youtube-videos/How%20to%20Add%20%26%20Manage%20Stripe%20Subscription%20Payments%20in%20Bubble.io%20(Including%20Paywall%20Feature)) | 
 [Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/How%20to%20Add%20%26%20Manage%20Stripe%20Subscription%20Payments%20in%20Bubble.io%20(Including%20Paywall%20Feature)) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=youtube-videos/How%20to%20Add%20%26%20Manage%20Stripe%20Subscription%20Payments%20in%20Bubble.io%20(Including%20Paywall%20Feature))
 <!-- LH-BUTTONS:END -->
