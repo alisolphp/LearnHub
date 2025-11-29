@@ -1,7 +1,7 @@
 
 ### AI-Powered buttons
 
-Teach Me::
+Teach Me:
 [5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang={{LANG}}&src={{SUMMARY_SRC}}) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang={{LANG}}&src={{SUMMARY_SRC}}) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang={{LANG}}&src={{SUMMARY_SRC}}) | 
@@ -21,5 +21,6 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang={{LANG}}&src={{SUMMARY_SRC}}) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang={{LANG}}&src={{SUMMARY_SRC}}) | 
+[Refactor Challenge](https://alisol.ir/?ai=learnhub_summary_refactor&lang={{LANG}}&src={{SUMMARY_SRC}}) | 
 [Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang={{LANG}}&src={{SUMMARY_SRC}}) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang={{LANG}}&src={{SUMMARY_SRC}})
