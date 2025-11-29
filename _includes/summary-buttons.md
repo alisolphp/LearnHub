@@ -1,7 +1,7 @@
 
 ### AI-Powered buttons
 
-Teach Me:
+Teach Me: 
 [5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang={{LANG}}&src={{SUMMARY_SRC}}) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang={{LANG}}&src={{SUMMARY_SRC}}) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang={{LANG}}&src={{SUMMARY_SRC}}) | 
