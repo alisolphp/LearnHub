@@ -1,5 +1,5 @@
 # ملخص الكورس: AWS Essential Training for Developers
-
+ 
 * **المنصة**: LinkedIn Learning
 * **المُدرّس**: Jeremy Villeneuve
 * **التقييم**: 4.8/5
