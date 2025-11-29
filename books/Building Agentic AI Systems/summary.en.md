@@ -12,28 +12,28 @@ I highly recommend reading the original book for the full depth and author's per
 * Simply click on `Ask AI` links after each section to dive deeper.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=31acc7b2 -->
+<!-- LH-BUTTONS:HASH=47fdb3b8 -->
 
 ### AI-Powered buttons
 
-Start teaching this to a:
+Teach Me::
 [5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=en&src=books/Building%20Agentic%20AI%20Systems) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=books/Building%20Agentic%20AI%20Systems) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=books/Building%20Agentic%20AI%20Systems) | 
 [Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=books/Building%20Agentic%20AI%20Systems) | 
 [(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer)
 
-Learn via different lenses:
+Learn Differently:
 [Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=books/Building%20Agentic%20AI%20Systems) | 
-[Story](https://alisol.ir/?ai=learnhub_summary_story&lang=en&src=books/Building%20Agentic%20AI%20Systems) | 
-[Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=books/Building%20Agentic%20AI%20Systems) | 
+[Storytelling](https://alisol.ir/?ai=learnhub_summary_story&lang=en&src=books/Building%20Agentic%20AI%20Systems) | 
+[Cheatsheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=books/Building%20Agentic%20AI%20Systems) | 
 [Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=books/Building%20Agentic%20AI%20Systems) | 
 [Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=en&src=books/Building%20Agentic%20AI%20Systems) | 
 [Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=en&src=books/Building%20Agentic%20AI%20Systems) | 
 [Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=en&src=books/Building%20Agentic%20AI%20Systems) | 
 [Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=en&src=books/Building%20Agentic%20AI%20Systems)
 
-Check my understanding:
+Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=books/Building%20Agentic%20AI%20Systems) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=books/Building%20Agentic%20AI%20Systems) | 
 [Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=books/Building%20Agentic%20AI%20Systems)

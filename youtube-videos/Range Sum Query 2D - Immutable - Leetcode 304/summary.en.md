@@ -15,28 +15,28 @@
 - Simply click on `Ask AI` links to dive into any topic you want.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=31acc7b2 -->
+<!-- LH-BUTTONS:HASH=47fdb3b8 -->
 
 ### AI-Powered buttons
 
-Start teaching this to a:
+Teach Me::
 [5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=en&src=youtube-videos/Range%20Sum%20Query%202D%20-%20Immutable%20-%20Leetcode%20304) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=youtube-videos/Range%20Sum%20Query%202D%20-%20Immutable%20-%20Leetcode%20304) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=youtube-videos/Range%20Sum%20Query%202D%20-%20Immutable%20-%20Leetcode%20304) | 
 [Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=youtube-videos/Range%20Sum%20Query%202D%20-%20Immutable%20-%20Leetcode%20304) | 
 [(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer)
 
-Learn via different lenses:
+Learn Differently:
 [Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=youtube-videos/Range%20Sum%20Query%202D%20-%20Immutable%20-%20Leetcode%20304) | 
-[Story](https://alisol.ir/?ai=learnhub_summary_story&lang=en&src=youtube-videos/Range%20Sum%20Query%202D%20-%20Immutable%20-%20Leetcode%20304) | 
-[Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=youtube-videos/Range%20Sum%20Query%202D%20-%20Immutable%20-%20Leetcode%20304) | 
+[Storytelling](https://alisol.ir/?ai=learnhub_summary_story&lang=en&src=youtube-videos/Range%20Sum%20Query%202D%20-%20Immutable%20-%20Leetcode%20304) | 
+[Cheatsheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=youtube-videos/Range%20Sum%20Query%202D%20-%20Immutable%20-%20Leetcode%20304) | 
 [Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=youtube-videos/Range%20Sum%20Query%202D%20-%20Immutable%20-%20Leetcode%20304) | 
 [Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=en&src=youtube-videos/Range%20Sum%20Query%202D%20-%20Immutable%20-%20Leetcode%20304) | 
 [Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=en&src=youtube-videos/Range%20Sum%20Query%202D%20-%20Immutable%20-%20Leetcode%20304) | 
 [Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=en&src=youtube-videos/Range%20Sum%20Query%202D%20-%20Immutable%20-%20Leetcode%20304) | 
 [Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=en&src=youtube-videos/Range%20Sum%20Query%202D%20-%20Immutable%20-%20Leetcode%20304)
 
-Check my understanding:
+Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=youtube-videos/Range%20Sum%20Query%202D%20-%20Immutable%20-%20Leetcode%20304) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=youtube-videos/Range%20Sum%20Query%202D%20-%20Immutable%20-%20Leetcode%20304) | 
 [Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/Range%20Sum%20Query%202D%20-%20Immutable%20-%20Leetcode%20304)

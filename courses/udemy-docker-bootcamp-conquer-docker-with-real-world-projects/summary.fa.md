@@ -15,28 +15,28 @@
 - کافی است روی لینک‌های `Ask AI` کلیک کنید تا در مورد هر مبحثی که می‌خواهید، عمیق‌تر کاوش کنید.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=31acc7b2 -->
+<!-- LH-BUTTONS:HASH=47fdb3b8 -->
 
 ### AI-Powered buttons
 
-Start teaching this to a:
+Teach Me::
 [5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=fa&src=courses/udemy-docker-bootcamp-conquer-docker-with-real-world-projects) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=fa&src=courses/udemy-docker-bootcamp-conquer-docker-with-real-world-projects) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=fa&src=courses/udemy-docker-bootcamp-conquer-docker-with-real-world-projects) | 
 [Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=fa&src=courses/udemy-docker-bootcamp-conquer-docker-with-real-world-projects) | 
 [(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer)
 
-Learn via different lenses:
+Learn Differently:
 [Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=fa&src=courses/udemy-docker-bootcamp-conquer-docker-with-real-world-projects) | 
-[Story](https://alisol.ir/?ai=learnhub_summary_story&lang=fa&src=courses/udemy-docker-bootcamp-conquer-docker-with-real-world-projects) | 
-[Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=fa&src=courses/udemy-docker-bootcamp-conquer-docker-with-real-world-projects) | 
+[Storytelling](https://alisol.ir/?ai=learnhub_summary_story&lang=fa&src=courses/udemy-docker-bootcamp-conquer-docker-with-real-world-projects) | 
+[Cheatsheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=fa&src=courses/udemy-docker-bootcamp-conquer-docker-with-real-world-projects) | 
 [Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=fa&src=courses/udemy-docker-bootcamp-conquer-docker-with-real-world-projects) | 
 [Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=fa&src=courses/udemy-docker-bootcamp-conquer-docker-with-real-world-projects) | 
 [Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=fa&src=courses/udemy-docker-bootcamp-conquer-docker-with-real-world-projects) | 
 [Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=fa&src=courses/udemy-docker-bootcamp-conquer-docker-with-real-world-projects) | 
 [Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=fa&src=courses/udemy-docker-bootcamp-conquer-docker-with-real-world-projects)
 
-Check my understanding:
+Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=fa&src=courses/udemy-docker-bootcamp-conquer-docker-with-real-world-projects) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=fa&src=courses/udemy-docker-bootcamp-conquer-docker-with-real-world-projects) | 
 [Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=courses/udemy-docker-bootcamp-conquer-docker-with-real-world-projects)

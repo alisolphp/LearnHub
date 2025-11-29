@@ -11,28 +11,28 @@
 - برای عمیق‌تر شدن در هر بخش، روی لینک «Ask AI» کلیک کنید.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=31acc7b2 -->
+<!-- LH-BUTTONS:HASH=47fdb3b8 -->
 
 ### AI-Powered buttons
 
-Start teaching this to a:
+Teach Me::
 [5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=fa&src=books/Brand%20the%20Change) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=fa&src=books/Brand%20the%20Change) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=fa&src=books/Brand%20the%20Change) | 
 [Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=fa&src=books/Brand%20the%20Change) | 
 [(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer)
 
-Learn via different lenses:
+Learn Differently:
 [Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=fa&src=books/Brand%20the%20Change) | 
-[Story](https://alisol.ir/?ai=learnhub_summary_story&lang=fa&src=books/Brand%20the%20Change) | 
-[Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=fa&src=books/Brand%20the%20Change) | 
+[Storytelling](https://alisol.ir/?ai=learnhub_summary_story&lang=fa&src=books/Brand%20the%20Change) | 
+[Cheatsheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=fa&src=books/Brand%20the%20Change) | 
 [Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=fa&src=books/Brand%20the%20Change) | 
 [Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=fa&src=books/Brand%20the%20Change) | 
 [Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=fa&src=books/Brand%20the%20Change) | 
 [Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=fa&src=books/Brand%20the%20Change) | 
 [Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=fa&src=books/Brand%20the%20Change)
 
-Check my understanding:
+Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=fa&src=books/Brand%20the%20Change) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=fa&src=books/Brand%20the%20Change) | 
 [Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=books/Brand%20the%20Change)

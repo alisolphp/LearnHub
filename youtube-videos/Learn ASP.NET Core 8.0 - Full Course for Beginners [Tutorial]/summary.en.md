@@ -15,28 +15,28 @@
 - Simply click on `Ask AI` links to dive into any topic you want.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=31acc7b2 -->
+<!-- LH-BUTTONS:HASH=47fdb3b8 -->
 
 ### AI-Powered buttons
 
-Start teaching this to a:
+Teach Me::
 [5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=en&src=youtube-videos/Learn%20ASP.NET%20Core%208.0%20-%20Full%20Course%20for%20Beginners%20%5BTutorial%5D) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=youtube-videos/Learn%20ASP.NET%20Core%208.0%20-%20Full%20Course%20for%20Beginners%20%5BTutorial%5D) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=youtube-videos/Learn%20ASP.NET%20Core%208.0%20-%20Full%20Course%20for%20Beginners%20%5BTutorial%5D) | 
 [Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=youtube-videos/Learn%20ASP.NET%20Core%208.0%20-%20Full%20Course%20for%20Beginners%20%5BTutorial%5D) | 
 [(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer)
 
-Learn via different lenses:
+Learn Differently:
 [Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=youtube-videos/Learn%20ASP.NET%20Core%208.0%20-%20Full%20Course%20for%20Beginners%20%5BTutorial%5D) | 
-[Story](https://alisol.ir/?ai=learnhub_summary_story&lang=en&src=youtube-videos/Learn%20ASP.NET%20Core%208.0%20-%20Full%20Course%20for%20Beginners%20%5BTutorial%5D) | 
-[Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=youtube-videos/Learn%20ASP.NET%20Core%208.0%20-%20Full%20Course%20for%20Beginners%20%5BTutorial%5D) | 
+[Storytelling](https://alisol.ir/?ai=learnhub_summary_story&lang=en&src=youtube-videos/Learn%20ASP.NET%20Core%208.0%20-%20Full%20Course%20for%20Beginners%20%5BTutorial%5D) | 
+[Cheatsheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=youtube-videos/Learn%20ASP.NET%20Core%208.0%20-%20Full%20Course%20for%20Beginners%20%5BTutorial%5D) | 
 [Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=youtube-videos/Learn%20ASP.NET%20Core%208.0%20-%20Full%20Course%20for%20Beginners%20%5BTutorial%5D) | 
 [Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=en&src=youtube-videos/Learn%20ASP.NET%20Core%208.0%20-%20Full%20Course%20for%20Beginners%20%5BTutorial%5D) | 
 [Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=en&src=youtube-videos/Learn%20ASP.NET%20Core%208.0%20-%20Full%20Course%20for%20Beginners%20%5BTutorial%5D) | 
 [Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=en&src=youtube-videos/Learn%20ASP.NET%20Core%208.0%20-%20Full%20Course%20for%20Beginners%20%5BTutorial%5D) | 
 [Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=en&src=youtube-videos/Learn%20ASP.NET%20Core%208.0%20-%20Full%20Course%20for%20Beginners%20%5BTutorial%5D)
 
-Check my understanding:
+Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=youtube-videos/Learn%20ASP.NET%20Core%208.0%20-%20Full%20Course%20for%20Beginners%20%5BTutorial%5D) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=youtube-videos/Learn%20ASP.NET%20Core%208.0%20-%20Full%20Course%20for%20Beginners%20%5BTutorial%5D) | 
 [Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/Learn%20ASP.NET%20Core%208.0%20-%20Full%20Course%20for%20Beginners%20%5BTutorial%5D)

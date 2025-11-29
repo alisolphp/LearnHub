@@ -9,28 +9,28 @@
 > **Disclaimer**: This is a personal summary and interpretation based on a YouTube video. It is not official material and not endorsed by the original creator. All rights remain with the respective creators.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=31acc7b2 -->
+<!-- LH-BUTTONS:HASH=47fdb3b8 -->
 
 ### AI-Powered buttons
 
-Start teaching this to a:
+Teach Me::
 [5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=en&src=youtube-videos/Django%20Tutorial%20for%20Beginners%20%E2%80%93%20Build%20Powerful%20Backends) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=youtube-videos/Django%20Tutorial%20for%20Beginners%20%E2%80%93%20Build%20Powerful%20Backends) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=youtube-videos/Django%20Tutorial%20for%20Beginners%20%E2%80%93%20Build%20Powerful%20Backends) | 
 [Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=youtube-videos/Django%20Tutorial%20for%20Beginners%20%E2%80%93%20Build%20Powerful%20Backends) | 
 [(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer)
 
-Learn via different lenses:
+Learn Differently:
 [Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=youtube-videos/Django%20Tutorial%20for%20Beginners%20%E2%80%93%20Build%20Powerful%20Backends) | 
-[Story](https://alisol.ir/?ai=learnhub_summary_story&lang=en&src=youtube-videos/Django%20Tutorial%20for%20Beginners%20%E2%80%93%20Build%20Powerful%20Backends) | 
-[Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=youtube-videos/Django%20Tutorial%20for%20Beginners%20%E2%80%93%20Build%20Powerful%20Backends) | 
+[Storytelling](https://alisol.ir/?ai=learnhub_summary_story&lang=en&src=youtube-videos/Django%20Tutorial%20for%20Beginners%20%E2%80%93%20Build%20Powerful%20Backends) | 
+[Cheatsheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=youtube-videos/Django%20Tutorial%20for%20Beginners%20%E2%80%93%20Build%20Powerful%20Backends) | 
 [Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=youtube-videos/Django%20Tutorial%20for%20Beginners%20%E2%80%93%20Build%20Powerful%20Backends) | 
 [Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=en&src=youtube-videos/Django%20Tutorial%20for%20Beginners%20%E2%80%93%20Build%20Powerful%20Backends) | 
 [Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=en&src=youtube-videos/Django%20Tutorial%20for%20Beginners%20%E2%80%93%20Build%20Powerful%20Backends) | 
 [Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=en&src=youtube-videos/Django%20Tutorial%20for%20Beginners%20%E2%80%93%20Build%20Powerful%20Backends) | 
 [Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=en&src=youtube-videos/Django%20Tutorial%20for%20Beginners%20%E2%80%93%20Build%20Powerful%20Backends)
 
-Check my understanding:
+Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=youtube-videos/Django%20Tutorial%20for%20Beginners%20%E2%80%93%20Build%20Powerful%20Backends) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=youtube-videos/Django%20Tutorial%20for%20Beginners%20%E2%80%93%20Build%20Powerful%20Backends) | 
 [Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/Django%20Tutorial%20for%20Beginners%20%E2%80%93%20Build%20Powerful%20Backends)

@@ -8,28 +8,28 @@
 ---
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=31acc7b2 -->
+<!-- LH-BUTTONS:HASH=47fdb3b8 -->
 
 ### AI-Powered buttons
 
-Start teaching this to a:
+Teach Me::
 [5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=en&src=mock-interviews/system-design/Design%20Spotify%20%7C%20ex-Google%20EM%20%7C%20Google%20System%20Design%20Interview) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=mock-interviews/system-design/Design%20Spotify%20%7C%20ex-Google%20EM%20%7C%20Google%20System%20Design%20Interview) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=mock-interviews/system-design/Design%20Spotify%20%7C%20ex-Google%20EM%20%7C%20Google%20System%20Design%20Interview) | 
 [Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=mock-interviews/system-design/Design%20Spotify%20%7C%20ex-Google%20EM%20%7C%20Google%20System%20Design%20Interview) | 
 [(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer)
 
-Learn via different lenses:
+Learn Differently:
 [Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=mock-interviews/system-design/Design%20Spotify%20%7C%20ex-Google%20EM%20%7C%20Google%20System%20Design%20Interview) | 
-[Story](https://alisol.ir/?ai=learnhub_summary_story&lang=en&src=mock-interviews/system-design/Design%20Spotify%20%7C%20ex-Google%20EM%20%7C%20Google%20System%20Design%20Interview) | 
-[Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=mock-interviews/system-design/Design%20Spotify%20%7C%20ex-Google%20EM%20%7C%20Google%20System%20Design%20Interview) | 
+[Storytelling](https://alisol.ir/?ai=learnhub_summary_story&lang=en&src=mock-interviews/system-design/Design%20Spotify%20%7C%20ex-Google%20EM%20%7C%20Google%20System%20Design%20Interview) | 
+[Cheatsheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=mock-interviews/system-design/Design%20Spotify%20%7C%20ex-Google%20EM%20%7C%20Google%20System%20Design%20Interview) | 
 [Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=mock-interviews/system-design/Design%20Spotify%20%7C%20ex-Google%20EM%20%7C%20Google%20System%20Design%20Interview) | 
 [Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=en&src=mock-interviews/system-design/Design%20Spotify%20%7C%20ex-Google%20EM%20%7C%20Google%20System%20Design%20Interview) | 
 [Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=en&src=mock-interviews/system-design/Design%20Spotify%20%7C%20ex-Google%20EM%20%7C%20Google%20System%20Design%20Interview) | 
 [Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=en&src=mock-interviews/system-design/Design%20Spotify%20%7C%20ex-Google%20EM%20%7C%20Google%20System%20Design%20Interview) | 
 [Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=en&src=mock-interviews/system-design/Design%20Spotify%20%7C%20ex-Google%20EM%20%7C%20Google%20System%20Design%20Interview)
 
-Check my understanding:
+Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=mock-interviews/system-design/Design%20Spotify%20%7C%20ex-Google%20EM%20%7C%20Google%20System%20Design%20Interview) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=mock-interviews/system-design/Design%20Spotify%20%7C%20ex-Google%20EM%20%7C%20Google%20System%20Design%20Interview) | 
 [Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=mock-interviews/system-design/Design%20Spotify%20%7C%20ex-Google%20EM%20%7C%20Google%20System%20Design%20Interview)

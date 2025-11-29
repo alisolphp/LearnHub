@@ -11,28 +11,28 @@
 * بعد از هر بخش یک لینک `Ask AI` هست که می‌توانی با کلیک روی آن، در سایت من عمیق‌تر در مورد همان بخش سؤال بپرسی.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=31acc7b2 -->
+<!-- LH-BUTTONS:HASH=47fdb3b8 -->
 
 ### AI-Powered buttons
 
-Start teaching this to a:
+Teach Me::
 [5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=fa&src=books/The%20Manager%E2%80%99s%20Path) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=fa&src=books/The%20Manager%E2%80%99s%20Path) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=fa&src=books/The%20Manager%E2%80%99s%20Path) | 
 [Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=fa&src=books/The%20Manager%E2%80%99s%20Path) | 
 [(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer)
 
-Learn via different lenses:
+Learn Differently:
 [Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=fa&src=books/The%20Manager%E2%80%99s%20Path) | 
-[Story](https://alisol.ir/?ai=learnhub_summary_story&lang=fa&src=books/The%20Manager%E2%80%99s%20Path) | 
-[Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=fa&src=books/The%20Manager%E2%80%99s%20Path) | 
+[Storytelling](https://alisol.ir/?ai=learnhub_summary_story&lang=fa&src=books/The%20Manager%E2%80%99s%20Path) | 
+[Cheatsheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=fa&src=books/The%20Manager%E2%80%99s%20Path) | 
 [Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=fa&src=books/The%20Manager%E2%80%99s%20Path) | 
 [Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=fa&src=books/The%20Manager%E2%80%99s%20Path) | 
 [Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=fa&src=books/The%20Manager%E2%80%99s%20Path) | 
 [Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=fa&src=books/The%20Manager%E2%80%99s%20Path) | 
 [Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=fa&src=books/The%20Manager%E2%80%99s%20Path)
 
-Check my understanding:
+Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=fa&src=books/The%20Manager%E2%80%99s%20Path) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=fa&src=books/The%20Manager%E2%80%99s%20Path) | 
 [Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=books/The%20Manager%E2%80%99s%20Path)

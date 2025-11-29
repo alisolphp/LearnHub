@@ -14,28 +14,28 @@
 - کافی است روی لینک‌های `Ask AI` کلیک کنی تا روی هر مبحث، عمیق‌تر گفت‌وگو و تمرین کنی.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=31acc7b2 -->
+<!-- LH-BUTTONS:HASH=47fdb3b8 -->
 
 ### AI-Powered buttons
 
-Start teaching this to a:
+Teach Me::
 [5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=fa&src=courses/udemy-openapi-specification-swagger-tools-zero-to-master) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=fa&src=courses/udemy-openapi-specification-swagger-tools-zero-to-master) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=fa&src=courses/udemy-openapi-specification-swagger-tools-zero-to-master) | 
 [Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=fa&src=courses/udemy-openapi-specification-swagger-tools-zero-to-master) | 
 [(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer)
 
-Learn via different lenses:
+Learn Differently:
 [Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=fa&src=courses/udemy-openapi-specification-swagger-tools-zero-to-master) | 
-[Story](https://alisol.ir/?ai=learnhub_summary_story&lang=fa&src=courses/udemy-openapi-specification-swagger-tools-zero-to-master) | 
-[Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=fa&src=courses/udemy-openapi-specification-swagger-tools-zero-to-master) | 
+[Storytelling](https://alisol.ir/?ai=learnhub_summary_story&lang=fa&src=courses/udemy-openapi-specification-swagger-tools-zero-to-master) | 
+[Cheatsheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=fa&src=courses/udemy-openapi-specification-swagger-tools-zero-to-master) | 
 [Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=fa&src=courses/udemy-openapi-specification-swagger-tools-zero-to-master) | 
 [Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=fa&src=courses/udemy-openapi-specification-swagger-tools-zero-to-master) | 
 [Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=fa&src=courses/udemy-openapi-specification-swagger-tools-zero-to-master) | 
 [Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=fa&src=courses/udemy-openapi-specification-swagger-tools-zero-to-master) | 
 [Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=fa&src=courses/udemy-openapi-specification-swagger-tools-zero-to-master)
 
-Check my understanding:
+Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=fa&src=courses/udemy-openapi-specification-swagger-tools-zero-to-master) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=fa&src=courses/udemy-openapi-specification-swagger-tools-zero-to-master) | 
 [Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=courses/udemy-openapi-specification-swagger-tools-zero-to-master)

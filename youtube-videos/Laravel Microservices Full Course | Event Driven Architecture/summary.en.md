@@ -15,28 +15,28 @@
 - Simply click on `Ask AI` links to dive into any topic you want.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=31acc7b2 -->
+<!-- LH-BUTTONS:HASH=47fdb3b8 -->
 
 ### AI-Powered buttons
 
-Start teaching this to a:
+Teach Me::
 [5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=en&src=youtube-videos/Laravel%20Microservices%20Full%20Course%20%7C%20Event%20Driven%20Architecture) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=youtube-videos/Laravel%20Microservices%20Full%20Course%20%7C%20Event%20Driven%20Architecture) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=youtube-videos/Laravel%20Microservices%20Full%20Course%20%7C%20Event%20Driven%20Architecture) | 
 [Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=youtube-videos/Laravel%20Microservices%20Full%20Course%20%7C%20Event%20Driven%20Architecture) | 
 [(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer)
 
-Learn via different lenses:
+Learn Differently:
 [Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=youtube-videos/Laravel%20Microservices%20Full%20Course%20%7C%20Event%20Driven%20Architecture) | 
-[Story](https://alisol.ir/?ai=learnhub_summary_story&lang=en&src=youtube-videos/Laravel%20Microservices%20Full%20Course%20%7C%20Event%20Driven%20Architecture) | 
-[Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=youtube-videos/Laravel%20Microservices%20Full%20Course%20%7C%20Event%20Driven%20Architecture) | 
+[Storytelling](https://alisol.ir/?ai=learnhub_summary_story&lang=en&src=youtube-videos/Laravel%20Microservices%20Full%20Course%20%7C%20Event%20Driven%20Architecture) | 
+[Cheatsheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=youtube-videos/Laravel%20Microservices%20Full%20Course%20%7C%20Event%20Driven%20Architecture) | 
 [Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=youtube-videos/Laravel%20Microservices%20Full%20Course%20%7C%20Event%20Driven%20Architecture) | 
 [Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=en&src=youtube-videos/Laravel%20Microservices%20Full%20Course%20%7C%20Event%20Driven%20Architecture) | 
 [Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=en&src=youtube-videos/Laravel%20Microservices%20Full%20Course%20%7C%20Event%20Driven%20Architecture) | 
 [Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=en&src=youtube-videos/Laravel%20Microservices%20Full%20Course%20%7C%20Event%20Driven%20Architecture) | 
 [Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=en&src=youtube-videos/Laravel%20Microservices%20Full%20Course%20%7C%20Event%20Driven%20Architecture)
 
-Check my understanding:
+Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=youtube-videos/Laravel%20Microservices%20Full%20Course%20%7C%20Event%20Driven%20Architecture) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=youtube-videos/Laravel%20Microservices%20Full%20Course%20%7C%20Event%20Driven%20Architecture) | 
 [Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/Laravel%20Microservices%20Full%20Course%20%7C%20Event%20Driven%20Architecture)

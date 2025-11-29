@@ -9,28 +9,28 @@
 > **Disclaimer**: This is a personal summary and interpretation based on a YouTube video. It is not official material and not endorsed by the original creator. All rights remain with the respective creators.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=31acc7b2 -->
+<!-- LH-BUTTONS:HASH=47fdb3b8 -->
 
 ### AI-Powered buttons
 
-Start teaching this to a:
+Teach Me::
 [5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=en&src=youtube-videos/Implement%20Stripe%20with%20PHP%20%7C%20Step%20by%20Step%20Guide) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=youtube-videos/Implement%20Stripe%20with%20PHP%20%7C%20Step%20by%20Step%20Guide) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=youtube-videos/Implement%20Stripe%20with%20PHP%20%7C%20Step%20by%20Step%20Guide) | 
 [Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=youtube-videos/Implement%20Stripe%20with%20PHP%20%7C%20Step%20by%20Step%20Guide) | 
 [(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer)
 
-Learn via different lenses:
+Learn Differently:
 [Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=youtube-videos/Implement%20Stripe%20with%20PHP%20%7C%20Step%20by%20Step%20Guide) | 
-[Story](https://alisol.ir/?ai=learnhub_summary_story&lang=en&src=youtube-videos/Implement%20Stripe%20with%20PHP%20%7C%20Step%20by%20Step%20Guide) | 
-[Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=youtube-videos/Implement%20Stripe%20with%20PHP%20%7C%20Step%20by%20Step%20Guide) | 
+[Storytelling](https://alisol.ir/?ai=learnhub_summary_story&lang=en&src=youtube-videos/Implement%20Stripe%20with%20PHP%20%7C%20Step%20by%20Step%20Guide) | 
+[Cheatsheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=youtube-videos/Implement%20Stripe%20with%20PHP%20%7C%20Step%20by%20Step%20Guide) | 
 [Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=youtube-videos/Implement%20Stripe%20with%20PHP%20%7C%20Step%20by%20Step%20Guide) | 
 [Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=en&src=youtube-videos/Implement%20Stripe%20with%20PHP%20%7C%20Step%20by%20Step%20Guide) | 
 [Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=en&src=youtube-videos/Implement%20Stripe%20with%20PHP%20%7C%20Step%20by%20Step%20Guide) | 
 [Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=en&src=youtube-videos/Implement%20Stripe%20with%20PHP%20%7C%20Step%20by%20Step%20Guide) | 
 [Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=en&src=youtube-videos/Implement%20Stripe%20with%20PHP%20%7C%20Step%20by%20Step%20Guide)
 
-Check my understanding:
+Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=youtube-videos/Implement%20Stripe%20with%20PHP%20%7C%20Step%20by%20Step%20Guide) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=youtube-videos/Implement%20Stripe%20with%20PHP%20%7C%20Step%20by%20Step%20Guide) | 
 [Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/Implement%20Stripe%20with%20PHP%20%7C%20Step%20by%20Step%20Guide)

@@ -10,28 +10,28 @@
 *این سند، نکات کلیدی دوره را خلاصه می‌کند. اگر فرصت داشتی، دیدن خود دوره خیلی مفیدتر است.*
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=31acc7b2 -->
+<!-- LH-BUTTONS:HASH=47fdb3b8 -->
 
 ### AI-Powered buttons
 
-Start teaching this to a:
+Teach Me::
 [5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=fa&src=courses/pluralsight-writing-highly-maintainable-unit-tests) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=fa&src=courses/pluralsight-writing-highly-maintainable-unit-tests) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=fa&src=courses/pluralsight-writing-highly-maintainable-unit-tests) | 
 [Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=fa&src=courses/pluralsight-writing-highly-maintainable-unit-tests) | 
 [(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer)
 
-Learn via different lenses:
+Learn Differently:
 [Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=fa&src=courses/pluralsight-writing-highly-maintainable-unit-tests) | 
-[Story](https://alisol.ir/?ai=learnhub_summary_story&lang=fa&src=courses/pluralsight-writing-highly-maintainable-unit-tests) | 
-[Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=fa&src=courses/pluralsight-writing-highly-maintainable-unit-tests) | 
+[Storytelling](https://alisol.ir/?ai=learnhub_summary_story&lang=fa&src=courses/pluralsight-writing-highly-maintainable-unit-tests) | 
+[Cheatsheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=fa&src=courses/pluralsight-writing-highly-maintainable-unit-tests) | 
 [Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=fa&src=courses/pluralsight-writing-highly-maintainable-unit-tests) | 
 [Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=fa&src=courses/pluralsight-writing-highly-maintainable-unit-tests) | 
 [Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=fa&src=courses/pluralsight-writing-highly-maintainable-unit-tests) | 
 [Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=fa&src=courses/pluralsight-writing-highly-maintainable-unit-tests) | 
 [Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=fa&src=courses/pluralsight-writing-highly-maintainable-unit-tests)
 
-Check my understanding:
+Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=fa&src=courses/pluralsight-writing-highly-maintainable-unit-tests) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=fa&src=courses/pluralsight-writing-highly-maintainable-unit-tests) | 
 [Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=courses/pluralsight-writing-highly-maintainable-unit-tests)

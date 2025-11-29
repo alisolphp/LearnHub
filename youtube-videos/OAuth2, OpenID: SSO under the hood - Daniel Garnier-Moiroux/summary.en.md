@@ -15,28 +15,28 @@
 - Simply click on `Ask AI` links to dive into any topic you want.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=31acc7b2 -->
+<!-- LH-BUTTONS:HASH=47fdb3b8 -->
 
 ### AI-Powered buttons
 
-Start teaching this to a:
+Teach Me::
 [5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=en&src=youtube-videos/OAuth2%2C%20OpenID%3A%20SSO%20under%20the%20hood%20-%20Daniel%20Garnier-Moiroux) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=youtube-videos/OAuth2%2C%20OpenID%3A%20SSO%20under%20the%20hood%20-%20Daniel%20Garnier-Moiroux) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=youtube-videos/OAuth2%2C%20OpenID%3A%20SSO%20under%20the%20hood%20-%20Daniel%20Garnier-Moiroux) | 
 [Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=youtube-videos/OAuth2%2C%20OpenID%3A%20SSO%20under%20the%20hood%20-%20Daniel%20Garnier-Moiroux) | 
 [(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer)
 
-Learn via different lenses:
+Learn Differently:
 [Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=youtube-videos/OAuth2%2C%20OpenID%3A%20SSO%20under%20the%20hood%20-%20Daniel%20Garnier-Moiroux) | 
-[Story](https://alisol.ir/?ai=learnhub_summary_story&lang=en&src=youtube-videos/OAuth2%2C%20OpenID%3A%20SSO%20under%20the%20hood%20-%20Daniel%20Garnier-Moiroux) | 
-[Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=youtube-videos/OAuth2%2C%20OpenID%3A%20SSO%20under%20the%20hood%20-%20Daniel%20Garnier-Moiroux) | 
+[Storytelling](https://alisol.ir/?ai=learnhub_summary_story&lang=en&src=youtube-videos/OAuth2%2C%20OpenID%3A%20SSO%20under%20the%20hood%20-%20Daniel%20Garnier-Moiroux) | 
+[Cheatsheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=youtube-videos/OAuth2%2C%20OpenID%3A%20SSO%20under%20the%20hood%20-%20Daniel%20Garnier-Moiroux) | 
 [Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=youtube-videos/OAuth2%2C%20OpenID%3A%20SSO%20under%20the%20hood%20-%20Daniel%20Garnier-Moiroux) | 
 [Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=en&src=youtube-videos/OAuth2%2C%20OpenID%3A%20SSO%20under%20the%20hood%20-%20Daniel%20Garnier-Moiroux) | 
 [Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=en&src=youtube-videos/OAuth2%2C%20OpenID%3A%20SSO%20under%20the%20hood%20-%20Daniel%20Garnier-Moiroux) | 
 [Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=en&src=youtube-videos/OAuth2%2C%20OpenID%3A%20SSO%20under%20the%20hood%20-%20Daniel%20Garnier-Moiroux) | 
 [Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=en&src=youtube-videos/OAuth2%2C%20OpenID%3A%20SSO%20under%20the%20hood%20-%20Daniel%20Garnier-Moiroux)
 
-Check my understanding:
+Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=youtube-videos/OAuth2%2C%20OpenID%3A%20SSO%20under%20the%20hood%20-%20Daniel%20Garnier-Moiroux) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=youtube-videos/OAuth2%2C%20OpenID%3A%20SSO%20under%20the%20hood%20-%20Daniel%20Garnier-Moiroux) | 
 [Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/OAuth2%2C%20OpenID%3A%20SSO%20under%20the%20hood%20-%20Daniel%20Garnier-Moiroux)

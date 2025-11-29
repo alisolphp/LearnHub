@@ -12,28 +12,28 @@
 * بعد از هر بخش، روی لینک‌ّهای `Ask AI` کلیک کن تا عمیق‌تر وارد جزئیات همان قسمت بشوی.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=31acc7b2 -->
+<!-- LH-BUTTONS:HASH=47fdb3b8 -->
 
 ### AI-Powered buttons
 
-Start teaching this to a:
+Teach Me::
 [5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=fa&src=books/Google%20SRE%20-%20Site%20reliability%20engineering%20book) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=fa&src=books/Google%20SRE%20-%20Site%20reliability%20engineering%20book) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=fa&src=books/Google%20SRE%20-%20Site%20reliability%20engineering%20book) | 
 [Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=fa&src=books/Google%20SRE%20-%20Site%20reliability%20engineering%20book) | 
 [(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer)
 
-Learn via different lenses:
+Learn Differently:
 [Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=fa&src=books/Google%20SRE%20-%20Site%20reliability%20engineering%20book) | 
-[Story](https://alisol.ir/?ai=learnhub_summary_story&lang=fa&src=books/Google%20SRE%20-%20Site%20reliability%20engineering%20book) | 
-[Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=fa&src=books/Google%20SRE%20-%20Site%20reliability%20engineering%20book) | 
+[Storytelling](https://alisol.ir/?ai=learnhub_summary_story&lang=fa&src=books/Google%20SRE%20-%20Site%20reliability%20engineering%20book) | 
+[Cheatsheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=fa&src=books/Google%20SRE%20-%20Site%20reliability%20engineering%20book) | 
 [Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=fa&src=books/Google%20SRE%20-%20Site%20reliability%20engineering%20book) | 
 [Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=fa&src=books/Google%20SRE%20-%20Site%20reliability%20engineering%20book) | 
 [Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=fa&src=books/Google%20SRE%20-%20Site%20reliability%20engineering%20book) | 
 [Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=fa&src=books/Google%20SRE%20-%20Site%20reliability%20engineering%20book) | 
 [Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=fa&src=books/Google%20SRE%20-%20Site%20reliability%20engineering%20book)
 
-Check my understanding:
+Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=fa&src=books/Google%20SRE%20-%20Site%20reliability%20engineering%20book) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=fa&src=books/Google%20SRE%20-%20Site%20reliability%20engineering%20book) | 
 [Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=books/Google%20SRE%20-%20Site%20reliability%20engineering%20book)
