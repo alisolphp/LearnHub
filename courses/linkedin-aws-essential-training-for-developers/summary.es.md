@@ -10,7 +10,7 @@
 
 ## Antes de empezar
 - Resumo los puntos clave de cursos útiles para aprender y repasar rápidamente.
-- Simplemente haz clic en los enlaces de `Ask AI` para profundizar en cualquier tema que quieras.
+- Simplemente haz clic en los enlaces de `Ask AI` para profundizar en cualquier tema que quieras. 
 
 <!-- LH-BUTTONS:START -->
 <!-- auto-generated; do not edit -->
