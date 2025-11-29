@@ -4,7 +4,7 @@
 * **Channel/Creator**: Redis
 * **Duration**: 00:14:02
 * **Release Date**: Apr 15, 2019
-* **Video Link**: https://www.tovideo.org/
+* **Video Link**: https://www.youtube.com/watch?v=W8IEzoxRMz4
 
 > **Disclaimer**: This is a personal summary and interpretation based on a YouTube video. It is not official material and not endorsed by the original creator. All rights remain with the respective creators.
 
