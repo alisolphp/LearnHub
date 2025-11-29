@@ -21,5 +21,5 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang={{LANG}}&src={{SUMMARY_SRC}}) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang={{LANG}}&src={{SUMMARY_SRC}}) | 
-[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang={{LANG}}&src={{SUMMARY_SRC}})
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang={{LANG}}&src={{SUMMARY_SRC}}) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang={{LANG}}&src={{SUMMARY_SRC}})
