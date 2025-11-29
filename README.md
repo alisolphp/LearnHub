@@ -335,7 +335,7 @@ Auto-generated overview of the repository structure:
 <!-- COURSES_START -->
 <h4 id="devops-cloud-infrastructure">DevOps, Cloud &amp; Infrastructure</h4>
 
-- [Linkedin Aws Essential Training For Developers](courses%2Flinkedin-aws-essential-training-for-developers%2Fsummary.en.md) [ [EN](courses%2Flinkedin-aws-essential-training-for-developers%2Fsummary.en.md) | [FA](courses%2Flinkedin-aws-essential-training-for-developers%2Fsummary.fa.md) ]
+- [Linkedin Aws Essential Training For Developers](courses%2Flinkedin-aws-essential-training-for-developers%2Fsummary.en.md) [ [EN](courses%2Flinkedin-aws-essential-training-for-developers%2Fsummary.en.md) | [FA](courses%2Flinkedin-aws-essential-training-for-developers%2Fsummary.fa.md) | [NL](courses%2Flinkedin-aws-essential-training-for-developers%2Fsummary.nl.md) ]
 
 - [Linkedin Serverless Architecture](courses%2Flinkedin-serverless-architecture%2Fsummary.en.md) [ [EN](courses%2Flinkedin-serverless-architecture%2Fsummary.en.md) | [FA](courses%2Flinkedin-serverless-architecture%2Fsummary.fa.md) ]
 
