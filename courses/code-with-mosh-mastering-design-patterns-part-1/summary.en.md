@@ -15,11 +15,12 @@ Quick summaries of useful courses for fast learning and review.
 Click any Ask AI link to dive deeper into a topic.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=005796ea -->
+<!-- LH-BUTTONS:HASH=31acc7b2 -->
 
 ### AI-Powered buttons
 
 Start teaching this to a:
+[5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=en&src=courses/code-with-mosh-mastering-design-patterns-part-1) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=courses/code-with-mosh-mastering-design-patterns-part-1) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=courses/code-with-mosh-mastering-design-patterns-part-1) | 
 [Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=courses/code-with-mosh-mastering-design-patterns-part-1) | 
@@ -27,6 +28,7 @@ Start teaching this to a:
 
 Learn via different lenses:
 [Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=courses/code-with-mosh-mastering-design-patterns-part-1) | 
+[Story](https://alisol.ir/?ai=learnhub_summary_story&lang=en&src=courses/code-with-mosh-mastering-design-patterns-part-1) | 
 [Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=courses/code-with-mosh-mastering-design-patterns-part-1) | 
 [Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=courses/code-with-mosh-mastering-design-patterns-part-1) | 
 [Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=en&src=courses/code-with-mosh-mastering-design-patterns-part-1) | 
@@ -38,6 +40,7 @@ Check my understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=courses/code-with-mosh-mastering-design-patterns-part-1) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=courses/code-with-mosh-mastering-design-patterns-part-1) | 
 [Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=courses/code-with-mosh-mastering-design-patterns-part-1)
+[Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=courses/code-with-mosh-mastering-design-patterns-part-1)
 <!-- LH-BUTTONS:END -->
 
 ---

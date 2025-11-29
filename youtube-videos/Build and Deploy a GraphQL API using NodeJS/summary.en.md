@@ -15,11 +15,12 @@
 - Simply click on `Ask AI` links to dive into any topic you want.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=005796ea -->
+<!-- LH-BUTTONS:HASH=31acc7b2 -->
 
 ### AI-Powered buttons
 
 Start teaching this to a:
+[5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=en&src=youtube-videos/Build%20and%20Deploy%20a%20GraphQL%20API%20using%20NodeJS) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=youtube-videos/Build%20and%20Deploy%20a%20GraphQL%20API%20using%20NodeJS) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=youtube-videos/Build%20and%20Deploy%20a%20GraphQL%20API%20using%20NodeJS) | 
 [Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=youtube-videos/Build%20and%20Deploy%20a%20GraphQL%20API%20using%20NodeJS) | 
@@ -27,6 +28,7 @@ Start teaching this to a:
 
 Learn via different lenses:
 [Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=youtube-videos/Build%20and%20Deploy%20a%20GraphQL%20API%20using%20NodeJS) | 
+[Story](https://alisol.ir/?ai=learnhub_summary_story&lang=en&src=youtube-videos/Build%20and%20Deploy%20a%20GraphQL%20API%20using%20NodeJS) | 
 [Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=youtube-videos/Build%20and%20Deploy%20a%20GraphQL%20API%20using%20NodeJS) | 
 [Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=youtube-videos/Build%20and%20Deploy%20a%20GraphQL%20API%20using%20NodeJS) | 
 [Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=en&src=youtube-videos/Build%20and%20Deploy%20a%20GraphQL%20API%20using%20NodeJS) | 
@@ -38,6 +40,7 @@ Check my understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=youtube-videos/Build%20and%20Deploy%20a%20GraphQL%20API%20using%20NodeJS) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=youtube-videos/Build%20and%20Deploy%20a%20GraphQL%20API%20using%20NodeJS) | 
 [Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/Build%20and%20Deploy%20a%20GraphQL%20API%20using%20NodeJS)
+[Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=youtube-videos/Build%20and%20Deploy%20a%20GraphQL%20API%20using%20NodeJS)
 <!-- LH-BUTTONS:END -->
 
 ## Introduction to GraphQL and Tutorial Overview

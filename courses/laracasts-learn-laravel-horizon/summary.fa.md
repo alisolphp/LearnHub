@@ -13,11 +13,12 @@
 - فقط کافیه روی لینک‌های `Ask AI` کلیک کنی تا روی هر بخش که دوست داری، عمیق‌تر تمرکز کنی.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=005796ea -->
+<!-- LH-BUTTONS:HASH=31acc7b2 -->
 
 ### AI-Powered buttons
 
 Start teaching this to a:
+[5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=fa&src=courses/laracasts-learn-laravel-horizon) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=fa&src=courses/laracasts-learn-laravel-horizon) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=fa&src=courses/laracasts-learn-laravel-horizon) | 
 [Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=fa&src=courses/laracasts-learn-laravel-horizon) | 
@@ -25,6 +26,7 @@ Start teaching this to a:
 
 Learn via different lenses:
 [Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=fa&src=courses/laracasts-learn-laravel-horizon) | 
+[Story](https://alisol.ir/?ai=learnhub_summary_story&lang=fa&src=courses/laracasts-learn-laravel-horizon) | 
 [Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=fa&src=courses/laracasts-learn-laravel-horizon) | 
 [Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=fa&src=courses/laracasts-learn-laravel-horizon) | 
 [Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=fa&src=courses/laracasts-learn-laravel-horizon) | 
@@ -36,6 +38,7 @@ Check my understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=fa&src=courses/laracasts-learn-laravel-horizon) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=fa&src=courses/laracasts-learn-laravel-horizon) | 
 [Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=courses/laracasts-learn-laravel-horizon)
+[Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=fa&src=courses/laracasts-learn-laravel-horizon)
 <!-- LH-BUTTONS:END -->
 
 ## مبحث ۱: Installation, Usage, and Features

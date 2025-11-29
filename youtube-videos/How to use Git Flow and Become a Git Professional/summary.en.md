@@ -15,7 +15,32 @@
 - Simply click on `Ask AI` links to dive into any topic you want.
 
 <!-- LH-BUTTONS:START -->
-<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:HASH=31acc7b2 -->
+
+### AI-Powered buttons
+
+Start teaching this to a:
+[5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=en&src=youtube-videos/How%20to%20use%20Git%20Flow%20and%20Become%20a%20Git%20Professional) | 
+[Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=youtube-videos/How%20to%20use%20Git%20Flow%20and%20Become%20a%20Git%20Professional) | 
+[Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=youtube-videos/How%20to%20use%20Git%20Flow%20and%20Become%20a%20Git%20Professional) | 
+[Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=youtube-videos/How%20to%20use%20Git%20Flow%20and%20Become%20a%20Git%20Professional) | 
+[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer)
+
+Learn via different lenses:
+[Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=youtube-videos/How%20to%20use%20Git%20Flow%20and%20Become%20a%20Git%20Professional) | 
+[Story](https://alisol.ir/?ai=learnhub_summary_story&lang=en&src=youtube-videos/How%20to%20use%20Git%20Flow%20and%20Become%20a%20Git%20Professional) | 
+[Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=youtube-videos/How%20to%20use%20Git%20Flow%20and%20Become%20a%20Git%20Professional) | 
+[Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=youtube-videos/How%20to%20use%20Git%20Flow%20and%20Become%20a%20Git%20Professional) | 
+[Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=en&src=youtube-videos/How%20to%20use%20Git%20Flow%20and%20Become%20a%20Git%20Professional) | 
+[Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=en&src=youtube-videos/How%20to%20use%20Git%20Flow%20and%20Become%20a%20Git%20Professional) | 
+[Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=en&src=youtube-videos/How%20to%20use%20Git%20Flow%20and%20Become%20a%20Git%20Professional) | 
+[Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=en&src=youtube-videos/How%20to%20use%20Git%20Flow%20and%20Become%20a%20Git%20Professional)
+
+Check my understanding:
+[Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=youtube-videos/How%20to%20use%20Git%20Flow%20and%20Become%20a%20Git%20Professional) | 
+[Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=youtube-videos/How%20to%20use%20Git%20Flow%20and%20Become%20a%20Git%20Professional) | 
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/How%20to%20use%20Git%20Flow%20and%20Become%20a%20Git%20Professional)
+[Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=youtube-videos/How%20to%20use%20Git%20Flow%20and%20Become%20a%20Git%20Professional)
 <!-- LH-BUTTONS:END -->
 
 ## Introduction to Git Flow

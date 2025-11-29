@@ -15,11 +15,12 @@
 - Simply click on `Ask AI` links to dive into any topic you want.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=005796ea -->
+<!-- LH-BUTTONS:HASH=31acc7b2 -->
 
 ### AI-Powered buttons
 
 Start teaching this to a:
+[5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=en&src=youtube-videos/Introduction%20to%20Apache%20Cassandra) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=youtube-videos/Introduction%20to%20Apache%20Cassandra) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=youtube-videos/Introduction%20to%20Apache%20Cassandra) | 
 [Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=youtube-videos/Introduction%20to%20Apache%20Cassandra) | 
@@ -27,6 +28,7 @@ Start teaching this to a:
 
 Learn via different lenses:
 [Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=youtube-videos/Introduction%20to%20Apache%20Cassandra) | 
+[Story](https://alisol.ir/?ai=learnhub_summary_story&lang=en&src=youtube-videos/Introduction%20to%20Apache%20Cassandra) | 
 [Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=youtube-videos/Introduction%20to%20Apache%20Cassandra) | 
 [Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=youtube-videos/Introduction%20to%20Apache%20Cassandra) | 
 [Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=en&src=youtube-videos/Introduction%20to%20Apache%20Cassandra) | 
@@ -38,6 +40,7 @@ Check my understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=youtube-videos/Introduction%20to%20Apache%20Cassandra) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=youtube-videos/Introduction%20to%20Apache%20Cassandra) | 
 [Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/Introduction%20to%20Apache%20Cassandra)
+[Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=youtube-videos/Introduction%20to%20Apache%20Cassandra)
 <!-- LH-BUTTONS:END -->
 
 ## Workshop Introduction and Presenters

@@ -9,11 +9,12 @@
 *این سند، نکات کلیدی دوره را خلاصه می‌کند تا سریع‌تر یاد بگیری و مرور کنی. اگر فرصت داشتی، دیدن دوره‌ی کامل به‌شدت پیشنهاد می‌شود.*
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=005796ea -->
+<!-- LH-BUTTONS:HASH=31acc7b2 -->
 
 ### AI-Powered buttons
 
 Start teaching this to a:
+[5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=fa&src=courses/linkedin-aws-essential-training-for-developers) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=fa&src=courses/linkedin-aws-essential-training-for-developers) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=fa&src=courses/linkedin-aws-essential-training-for-developers) | 
 [Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=fa&src=courses/linkedin-aws-essential-training-for-developers) | 
@@ -21,6 +22,7 @@ Start teaching this to a:
 
 Learn via different lenses:
 [Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=fa&src=courses/linkedin-aws-essential-training-for-developers) | 
+[Story](https://alisol.ir/?ai=learnhub_summary_story&lang=fa&src=courses/linkedin-aws-essential-training-for-developers) | 
 [Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=fa&src=courses/linkedin-aws-essential-training-for-developers) | 
 [Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=fa&src=courses/linkedin-aws-essential-training-for-developers) | 
 [Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=fa&src=courses/linkedin-aws-essential-training-for-developers) | 
@@ -32,6 +34,7 @@ Check my understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=fa&src=courses/linkedin-aws-essential-training-for-developers) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=fa&src=courses/linkedin-aws-essential-training-for-developers) | 
 [Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=courses/linkedin-aws-essential-training-for-developers)
+[Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=fa&src=courses/linkedin-aws-essential-training-for-developers)
 <!-- LH-BUTTONS:END -->
 
 ## [موضوع ۱: معرفی AWS]

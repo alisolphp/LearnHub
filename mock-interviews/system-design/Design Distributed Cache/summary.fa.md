@@ -9,11 +9,12 @@
 ---
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=005796ea -->
+<!-- LH-BUTTONS:HASH=31acc7b2 -->
 
 ### AI-Powered buttons
 
 Start teaching this to a:
+[5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=fa&src=mock-interviews/system-design/Design%20Distributed%20Cache) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=fa&src=mock-interviews/system-design/Design%20Distributed%20Cache) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=fa&src=mock-interviews/system-design/Design%20Distributed%20Cache) | 
 [Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=fa&src=mock-interviews/system-design/Design%20Distributed%20Cache) | 
@@ -21,6 +22,7 @@ Start teaching this to a:
 
 Learn via different lenses:
 [Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=fa&src=mock-interviews/system-design/Design%20Distributed%20Cache) | 
+[Story](https://alisol.ir/?ai=learnhub_summary_story&lang=fa&src=mock-interviews/system-design/Design%20Distributed%20Cache) | 
 [Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=fa&src=mock-interviews/system-design/Design%20Distributed%20Cache) | 
 [Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=fa&src=mock-interviews/system-design/Design%20Distributed%20Cache) | 
 [Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=fa&src=mock-interviews/system-design/Design%20Distributed%20Cache) | 
@@ -32,6 +34,7 @@ Check my understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=fa&src=mock-interviews/system-design/Design%20Distributed%20Cache) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=fa&src=mock-interviews/system-design/Design%20Distributed%20Cache) | 
 [Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=mock-interviews/system-design/Design%20Distributed%20Cache)
+[Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=fa&src=mock-interviews/system-design/Design%20Distributed%20Cache)
 <!-- LH-BUTTONS:END -->
 
 ## ؜جمع‌بندی یک‌صفحه‌ای (برای مرور ۲–۳ دقیقه‌ای)

@@ -10,11 +10,12 @@
 *این داکیومنت خلاصه نکات اصلی دوره است. اگه فرصت داری، دیدن کامل خود دوره خیلی توصیه می‌شه.*
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=005796ea -->
+<!-- LH-BUTTONS:HASH=31acc7b2 -->
 
 ### AI-Powered buttons
 
 Start teaching this to a:
+[5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=fa&src=courses/udemy-golang-web-development-create-powerful-servers-with-golang) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=fa&src=courses/udemy-golang-web-development-create-powerful-servers-with-golang) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=fa&src=courses/udemy-golang-web-development-create-powerful-servers-with-golang) | 
 [Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=fa&src=courses/udemy-golang-web-development-create-powerful-servers-with-golang) | 
@@ -22,6 +23,7 @@ Start teaching this to a:
 
 Learn via different lenses:
 [Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=fa&src=courses/udemy-golang-web-development-create-powerful-servers-with-golang) | 
+[Story](https://alisol.ir/?ai=learnhub_summary_story&lang=fa&src=courses/udemy-golang-web-development-create-powerful-servers-with-golang) | 
 [Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=fa&src=courses/udemy-golang-web-development-create-powerful-servers-with-golang) | 
 [Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=fa&src=courses/udemy-golang-web-development-create-powerful-servers-with-golang) | 
 [Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=fa&src=courses/udemy-golang-web-development-create-powerful-servers-with-golang) | 
@@ -33,6 +35,7 @@ Check my understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=fa&src=courses/udemy-golang-web-development-create-powerful-servers-with-golang) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=fa&src=courses/udemy-golang-web-development-create-powerful-servers-with-golang) | 
 [Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=courses/udemy-golang-web-development-create-powerful-servers-with-golang)
+[Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=fa&src=courses/udemy-golang-web-development-create-powerful-servers-with-golang)
 <!-- LH-BUTTONS:END -->
 
 ## ؜۱. معرفی دوره و چرا Go برای Web Development

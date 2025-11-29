@@ -11,11 +11,12 @@
 > این متن، خلاصهٔ نکات مهم دوره است و برای مرور سریع طراحی شده؛ با این حال، اگر امکانش را دارید، دیدن خود دوره را هم پیشنهاد می‌کنم.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=005796ea -->
+<!-- LH-BUTTONS:HASH=31acc7b2 -->
 
 ### AI-Powered buttons
 
 Start teaching this to a:
+[5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=fa&src=courses/linkedin-serverless-architecture) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=fa&src=courses/linkedin-serverless-architecture) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=fa&src=courses/linkedin-serverless-architecture) | 
 [Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=fa&src=courses/linkedin-serverless-architecture) | 
@@ -23,6 +24,7 @@ Start teaching this to a:
 
 Learn via different lenses:
 [Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=fa&src=courses/linkedin-serverless-architecture) | 
+[Story](https://alisol.ir/?ai=learnhub_summary_story&lang=fa&src=courses/linkedin-serverless-architecture) | 
 [Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=fa&src=courses/linkedin-serverless-architecture) | 
 [Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=fa&src=courses/linkedin-serverless-architecture) | 
 [Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=fa&src=courses/linkedin-serverless-architecture) | 
@@ -34,6 +36,7 @@ Check my understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=fa&src=courses/linkedin-serverless-architecture) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=fa&src=courses/linkedin-serverless-architecture) | 
 [Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=courses/linkedin-serverless-architecture)
+[Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=fa&src=courses/linkedin-serverless-architecture)
 <!-- LH-BUTTONS:END -->
 
 ---

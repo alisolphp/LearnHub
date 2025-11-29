@@ -9,11 +9,12 @@
 > **Disclaimer**: This is a personal summary and interpretation based on a YouTube video. It is not official material and not endorsed by the original creator. All rights remain with the respective creators.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=005796ea -->
+<!-- LH-BUTTONS:HASH=31acc7b2 -->
 
 ### AI-Powered buttons
 
 Start teaching this to a:
+[5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=en&src=youtube-videos/Vue.js%20Beginner%20Course%20%7C%20Build%20%26%20Deploy%20a%20Modern%20Fitness%20App) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=youtube-videos/Vue.js%20Beginner%20Course%20%7C%20Build%20%26%20Deploy%20a%20Modern%20Fitness%20App) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=youtube-videos/Vue.js%20Beginner%20Course%20%7C%20Build%20%26%20Deploy%20a%20Modern%20Fitness%20App) | 
 [Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=youtube-videos/Vue.js%20Beginner%20Course%20%7C%20Build%20%26%20Deploy%20a%20Modern%20Fitness%20App) | 
@@ -21,6 +22,7 @@ Start teaching this to a:
 
 Learn via different lenses:
 [Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=youtube-videos/Vue.js%20Beginner%20Course%20%7C%20Build%20%26%20Deploy%20a%20Modern%20Fitness%20App) | 
+[Story](https://alisol.ir/?ai=learnhub_summary_story&lang=en&src=youtube-videos/Vue.js%20Beginner%20Course%20%7C%20Build%20%26%20Deploy%20a%20Modern%20Fitness%20App) | 
 [Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=youtube-videos/Vue.js%20Beginner%20Course%20%7C%20Build%20%26%20Deploy%20a%20Modern%20Fitness%20App) | 
 [Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=youtube-videos/Vue.js%20Beginner%20Course%20%7C%20Build%20%26%20Deploy%20a%20Modern%20Fitness%20App) | 
 [Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=en&src=youtube-videos/Vue.js%20Beginner%20Course%20%7C%20Build%20%26%20Deploy%20a%20Modern%20Fitness%20App) | 
@@ -32,6 +34,7 @@ Check my understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=youtube-videos/Vue.js%20Beginner%20Course%20%7C%20Build%20%26%20Deploy%20a%20Modern%20Fitness%20App) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=youtube-videos/Vue.js%20Beginner%20Course%20%7C%20Build%20%26%20Deploy%20a%20Modern%20Fitness%20App) | 
 [Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/Vue.js%20Beginner%20Course%20%7C%20Build%20%26%20Deploy%20a%20Modern%20Fitness%20App)
+[Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=youtube-videos/Vue.js%20Beginner%20Course%20%7C%20Build%20%26%20Deploy%20a%20Modern%20Fitness%20App)
 <!-- LH-BUTTONS:END -->
 
 *This document summarizes the key takeaways from the video. I highly recommend watching the full video for visual context and coding demonstrations.*

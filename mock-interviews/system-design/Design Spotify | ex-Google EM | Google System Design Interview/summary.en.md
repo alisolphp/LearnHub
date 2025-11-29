@@ -8,11 +8,12 @@
 ---
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=005796ea -->
+<!-- LH-BUTTONS:HASH=31acc7b2 -->
 
 ### AI-Powered buttons
 
 Start teaching this to a:
+[5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=en&src=mock-interviews/system-design/Design%20Spotify%20%7C%20ex-Google%20EM%20%7C%20Google%20System%20Design%20Interview) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=mock-interviews/system-design/Design%20Spotify%20%7C%20ex-Google%20EM%20%7C%20Google%20System%20Design%20Interview) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=mock-interviews/system-design/Design%20Spotify%20%7C%20ex-Google%20EM%20%7C%20Google%20System%20Design%20Interview) | 
 [Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=mock-interviews/system-design/Design%20Spotify%20%7C%20ex-Google%20EM%20%7C%20Google%20System%20Design%20Interview) | 
@@ -20,6 +21,7 @@ Start teaching this to a:
 
 Learn via different lenses:
 [Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=mock-interviews/system-design/Design%20Spotify%20%7C%20ex-Google%20EM%20%7C%20Google%20System%20Design%20Interview) | 
+[Story](https://alisol.ir/?ai=learnhub_summary_story&lang=en&src=mock-interviews/system-design/Design%20Spotify%20%7C%20ex-Google%20EM%20%7C%20Google%20System%20Design%20Interview) | 
 [Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=mock-interviews/system-design/Design%20Spotify%20%7C%20ex-Google%20EM%20%7C%20Google%20System%20Design%20Interview) | 
 [Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=mock-interviews/system-design/Design%20Spotify%20%7C%20ex-Google%20EM%20%7C%20Google%20System%20Design%20Interview) | 
 [Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=en&src=mock-interviews/system-design/Design%20Spotify%20%7C%20ex-Google%20EM%20%7C%20Google%20System%20Design%20Interview) | 
@@ -31,6 +33,7 @@ Check my understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=mock-interviews/system-design/Design%20Spotify%20%7C%20ex-Google%20EM%20%7C%20Google%20System%20Design%20Interview) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=mock-interviews/system-design/Design%20Spotify%20%7C%20ex-Google%20EM%20%7C%20Google%20System%20Design%20Interview) | 
 [Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=mock-interviews/system-design/Design%20Spotify%20%7C%20ex-Google%20EM%20%7C%20Google%20System%20Design%20Interview)
+[Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=mock-interviews/system-design/Design%20Spotify%20%7C%20ex-Google%20EM%20%7C%20Google%20System%20Design%20Interview)
 <!-- LH-BUTTONS:END -->
 
 ## 1) One-Page Executive Summary (2–3 min skim)

@@ -15,11 +15,12 @@
 - Simply click on `Ask AI` links to dive into any topic you want.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=005796ea -->
+<!-- LH-BUTTONS:HASH=31acc7b2 -->
 
 ### AI-Powered buttons
 
 Start teaching this to a:
+[5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=en&src=youtube-videos/AWS%20Tutorial%20Course%20for%20Beginners%20%7C%20EC2%2C%20S3%2C%20RDS%2C%20VPC%2C%20Lambda%2C%20ECS%2C%20ECR%2C%20Fargate) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=youtube-videos/AWS%20Tutorial%20Course%20for%20Beginners%20%7C%20EC2%2C%20S3%2C%20RDS%2C%20VPC%2C%20Lambda%2C%20ECS%2C%20ECR%2C%20Fargate) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=youtube-videos/AWS%20Tutorial%20Course%20for%20Beginners%20%7C%20EC2%2C%20S3%2C%20RDS%2C%20VPC%2C%20Lambda%2C%20ECS%2C%20ECR%2C%20Fargate) | 
 [Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=youtube-videos/AWS%20Tutorial%20Course%20for%20Beginners%20%7C%20EC2%2C%20S3%2C%20RDS%2C%20VPC%2C%20Lambda%2C%20ECS%2C%20ECR%2C%20Fargate) | 
@@ -27,6 +28,7 @@ Start teaching this to a:
 
 Learn via different lenses:
 [Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=youtube-videos/AWS%20Tutorial%20Course%20for%20Beginners%20%7C%20EC2%2C%20S3%2C%20RDS%2C%20VPC%2C%20Lambda%2C%20ECS%2C%20ECR%2C%20Fargate) | 
+[Story](https://alisol.ir/?ai=learnhub_summary_story&lang=en&src=youtube-videos/AWS%20Tutorial%20Course%20for%20Beginners%20%7C%20EC2%2C%20S3%2C%20RDS%2C%20VPC%2C%20Lambda%2C%20ECS%2C%20ECR%2C%20Fargate) | 
 [Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=youtube-videos/AWS%20Tutorial%20Course%20for%20Beginners%20%7C%20EC2%2C%20S3%2C%20RDS%2C%20VPC%2C%20Lambda%2C%20ECS%2C%20ECR%2C%20Fargate) | 
 [Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=youtube-videos/AWS%20Tutorial%20Course%20for%20Beginners%20%7C%20EC2%2C%20S3%2C%20RDS%2C%20VPC%2C%20Lambda%2C%20ECS%2C%20ECR%2C%20Fargate) | 
 [Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=en&src=youtube-videos/AWS%20Tutorial%20Course%20for%20Beginners%20%7C%20EC2%2C%20S3%2C%20RDS%2C%20VPC%2C%20Lambda%2C%20ECS%2C%20ECR%2C%20Fargate) | 
@@ -38,6 +40,7 @@ Check my understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=youtube-videos/AWS%20Tutorial%20Course%20for%20Beginners%20%7C%20EC2%2C%20S3%2C%20RDS%2C%20VPC%2C%20Lambda%2C%20ECS%2C%20ECR%2C%20Fargate) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=youtube-videos/AWS%20Tutorial%20Course%20for%20Beginners%20%7C%20EC2%2C%20S3%2C%20RDS%2C%20VPC%2C%20Lambda%2C%20ECS%2C%20ECR%2C%20Fargate) | 
 [Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/AWS%20Tutorial%20Course%20for%20Beginners%20%7C%20EC2%2C%20S3%2C%20RDS%2C%20VPC%2C%20Lambda%2C%20ECS%2C%20ECR%2C%20Fargate)
+[Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=youtube-videos/AWS%20Tutorial%20Course%20for%20Beginners%20%7C%20EC2%2C%20S3%2C%20RDS%2C%20VPC%2C%20Lambda%2C%20ECS%2C%20ECR%2C%20Fargate)
 <!-- LH-BUTTONS:END -->
 
 ## Course Introduction and Overview

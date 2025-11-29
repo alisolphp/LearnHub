@@ -13,11 +13,12 @@
 - فقط روی لینک‌های `Ask AI` کلیک کن تا عمیق‌تر وارد هر موضوعی بشی.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=005796ea -->
+<!-- LH-BUTTONS:HASH=31acc7b2 -->
 
 ### AI-Powered buttons
 
 Start teaching this to a:
+[5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=fa&src=courses/coursera-introduction-to-test-and-behavior-driven-development) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=fa&src=courses/coursera-introduction-to-test-and-behavior-driven-development) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=fa&src=courses/coursera-introduction-to-test-and-behavior-driven-development) | 
 [Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=fa&src=courses/coursera-introduction-to-test-and-behavior-driven-development) | 
@@ -25,6 +26,7 @@ Start teaching this to a:
 
 Learn via different lenses:
 [Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=fa&src=courses/coursera-introduction-to-test-and-behavior-driven-development) | 
+[Story](https://alisol.ir/?ai=learnhub_summary_story&lang=fa&src=courses/coursera-introduction-to-test-and-behavior-driven-development) | 
 [Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=fa&src=courses/coursera-introduction-to-test-and-behavior-driven-development) | 
 [Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=fa&src=courses/coursera-introduction-to-test-and-behavior-driven-development) | 
 [Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=fa&src=courses/coursera-introduction-to-test-and-behavior-driven-development) | 
@@ -36,6 +38,7 @@ Check my understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=fa&src=courses/coursera-introduction-to-test-and-behavior-driven-development) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=fa&src=courses/coursera-introduction-to-test-and-behavior-driven-development) | 
 [Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=courses/coursera-introduction-to-test-and-behavior-driven-development)
+[Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=fa&src=courses/coursera-introduction-to-test-and-behavior-driven-development)
 <!-- LH-BUTTONS:END -->
 
 سلام! اگه داری وارد دنیای software testing می‌شی، این دوره واقعاً تحول‌آفرینه. John Rofrano، یه DevOps champ از IBM، توضیح می‌ده که چرا testing فقط یه چک‌لیست نیست—بلکه راز ساخت کدهای محکم و مقاوم در برابر شکست‌هاست. با هم از پایه‌ها شروع می‌کنیم، دست‌به‌کار با TDD و BDD می‌شیم و حتی یه پروژه واقعی رو حل می‌کنیم. این خلاصه مثل یه cheat sheet عمل می‌کنه برای کدنویسی با اعتمادبه‌نفس، بدون اون دیباگینگ‌های بی‌پایان.

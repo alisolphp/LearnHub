@@ -10,11 +10,12 @@
 *این سند، نکات کلیدی دوره را خلاصه می‌کند. اگر فرصت داشتی، دیدن خود دوره خیلی مفیدتر است.*
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=005796ea -->
+<!-- LH-BUTTONS:HASH=31acc7b2 -->
 
 ### AI-Powered buttons
 
 Start teaching this to a:
+[5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=fa&src=courses/pluralsight-writing-highly-maintainable-unit-tests) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=fa&src=courses/pluralsight-writing-highly-maintainable-unit-tests) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=fa&src=courses/pluralsight-writing-highly-maintainable-unit-tests) | 
 [Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=fa&src=courses/pluralsight-writing-highly-maintainable-unit-tests) | 
@@ -22,6 +23,7 @@ Start teaching this to a:
 
 Learn via different lenses:
 [Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=fa&src=courses/pluralsight-writing-highly-maintainable-unit-tests) | 
+[Story](https://alisol.ir/?ai=learnhub_summary_story&lang=fa&src=courses/pluralsight-writing-highly-maintainable-unit-tests) | 
 [Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=fa&src=courses/pluralsight-writing-highly-maintainable-unit-tests) | 
 [Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=fa&src=courses/pluralsight-writing-highly-maintainable-unit-tests) | 
 [Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=fa&src=courses/pluralsight-writing-highly-maintainable-unit-tests) | 
@@ -33,6 +35,7 @@ Check my understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=fa&src=courses/pluralsight-writing-highly-maintainable-unit-tests) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=fa&src=courses/pluralsight-writing-highly-maintainable-unit-tests) | 
 [Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=courses/pluralsight-writing-highly-maintainable-unit-tests)
+[Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=fa&src=courses/pluralsight-writing-highly-maintainable-unit-tests)
 <!-- LH-BUTTONS:END -->
 
 ## ۱. چرا unit testها غیرقابل‌نگه‌داری می‌شوند و چطور جلویش را بگیریم

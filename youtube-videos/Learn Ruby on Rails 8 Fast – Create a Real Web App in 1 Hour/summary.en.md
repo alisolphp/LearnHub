@@ -15,11 +15,12 @@
 - Simply click on `Ask AI` links to dive into any topic you want.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=005796ea -->
+<!-- LH-BUTTONS:HASH=31acc7b2 -->
 
 ### AI-Powered buttons
 
 Start teaching this to a:
+[5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=en&src=youtube-videos/Learn%20Ruby%20on%20Rails%208%20Fast%20%E2%80%93%20Create%20a%20Real%20Web%20App%20in%201%20Hour) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=youtube-videos/Learn%20Ruby%20on%20Rails%208%20Fast%20%E2%80%93%20Create%20a%20Real%20Web%20App%20in%201%20Hour) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=youtube-videos/Learn%20Ruby%20on%20Rails%208%20Fast%20%E2%80%93%20Create%20a%20Real%20Web%20App%20in%201%20Hour) | 
 [Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=youtube-videos/Learn%20Ruby%20on%20Rails%208%20Fast%20%E2%80%93%20Create%20a%20Real%20Web%20App%20in%201%20Hour) | 
@@ -27,6 +28,7 @@ Start teaching this to a:
 
 Learn via different lenses:
 [Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=youtube-videos/Learn%20Ruby%20on%20Rails%208%20Fast%20%E2%80%93%20Create%20a%20Real%20Web%20App%20in%201%20Hour) | 
+[Story](https://alisol.ir/?ai=learnhub_summary_story&lang=en&src=youtube-videos/Learn%20Ruby%20on%20Rails%208%20Fast%20%E2%80%93%20Create%20a%20Real%20Web%20App%20in%201%20Hour) | 
 [Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=youtube-videos/Learn%20Ruby%20on%20Rails%208%20Fast%20%E2%80%93%20Create%20a%20Real%20Web%20App%20in%201%20Hour) | 
 [Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=youtube-videos/Learn%20Ruby%20on%20Rails%208%20Fast%20%E2%80%93%20Create%20a%20Real%20Web%20App%20in%201%20Hour) | 
 [Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=en&src=youtube-videos/Learn%20Ruby%20on%20Rails%208%20Fast%20%E2%80%93%20Create%20a%20Real%20Web%20App%20in%201%20Hour) | 
@@ -38,6 +40,7 @@ Check my understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=youtube-videos/Learn%20Ruby%20on%20Rails%208%20Fast%20%E2%80%93%20Create%20a%20Real%20Web%20App%20in%201%20Hour) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=youtube-videos/Learn%20Ruby%20on%20Rails%208%20Fast%20%E2%80%93%20Create%20a%20Real%20Web%20App%20in%201%20Hour) | 
 [Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/Learn%20Ruby%20on%20Rails%208%20Fast%20%E2%80%93%20Create%20a%20Real%20Web%20App%20in%201%20Hour)
+[Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=youtube-videos/Learn%20Ruby%20on%20Rails%208%20Fast%20%E2%80%93%20Create%20a%20Real%20Web%20App%20in%201%20Hour)
 <!-- LH-BUTTONS:END -->
 
 ## Introduction and Project Setup

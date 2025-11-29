@@ -15,11 +15,12 @@
 - Simply click on `Ask AI` links to dive into any topic you want.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=005796ea -->
+<!-- LH-BUTTONS:HASH=31acc7b2 -->
 
 ### AI-Powered buttons
 
 Start teaching this to a:
+[5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=en&src=youtube-videos/Top%20K%20Frequent%20Elements%20-%20Leetcode%20347) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=youtube-videos/Top%20K%20Frequent%20Elements%20-%20Leetcode%20347) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=youtube-videos/Top%20K%20Frequent%20Elements%20-%20Leetcode%20347) | 
 [Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=youtube-videos/Top%20K%20Frequent%20Elements%20-%20Leetcode%20347) | 
@@ -27,6 +28,7 @@ Start teaching this to a:
 
 Learn via different lenses:
 [Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=youtube-videos/Top%20K%20Frequent%20Elements%20-%20Leetcode%20347) | 
+[Story](https://alisol.ir/?ai=learnhub_summary_story&lang=en&src=youtube-videos/Top%20K%20Frequent%20Elements%20-%20Leetcode%20347) | 
 [Cheat Sheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=youtube-videos/Top%20K%20Frequent%20Elements%20-%20Leetcode%20347) | 
 [Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=youtube-videos/Top%20K%20Frequent%20Elements%20-%20Leetcode%20347) | 
 [Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=en&src=youtube-videos/Top%20K%20Frequent%20Elements%20-%20Leetcode%20347) | 
@@ -38,6 +40,7 @@ Check my understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=youtube-videos/Top%20K%20Frequent%20Elements%20-%20Leetcode%20347) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=youtube-videos/Top%20K%20Frequent%20Elements%20-%20Leetcode%20347) | 
 [Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/Top%20K%20Frequent%20Elements%20-%20Leetcode%20347)
+[Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=youtube-videos/Top%20K%20Frequent%20Elements%20-%20Leetcode%20347)
 <!-- LH-BUTTONS:END -->
 
 ## Problem Statement
