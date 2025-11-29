@@ -13,33 +13,7 @@
 - Klik simpelweg op de `Ask AI`-links om dieper in te gaan op elk onderwerp dat je wilt.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=4ea0b5d0 -->
-
-### AI-gestuurde knoppen
-
-Teach Me:
-[5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=en&src=courses/linkedin-aws-essential-training-for-developers|nl) | 
-[Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=courses/linkedin-aws-essential-training-for-developers|nl) | 
-[Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=courses/linkedin-aws-essential-training-for-developers|nl) | 
-[Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=courses/linkedin-aws-essential-training-for-developers|nl) | 
-[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer|nl)
-
-Anders leren:
-[Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=courses/linkedin-aws-essential-training-for-developers|nl) | 
-[Storytelling](https://alisol.ir/?ai=learnhub_summary_story&lang=en&src=courses/linkedin-aws-essential-training-for-developers|nl) | 
-[Cheatsheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=courses/linkedin-aws-essential-training-for-developers|nl) | 
-[Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=courses/linkedin-aws-essential-training-for-developers|nl) | 
-[Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=en&src=courses/linkedin-aws-essential-training-for-developers|nl) | 
-[Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=en&src=courses/linkedin-aws-essential-training-for-developers|nl) | 
-[Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=en&src=courses/linkedin-aws-essential-training-for-developers|nl) | 
-[Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=en&src=courses/linkedin-aws-essential-training-for-developers|nl)
-
-Controleer je begrip:
-[Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=courses/linkedin-aws-essential-training-for-developers|nl) | 
-[Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=courses/linkedin-aws-essential-training-for-developers|nl) | 
-[Refactor Challenge](https://alisol.ir/?ai=learnhub_summary_refactor&lang=en&src=courses/linkedin-aws-essential-training-for-developers|nl) | 
-[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=courses/linkedin-aws-essential-training-for-developers|nl) | 
-[Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=courses/linkedin-aws-essential-training-for-developers|nl)
+<!-- auto-generated; do not edit -->
 <!-- LH-BUTTONS:END -->
 
 ## [Onderwerp 1: Introductie tot AWS]
