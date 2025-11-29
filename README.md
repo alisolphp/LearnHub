@@ -335,7 +335,7 @@ Auto-generated overview of the repository structure:
 <!-- COURSES_START -->
 <h4 id="devops-cloud-infrastructure">DevOps, Cloud &amp; Infrastructure</h4>
 
-- [Linkedin Aws Essential Training For Developers](courses%2Flinkedin-aws-essential-training-for-developers%2Fsummary.en.md) [ [DE](courses%2Flinkedin-aws-essential-training-for-developers%2Fsummary.de.md) | [EN](courses%2Flinkedin-aws-essential-training-for-developers%2Fsummary.en.md) | [FA](courses%2Flinkedin-aws-essential-training-for-developers%2Fsummary.fa.md) | [NL](courses%2Flinkedin-aws-essential-training-for-developers%2Fsummary.nl.md) ]
+- [Linkedin Aws Essential Training For Developers](courses%2Flinkedin-aws-essential-training-for-developers%2Fsummary.en.md) [ [DE](courses%2Flinkedin-aws-essential-training-for-developers%2Fsummary.de.md) | [EN](courses%2Flinkedin-aws-essential-training-for-developers%2Fsummary.en.md) | [ES](courses%2Flinkedin-aws-essential-training-for-developers%2Fsummary.es.md) | [FA](courses%2Flinkedin-aws-essential-training-for-developers%2Fsummary.fa.md) | [FR](courses%2Flinkedin-aws-essential-training-for-developers%2Fsummary.fr.md) | [IT](courses%2Flinkedin-aws-essential-training-for-developers%2Fsummary.it.md) | [NL](courses%2Flinkedin-aws-essential-training-for-developers%2Fsummary.nl.md) ]
 
 - [Linkedin Serverless Architecture](courses%2Flinkedin-serverless-architecture%2Fsummary.en.md) [ [EN](courses%2Flinkedin-serverless-architecture%2Fsummary.en.md) | [FA](courses%2Flinkedin-serverless-architecture%2Fsummary.fa.md) ]
 
