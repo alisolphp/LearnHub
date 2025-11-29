@@ -10,11 +10,11 @@
 *این سند، نکات کلیدی دوره را خلاصه می‌کند. اگر فرصت داشتی، دیدن خود دوره خیلی مفیدتر است.*
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=4ea0b5d0 -->
+<!-- LH-BUTTONS:HASH=b11a91a9 -->
 
 ### AI-Powered buttons
 
-Teach Me:
+Teach Me: 
 [5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=fa&src=courses/pluralsight-writing-highly-maintainable-unit-tests) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=fa&src=courses/pluralsight-writing-highly-maintainable-unit-tests) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=fa&src=courses/pluralsight-writing-highly-maintainable-unit-tests) | 

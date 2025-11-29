@@ -15,11 +15,11 @@
 - Simply click on `Ask AI` links to dive into any topic you want.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=4ea0b5d0 -->
+<!-- LH-BUTTONS:HASH=b11a91a9 -->
 
 ### AI-Powered buttons
 
-Teach Me:
+Teach Me: 
 [5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=en&src=youtube-videos/Memcached%20Architecture%20-%20Crash%20Course%20with%20Docker%2C%20Telnet) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=youtube-videos/Memcached%20Architecture%20-%20Crash%20Course%20with%20Docker%2C%20Telnet) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=youtube-videos/Memcached%20Architecture%20-%20Crash%20Course%20with%20Docker%2C%20Telnet) | 

@@ -9,11 +9,11 @@
 ---
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=4ea0b5d0 -->
+<!-- LH-BUTTONS:HASH=b11a91a9 -->
 
 ### AI-Powered buttons
 
-Teach Me:
+Teach Me: 
 [5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=fa&src=mock-interviews/system-design/Design%20Uber%20%7C%20OLA%20%7C%20Amazon%20System%20Design%20Interview) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=fa&src=mock-interviews/system-design/Design%20Uber%20%7C%20OLA%20%7C%20Amazon%20System%20Design%20Interview) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=fa&src=mock-interviews/system-design/Design%20Uber%20%7C%20OLA%20%7C%20Amazon%20System%20Design%20Interview) | 

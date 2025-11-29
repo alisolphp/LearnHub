@@ -15,11 +15,11 @@
 در این خلاصه هر جا روی لینک‌های ‎Ask AI‎ کلیک کنید، می‌توانید همان موضوع را عمیق‌تر بررسی کنید و سؤال بپرسید.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=4ea0b5d0 -->
+<!-- LH-BUTTONS:HASH=b11a91a9 -->
 
 ### AI-Powered buttons
 
-Teach Me:
+Teach Me: 
 [5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=fa&src=courses/linkedin-programming-foundations-software-testing-qa) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=fa&src=courses/linkedin-programming-foundations-software-testing-qa) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=fa&src=courses/linkedin-programming-foundations-software-testing-qa) | 

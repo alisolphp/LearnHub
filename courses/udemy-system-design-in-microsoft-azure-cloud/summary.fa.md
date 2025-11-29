@@ -9,11 +9,11 @@
 *این سند، نکات کلیدی این دوره را خلاصه می‌کند. اگر فرصت داشتی، حتماً خود دوره را هم به‌طور کامل تماشا کن.*
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=4ea0b5d0 -->
+<!-- LH-BUTTONS:HASH=b11a91a9 -->
 
 ### AI-Powered buttons
 
-Teach Me:
+Teach Me: 
 [5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=fa&src=courses/udemy-system-design-in-microsoft-azure-cloud) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=fa&src=courses/udemy-system-design-in-microsoft-azure-cloud) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=fa&src=courses/udemy-system-design-in-microsoft-azure-cloud) | 

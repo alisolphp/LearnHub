@@ -14,11 +14,11 @@
 * بعد از هر بخش یک لینک `Ask AI` هست؛ روی آن کلیک کنی می‌توانی درباره همان بخش، سوال‌های عمیق‌تر بپرسی.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=4ea0b5d0 -->
+<!-- LH-BUTTONS:HASH=b11a91a9 -->
 
 ### AI-Powered buttons
 
-Teach Me:
+Teach Me: 
 [5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=fa&src=books/The%20Pragmatic%20Programmer) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=fa&src=books/The%20Pragmatic%20Programmer) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=fa&src=books/The%20Pragmatic%20Programmer) | 

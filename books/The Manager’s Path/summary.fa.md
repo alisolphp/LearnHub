@@ -11,11 +11,11 @@
 * بعد از هر بخش یک لینک `Ask AI` هست که می‌توانی با کلیک روی آن، در سایت من عمیق‌تر در مورد همان بخش سؤال بپرسی.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=4ea0b5d0 -->
+<!-- LH-BUTTONS:HASH=b11a91a9 -->
 
 ### AI-Powered buttons
 
-Teach Me:
+Teach Me: 
 [5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=fa&src=books/The%20Manager%E2%80%99s%20Path) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=fa&src=books/The%20Manager%E2%80%99s%20Path) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=fa&src=books/The%20Manager%E2%80%99s%20Path) | 

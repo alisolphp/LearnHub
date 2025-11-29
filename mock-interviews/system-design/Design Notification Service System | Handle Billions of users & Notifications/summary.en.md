@@ -9,11 +9,11 @@
 > *This document summarizes the key content of a system design mock interview. I highly recommend watching the full video if you can.*
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=4ea0b5d0 -->
+<!-- LH-BUTTONS:HASH=b11a91a9 -->
 
 ### AI-Powered buttons
 
-Teach Me:
+Teach Me: 
 [5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=en&src=mock-interviews/system-design/Design%20Notification%20Service%20System%20%7C%20Handle%20Billions%20of%20users%20%26%20Notifications) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=mock-interviews/system-design/Design%20Notification%20Service%20System%20%7C%20Handle%20Billions%20of%20users%20%26%20Notifications) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=mock-interviews/system-design/Design%20Notification%20Service%20System%20%7C%20Handle%20Billions%20of%20users%20%26%20Notifications) | 

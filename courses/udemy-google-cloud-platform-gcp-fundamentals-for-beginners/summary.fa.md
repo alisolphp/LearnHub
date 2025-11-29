@@ -14,11 +14,11 @@
 این خلاصه فقط نکات مهم را پوشش می‌دهد. ؜اگر امکانش را داری، دیدن خود دوره (به‌خصوص دموها و لاب‌ها) تجربه خیلی کامل‌تری می‌دهد.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=4ea0b5d0 -->
+<!-- LH-BUTTONS:HASH=b11a91a9 -->
 
 ### AI-Powered buttons
 
-Teach Me:
+Teach Me: 
 [5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=fa&src=courses/udemy-google-cloud-platform-gcp-fundamentals-for-beginners) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=fa&src=courses/udemy-google-cloud-platform-gcp-fundamentals-for-beginners) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=fa&src=courses/udemy-google-cloud-platform-gcp-fundamentals-for-beginners) | 

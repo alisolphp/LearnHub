@@ -12,11 +12,11 @@
 * بعد از هر بخش، می‌توانید روی لینک `Ask AI` کلیک کنید و در مورد همان بخش سؤالات عمیق‌تری بپرسید.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=4ea0b5d0 -->
+<!-- LH-BUTTONS:HASH=b11a91a9 -->
 
 ### AI-Powered buttons
 
-Teach Me:
+Teach Me: 
 [5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=fa&src=books/Fundamentals%20of%20Data%20Engineering) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=fa&src=books/Fundamentals%20of%20Data%20Engineering) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=fa&src=books/Fundamentals%20of%20Data%20Engineering) | 

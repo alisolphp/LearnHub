@@ -13,11 +13,11 @@
 - فقط روی لینک‌های `Ask AI` کلیک کن تا عمیق‌تر وارد هر موضوعی بشی.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=4ea0b5d0 -->
+<!-- LH-BUTTONS:HASH=b11a91a9 -->
 
 ### AI-Powered buttons
 
-Teach Me:
+Teach Me: 
 [5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=fa&src=courses/coursera-introduction-to-test-and-behavior-driven-development) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=fa&src=courses/coursera-introduction-to-test-and-behavior-driven-development) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=fa&src=courses/coursera-introduction-to-test-and-behavior-driven-development) | 

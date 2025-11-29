@@ -11,11 +11,11 @@
 * بعد از هر بخش می‌توانی روی لینک‌های `Ask AI` کلیک کنی و عمیق‌تر در مورد همان بخش سؤال بپرسی.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=4ea0b5d0 -->
+<!-- LH-BUTTONS:HASH=b11a91a9 -->
 
 ### AI-Powered buttons
 
-Teach Me:
+Teach Me: 
 [5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=fa&src=books/Designing%20Distributed%20Systems) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=fa&src=books/Designing%20Distributed%20Systems) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=fa&src=books/Designing%20Distributed%20Systems) | 

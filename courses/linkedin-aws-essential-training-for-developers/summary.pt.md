@@ -13,7 +13,33 @@
 - Basta clicar nos links `Ask AI` para aprofundar qualquer tópico que você quiser.
 
 <!-- LH-BUTTONS:START -->
-<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:HASH=b11a91a9 -->
+
+### AI-Powered buttons
+
+Teach Me: 
+[5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=pt&src=courses/linkedin-aws-essential-training-for-developers) | 
+[Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=pt&src=courses/linkedin-aws-essential-training-for-developers) | 
+[Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=pt&src=courses/linkedin-aws-essential-training-for-developers) | 
+[Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=pt&src=courses/linkedin-aws-essential-training-for-developers) | 
+[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer)
+
+Learn Differently:
+[Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=pt&src=courses/linkedin-aws-essential-training-for-developers) | 
+[Storytelling](https://alisol.ir/?ai=learnhub_summary_story&lang=pt&src=courses/linkedin-aws-essential-training-for-developers) | 
+[Cheatsheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=pt&src=courses/linkedin-aws-essential-training-for-developers) | 
+[Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=pt&src=courses/linkedin-aws-essential-training-for-developers) | 
+[Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=pt&src=courses/linkedin-aws-essential-training-for-developers) | 
+[Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=pt&src=courses/linkedin-aws-essential-training-for-developers) | 
+[Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=pt&src=courses/linkedin-aws-essential-training-for-developers) | 
+[Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=pt&src=courses/linkedin-aws-essential-training-for-developers)
+
+Check Understanding:
+[Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=pt&src=courses/linkedin-aws-essential-training-for-developers) | 
+[Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=pt&src=courses/linkedin-aws-essential-training-for-developers) | 
+[Refactor Challenge](https://alisol.ir/?ai=learnhub_summary_refactor&lang=pt&src=courses/linkedin-aws-essential-training-for-developers) | 
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=pt&src=courses/linkedin-aws-essential-training-for-developers) | 
+[Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=pt&src=courses/linkedin-aws-essential-training-for-developers)
 <!-- LH-BUTTONS:END -->
 
 ## [Tópico 1: Introdução à AWS]

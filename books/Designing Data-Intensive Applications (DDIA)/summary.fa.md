@@ -14,11 +14,11 @@
 * می‌توانی روی لینک‌های `Ask AI` کلیک کنی و در مورد همان بخش، تعاملی سؤال بپرسی یا عمیق‌تر یاد بگیری.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=4ea0b5d0 -->
+<!-- LH-BUTTONS:HASH=b11a91a9 -->
 
 ### AI-Powered buttons
 
-Teach Me:
+Teach Me: 
 [5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=fa&src=books/Designing%20Data-Intensive%20Applications%20(DDIA)) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=fa&src=books/Designing%20Data-Intensive%20Applications%20(DDIA)) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=fa&src=books/Designing%20Data-Intensive%20Applications%20(DDIA)) | 

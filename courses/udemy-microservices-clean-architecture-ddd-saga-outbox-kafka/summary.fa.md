@@ -15,11 +15,11 @@ _این سند، نکات کلیدی دوره را برای مرور سریع و
 - کافی است روی لینک‌های `Ask AI` کلیک کنی و درباره هر موضوعی که خواستی بیشتر عمیق شوی.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=4ea0b5d0 -->
+<!-- LH-BUTTONS:HASH=b11a91a9 -->
 
 ### AI-Powered buttons
 
-Teach Me:
+Teach Me: 
 [5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=fa&src=courses/udemy-microservices-clean-architecture-ddd-saga-outbox-kafka) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=fa&src=courses/udemy-microservices-clean-architecture-ddd-saga-outbox-kafka) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=fa&src=courses/udemy-microservices-clean-architecture-ddd-saga-outbox-kafka) | 

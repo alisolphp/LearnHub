@@ -13,11 +13,11 @@
 - Klik simpelweg op de `Ask AI`-links om dieper in te gaan op elk onderwerp dat je wilt.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=4ea0b5d0 -->
+<!-- LH-BUTTONS:HASH=b11a91a9 -->
 
 ### AI-Powered buttons
 
-Teach Me:
+Teach Me: 
 [5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=nl&src=courses/linkedin-aws-essential-training-for-developers) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=nl&src=courses/linkedin-aws-essential-training-for-developers) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=nl&src=courses/linkedin-aws-essential-training-for-developers) | 

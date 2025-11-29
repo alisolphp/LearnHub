@@ -11,11 +11,11 @@
 * بعد از هر بخش یک لینک `Ask AI` هست که می‌توانید روی آن کلیک کنید و از هوش مصنوعی درباره همان بخش سؤال‌های عمیق‌تر بپرسید.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=4ea0b5d0 -->
+<!-- LH-BUTTONS:HASH=b11a91a9 -->
 
 ### AI-Powered buttons
 
-Teach Me:
+Teach Me: 
 [5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=fa&src=books/Clean%20Architecture) | 
 [Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=fa&src=books/Clean%20Architecture) | 
 [Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=fa&src=books/Clean%20Architecture) | 
