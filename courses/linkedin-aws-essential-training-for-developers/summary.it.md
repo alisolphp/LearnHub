@@ -10,7 +10,7 @@
 
 ## Prima di iniziare
 - Riassumo i concetti chiave dei corsi più utili, così puoi imparare e ripassare velocemente.
-- Ti basta cliccare sui link `Ask AI` per approfondire qualsiasi argomento ti interessi.
+- Ti basta cliccare sui link `Ask AI` per approfondire qualsiasi argomento ti interessi. 
 
 <!-- LH-BUTTONS:START -->
 <!-- auto-generated; do not edit -->
