@@ -5,7 +5,7 @@
 [![Update README](https://github.com/alisolphp/LearnHub/actions/workflows/update-readme.yml/badge.svg)](https://github.com/alisolphp/LearnHub/actions/workflows/update-readme.yml)
     
 # LearnHub
-
+ 
 ## AI-Augmented Learning Partner (200+ Summaries)
 
 > Learn and review tech topics efficiently using concise, high-quality summaries.
