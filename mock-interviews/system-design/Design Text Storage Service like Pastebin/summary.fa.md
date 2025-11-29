@@ -9,7 +9,7 @@
 ---
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=47fdb3b8 -->
+<!-- LH-BUTTONS:HASH=3bb5ce7c -->
 
 ### AI-Powered buttons
 
@@ -33,7 +33,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=fa&src=mock-interviews/system-design/Design%20Text%20Storage%20Service%20like%20Pastebin) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=fa&src=mock-interviews/system-design/Design%20Text%20Storage%20Service%20like%20Pastebin) | 
-[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=mock-interviews/system-design/Design%20Text%20Storage%20Service%20like%20Pastebin)
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=mock-interviews/system-design/Design%20Text%20Storage%20Service%20like%20Pastebin) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=fa&src=mock-interviews/system-design/Design%20Text%20Storage%20Service%20like%20Pastebin)
 <!-- LH-BUTTONS:END -->
 

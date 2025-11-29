@@ -13,7 +13,7 @@
 - برای عمیق شدن روی هر موضوع، روی لینک‌های `Ask AI` کلیک کنید.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=47fdb3b8 -->
+<!-- LH-BUTTONS:HASH=3bb5ce7c -->
 
 ### AI-Powered buttons
 
@@ -37,7 +37,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=fa&src=courses/udemy-english-for-software-engineers-speak-like-a-pro) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=fa&src=courses/udemy-english-for-software-engineers-speak-like-a-pro) | 
-[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=courses/udemy-english-for-software-engineers-speak-like-a-pro)
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=courses/udemy-english-for-software-engineers-speak-like-a-pro) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=fa&src=courses/udemy-english-for-software-engineers-speak-like-a-pro)
 <!-- LH-BUTTONS:END -->
 

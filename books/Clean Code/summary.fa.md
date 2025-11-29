@@ -12,7 +12,7 @@
 * بعد از هر بخش روی لینک‌های `Ask AI` کلیک کن تا بتوانی عمیق‌تر در همان موضوع جستجو و گفت‌وگو کنی.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=47fdb3b8 -->
+<!-- LH-BUTTONS:HASH=3bb5ce7c -->
 
 ### AI-Powered buttons
 
@@ -36,7 +36,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=fa&src=books/Clean%20Code) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=fa&src=books/Clean%20Code) | 
-[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=books/Clean%20Code)
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=books/Clean%20Code) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=fa&src=books/Clean%20Code)
 <!-- LH-BUTTONS:END -->
 

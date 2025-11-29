@@ -10,7 +10,7 @@
 ---
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=47fdb3b8 -->
+<!-- LH-BUTTONS:HASH=3bb5ce7c -->
 
 ### AI-Powered buttons
 
@@ -34,7 +34,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=fa&src=mock-interviews/system-design/Design%20Notification%20Service%20System%20%7C%20Handle%20Billions%20of%20users%20%26%20Notifications) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=fa&src=mock-interviews/system-design/Design%20Notification%20Service%20System%20%7C%20Handle%20Billions%20of%20users%20%26%20Notifications) | 
-[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=mock-interviews/system-design/Design%20Notification%20Service%20System%20%7C%20Handle%20Billions%20of%20users%20%26%20Notifications)
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=mock-interviews/system-design/Design%20Notification%20Service%20System%20%7C%20Handle%20Billions%20of%20users%20%26%20Notifications) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=fa&src=mock-interviews/system-design/Design%20Notification%20Service%20System%20%7C%20Handle%20Billions%20of%20users%20%26%20Notifications)
 <!-- LH-BUTTONS:END -->
 

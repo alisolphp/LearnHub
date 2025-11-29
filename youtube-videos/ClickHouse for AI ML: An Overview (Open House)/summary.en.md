@@ -15,7 +15,7 @@
 - Simply click on `Ask AI` links to dive into any topic you want.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=47fdb3b8 -->
+<!-- LH-BUTTONS:HASH=3bb5ce7c -->
 
 ### AI-Powered buttons
 
@@ -39,7 +39,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=youtube-videos/ClickHouse%20for%20AI%20ML%3A%20An%20Overview%20(Open%20House)) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=youtube-videos/ClickHouse%20for%20AI%20ML%3A%20An%20Overview%20(Open%20House)) | 
-[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/ClickHouse%20for%20AI%20ML%3A%20An%20Overview%20(Open%20House))
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/ClickHouse%20for%20AI%20ML%3A%20An%20Overview%20(Open%20House)) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=youtube-videos/ClickHouse%20for%20AI%20ML%3A%20An%20Overview%20(Open%20House))
 <!-- LH-BUTTONS:END -->
 

@@ -15,7 +15,7 @@
 - Simply click on `Ask AI` links to dive into any topic you want.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=47fdb3b8 -->
+<!-- LH-BUTTONS:HASH=3bb5ce7c -->
 
 ### AI-Powered buttons
 
@@ -39,7 +39,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=youtube-videos/PHP%20Design%20patterns%20in%20Laminas%20(Zend)) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=youtube-videos/PHP%20Design%20patterns%20in%20Laminas%20(Zend)) | 
-[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/PHP%20Design%20patterns%20in%20Laminas%20(Zend))
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/PHP%20Design%20patterns%20in%20Laminas%20(Zend)) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=youtube-videos/PHP%20Design%20patterns%20in%20Laminas%20(Zend))
 <!-- LH-BUTTONS:END -->
 

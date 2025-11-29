@@ -15,7 +15,7 @@
 - Simply click on `Ask AI` links to dive into any topic you want.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=47fdb3b8 -->
+<!-- LH-BUTTONS:HASH=3bb5ce7c -->
 
 ### AI-Powered buttons
 
@@ -39,7 +39,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=youtube-videos/Memcached%20Architecture%20-%20Crash%20Course%20with%20Docker%2C%20Telnet) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=youtube-videos/Memcached%20Architecture%20-%20Crash%20Course%20with%20Docker%2C%20Telnet) | 
-[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/Memcached%20Architecture%20-%20Crash%20Course%20with%20Docker%2C%20Telnet)
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/Memcached%20Architecture%20-%20Crash%20Course%20with%20Docker%2C%20Telnet) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=youtube-videos/Memcached%20Architecture%20-%20Crash%20Course%20with%20Docker%2C%20Telnet)
 <!-- LH-BUTTONS:END -->
 

@@ -8,7 +8,7 @@
 > *This document summarizes the key content of a system design mock interview. I highly recommend watching the full video if you can.*
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=47fdb3b8 -->
+<!-- LH-BUTTONS:HASH=3bb5ce7c -->
 
 ### AI-Powered buttons
 
@@ -32,7 +32,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka) | 
-[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka)
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=mock-interviews/system-design/Design%20Distributed%20Message%20Queue%20like%20Kafka)
 <!-- LH-BUTTONS:END -->
  

@@ -9,7 +9,7 @@
 > **Disclaimer**: This is a personal summary and interpretation based on a YouTube video. It is not official material and not endorsed by the original creator. All rights remain with the respective creators.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=47fdb3b8 -->
+<!-- LH-BUTTONS:HASH=3bb5ce7c -->
 
 ### AI-Powered buttons
 
@@ -33,7 +33,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=youtube-videos/Django%20Tutorial%20for%20Beginners%20%E2%80%93%20Build%20Powerful%20Backends) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=youtube-videos/Django%20Tutorial%20for%20Beginners%20%E2%80%93%20Build%20Powerful%20Backends) | 
-[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/Django%20Tutorial%20for%20Beginners%20%E2%80%93%20Build%20Powerful%20Backends)
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/Django%20Tutorial%20for%20Beginners%20%E2%80%93%20Build%20Powerful%20Backends) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=youtube-videos/Django%20Tutorial%20for%20Beginners%20%E2%80%93%20Build%20Powerful%20Backends)
 <!-- LH-BUTTONS:END -->
 

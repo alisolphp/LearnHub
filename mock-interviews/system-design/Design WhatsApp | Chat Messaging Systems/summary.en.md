@@ -9,7 +9,7 @@
 ---
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=47fdb3b8 -->
+<!-- LH-BUTTONS:HASH=3bb5ce7c -->
 
 ### AI-Powered buttons
 
@@ -33,7 +33,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=mock-interviews/system-design/Design%20WhatsApp%20%7C%20Chat%20Messaging%20Systems) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=mock-interviews/system-design/Design%20WhatsApp%20%7C%20Chat%20Messaging%20Systems) | 
-[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=mock-interviews/system-design/Design%20WhatsApp%20%7C%20Chat%20Messaging%20Systems)
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=mock-interviews/system-design/Design%20WhatsApp%20%7C%20Chat%20Messaging%20Systems) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=mock-interviews/system-design/Design%20WhatsApp%20%7C%20Chat%20Messaging%20Systems)
 <!-- LH-BUTTONS:END -->
 

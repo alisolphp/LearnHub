@@ -15,7 +15,7 @@
 - Simply click on `Ask AI` links to dive into any topic you want.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=47fdb3b8 -->
+<!-- LH-BUTTONS:HASH=3bb5ce7c -->
 
 ### AI-Powered buttons
 
@@ -39,7 +39,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=youtube-videos/React%20Query%20Crash%20Course%20-%20Learn%20Queries%2C%20Mutations) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=youtube-videos/React%20Query%20Crash%20Course%20-%20Learn%20Queries%2C%20Mutations) | 
-[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/React%20Query%20Crash%20Course%20-%20Learn%20Queries%2C%20Mutations)
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/React%20Query%20Crash%20Course%20-%20Learn%20Queries%2C%20Mutations) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=youtube-videos/React%20Query%20Crash%20Course%20-%20Learn%20Queries%2C%20Mutations)
 <!-- LH-BUTTONS:END -->
 

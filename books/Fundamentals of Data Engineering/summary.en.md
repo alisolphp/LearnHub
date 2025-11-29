@@ -12,7 +12,7 @@ I highly recommend reading the original book for the full depth and author's per
 * Simply click on `Ask AI` links after each section to dive deeper.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=47fdb3b8 -->
+<!-- LH-BUTTONS:HASH=3bb5ce7c -->
 
 ### AI-Powered buttons
 
@@ -36,7 +36,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=books/Fundamentals%20of%20Data%20Engineering) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=books/Fundamentals%20of%20Data%20Engineering) | 
-[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=books/Fundamentals%20of%20Data%20Engineering)
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=books/Fundamentals%20of%20Data%20Engineering) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=books/Fundamentals%20of%20Data%20Engineering)
 <!-- LH-BUTTONS:END -->
 

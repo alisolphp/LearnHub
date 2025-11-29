@@ -15,7 +15,7 @@
 - Simply click on `Ask AI` links to dive into any topic you want.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=47fdb3b8 -->
+<!-- LH-BUTTONS:HASH=3bb5ce7c -->
 
 ### AI-Powered buttons
 
@@ -39,7 +39,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=youtube-videos/Building%20AI%20Into%20Observability%20Workflows%3A%20Automating%20Dashboards%2C%20Alerts%20with%20MCP%20%26%20Agents) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=youtube-videos/Building%20AI%20Into%20Observability%20Workflows%3A%20Automating%20Dashboards%2C%20Alerts%20with%20MCP%20%26%20Agents) | 
-[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/Building%20AI%20Into%20Observability%20Workflows%3A%20Automating%20Dashboards%2C%20Alerts%20with%20MCP%20%26%20Agents)
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/Building%20AI%20Into%20Observability%20Workflows%3A%20Automating%20Dashboards%2C%20Alerts%20with%20MCP%20%26%20Agents) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=youtube-videos/Building%20AI%20Into%20Observability%20Workflows%3A%20Automating%20Dashboards%2C%20Alerts%20with%20MCP%20%26%20Agents)
 <!-- LH-BUTTONS:END -->
 

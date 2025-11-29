@@ -9,7 +9,7 @@
 > **Disclaimer**: This is a personal summary and interpretation based on a YouTube video. It is not official material and not endorsed by the original creator. All rights remain with the respective creators.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=47fdb3b8 -->
+<!-- LH-BUTTONS:HASH=3bb5ce7c -->
 
 ### AI-Powered buttons
 
@@ -33,7 +33,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=youtube-videos/Nuxt.JS%20for%20Beginners%3A%20Build%20Your%20First%20App%20from%20Scratch!) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=youtube-videos/Nuxt.JS%20for%20Beginners%3A%20Build%20Your%20First%20App%20from%20Scratch!) | 
-[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/Nuxt.JS%20for%20Beginners%3A%20Build%20Your%20First%20App%20from%20Scratch!)
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/Nuxt.JS%20for%20Beginners%3A%20Build%20Your%20First%20App%20from%20Scratch!) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=youtube-videos/Nuxt.JS%20for%20Beginners%3A%20Build%20Your%20First%20App%20from%20Scratch!)
 <!-- LH-BUTTONS:END -->
 

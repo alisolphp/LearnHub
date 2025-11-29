@@ -14,7 +14,7 @@
 - کافی است روی لینک‌های `Ask AI` کلیک کنی تا روی هر مبحث، عمیق‌تر گفت‌وگو و تمرین کنی.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=47fdb3b8 -->
+<!-- LH-BUTTONS:HASH=3bb5ce7c -->
 
 ### AI-Powered buttons
 
@@ -38,7 +38,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=fa&src=courses/udemy-openapi-specification-swagger-tools-zero-to-master) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=fa&src=courses/udemy-openapi-specification-swagger-tools-zero-to-master) | 
-[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=courses/udemy-openapi-specification-swagger-tools-zero-to-master)
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=courses/udemy-openapi-specification-swagger-tools-zero-to-master) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=fa&src=courses/udemy-openapi-specification-swagger-tools-zero-to-master)
 <!-- LH-BUTTONS:END -->
 

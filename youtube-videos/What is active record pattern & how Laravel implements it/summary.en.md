@@ -15,7 +15,7 @@
 - Simply click on `Ask AI` links to dive into any topic you want.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=47fdb3b8 -->
+<!-- LH-BUTTONS:HASH=3bb5ce7c -->
 
 ### AI-Powered buttons
 
@@ -39,7 +39,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=youtube-videos/What%20is%20active%20record%20pattern%20%26%20how%20Laravel%20implements%20it) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=youtube-videos/What%20is%20active%20record%20pattern%20%26%20how%20Laravel%20implements%20it) | 
-[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/What%20is%20active%20record%20pattern%20%26%20how%20Laravel%20implements%20it)
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/What%20is%20active%20record%20pattern%20%26%20how%20Laravel%20implements%20it) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=youtube-videos/What%20is%20active%20record%20pattern%20%26%20how%20Laravel%20implements%20it)
 <!-- LH-BUTTONS:END -->
 

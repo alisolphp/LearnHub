@@ -15,7 +15,7 @@ _این سند، نکات کلیدی دوره را برای مرور سریع و
 - کافی است روی لینک‌های `Ask AI` کلیک کنی و درباره هر موضوعی که خواستی بیشتر عمیق شوی.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=47fdb3b8 -->
+<!-- LH-BUTTONS:HASH=3bb5ce7c -->
 
 ### AI-Powered buttons
 
@@ -39,7 +39,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=fa&src=courses/udemy-microservices-clean-architecture-ddd-saga-outbox-kafka) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=fa&src=courses/udemy-microservices-clean-architecture-ddd-saga-outbox-kafka) | 
-[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=courses/udemy-microservices-clean-architecture-ddd-saga-outbox-kafka)
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=courses/udemy-microservices-clean-architecture-ddd-saga-outbox-kafka) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=fa&src=courses/udemy-microservices-clean-architecture-ddd-saga-outbox-kafka)
 <!-- LH-BUTTONS:END -->
 

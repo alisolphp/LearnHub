@@ -15,7 +15,7 @@
 - Simply click on `Ask AI` links to dive into any topic you want.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=47fdb3b8 -->
+<!-- LH-BUTTONS:HASH=3bb5ce7c -->
 
 ### AI-Powered buttons
 
@@ -39,7 +39,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=youtube-videos/Intro%20to%20Google%20Colab%20-%20Beginners'%20Python%20and%20Machine%20Learning) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=youtube-videos/Intro%20to%20Google%20Colab%20-%20Beginners'%20Python%20and%20Machine%20Learning) | 
-[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/Intro%20to%20Google%20Colab%20-%20Beginners'%20Python%20and%20Machine%20Learning)
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/Intro%20to%20Google%20Colab%20-%20Beginners'%20Python%20and%20Machine%20Learning) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=youtube-videos/Intro%20to%20Google%20Colab%20-%20Beginners'%20Python%20and%20Machine%20Learning)
 <!-- LH-BUTTONS:END -->
 

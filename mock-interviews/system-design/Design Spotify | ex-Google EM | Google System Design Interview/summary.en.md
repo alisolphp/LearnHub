@@ -8,7 +8,7 @@
 ---
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=47fdb3b8 -->
+<!-- LH-BUTTONS:HASH=3bb5ce7c -->
 
 ### AI-Powered buttons
 
@@ -32,7 +32,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=mock-interviews/system-design/Design%20Spotify%20%7C%20ex-Google%20EM%20%7C%20Google%20System%20Design%20Interview) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=mock-interviews/system-design/Design%20Spotify%20%7C%20ex-Google%20EM%20%7C%20Google%20System%20Design%20Interview) | 
-[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=mock-interviews/system-design/Design%20Spotify%20%7C%20ex-Google%20EM%20%7C%20Google%20System%20Design%20Interview)
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=mock-interviews/system-design/Design%20Spotify%20%7C%20ex-Google%20EM%20%7C%20Google%20System%20Design%20Interview) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=mock-interviews/system-design/Design%20Spotify%20%7C%20ex-Google%20EM%20%7C%20Google%20System%20Design%20Interview)
 <!-- LH-BUTTONS:END -->
 

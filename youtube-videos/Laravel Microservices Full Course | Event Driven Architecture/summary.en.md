@@ -15,7 +15,7 @@
 - Simply click on `Ask AI` links to dive into any topic you want.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=47fdb3b8 -->
+<!-- LH-BUTTONS:HASH=3bb5ce7c -->
 
 ### AI-Powered buttons
 
@@ -39,7 +39,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=youtube-videos/Laravel%20Microservices%20Full%20Course%20%7C%20Event%20Driven%20Architecture) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=youtube-videos/Laravel%20Microservices%20Full%20Course%20%7C%20Event%20Driven%20Architecture) | 
-[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/Laravel%20Microservices%20Full%20Course%20%7C%20Event%20Driven%20Architecture)
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/Laravel%20Microservices%20Full%20Course%20%7C%20Event%20Driven%20Architecture) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=youtube-videos/Laravel%20Microservices%20Full%20Course%20%7C%20Event%20Driven%20Architecture)
 <!-- LH-BUTTONS:END -->
 

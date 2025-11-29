@@ -15,7 +15,7 @@ _این سند، نکات مهم دوره رو خلاصه می‌کنه. اگه 
 - فقط کافیه روی لینک‌های `Ask AI` کلیک کنی تا روی همون مبحث عمیق‌تر کار کنی.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=47fdb3b8 -->
+<!-- LH-BUTTONS:HASH=3bb5ce7c -->
 
 ### AI-Powered buttons
 
@@ -39,7 +39,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=fa&src=courses/udemy-mastering-unit-and-integration-testing-in-clean-architecture) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=fa&src=courses/udemy-mastering-unit-and-integration-testing-in-clean-architecture) | 
-[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=courses/udemy-mastering-unit-and-integration-testing-in-clean-architecture)
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=courses/udemy-mastering-unit-and-integration-testing-in-clean-architecture) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=fa&src=courses/udemy-mastering-unit-and-integration-testing-in-clean-architecture)
 <!-- LH-BUTTONS:END -->
 

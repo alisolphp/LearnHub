@@ -15,7 +15,7 @@
 - Simply click on `Ask AI` links to dive into any topic you want.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=47fdb3b8 -->
+<!-- LH-BUTTONS:HASH=3bb5ce7c -->
 
 ### AI-Powered buttons
 
@@ -39,7 +39,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=youtube-videos/6%20GRAPH%20PROBLEMS%20SOLVED%20%7C%20LeetCode%20Grind%202023%20%7C%20Blind%2075%20List) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=youtube-videos/6%20GRAPH%20PROBLEMS%20SOLVED%20%7C%20LeetCode%20Grind%202023%20%7C%20Blind%2075%20List) | 
-[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/6%20GRAPH%20PROBLEMS%20SOLVED%20%7C%20LeetCode%20Grind%202023%20%7C%20Blind%2075%20List)
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/6%20GRAPH%20PROBLEMS%20SOLVED%20%7C%20LeetCode%20Grind%202023%20%7C%20Blind%2075%20List) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=youtube-videos/6%20GRAPH%20PROBLEMS%20SOLVED%20%7C%20LeetCode%20Grind%202023%20%7C%20Blind%2075%20List)
 <!-- LH-BUTTONS:END -->
 

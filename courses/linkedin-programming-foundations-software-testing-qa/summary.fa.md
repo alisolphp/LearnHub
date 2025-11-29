@@ -15,7 +15,7 @@
 در این خلاصه هر جا روی لینک‌های ‎Ask AI‎ کلیک کنید، می‌توانید همان موضوع را عمیق‌تر بررسی کنید و سؤال بپرسید.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=47fdb3b8 -->
+<!-- LH-BUTTONS:HASH=3bb5ce7c -->
 
 ### AI-Powered buttons
 
@@ -39,7 +39,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=fa&src=courses/linkedin-programming-foundations-software-testing-qa) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=fa&src=courses/linkedin-programming-foundations-software-testing-qa) | 
-[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=courses/linkedin-programming-foundations-software-testing-qa)
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=courses/linkedin-programming-foundations-software-testing-qa) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=fa&src=courses/linkedin-programming-foundations-software-testing-qa)
 <!-- LH-BUTTONS:END -->
 

@@ -13,7 +13,7 @@ I highly recommend reading the original book for the full depth and author's per
 * Simply click on `Ask AI` links after each section to dive deeper.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=47fdb3b8 -->
+<!-- LH-BUTTONS:HASH=3bb5ce7c -->
 
 ### AI-Powered buttons
 
@@ -37,7 +37,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=books/Build%20AI%20into%20Your%20Web%20Apps) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=books/Build%20AI%20into%20Your%20Web%20Apps) | 
-[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=books/Build%20AI%20into%20Your%20Web%20Apps)
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=books/Build%20AI%20into%20Your%20Web%20Apps) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=books/Build%20AI%20into%20Your%20Web%20Apps)
 <!-- LH-BUTTONS:END -->
 

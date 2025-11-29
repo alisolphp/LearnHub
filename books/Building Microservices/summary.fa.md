@@ -12,7 +12,7 @@
 - بعد از هر بخش، می‌توانی روی لینک‌های `Ask AI` کلیک کنی و در مورد همان بخش سؤال‌های عمیق‌تر بپرسی.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=47fdb3b8 -->
+<!-- LH-BUTTONS:HASH=3bb5ce7c -->
 
 ### AI-Powered buttons
 
@@ -36,7 +36,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=fa&src=books/Building%20Microservices) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=fa&src=books/Building%20Microservices) | 
-[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=books/Building%20Microservices)
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=books/Building%20Microservices) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=fa&src=books/Building%20Microservices)
 <!-- LH-BUTTONS:END -->
 

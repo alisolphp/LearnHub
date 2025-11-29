@@ -15,7 +15,7 @@
 - Simply click on `Ask AI` links to dive into any topic you want.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=47fdb3b8 -->
+<!-- LH-BUTTONS:HASH=3bb5ce7c -->
 
 ### AI-Powered buttons
 
@@ -39,7 +39,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=youtube-videos/Serverless%20PHP%3A%20how%20does%20it%20really%20work%3F%20-%20Matthieu%20Napoli) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=youtube-videos/Serverless%20PHP%3A%20how%20does%20it%20really%20work%3F%20-%20Matthieu%20Napoli) | 
-[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/Serverless%20PHP%3A%20how%20does%20it%20really%20work%3F%20-%20Matthieu%20Napoli)
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/Serverless%20PHP%3A%20how%20does%20it%20really%20work%3F%20-%20Matthieu%20Napoli) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=youtube-videos/Serverless%20PHP%3A%20how%20does%20it%20really%20work%3F%20-%20Matthieu%20Napoli)
 <!-- LH-BUTTONS:END -->
 

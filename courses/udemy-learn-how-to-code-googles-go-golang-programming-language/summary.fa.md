@@ -15,7 +15,7 @@
 - هرجا روی لینک‌های `Ask AI` کلیک کنی، می‌تونی در مورد همون موضوع به‌صورت تعاملی سؤال بپرسی.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=47fdb3b8 -->
+<!-- LH-BUTTONS:HASH=3bb5ce7c -->
 
 ### AI-Powered buttons
 
@@ -39,7 +39,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=fa&src=courses/udemy-learn-how-to-code-googles-go-golang-programming-language) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=fa&src=courses/udemy-learn-how-to-code-googles-go-golang-programming-language) | 
-[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=courses/udemy-learn-how-to-code-googles-go-golang-programming-language)
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=courses/udemy-learn-how-to-code-googles-go-golang-programming-language) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=fa&src=courses/udemy-learn-how-to-code-googles-go-golang-programming-language)
 <!-- LH-BUTTONS:END -->
 

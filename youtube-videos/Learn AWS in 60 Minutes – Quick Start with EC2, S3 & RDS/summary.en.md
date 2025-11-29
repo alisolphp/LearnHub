@@ -9,7 +9,7 @@
 > **Disclaimer**: This is a personal summary and interpretation based on a YouTube video. It is not official material and not endorsed by the original creator. All rights remain with the respective creators.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=47fdb3b8 -->
+<!-- LH-BUTTONS:HASH=3bb5ce7c -->
 
 ### AI-Powered buttons
 
@@ -33,7 +33,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=youtube-videos/Learn%20AWS%20in%2060%20Minutes%20%E2%80%93%20Quick%20Start%20with%20EC2%2C%20S3%20%26%20RDS) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=youtube-videos/Learn%20AWS%20in%2060%20Minutes%20%E2%80%93%20Quick%20Start%20with%20EC2%2C%20S3%20%26%20RDS) | 
-[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/Learn%20AWS%20in%2060%20Minutes%20%E2%80%93%20Quick%20Start%20with%20EC2%2C%20S3%20%26%20RDS)
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/Learn%20AWS%20in%2060%20Minutes%20%E2%80%93%20Quick%20Start%20with%20EC2%2C%20S3%20%26%20RDS) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=youtube-videos/Learn%20AWS%20in%2060%20Minutes%20%E2%80%93%20Quick%20Start%20with%20EC2%2C%20S3%20%26%20RDS)
 <!-- LH-BUTTONS:END -->
 

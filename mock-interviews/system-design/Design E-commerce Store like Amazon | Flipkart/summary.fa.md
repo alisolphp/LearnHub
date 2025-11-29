@@ -8,7 +8,7 @@
 ---
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=47fdb3b8 -->
+<!-- LH-BUTTONS:HASH=3bb5ce7c -->
 
 ### AI-Powered buttons
 
@@ -32,7 +32,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=fa&src=mock-interviews/system-design/Design%20E-commerce%20Store%20like%20Amazon%20%7C%20Flipkart) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=fa&src=mock-interviews/system-design/Design%20E-commerce%20Store%20like%20Amazon%20%7C%20Flipkart) | 
-[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=mock-interviews/system-design/Design%20E-commerce%20Store%20like%20Amazon%20%7C%20Flipkart)
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=mock-interviews/system-design/Design%20E-commerce%20Store%20like%20Amazon%20%7C%20Flipkart) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=fa&src=mock-interviews/system-design/Design%20E-commerce%20Store%20like%20Amazon%20%7C%20Flipkart)
 <!-- LH-BUTTONS:END -->
 

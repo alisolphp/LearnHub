@@ -14,7 +14,7 @@
 * بعد از هر بخش یک لینک `Ask AI` هست؛ روی آن کلیک کنی می‌توانی درباره همان بخش، سوال‌های عمیق‌تر بپرسی.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=47fdb3b8 -->
+<!-- LH-BUTTONS:HASH=3bb5ce7c -->
 
 ### AI-Powered buttons
 
@@ -38,7 +38,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=fa&src=books/The%20Pragmatic%20Programmer) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=fa&src=books/The%20Pragmatic%20Programmer) | 
-[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=books/The%20Pragmatic%20Programmer)
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=books/The%20Pragmatic%20Programmer) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=fa&src=books/The%20Pragmatic%20Programmer)
 <!-- LH-BUTTONS:END -->
 

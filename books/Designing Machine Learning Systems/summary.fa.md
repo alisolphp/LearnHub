@@ -11,7 +11,7 @@
 * فقط کافی است روی لینک‌های `Ask AI` بعد از هر بخش کلیک کنید تا عمیق‌تر وارد جزئیات شوید.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=47fdb3b8 -->
+<!-- LH-BUTTONS:HASH=3bb5ce7c -->
 
 ### AI-Powered buttons
 
@@ -35,7 +35,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=fa&src=books/Designing%20Machine%20Learning%20Systems) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=fa&src=books/Designing%20Machine%20Learning%20Systems) | 
-[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=books/Designing%20Machine%20Learning%20Systems)
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=books/Designing%20Machine%20Learning%20Systems) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=fa&src=books/Designing%20Machine%20Learning%20Systems)
 <!-- LH-BUTTONS:END -->
 

@@ -9,7 +9,7 @@
 > **Disclaimer**: This is a personal summary and interpretation based on a YouTube video. It is not official material and not endorsed by the original creator. All rights remain with the respective creators.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=47fdb3b8 -->
+<!-- LH-BUTTONS:HASH=3bb5ce7c -->
 
 ### AI-Powered buttons
 
@@ -33,7 +33,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=youtube-videos/Vue.js%20Beginner%20Course%20%7C%20Build%20%26%20Deploy%20a%20Modern%20Fitness%20App) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=youtube-videos/Vue.js%20Beginner%20Course%20%7C%20Build%20%26%20Deploy%20a%20Modern%20Fitness%20App) | 
-[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/Vue.js%20Beginner%20Course%20%7C%20Build%20%26%20Deploy%20a%20Modern%20Fitness%20App)
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/Vue.js%20Beginner%20Course%20%7C%20Build%20%26%20Deploy%20a%20Modern%20Fitness%20App) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=youtube-videos/Vue.js%20Beginner%20Course%20%7C%20Build%20%26%20Deploy%20a%20Modern%20Fitness%20App)
 <!-- LH-BUTTONS:END -->
 

@@ -11,7 +11,7 @@
 * بعد از هر بخش یک لینک `Ask AI` هست که می‌توانید روی آن کلیک کنید و از هوش مصنوعی درباره همان بخش سؤال‌های عمیق‌تر بپرسید.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=47fdb3b8 -->
+<!-- LH-BUTTONS:HASH=3bb5ce7c -->
 
 ### AI-Powered buttons
 
@@ -35,7 +35,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=fa&src=books/Clean%20Architecture) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=fa&src=books/Clean%20Architecture) | 
-[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=books/Clean%20Architecture)
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=books/Clean%20Architecture) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=fa&src=books/Clean%20Architecture)
 <!-- LH-BUTTONS:END -->
 

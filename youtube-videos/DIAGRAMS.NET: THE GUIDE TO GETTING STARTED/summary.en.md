@@ -9,7 +9,7 @@
 > **Disclaimer**: This is a personal summary and interpretation based on a YouTube video. It is not official material and not endorsed by the original creator. All rights remain with the respective creators.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=47fdb3b8 -->
+<!-- LH-BUTTONS:HASH=3bb5ce7c -->
 
 ### AI-Powered buttons
 
@@ -33,7 +33,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=youtube-videos/DIAGRAMS.NET%3A%20THE%20GUIDE%20TO%20GETTING%20STARTED) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=youtube-videos/DIAGRAMS.NET%3A%20THE%20GUIDE%20TO%20GETTING%20STARTED) | 
-[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/DIAGRAMS.NET%3A%20THE%20GUIDE%20TO%20GETTING%20STARTED)
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/DIAGRAMS.NET%3A%20THE%20GUIDE%20TO%20GETTING%20STARTED) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=youtube-videos/DIAGRAMS.NET%3A%20THE%20GUIDE%20TO%20GETTING%20STARTED)
 <!-- LH-BUTTONS:END -->
 

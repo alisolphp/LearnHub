@@ -15,7 +15,7 @@
 - Simply click on `Ask AI` links to dive into any topic you want.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=47fdb3b8 -->
+<!-- LH-BUTTONS:HASH=3bb5ce7c -->
 
 ### AI-Powered buttons
 
@@ -39,7 +39,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=youtube-videos/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree%20-%20Leetcode%20235) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=youtube-videos/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree%20-%20Leetcode%20235) | 
-[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree%20-%20Leetcode%20235)
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree%20-%20Leetcode%20235) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=youtube-videos/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree%20-%20Leetcode%20235)
 <!-- LH-BUTTONS:END -->
 

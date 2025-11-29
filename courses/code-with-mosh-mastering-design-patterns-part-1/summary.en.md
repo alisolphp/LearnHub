@@ -15,7 +15,7 @@ Quick summaries of useful courses for fast learning and review.
 Click any Ask AI link to dive deeper into a topic.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=47fdb3b8 -->
+<!-- LH-BUTTONS:HASH=3bb5ce7c -->
 
 ### AI-Powered buttons
 
@@ -39,7 +39,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=courses/code-with-mosh-mastering-design-patterns-part-1) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=courses/code-with-mosh-mastering-design-patterns-part-1) | 
-[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=courses/code-with-mosh-mastering-design-patterns-part-1)
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=courses/code-with-mosh-mastering-design-patterns-part-1) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=courses/code-with-mosh-mastering-design-patterns-part-1)
 <!-- LH-BUTTONS:END -->
 

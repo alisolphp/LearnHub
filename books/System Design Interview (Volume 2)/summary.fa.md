@@ -14,7 +14,7 @@
 * برای هر فصل، یک لینک `Ask AI` گذاشته شده که می‌توانی بعد از هر بخش روی آن کلیک کنی و عمیق‌تر وارد جزئیات همان فصل شوی.
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=47fdb3b8 -->
+<!-- LH-BUTTONS:HASH=3bb5ce7c -->
 
 ### AI-Powered buttons
 
@@ -38,7 +38,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=fa&src=books/System%20Design%20Interview%20(Volume%202)) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=fa&src=books/System%20Design%20Interview%20(Volume%202)) | 
-[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=books/System%20Design%20Interview%20(Volume%202))
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=books/System%20Design%20Interview%20(Volume%202)) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=fa&src=books/System%20Design%20Interview%20(Volume%202))
 <!-- LH-BUTTONS:END -->
 

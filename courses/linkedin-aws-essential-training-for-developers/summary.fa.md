@@ -9,7 +9,7 @@
 *این سند، نکات کلیدی دوره را خلاصه می‌کند تا سریع‌تر یاد بگیری و مرور کنی. اگر فرصت داشتی، دیدن دوره‌ی کامل به‌شدت پیشنهاد می‌شود.*
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=47fdb3b8 -->
+<!-- LH-BUTTONS:HASH=3bb5ce7c -->
 
 ### AI-Powered buttons
 
@@ -33,7 +33,7 @@ Learn Differently:
 Check Understanding:
 [Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=fa&src=courses/linkedin-aws-essential-training-for-developers) | 
 [Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=fa&src=courses/linkedin-aws-essential-training-for-developers) | 
-[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=courses/linkedin-aws-essential-training-for-developers)
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=courses/linkedin-aws-essential-training-for-developers) | 
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=fa&src=courses/linkedin-aws-essential-training-for-developers)
 <!-- LH-BUTTONS:END -->
 
