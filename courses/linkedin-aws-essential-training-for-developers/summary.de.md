@@ -14,7 +14,7 @@
 
 <!-- LH-BUTTONS:START -->
 <!-- auto-generated; do not edit -->
-<!-- LH-BUTTONS:END -->
+<!-- LH-BUTTONS:END --> 
 
 ## [Thema 1: Introduction to AWS]
 
