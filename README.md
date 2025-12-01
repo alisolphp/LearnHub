@@ -1,22 +1,25 @@
 [![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![AI-Powered](https://img.shields.io/badge/Made%20with-AI-informational)
-![200+ Summaries](https://img.shields.io/badge/Summaries-200%2B-blue)
-[![Update README](https://github.com/alisolphp/LearnHub/actions/workflows/update-readme.yml/badge.svg)](https://github.com/alisolphp/LearnHub/actions/workflows/update-readme.yml)
+[![AI-Powered](https://img.shields.io/badge/Made%20with-AI-informational)](AI_FEATURES.md)
+[![200+ Summaries](https://img.shields.io/badge/Summaries-200%2B-blue)](#-repository-structure-at-a-glance)
     
 # LearnHub
 
 ## AI-Augmented Learning Partner (200+ Summaries)
 
-> Learn and review tech topics efficiently using concise, high-quality summaries. 
+> Learn and review tech topics efficiently using concise, high-quality summaries.
+
+### Demo: 
+
+https://alisol.ir/Projects/LearnHub
 
 ---
 
 ## 📚 Project docs
 
 - 🧭 **[VISION.md](VISION.md)** – Why LearnHub exists, what it is (and is not), and the long-term dream.
-- 🗺 **[ROADMAP.md](ROADMAP.md)** – What’s shipped, what’s in progress, and where the project is headed next.
 - 🤖 **[AI_FEATURES.md](AI_FEATURES.md)** – How AI-powered flows, global entry points, per-summary buttons, and live examples.
+- 🗺 **[ROADMAP.md](ROADMAP.md)** – What’s shipped, what’s in progress, and where the project is headed next.
 - 🤝 **[CONTRIBUTING.md](CONTRIBUTING.md)** – How to request new topics, report issues, and improve docs / code.
 
 If you are new here, read **VISION** first, then skim **AI_FEATURES**, and finally check the **ROADMAP** and **CONTRIBUTING**.
