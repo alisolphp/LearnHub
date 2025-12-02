@@ -6,7 +6,7 @@
 # LearnHub
 
 ## AI-Augmented Learning Partner (200+ Summaries)
- 
+
 > Learn and review tech topics efficiently using concise, high-quality summaries.
 
 ### Demo: 
@@ -50,7 +50,7 @@ Other language shortcuts:
 [🇮🇷 FA](https://alisol.ir/?ai=learnhub_starter|FA)  
 [🇹🇷 TR](https://alisol.ir/?ai=learnhub_starter|TR)
 
-The language you want isn't here? Don't worry, click on one of the links and select the language you want on the next page!
+Your language isn't here? Don't worry, click on one of the links and select Your language on the next page!
 
 ### How it works:
 
@@ -82,7 +82,7 @@ Other language shortcuts:
 [🇮🇷 FA](https://alisol.ir/?ai=learnhub_search|FA)  
 [🇹🇷 TR](https://alisol.ir/?ai=learnhub_search|TR)
 
-The language you want isn't here? Don't worry, click on one of the links and select the language you want on the next page!
+Your language isn't here? Don't worry, click on one of the links and select Your language on the next page!
 
 ### How it works:
 
@@ -202,7 +202,7 @@ Other language shortcuts:
 [FA](https://alisol.ir/?ai=Consistency%20and%20Consensus%7CMartin%20Kleppmann%7CDesigning%20Data-Intensive%20Applications&lang=FA) | 
 [TR](https://alisol.ir/?ai=Consistency%20and%20Consensus%7CMartin%20Kleppmann%7CDesigning%20Data-Intensive%20Applications&lang=TR) )
 
-The language you want isn't here? Don't worry, click on one of the links and select the language you want on the next page!
+Your language isn't here? Don't worry, click on one of the links and select Your language on the next page!
 
 ### How it works:
 
