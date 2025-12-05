@@ -15,7 +15,33 @@
 - هر وقت خواستی روی یک موضوع عمیق‌تر شوی، روی لینک‌های «Ask AI» کلیک کن تا همان بخش را برایت باز کند.
 
 <!-- LH-BUTTONS:START -->
-<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:HASH=b11a91a9 -->
+
+### AI-Powered buttons
+
+Teach Me: 
+[5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=fa&src=youtube-videos/AI%20prompt%20engineering%20in%202025) | 
+[Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=fa&src=youtube-videos/AI%20prompt%20engineering%20in%202025) | 
+[Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=fa&src=youtube-videos/AI%20prompt%20engineering%20in%202025) | 
+[Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=fa&src=youtube-videos/AI%20prompt%20engineering%20in%202025) | 
+[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer)
+
+Learn Differently:
+[Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=fa&src=youtube-videos/AI%20prompt%20engineering%20in%202025) | 
+[Storytelling](https://alisol.ir/?ai=learnhub_summary_story&lang=fa&src=youtube-videos/AI%20prompt%20engineering%20in%202025) | 
+[Cheatsheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=fa&src=youtube-videos/AI%20prompt%20engineering%20in%202025) | 
+[Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=fa&src=youtube-videos/AI%20prompt%20engineering%20in%202025) | 
+[Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=fa&src=youtube-videos/AI%20prompt%20engineering%20in%202025) | 
+[Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=fa&src=youtube-videos/AI%20prompt%20engineering%20in%202025) | 
+[Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=fa&src=youtube-videos/AI%20prompt%20engineering%20in%202025) | 
+[Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=fa&src=youtube-videos/AI%20prompt%20engineering%20in%202025)
+
+Check Understanding:
+[Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=fa&src=youtube-videos/AI%20prompt%20engineering%20in%202025) | 
+[Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=fa&src=youtube-videos/AI%20prompt%20engineering%20in%202025) | 
+[Refactor Challenge](https://alisol.ir/?ai=learnhub_summary_refactor&lang=fa&src=youtube-videos/AI%20prompt%20engineering%20in%202025) | 
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=fa&src=youtube-videos/AI%20prompt%20engineering%20in%202025) | 
+[Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=fa&src=youtube-videos/AI%20prompt%20engineering%20in%202025)
 <!-- LH-BUTTONS:END -->
 
 ## چرا Prompt Engineering هنوز مهم است؟
