@@ -8,10 +8,10 @@
 ## AI-Augmented Learning Partner (200+ Summaries)
 
 > Learn and review tech topics efficiently using concise, high-quality summaries.
- 
+
 ### Demo: 
 
-https://alisol.ir/Projects/LearnHub
+https://LearnHubAI.github.io/
 
 ---
 
@@ -25,70 +25,6 @@ https://alisol.ir/Projects/LearnHub
 If you are new here, read **VISION** first, then skim **AI_FEATURES**, and finally check the **ROADMAP** and **CONTRIBUTING**.
 
 ---
-
-## 🤿 Let's Dive in!
-Want your AI chatbot to create a personalized study plan for you using LearnHub resources? Click the link below!
-
-[🍚 Ask AI to Cook Up My Rapid Study Plan](https://alisol.ir/?ai=learnhub_starter)
-
-Other language shortcuts:
-
-[🇳🇱 NL](https://alisol.ir/?ai=learnhub_starter|NL)  
-[🇩🇪 DE](https://alisol.ir/?ai=learnhub_starter|DE)  
-[🇫🇷 FR](https://alisol.ir/?ai=learnhub_starter|FR)  
-[🇪🇸 ES](https://alisol.ir/?ai=learnhub_starter|ES)  
-[🇮🇹 IT](https://alisol.ir/?ai=learnhub_starter|IT)  
-[🇸🇪 SV](https://alisol.ir/?ai=learnhub_starter|SV)  
-[🇩🇰 DA](https://alisol.ir/?ai=learnhub_starter|DA)  
-[🇳🇴 NO](https://alisol.ir/?ai=learnhub_starter|NO)  
-[🇵🇱 PL](https://alisol.ir/?ai=learnhub_starter|PL)  
-[🇵🇹 PT](https://alisol.ir/?ai=learnhub_starter|PT)  
-[🇷🇴 RO](https://alisol.ir/?ai=learnhub_starter|RO)  
-[🇷🇺 RU](https://alisol.ir/?ai=learnhub_starter|RU)  
-[🇮🇳 HI](https://alisol.ir/?ai=learnhub_starter|HI)  
-[🇸🇦 AR](https://alisol.ir/?ai=learnhub_starter|AR)  
-[🇮🇷 FA](https://alisol.ir/?ai=learnhub_starter|FA)  
-[🇹🇷 TR](https://alisol.ir/?ai=learnhub_starter|TR)
-
-Your language isn't here? Don't worry, click on one of the links and select Your language on the next page!
-
-### How it works:
-
-<p align="center">    
-  <img src="assets/learnhub_starter.gif" alt="Let's dive into LearnHub" width="853">
-</p>
-
-## 🔍 AI-powered LearnHub search
-Your AI chatbot can find desired resources through LearnHub.
-
-[⚡️ Search LearnHub using AI](https://alisol.ir/?ai=learnhub_search)
-
-Other language shortcuts:
-
-[🇳🇱 NL](https://alisol.ir/?ai=learnhub_search|NL)  
-[🇩🇪 DE](https://alisol.ir/?ai=learnhub_search|DE)  
-[🇫🇷 FR](https://alisol.ir/?ai=learnhub_search|FR)  
-[🇪🇸 ES](https://alisol.ir/?ai=learnhub_search|ES)  
-[🇮🇹 IT](https://alisol.ir/?ai=learnhub_search|IT)  
-[🇸🇪 SV](https://alisol.ir/?ai=learnhub_search|SV)  
-[🇩🇰 DA](https://alisol.ir/?ai=learnhub_search|DA)  
-[🇳🇴 NO](https://alisol.ir/?ai=learnhub_search|NO)  
-[🇵🇱 PL](https://alisol.ir/?ai=learnhub_search|PL)  
-[🇵🇹 PT](https://alisol.ir/?ai=learnhub_search|PT)  
-[🇷🇴 RO](https://alisol.ir/?ai=learnhub_search|RO)  
-[🇷🇺 RU](https://alisol.ir/?ai=learnhub_search|RU)  
-[🇮🇳 HI](https://alisol.ir/?ai=learnhub_search|HI)  
-[🇸🇦 AR](https://alisol.ir/?ai=learnhub_search|AR)  
-[🇮🇷 FA](https://alisol.ir/?ai=learnhub_search|FA)  
-[🇹🇷 TR](https://alisol.ir/?ai=learnhub_search|TR)
-
-Your language isn't here? Don't worry, click on one of the links and select Your language on the next page!
-
-### How it works:
-
-<p align="center">    
-  <img src="assets/learnhub_search.gif" alt="AI-powered LearnHub search" width="853">
-</p>
 
 ## 💪 Summary AI-Powered Buttons
 
@@ -208,6 +144,19 @@ Your language isn't here? Don't worry, click on one of the links and select Your
 
 <p align="center">    
   <img src="assets/summary_ai_powered_btns.gif" alt="AI-powered Summary Buttons" width="853">
+</p>
+
+---
+
+## 🤿 Confused between resources?
+Want your AI chatbot to create a personalized study plan for you using LearnHub resources? Click the link below!
+
+[🍚 Ask AI to Cook Up My Rapid Study Plan](https://alisol.ir/?ai=learnhub_starter)
+
+### How it works:
+
+<p align="center">    
+  <img src="assets/learnhub_starter.gif" alt="Let's dive into LearnHub" width="853">
 </p>
 
 ---
