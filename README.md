@@ -4,7 +4,7 @@
 [![200+ Summaries](https://img.shields.io/badge/Summaries-200%2B-blue)](#-repository-structure-at-a-glance)
     
 # LearnHub
- 
+
 ## AI-Augmented Learning Partner (200+ Summaries)
 
 > Learn and review tech topics efficiently using concise, high-quality summaries.
@@ -15,18 +15,7 @@ https://LearnHubAI.github.io/
 
 ---
 
-## 📚 Project docs
-
-- 🧭 **[VISION.md](VISION.md)** – Why LearnHub exists, what it is (and is not), and the long-term dream.
-- 🤖 **[AI_FEATURES.md](AI_FEATURES.md)** – How AI-powered flows, global entry points, per-summary buttons, and live examples.
-- 🗺 **[ROADMAP.md](ROADMAP.md)** – What’s shipped, what’s in progress, and where the project is headed next.
-- 🤝 **[CONTRIBUTING.md](CONTRIBUTING.md)** – How to request new topics, report issues, and improve docs / code.
-
-If you are new here, read **VISION** first, then skim **AI_FEATURES**, and finally check the **ROADMAP** and **CONTRIBUTING**.
-
----
-
-## 💪 Summary AI-Powered Buttons
+## 💪 Some Sample Summary AI-Powered Buttons
 
 ### Try them directly:
 
@@ -138,7 +127,7 @@ Other language shortcuts:
 [FA](https://alisol.ir/?ai=Consistency%20and%20Consensus%7CMartin%20Kleppmann%7CDesigning%20Data-Intensive%20Applications&lang=FA) | 
 [TR](https://alisol.ir/?ai=Consistency%20and%20Consensus%7CMartin%20Kleppmann%7CDesigning%20Data-Intensive%20Applications&lang=TR) )
 
-Your language isn't here? Don't worry, click on one of the links and select Your language on the next page!
+Your language isn't here? Don't worry, click on one of the links and select your language on the next page!
 
 ### How it works:
 
@@ -158,6 +147,17 @@ Want your AI chatbot to create a personalized study plan for you using LearnHub 
 <p align="center">    
   <img src="assets/learnhub_starter.gif" alt="Let's dive into LearnHub" width="853">
 </p>
+
+---
+
+## 📚 Project docs
+
+- 🧭 **[VISION.md](VISION.md)** – Why LearnHub exists, what it is (and is not), and the long-term dream.
+- 🤖 **[AI_FEATURES.md](AI_FEATURES.md)** – How AI-powered flows, global entry points, per-summary buttons, and live examples.
+- 🗺 **[ROADMAP.md](ROADMAP.md)** – What’s shipped, what’s in progress, and where the project is headed next.
+- 🤝 **[CONTRIBUTING.md](CONTRIBUTING.md)** – How to request new topics, report issues, and improve docs / code.
+
+If you are new here, read **VISION** first, then skim **AI_FEATURES**, and finally check the **ROADMAP** and **CONTRIBUTING**.
 
 ---
 
