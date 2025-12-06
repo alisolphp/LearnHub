@@ -1,250 +1,330 @@
-# System Design Mock Interview: Design Text Storage Service like Pastebin
+# System Design Mock Interview: System Design: Pastebin
 
 * **Channel/Interviewer**: System Design Fight Club  
-* **Duration**: 01:03:56  
+* **Duration**: 01:03:57  
 * **Original Video**: https://www.youtube.com/watch?v=9wAj-5IMdyU
 
 > *This document summarizes the key content of a system design mock interview. I highly recommend watching the full video if you can.*
 
----
-
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=b11a91a9 -->
-
-### AI-Powered buttons
-
-Teach Me: 
-[5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=en&src=mock-interviews/system-design/Design%20Text%20Storage%20Service%20like%20Pastebin) | 
-[Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=mock-interviews/system-design/Design%20Text%20Storage%20Service%20like%20Pastebin) | 
-[Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=mock-interviews/system-design/Design%20Text%20Storage%20Service%20like%20Pastebin) | 
-[Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=mock-interviews/system-design/Design%20Text%20Storage%20Service%20like%20Pastebin) | 
-[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer)
-
-Learn Differently:
-[Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=mock-interviews/system-design/Design%20Text%20Storage%20Service%20like%20Pastebin) | 
-[Storytelling](https://alisol.ir/?ai=learnhub_summary_story&lang=en&src=mock-interviews/system-design/Design%20Text%20Storage%20Service%20like%20Pastebin) | 
-[Cheatsheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=mock-interviews/system-design/Design%20Text%20Storage%20Service%20like%20Pastebin) | 
-[Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=mock-interviews/system-design/Design%20Text%20Storage%20Service%20like%20Pastebin) | 
-[Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=en&src=mock-interviews/system-design/Design%20Text%20Storage%20Service%20like%20Pastebin) | 
-[Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=en&src=mock-interviews/system-design/Design%20Text%20Storage%20Service%20like%20Pastebin) | 
-[Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=en&src=mock-interviews/system-design/Design%20Text%20Storage%20Service%20like%20Pastebin) | 
-[Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=en&src=mock-interviews/system-design/Design%20Text%20Storage%20Service%20like%20Pastebin)
-
-Check Understanding:
-[Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=mock-interviews/system-design/Design%20Text%20Storage%20Service%20like%20Pastebin) | 
-[Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=mock-interviews/system-design/Design%20Text%20Storage%20Service%20like%20Pastebin) | 
-[Refactor Challenge](https://alisol.ir/?ai=learnhub_summary_refactor&lang=en&src=mock-interviews/system-design/Design%20Text%20Storage%20Service%20like%20Pastebin) | 
-[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=mock-interviews/system-design/Design%20Text%20Storage%20Service%20like%20Pastebin) | 
-[Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=mock-interviews/system-design/Design%20Text%20Storage%20Service%20like%20Pastebin)
+<!-- auto-generated; do not edit -->
 <!-- LH-BUTTONS:END -->
 
-## One-Page Executive Summary
+---
 
-- **Problem Prompt (one-liner)**: Build a Pastebin-style text storage and sharing service with upload, download, and text search. 
-- **Primary Scope**
-  - **In scope**: Text upload & retrieval; durable storage; public link sharing; text search; basic analytics/metadata; scaling considerations; latency budgeting.  
-  - **Out of scope**: Rich auth, ML features, moderation pipelines (not discussed).
-- **Non-Functional Priorities**: High availability; predictable P99 latencies; horizontal scalability (traffic “10,000×” stress thought experiment); cost awareness. 
-- **Key Constraints & Numbers (from video)**
-  - Uses back-of-the-envelope latency budgeting (e.g., disk seek/read, DC hops) to hit reasonable P99s for download path. 
-- **High-Level Architecture (text)**
-  1. **Browsers**: Text uploader + downloader UIs. 
-  2. **Upload Service**: Issues presigned-URL for object store; records metadata.  
-  3. **Object Store (e.g., S3)**: Stores the raw text blobs. 
-  4. **Metadata Store**: Tracks paste ID, location (S3 URL), counts, uploader, etc. 
-  5. **Search**: Elasticsearch-based text search (plus alternatives discussed).  
-  6. **Download Service**: Looks up metadata → redirects to object store for direct fetch. 
-- **Top Trade-offs**
-  - **Naïve single-tier vs. split (object store + metadata)**: simplicity vs. bandwidth bottlenecks on app tier. 
-  - **Elasticsearch as primary store vs. index only**: convenience vs. size/operational risks. 
-  - **CDC from Postgres to Elasticsearch**: index freshness vs. complexity. 
-- **Biggest Risks/Failure Modes**
-  - Hot partitions/keys; search index drift; presigned URL misuse; app servers becoming bandwidth-bound. 
-- **5-Min Review Flashcards**
-  - **Q**: Why presigned URLs? **A**: Offload data plane to object store/CDN and avoid app-tier bandwidth bottlenecks.   
-  - **Q**: What does Elasticsearch provide? **A**: Inverted index for fast text search on paste content/metadata.   
-  - **Q**: Where is the paste text stored? **A**: In object storage; DB keeps metadata + location.   
-  - **Q**: How to keep search fresh? **A**: CDC from Postgres to Elasticsearch.   
-  - **Q**: What creates IDs? **A**: A key generation service; pre-generates IDs; HA with a backup instance (Snowflake/ZK mentioned).    
-  - **Q**: Where do naïve bottlenecks show up? **A**: App server bandwidth on upload/download. 
+# One-Page Executive Summary
 
-[Ask AI: Executive Summary](https://alisol.ir/?ai=Executive%20Summary%7CSystem%20Design%20Fight%20Club%7CDesign%20Text%20Storage%20Service%20like%20Pastebin)
+**Problem Prompt (One-liner)**: Design a service like Pastebin for uploading and viewing text blobs, with added text search functionality.
+
+**Primary Scope**: Handle text uploads up to 10MB (avg 10KB), viewing, and text search; support 1M pastes/day with 5:1 read/write ratio.  
+**Out of Scope**: Hit counters, user accounts.
+
+**Non-Functional Priorities**: Scalability for bandwidth-bound scenarios, low latency for reads/writes, high availability with redundancy; no specific SLOs mentioned.
+
+**Key Constraints & Numbers**: 10 writes/sec, 50 reads/sec; storage: 10GB/day, 3.65TB/year, plan for 10 years permanent storage (36.5TB base + replicas); bandwidth: 0.5MB/sec average.
+
+**High-Level Architecture (Text)**:  
+- Clients upload via pre-signed URLs directly to object store (e.g., S3).  
+- Metadata stored in DB (Postgres or DynamoDB) with key generation service.  
+- Downloads direct from object store to avoid bandwidth bottlenecks.  
+- For search: Index in Elasticsearch, potentially via DB triggers or task runners to handle large texts.  
+- Redundancy: 2-3 machines per service, 3+ disks for storage.  
+- Optional: Load balancers for scaled scenarios.
+
+**Top Trade-offs**:  
+- Bandwidth-bound vs. optimized: Proxying through services increases latency/bottlenecks vs. direct client-object store access.  
+- Search integration: Storing full text in Elasticsearch simplifies but risks size limits vs. separate object store with triggers adds complexity.  
+- DB choice: Postgres for strong consistency vs. DynamoDB for scalability/eventual consistency.  
+- Naive vs. optimal upload: Inline text in DB bloats records vs. object store separation.  
+
+**Biggest Risks/Failure Modes**:  
+- Bandwidth bottlenecks in high-scale reads/writes leading to slow responses.  
+- Race conditions in search indexing if triggers fire before upload completes.  
+- Storage overflow without proper sharding/replication.  
+- Key collisions in generation service.  
+- Elasticsearch record size limits (though supports up to 200MB).  
+
+**5-Min Review Flashcards**:  
+- Q: What's the core functionality? → A: Upload/view text; search as extra.  
+- Q: Key numbers? → A: 1M pastes/day, 10KB avg, 10MB max.  
+- Q: Why object store? → A: Handles large blobs efficiently vs. DB inline.  
+- Q: Naive approach issue? → A: Bandwidth bound through upload/download services.  
+- Q: Optimized upload? → A: Pre-signed URLs direct to S3.  
+- Q: Search challenge? → A: Indexing large texts; use ES with triggers.  
+- Q: Storage estimate? → A: 36.5TB for 10 years + 2x replicas.  
+- Q: DB options? → A: Postgres for small scale; DynamoDB for large.  
+- Q: Redundancy? → A: 2-3 machines/services, multiple disks.  
+- Q: Out of scope? → A: Users, hit counts.
+
+[Ask AI: Executive Summary](https://alisol.ir/?ai=Executive%20Summary%7CSystem%20Design%20Fight%20Club%7CSystem%20Design%3A%20Pastebin)
 
 ---
 
-## Interview Tags
+# Interview Tags
 
-- **Domain/Industry**: `storage`
-- **Product Pattern**: `object-storage, search-index, cdn, caching`
-- **System Concerns**: `high-availability, low-latency, eventual-consistency, hot-key`
-- **Infra/Tech (mentioned)**: `s3, postgres, dynamodb, elasticsearch, zookeeper`   
+**Domain/Industry**: storage  
+**Product Pattern**: object-storage, url-shortener  
+**System Concerns**: high-availability, low-latency, eventual-consistency  
+**Infra/Tech (only if mentioned)**: microservices, postgres, dynamodb, redis, s3, elasticsearch
 
-[Ask AI: Interview Tags](https://alisol.ir/?ai=Interview%20Tags%7CSystem%20Design%20Fight%20Club%7CDesign%20Text%20Storage%20Service%20like%20Pastebin)
-
----
-
-## Problem Understanding
-
-- **Original Prompt**: Support pasting text, getting a shareable key/URL, retrieving text by key, and searching public pastes. Scale the system and set latency expectations.  
-- **Use Cases**
-  - Create paste (public/unlisted).  
-  - View/download paste via key.  
-  - Search text and/or titles across public pastes.  
-  - Track metadata (uploader, hit counts).
-- **Out of Scope**: Full auth model, rate-limited abuse handling details, content moderation (not covered).
-- **APIs (as discussed implicitly)**
-  - `POST /pastes` → returns `{id, upload_url}` (presigned); client PUTs to object store.   
-  - `GET /pastes/{id}` → returns redirect or signed URL to object.   
-  - `GET /search?q=…` → full-text over index. 
-
-[Ask AI: Problem Understanding](https://alisol.ir/?ai=Problem%20Understanding%7CSystem%20Design%20Fight%20Club%7CDesign%20Text%20Storage%20Service%20like%20Pastebin)
+[Ask AI: Interview Tags](https://alisol.ir/?ai=Interview%20Tags%7CSystem%20Design%20Fight%20Club%7CSystem%20Design%3A%20Pastebin)
 
 ---
 
-## Architecture & Data Flow
+# Problem Understanding
 
-### Components
-- **Web clients (two “browsers”)** for upload and download. 
-- **Upload Service** (stateless API; issues presigned URLs; writes metadata). 
-- **Download Service** (lookup then redirect). 
-- **Object Store (S3)** for blob storage. 
-- **Metadata DB** (Postgres or DynamoDB; see trade-offs). 
-- **Search Index (Elasticsearch)** via CDC pipeline. 
+**Original Prompt**: Design a text storage service like Pastebin, supporting upload and view of text blobs, with text search as an added feature not typically in scope.
 
-[Personal note: Prefer a CDN in front of object storage for popular reads; use short-lived, scoped signed URLs and cache-control headers to protect origin.]
+**Use Cases**: Primary: Upload large text blobs (e.g., code snippets) and view them via unique URLs. Secondary: Search across pastes for keywords.
 
-[Ask AI: Architecture](https://alisol.ir/?ai=Architecture%7CSystem%20Design%20Fight%20Club%7CDesign%20Text%20Storage%20Service%20like%20Pastebin)
+**Out of Scope**: Hit counters, user account systems.
+
+**APIs (if discussed)**: Not stated in video.
+
+[Ask AI: Problem Understanding](https://alisol.ir/?ai=Problem%20Understanding%7CSystem%20Design%20Fight%20Club%7CSystem%20Design%3A%20Pastebin)
 
 ---
 
-## Write Path (Upload)
+# Requirements & Constraints
 
-1. **Client** requests a new paste.  
-2. **Key Generation Service** returns a unique ID (pre-generated pool to avoid latency spikes; HA with a backup instance; Snowflake/ZK referenced).    
-   [Personal note: In 2025, ULIDs/KSUIDs are common choices for sortable, low-coordination IDs; they simplify multi-region patterns.]  
-3. **Upload Service** writes metadata (ID, object URL, uploader, counters) to DB.   
-4. **Client** uploads the text directly to **S3** using the **presigned URL**.   
-5. **CDC** streams metadata changes to **Elasticsearch** for searchability. 
+**Functional Requirements**  
+- Upload text up to 10MB and generate unique key/URL.  
+- View/download text by key.  
+- Search text across pastes (extra scope).
 
-[Ask AI: Write Path](https://alisol.ir/?ai=Write%20Path%7CSystem%20Design%20Fight%20Club%7CDesign%20Text%20Storage%20Service%20like%20Pastebin)
+**Non-Functional Requirements**:  
+- Scalability: Handle 1M pastes/day (10 writes/sec, 50 reads/sec).  
+- Availability: Redundancy with failovers (2-3 machines per service).  
+- Latency: Low for reads/writes; avoid bandwidth bounds.  
+- Durability: Permanent storage with replicas.  
+- Consistency: Eventual for DynamoDB option; strong for Postgres.
 
----
+**Capacity Inputs**: QPS: 10 write/50 read; object sizes: avg 10KB, max 10MB; daily data: 10GB; retention: 10 years permanent; no regions specified.
 
-## Read Path (Download)
-
-1. **Client** hits **Download Service** with paste ID.  
-2. Service looks up **S3 location** in DB and responds with a redirect/signed URL.   
-3. Client fetches the object directly from **S3** (optionally via CDN).  
-4. **Counts/analytics** updated asynchronously in metadata store. 
-
-[Ask AI: Read Path](https://alisol.ir/?ai=Read%20Path%7CSystem%20Design%20Fight%20Club%7CDesign%20Text%20Storage%20Service%20like%20Pastebin)
+[Ask AI: Requirements & Constraints](https://alisol.ir/?ai=Requirements%20and%20Constraints%7CSystem%20Design%20Fight%20Club%7CSystem%20Design%3A%20Pastebin)
 
 ---
 
-## Search Design
+# Back-of-the-Envelope Estimation
 
-**Option A — “Combo Store” in Elasticsearch**  
-- Store full paste documents directly in Elasticsearch (single record per paste; inverted index for text search).   
-- Presenter notes ES can accept **large records** (claimed ~200 MB per record) but flags practical concerns.   
-  [Personal note: Storing primary blobs in ES is generally discouraged due to operational cost/risk; prefer index-only + object store.]
+- Storage: 1M pastes/day × 10KB avg = 10GB/day; ×365 = 3.65TB/year; ×10 years = 36.5TB base. With 2 replicas: ~110TB total, ~3 hard disks (assuming 100TB/disk).  
+- Bandwidth: 0.5MB/sec avg; at 10Kx scale, potential bottlenecks without direct object store access.  
+- Shard keys & partition counts: Key by unique ID (e.g., UUID); single machine suffices at base scale, shard DB for growth.  
+- Peak throughput & concurrency: 50 reads/sec; 1-2 machines per service.
 
-**Option B — Metadata DB + ES Index (recommended)**  
-- **Postgres/DynamoDB** holds canonical metadata; **CDC** feeds **Elasticsearch** for search.   
-- Avoids bandwidth hotspots on app tier; keeps blobs in S3. 
-
-**Edge Considerations**  
-- ES not directly exposed to browsers; front it with services and auth.   
-- If ES limits/packetization become issues, a custom inverted index was discussed as a thought experiment. 
-
-[Ask AI: Search](https://alisol.ir/?ai=Search%7CSystem%20Design%20Fight%20Club%7CDesign%20Text%20Storage%20Service%20like%20Pastebin)
+[Ask AI: Estimation](https://alisol.ir/?ai=Estimation%7CSystem%20Design%20Fight%20Club%7CSystem%20Design%3A%20Pastebin)
 
 ---
 
-## Data Model (Metadata)
+# High-Level Architecture
 
-- **Paste**: `{ id (PK), s3_url, title?, created_at, uploader?, view_count, visibility }`  
-  - Presenter emphasizes keeping **text out of the metadata row**; store only the S3 URL + attributes. 
+- Client browsers for upload/download.  
+- Upload service: Generates pre-signed URLs for direct S3 upload; stores metadata (key, S3 URL) in DB.  
+- Key generation service: Outsourced for unique IDs (e.g., UUID).  
+- Download service: Retrieves S3 URL from DB, client downloads directly.  
+- Data stores: Metadata in Postgres/DynamoDB; blobs in S3 object store.  
+- Search: Elasticsearch for indexing; optional DB triggers/task runners to sync from S3.  
+- Load balancers: Optional for scaled services.  
+- Redundancy: 2 machines for services, 3+ for storage.
 
-[Ask AI: Data Model](https://alisol.ir/?ai=Data%20Model%7CSystem%20Design%20Fight%20Club%7CDesign%20Text%20Storage%20Service%20like%20Pastebin)
-
----
-
-## Scaling & Capacity Notes
-
-- **Naïve design**: App servers become **bandwidth-bound** when proxying large uploads/downloads.   
-- **Optimized**: Presigned URLs + object storage remove app from the data path; CDN handles fan-out for hot pastes.   
-- **Key Generation**: Keep a pool; ensure HA (backup generator, ZK/Snowflake pattern mentioned).    
-  [Personal note: If using DynamoDB, design partition keys to avoid hot shards; consider time-bucketed prefixes for trending keys.]  
-- **Search Index**: Size growth driven by paste volume + tokenization; CDC keeps it fresh at write cost. 
-
-[Ask AI: Scaling](https://alisol.ir/?ai=Scaling%7CSystem%20Design%20Fight%20Club%7CDesign%20Text%20Storage%20Service%20like%20Pastebin)
+[Ask AI: High-Level Architecture](https://alisol.ir/?ai=High-Level%20Architecture%7CSystem%20Design%20Fight%20Club%7CSystem%20Design%3A%20Pastebin)
 
 ---
 
-## Latency Budget (P99 Sketch)
+## Subsystem: Upload Service
 
-- Presenter walks through an approximate P99 budget combining disk **seek/read** + ~**data center hops** to estimate user-perceived latency on the download path (example figures add up to several seconds depending on IO).    
-  [Personal note: For large pastes, use **multipart** uploads and **range** reads; place buckets region-close to users; cache popular items at the edge.]
+**Role & Responsibilities**: Handle text uploads, generate keys, store metadata, provide pre-signed URLs for direct S3 access.
 
-[Ask AI: Latency Budget](https://alisol.ir/?ai=Latency%20Budget%7CSystem%20Design%20Fight%20Club%7CDesign%20Text%20Storage%20Service%20like%20Pastebin)
+**Data Model (from video only)**: Metadata: text_key (primary, unique ID), s3_url; optional: uploader, hit count.
 
----
+**APIs/Contracts**: Not stated in video.
 
-## Caching, CDN, and TTLs
+**Scaling & Partitioning**: Single machine at base; add load balancers for 10Kx scale.
 
-- Use **CDN** in front of object storage with cache-control tuned to paste visibility.  
-- Consider **short TTLs** on metadata lookup responses to absorb read bursts; invalidate on delete/visibility change.  
-- Avoid caching **search** results for logged-in/private cases; safe to cache popular public queries briefly.
+**Caching Strategy**: Not stated in video.
 
-[Ask AI: Caching/CDN](https://alisol.ir/?ai=Caching%20and%20CDN%7CSystem%20Design%20Fight%20Club%7CDesign%20Text%20Storage%20Service%20like%20Pastebin)
+**Consistency Model**: Strong for Postgres; eventual for DynamoDB.
 
----
+**Bottlenecks & Hot Keys**: Bandwidth if proxying text; mitigated by direct S3.
 
-## Reliability & Failure Handling
+**Failure Handling**: Failovers with 2-3 machines.
 
-- **Upload**: If presigned URL expires, reissue; verify object size/type on callback.  
-- **Indexing**: On CDC lag/outage, allow reads from DB by title/ID; rebuild ES from DB + objects if needed.   
-- **Keys**: If primary generator fails, **failover** to backup instance; ensure no ID collisions (Snowflake/ZK call-out). 
+**Cost Considerations**: Not stated in video.
 
-[Ask AI: Reliability](https://alisol.ir/?ai=Reliability%7CSystem%20Design%20Fight%20Club%7CDesign%20Text%20Storage%20Service%20like%20Pastebin)
+[Ask AI: Subsystem - Upload Service](https://alisol.ir/?ai=Subsystem%20-%20Upload%20Service%7CSystem%20Design%20Fight%20Club%7CSystem%20Design%3A%20Pastebin)
 
 ---
 
-## Security & Abuse Notes
+## Subsystem: Download Service
 
-- **Signed URLs** with narrow scope (PUT for specific key, short expiry).  
-- **Content controls** (basic) and **rate limiting** at API & CDN edge.  
-- **Access**: Do not expose Elasticsearch directly to browsers. 
+**Role & Responsibilities**: Retrieve metadata, enable direct S3 downloads.
 
-[Ask AI: Security](https://alisol.ir/?ai=Security%7CSystem%20Design%20Fight%20Club%7CDesign%20Text%20Storage%20Service%20like%20Pastebin)
+**Data Model (from video only)**: Same as upload: key to S3 URL mapping.
 
----
+**APIs/Contracts**: Not stated in video.
 
-## Alternatives & Extensions
+**Scaling & Partitioning**: Single machine base; scale with balancers.
 
-- **Store blobs in ES** (simple, risky at scale; large-record support discussed but contested).    
-  [Personal note: Likely outdated; consider ES as **index only** and keep blobs in object storage for durability and cost.]  
-- **Roll your own inverted index** if ES constraints bite (advanced). 
+**Caching Strategy**: Redis possible for metadata mappings.
 
-[Ask AI: Alternatives](https://alisol.ir/?ai=Alternatives%7CSystem%20Design%20Fight%20Club%7CDesign%20Text%20Storage%20Service%20like%20Pastebin)
+**Consistency Model**: Same as DB choice.
 
----
+**Bottlenecks & Hot Keys**: Bandwidth on popular pastes; use CDN if needed.
 
-## Open Questions (Not stated in video)
+**Failure Handling**: Redundant machines.
 
-- Authentication/visibility policies (private vs. unlisted vs. public).  
-- Retention policies and auto-expiry.  
-- Multi-region write/read strategy; eventual vs. strong consistency preferences.  
-- Moderation and legal compliance for public content.
+**Cost Considerations**: Not stated in video.
 
-[Ask AI: Open Questions](https://alisol.ir/?ai=Open%20Questions%7CSystem%20Design%20Fight%20Club%7CDesign%20Text%20Storage%20Service%20like%20Pastebin)
+[Ask AI: Subsystem - Download Service](https://alisol.ir/?ai=Subsystem%20-%20Download%20Service%7CSystem%20Design%20Fight%20Club%7CSystem%20Design%3A%20Pastebin)
 
 ---
 
-### Appendix: Quick Notes from the Conversation
+## Subsystem: Search Service
 
-- Hosting static sites directly from S3 is feasible; thought experiment pushes to “10,000×” to exercise design trade-offs.    
-- ES was chosen for inverted-index text search; **CDC** from Postgres to ES suggested for freshness.    
-- Final minutes confirm coverage and invite feedback on latency estimates. 
+**Role & Responsibilities**: Index and query text across pastes.
 
-[Ask AI: Appendix](https://alisol.ir/?ai=Appendix%7CSystem%20Design%20Fight%20Club%7CDesign%20Text%20Storage%20Service%20like%20Pastebin)
+**Data Model (from video only)**: Full text in Elasticsearch (up to 200MB/record); or inverted index via triggers.
+
+**APIs/Contracts**: Not stated in video.
+
+**Scaling & Partitioning**: Elasticsearch clusters; handle large records.
+
+**Caching Strategy**: Not stated in video.
+
+**Consistency Model**: Eventual, synced via DB triggers.
+
+**Bottlenecks & Hot Keys**: Indexing large blobs; bandwidth on sync from S3.
+
+**Failure Handling**: Task runners for retries; avoid race conditions by triggering on upload complete.
+
+**Cost Considerations**: Not stated in video.
+
+[Ask AI: Subsystem - Search Service](https://alisol.ir/?ai=Subsystem%20-%20Search%20Service%7CSystem%20Design%20Fight%20Club%7CSystem%20Design%3A%20Pastebin)
+
+---
+
+## Subsystem: Storage
+
+**Role & Responsibilities**: Persist metadata and blobs.
+
+**Data Model (from video only)**: Metadata DB: key, S3 URL; blobs in S3.
+
+**APIs/Contracts**: Not stated in video.
+
+**Scaling & Partitioning**: Sharded DB; replicated S3.
+
+**Caching Strategy**: Not stated in video.
+
+**Consistency Model**: Per DB.
+
+**Bottlenecks & Hot Keys**: Disk I/O; 3+ disks with replicas.
+
+**Failure Handling**: Replication (2x).
+
+**Cost Considerations**: Not stated in video.
+
+[Ask AI: Subsystem - Storage](https://alisol.ir/?ai=Subsystem%20-%20Storage%7CSystem%20Design%20Fight%20Club%7CSystem%20Design%3A%20Pastebin)
+
+---
+
+# Trade-offs & Alternatives
+
+| Topic | Option A | Option B | Video’s Leaning | Rationale (from video) |
+| --- | --- | --- | --- | --- |
+| Upload Path | Proxy through service | Pre-signed direct to S3 | Option B | Avoids bandwidth bounds in service. |
+| DB Choice | Postgres | DynamoDB | Either (Postgres for small) | Postgres for consistency; DynamoDB for scale. |
+| Search Storage | Full text in Elasticsearch | Separate S3 with triggers | Option B | Handles size limits; avoids ES bloat. |
+| Bandwidth Handling | Inline in DB | Object store | Option B | Better for large blobs. |
+
+[Ask AI: Trade-offs](https://alisol.ir/?ai=Trade-offs%7CSystem%20Design%20Fight%20Club%7CSystem%20Design%3A%20Pastebin)
+
+---
+
+# Reliability, Availability, and Performance
+
+- Replication/quorum/consistency: 2 replicas for storage; eventual in DynamoDB.  
+- Latency budget across tiers: Not stated in video.  
+- Backpressure & throttling: Not stated in video.  
+- Load shedding & degradation: Not stated in video.  
+- Disaster recovery (RPO/RTO if stated): Not stated in video.
+
+[Ask AI: Reliability & Performance](https://alisol.ir/?ai=Reliability%20and%20Performance%7CSystem%20Design%20Fight%20Club%7CSystem%20Design%3A%20Pastebin)
+
+---
+
+# Security & Privacy
+
+Not stated in video.
+
+[Ask AI: Security & Privacy](https://alisol.ir/?ai=Security%20and%20Privacy%7CSystem%20Design%20Fight%20Club%7CSystem%20Design%3A%20Pastebin)
+
+---
+
+# Observability
+
+Not stated in video.
+
+[Ask AI: Observability](https://alisol.ir/?ai=Observability%7CSystem%20Design%20Fight%20Club%7CSystem%20Design%3A%20Pastebin)
+
+---
+
+# Follow-up Questions
+
+Not stated in video.
+
+[Ask AI: Follow-ups](https://alisol.ir/?ai=Follow-up%20Questions%7CSystem%20Design%20Fight%20Club%7CSystem%20Design%3A%20Pastebin)
+
+---
+
+# Candidate Questions
+
+Not stated in video.
+
+[Ask AI: Candidate Questions](https://alisol.ir/?ai=Candidate%20Questions%7CSystem%20Design%20Fight%20Club%7CSystem%20Design%3A%20Pastebin)
+
+---
+
+# Key Takeaways
+
+- Use object stores like S3 for large blobs to avoid DB bloat.  
+- Pre-signed URLs optimize uploads/downloads by bypassing services.  
+- Bandwidth bounds arise in proxying; direct access mitigates.  
+- Search adds complexity; Elasticsearch works but sync carefully.  
+- Scale estimates: Base needs minimal machines; plan redundancy.  
+- Naive approaches work small-scale but fail at high throughput.  
+- Key generation is outsourced to avoid collisions.  
+- Storage planning: Factor retention and replicas early.  
+- Postgres suits small; DynamoDB for large/eventual.  
+- Triggers/task runners ensure search indexing post-upload.
+
+[Ask AI: Key Takeaways](https://alisol.ir/?ai=Key%20Takeaways%7CSystem%20Design%20Fight%20Club%7CSystem%20Design%3A%20Pastebin)
+
+---
+
+# Glossary
+
+- Object Store: Durable storage for blobs (e.g., S3).  
+- Pre-signed URL: Temporary access link for direct uploads.  
+- Inverted Index: Structure for efficient text search (in Elasticsearch).  
+- Bandwidth Bound: Limited by data transfer rates.  
+- DB Trigger: Event-based sync (e.g., to Elasticsearch).  
+- Task Runner: Processes background jobs (e.g., indexing).
+
+[Ask AI: Glossary](https://alisol.ir/?ai=Glossary%7CSystem%20Design%20Fight%20Club%7CSystem%20Design%3A%20Pastebin)
+
+---
+
+# Attribution
+
+* Source Video: https://www.youtube.com/watch?v=9wAj-5IMdyU  
+* Channel: System Design Fight Club  
+* Note: This document is a summary of the linked mock interview.
+
+---
+
+# About the summarizer
+
+I'm *Ali Sol*, a Backend Developer. Learn more:  
+
+* Website: [alisol.ir](https://alisol.ir)  
+* LinkedIn: [linkedin.com/in/alisolphp](https://www.linkedin.com/in/alisolphp)
