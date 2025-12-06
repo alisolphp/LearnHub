@@ -1,237 +1,263 @@
-# System Design Mock Interview: Design Flight Booking System | Airline Reservation System | Distributed Transactions, Serialisation, Linearisation, Consistency
+# System Design Mock Interview: Airline Reservation System - Distributed Transactions, Serialisation, Linearisation, Consistency
 
-- **Channel/Interviewer**: Vinayak Sangar.   
+- **Channel/Interviewer**: Vinayak Sangar
 - **Duration**: 01:01:53
 - **Original Video**: https://www.youtube.com/watch?v=qsGcfVGvFSs
 
-> *This document summarizes a system design mock interview. Watching the full video is still recommended for nuance.* 
-
----
+> *This document summarizes the key content of a system design mock interview. I highly recommend watching the full video if you can.*
 
 <!-- LH-BUTTONS:START -->
-<!-- LH-BUTTONS:HASH=b11a91a9 -->
-
-### AI-Powered buttons
-
-Teach Me: 
-[5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=en&src=mock-interviews/system-design/Design%20Flight%20Booking%20System%20%7C%20Airline%20Reservation%20System%20%7C%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency) | 
-[Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=mock-interviews/system-design/Design%20Flight%20Booking%20System%20%7C%20Airline%20Reservation%20System%20%7C%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency) | 
-[Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=mock-interviews/system-design/Design%20Flight%20Booking%20System%20%7C%20Airline%20Reservation%20System%20%7C%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency) | 
-[Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=mock-interviews/system-design/Design%20Flight%20Booking%20System%20%7C%20Airline%20Reservation%20System%20%7C%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency) | 
-[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer)
-
-Learn Differently:
-[Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=mock-interviews/system-design/Design%20Flight%20Booking%20System%20%7C%20Airline%20Reservation%20System%20%7C%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency) | 
-[Storytelling](https://alisol.ir/?ai=learnhub_summary_story&lang=en&src=mock-interviews/system-design/Design%20Flight%20Booking%20System%20%7C%20Airline%20Reservation%20System%20%7C%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency) | 
-[Cheatsheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=mock-interviews/system-design/Design%20Flight%20Booking%20System%20%7C%20Airline%20Reservation%20System%20%7C%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency) | 
-[Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=mock-interviews/system-design/Design%20Flight%20Booking%20System%20%7C%20Airline%20Reservation%20System%20%7C%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency) | 
-[Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=en&src=mock-interviews/system-design/Design%20Flight%20Booking%20System%20%7C%20Airline%20Reservation%20System%20%7C%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency) | 
-[Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=en&src=mock-interviews/system-design/Design%20Flight%20Booking%20System%20%7C%20Airline%20Reservation%20System%20%7C%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency) | 
-[Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=en&src=mock-interviews/system-design/Design%20Flight%20Booking%20System%20%7C%20Airline%20Reservation%20System%20%7C%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency) | 
-[Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=en&src=mock-interviews/system-design/Design%20Flight%20Booking%20System%20%7C%20Airline%20Reservation%20System%20%7C%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency)
-
-Check Understanding:
-[Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=mock-interviews/system-design/Design%20Flight%20Booking%20System%20%7C%20Airline%20Reservation%20System%20%7C%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency) | 
-[Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=mock-interviews/system-design/Design%20Flight%20Booking%20System%20%7C%20Airline%20Reservation%20System%20%7C%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency) | 
-[Refactor Challenge](https://alisol.ir/?ai=learnhub_summary_refactor&lang=en&src=mock-interviews/system-design/Design%20Flight%20Booking%20System%20%7C%20Airline%20Reservation%20System%20%7C%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency) | 
-[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=mock-interviews/system-design/Design%20Flight%20Booking%20System%20%7C%20Airline%20Reservation%20System%20%7C%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency) | 
-[Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=mock-interviews/system-design/Design%20Flight%20Booking%20System%20%7C%20Airline%20Reservation%20System%20%7C%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency)
+<!-- auto-generated; do not edit -->
 <!-- LH-BUTTONS:END -->
 
-## One-Page Executive Summary (2–3 min skim)
+---
 
-**Problem Prompt (One-liner).** Build an airline reservation system where users can search flights and book seats; admins can add flights. Handle limited seats, high contention, and payments. 
+# One-Page Executive Summary
 
-**Primary Scope.**  
-- **In-scope:** Flight search, seat booking, payment-tied confirmation, core data modeling, and concurrency/consistency discussion.    
-- **Out-of-scope (mention as optional):** Notifications, analytics/ads/discounts—acknowledge for extensibility but not required to implement in the interview. 
+- **Problem Prompt (One-liner)**: Design an airline reservation system handling limited seats, parallel booking requests, flight search, and payment failures.
+- **Primary Scope**: Focus on client-side search and booking capabilities, admin flight addition, with payments via third-party APIs; optional extensions like notifications and analytics.
+- **Non-Functional Priorities**: High availability for search (eventual consistency acceptable), high consistency for booking; low latency for search; support for concurrent users and global access.
+- **Key Constraints & Numbers**: 100k active searches per day (~1 TPS), 100 daily flights with 100-200 seats each, leading to 10-20k daily bookings (~0.1 TPS); read-heavy system.
+- **High-Level Architecture (Text)**:
+  - Clients interact via search and book APIs.
+  - Admin portal adds flights.
+  - Backend: MySQL for consistent booking and seat data, Elasticsearch for available flight search.
+  - Change Data Capture (CDC) syncs MySQL to Elasticsearch for eventual consistency.
+  - Third-party payment integration (e.g., Stripe/PayPal).
+  - Cache (Redis) for hot flight data.
+  - Offline refund service for failure handling.
+- **Top Trade-offs**:
+  - Availability over consistency for search to ensure users can always query flights.
+  - Consistency over availability for booking to prevent inconsistent status reads.
+  - Pessimistic locking for serialization in high-contention scenarios vs. optimistic locking to avoid wasted compute on failed transactions.
+  - Relational DB (MySQL) for ACID transactions in booking vs. NoSQL for scalability in search.
+  - Eventual consistency via CDC for search index vs. strong consistency impacting performance.
+  - TTL on locks to handle network failures vs. indefinite locks causing resource starvation.
+- **Biggest Risks/Failure Modes**:
+  - Overbooking due to concurrent requests without proper serialization.
+  - Deadlocks in multi-seat bookings, mitigated by DB detection and killing transactions.
+  - Network failures during payment or booking, handled by TTL on locks and offline refunds.
+  - Inconsistent reads in replicas for booking status, requiring strong consistency.
+  - Search index lag after admin adds flights, acceptable as eventual consistency.
+  - High contention on popular flights leading to transaction failures.
+- **5-Min Review Flashcards**:
+  - Q: Why is this problem tricky? A: Limited seats, parallel requests, search needs, and failure handling with payments.
+  - Q: Functional requirements? A: Search flights by source/dest/date, book flight/seat, integrate payments.
+  - Q: Non-functional split? A: Search: highly available/eventual; Booking: highly consistent.
+  - Q: API examples? A: GET /search?source=X&dest=Y&date=Z; POST /book with flight_id and seat_id.
+  - Q: DB choices? A: MySQL for seats/bookings (consistency, locks); Elasticsearch for search (availability).
+  - Q: Handling concurrency? A: Pessimistic locking (FOR UPDATE) with TTL in transactions.
+  - Q: Deadlock mitigation? A: DB auto-detects and kills one transaction.
+  - Q: Distributed transactions? A: Lock seats, call payment, add booking, mark booked; use TTL and refunds for failures.
+  - Q: Optimistic vs. pessimistic? A: Pessimistic better for high parallelism to avoid wasted work.
+  - Q: Failure example? A: Payment succeeds but booking fails: offline refund service processes.
+  - Q: Consistency vs. serialization? A: Serialization via locks for writes; consistency for reads across replicas.
+  - Q: Similar problems? A: Train/hotels/movies reservations, flash sales.
 
-**Non-Functional Priorities.** Global reach, correctness under contention, and predictable performance; justify “do we even need distributed systems here?” based on scale.  
-
-**Key Constraints & Numbers.** Not stated in video.
-
-**High-Level Architecture (text).**  
-- Clients (search/book) and Admin portal (add flights).   
-- API interfaces for clients/admin; internal “airline reservation system” behind them.   
-- Services: Search, Booking, Payment, Inventory/Seat Management (+ optional Notification/Analytics).   
-- Data stores: Flight metadata, seat/inventory, bookings, payments. 
-
-**Top Trade-offs.**  
-- Strong consistency for seat inventory vs. availability/latency. (Linearisation/serialisation discussion expected.)   
-- 2PC/distributed transactions vs. operational complexity and coupling.   
-  [Personal note: Prefer saga/outbox patterns for cross-service workflows in 2025 to reduce coordinator coupling and improve failure isolation.]  
-- Monolith first vs. microservices upfront depending on realistic scale.   
-  [Personal note: Start simple; split only when independent scaling/ownership or reliability boundaries are clear.]
-
-**Biggest Risks/Failure Modes.**  
-- Double-booking under concurrency.  
-- Payments succeeding while inventory fails (and vice versa).   
-  [Personal note: Ensure idempotency keys on booking/payment requests to guard against retries and duplicates.]  
-- Over-engineering for scale not present in the prompt. 
-
-**5-Min Review Flashcards.**  
-- **Q:** Why is flight booking tricky? **A:** Limited seats + parallel requests + payment coupling.   
-- **Q:** Core client capabilities? **A:** Search and book. **Admin?** Add flights.   
-- **Q:** When do you need distributed storage? **A:** To scale reads/writes, storage size, or availability (read replicas, partitioning).    
-- **Q:** What’s the “four-step” booking flow? **A:** Reserve/lock seat → create booking → take payment → confirm/issue ticket (atomic intent).   
-- **Q:** One way to do cross-service atomicity? **A:** 2-phase commit (2PC)—know pros/cons.   
-  [Personal note: Likely outdated for cloud microservices; prefer saga/outbox with compensations for partial failures.]  
-- **Q:** Key flight search index? **A:** Source + destination + date. 
-
-[Ask AI: Executive Summary](https://alisol.ir/?ai=Executive%20Summary%7CVinayak%20Sangar%7CDesign%20Flight%20Booking%20System%20%7C%20Airline%20Reservation%20System%20%7C%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency)
+[Ask AI: Executive Summary](https://alisol.ir/?ai=Executive%20Summary%7CVinayak%20Sangar%7CAirline%20Reservation%20System%20-%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency)
 
 ---
 
-## Interview Tags (for later filtering)
+# Interview Tags
 
-- **Domain/Industry:** travel-booking  
-- **Data/Storage:** RDBMS, partitioning by date, read replicas, indexing (src/dst/date).    
-- **Consistency:** linearisation, serialisation, distributed transactions.   
-- **Architecture:** monolith vs. microservices, extensibility for optional services.  
+- **Domain/Industry**: ecommerce
+- **Product Pattern**: recommendation, notification, queue
+- **System Concerns**: high-availability, eventual-consistency, geo-replication, backpressure, throttling, autoscaling
+- **Infra/Tech (only if mentioned)**: microservices, rest, mysql, cassandra, redis, elasticsearch, kafka
 
-[Ask AI: Interview Tags](https://alisol.ir/?ai=Interview%20Tags%7CVinayak%20Sangar%7CDesign%20Flight%20Booking%20System%20%7C%20Airline%20Reservation%20System%20%7C%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency)
-
----
-
-## Functional Requirements
-
-- **Client:** Search flights; book flights.   
-- **Admin:** Add flights (metadata & schedule).   
-- **Booking finalizes only on successful payment; otherwise release seat.**   
-- **Optional (state but don’t overbuild):** Notifications (email/WhatsApp), user analytics/discounts—design for extensibility.   
-  [Personal note: Use event-driven notifications (outbox → consumer) to decouple booking latency from messaging.]
-
-[Ask AI: Functional Requirements](https://alisol.ir/?ai=Functional%20Requirements%7CVinayak%20Sangar%7CDesign%20Flight%20Booking%20System%20%7C%20Airline%20Reservation%20System%20%7C%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency)
+[Ask AI: Interview Tags](https://alisol.ir/?ai=Interview%20Tags%7CVinayak%20Sangar%7CAirline%20Reservation%20System%20-%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency)
 
 ---
 
-## Non-Functional Requirements (NFRs)
+# Problem Understanding
 
-- **Availability & Global Reach:** Users should book from anywhere.   
-- **Correctness under Contention:** Avoid double-booking when parallel requests target the same seat.   
-- **Latency:** Fast search; bounded booking path.   
-- **Scalability (justify):** Only introduce partitioning/distribution if scale demands it.   
-  [Personal note: “Monolith until it hurts” remains a practical default for modest traffic.]
+- **Original Prompt**: Design a reservation system, especially an airline reservation system, handling limited seats, parallel requests, flight search, and payments with failure scenarios.
+- **Use Cases**: Primary: Users search and book flights globally; admins add flights. Secondary: Handle concurrent bookings, payments, notifications, analytics.
+- **Out of Scope**: In-house payment processing (use third-party like Stripe/PayPal); detailed implementation of optional services like notifications or analytics.
+- **APIs (if discussed)**: 
+  - Search: GET with params source, destination, date; returns list of flights with details (id, times, duration, airline, booking_open).
+  - Book: POST with flight_id, seat_id; returns success/failure after locking, payment, and updating status.
 
-[Ask AI: Non-Functional Requirements](https://alisol.ir/?ai=Non-Functional%20Requirements%7CVinayak%20Sangar%7CDesign%20Flight%20Booking%20System%20%7C%20Airline%20Reservation%20System%20%7C%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency)
-
----
-
-## High-Level Architecture (Text)
-
-1. **Interfaces:** Client API (search/book), Admin API (add/update flights).   
-2. **Core Services:**  
-   - **Search Service** (reads flight metadata with filters).   
-   - **Booking Service** (orchestrates seat lock → payment → confirmation).   
-   - **Inventory/Seat Manager** (authoritative seat state).  
-   - **Payment Service** (third-party gateways).  
-   - **Refund/Compensation Service** (handles failures).   
-3. **Optional Services:** Notification, Analytics.   
-4. **Data Stores:**  
-   - **Flight Metadata** (indexed on source, destination, date; partition by departure date).    
-   - **Booking & Seat State** (transactional).  
-   - **Payments** (status, transaction refs).  
-5. **Scaling Aids:** Read replicas; consider partitioning; cache hot search results. 
-
-[Ask AI: Architecture](https://alisol.ir/?ai=Architecture%7CVinayak%20Sangar%7CDesign%20Flight%20Booking%20System%20%7C%20Airline%20Reservation%20System%20%7C%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency)
+[Ask AI: Problem Understanding](https://alisol.ir/?ai=Problem%20Understanding%7CVinayak%20Sangar%7CAirline%20Reservation%20System%20-%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency)
 
 ---
 
-## Data Modeling (essentials)
+# Requirements & Constraints
 
-**Flights** (metadata): `flight_id` (PK), `src`, `dst`, `departure_date` (partition key), `departure_time`, `duration`, `airline`, `booking_open` (+ indices on `src,dst,date`).  
+- **Functional Requirements**
+  - Given in Video: Search flights by source, destination, date; book specific flight and seat; integrate third-party payments; admin adds flights.
+  - Assumptions: Optional scopes like notifications (e.g., email/WhatsApp on confirmation) and user analytics (for ads/discounts) are extensible but not core.
 
-**Seat/Inventory**: per-flight seat map + availability state.
+- **Non-Functional Requirements**: Support global users; revenue-generating service requires high uptime; search prioritizes availability (eventual consistency for new flights); booking prioritizes consistency (strong reads after confirmation); low search latency; handle concurrent bookings without overbooking.
+- **Capacity Inputs**: 100k active searches/day (~1 TPS); 100 daily flights; 10-20k bookings/day (~0.1 TPS); read-heavy (search > bookings).
 
-**Bookings**: `booking_id`, `user_id`, `flight_id`, `seats`, `status` (PENDING/CONFIRMED/CANCELED), `payment_id`.
-
-**Payments**: gateway txn refs, status, amount, currency; link to `booking_id`.
-
-[Ask AI: Data Modeling](https://alisol.ir/?ai=Data%20Modeling%7CVinayak%20Sangar%7CDesign%20Flight%20Booking%20System%20%7C%20Airline%20Reservation%20System%20%7C%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency)
-
----
-
-## Search Flow (read path)
-
-1. User submits (src, dst, date) + filters (airline, duration, time windows). Backend uses the composite index; many UI filters can remain client-side.    
-2. System returns matching flights with pricing/availability snapshot.  
-3. Caching of popular routes/dates; paginate results.  
-   [Personal note: Keep cache TTLs short for near-term dates due to volatile availability.]
-
-[Ask AI: Search Flow](https://alisol.ir/?ai=Search%20Flow%7CVinayak%20Sangar%7CDesign%20Flight%20Booking%20System%20%7C%20Airline%20Reservation%20System%20%7C%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency)
+[Ask AI: Requirements & Constraints](https://alisol.ir/?ai=Requirements%20and%20Constraints%7CVinayak%20Sangar%7CAirline%20Reservation%20System%20-%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency)
 
 ---
 
-## Booking Flow (happy path, then reality)
+# Back-of-the-Envelope Estimation
 
-**Intent:** Lock seat(s) and charge payment—commit all or compensate cleanly.
+- Storage: Flight info ~100 flights/day, small rows (few KB each); seats ~100-200/flight; bookings 10-20k/day; assume 5-year retention leads to moderate storage (e.g., GB scale for MySQL).
+- Bandwidth: Low due to text-based APIs; search responses list ~10-20 flights with metadata.
+- Cache sizing: Redis for hot flights/seats; size for top 100 flights (MB scale).
+- Shard keys & partition counts: Partition flight info by departure_date; shard seats by flight_id.
+- Peak throughput & concurrency: Search ~1 TPS average, but peaks during sales; bookings ~0.1 TPS, high contention on popular flights.
 
-**Canonical steps (from video narrative):**  
-1) Reserve/lock seat(s) in inventory.  
-2) Create booking record.  
-3) Execute payment.  
-4) Confirm booking (ticket) or roll back/compensate. 
-
-**Cross-service atomicity:** 2-phase commit is one discussed approach—know when and why, and its complexity in distributed systems.    
-[Personal note: Prefer saga/outbox with idempotent operations and compensations; 2PC often couples services to a coordinator and struggles across heterogeneous infra.]
-
-**Payment edge cases:** If payment fails after seat lock, release lock; if payment succeeds but confirmation fails, trigger refund/compensation flow.   
-[Personal note: Enforce idempotency keys on “Create Booking” and “Charge” to de-duplicate retries.]
-
-[Ask AI: Booking Flow](https://alisol.ir/?ai=Booking%20Flow%7CVinayak%20Sangar%7CDesign%20Flight%20Booking%20System%20%7C%20Airline%20Reservation%20System%20%7C%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency)
+[Ask AI: Estimation](https://alisol.ir/?ai=Estimation%7CVinayak%20Sangar%7CAirline%20Reservation%20System%20-%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency)
 
 ---
 
-## Concurrency & Consistency
+# High-Level Architecture
 
-- **High contention:** Multiple users may target the same seat at once—design for contention.   
-- **Techniques (discuss):** short-lived locks, optimistic concurrency with compare-and-swap, and idempotency for retries.  
-  [Personal note: Favor optimistic concurrency + retries for throughput; keep locks narrowly scoped and time-boxed.]  
-- **Consistency models:** Be explicit about linearisation vs. serialisation trade-offs across services. 
+- Client entry: Web/mobile users via REST APIs for search/book; admin portal for adding flights.
+- Services / business layer: Search service queries Elasticsearch; booking service handles locks/transactions in MySQL, integrates payments.
+- Data stores: MySQL (OLTP) for flight seats and bookings (strong consistency); Elasticsearch (search) for available flights (eventual consistency).
+- Caches: Redis for caching hot flight data and seat availability to reduce DB load.
+- Async: CDC (e.g., via Kafka) to sync MySQL changes to Elasticsearch; queues for notifications if extended.
+- Batch jobs/workers: Offline refund service to scan failed bookings and process refunds daily.
+- Observability: Not stated in video.
 
-[Ask AI: Concurrency & Consistency](https://alisol.ir/?ai=Concurrency%20%26%20Consistency%7CVinayak%20Sangar%7CDesign%20Flight%20Booking%20System%20%7C%20Airline%20Reservation%20System%20%7C%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency)
-
----
-
-## Scale Strategy (when the interviewer asks “Do you need distributed systems?”)
-
-- **Start from needs:** If API QPS/storage is low, a simple design may suffice; justify upgrades only when necessary.   
-- **Reads:** Add read replicas to scale search.   
-- **Sharding/Partitioning:** Partition flights by `departure_date`; discuss pros/cons and rebalancing.   
-- **Microservices:** Split when teams/SLIs or scaling characteristics diverge; otherwise keep cohesive.   
-  [Personal note: Prefer asynchronous messaging between services to cap synchronous fan-out and reduce tail latency.]
-
-[Ask AI: Scale Strategy](https://alisol.ir/?ai=Scale%20Strategy%7CVinayak%20Sangar%7CDesign%20Flight%20Booking%20System%20%7C%20Airline%20Reservation%20System%20%7C%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency)
+[Ask AI: High-Level Architecture](https://alisol.ir/?ai=High-Level%20Architecture%7CVinayak%20Sangar%7CAirline%20Reservation%20System%20-%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency)
 
 ---
 
-## Failure Handling & Compensations
+## Subsystem: Search
 
-- **Partial failure:** Payment or confirmation can fail—define compensations (refunds, seat release).   
-- **Retries:** Make operations idempotent; store dedupe keys.  
-- **Observability:** Log correlation IDs across booking/payment/inventory.
+- **Role & Responsibilities**: Provide fast flight search by source, destination, date; filter open bookings; support client-side filters (e.g., time, duration, airline).
+- **Data Model (from video only)**: Flight: id (PK), source+dest (index), departure_date (partition key), departure_time, duration, airline, booking_open (boolean).
+- **APIs/Contracts**: GET /search with source, dest, date; returns flight list.
+- **Scaling & Partitioning**: Partition by departure_date; use Elasticsearch for indexes on source/dest/date.
+- **Caching Strategy**: Redis for hot searches; invalidate on CDC updates.
+- **Consistency Model**: Eventual consistency via CDC from MySQL.
+- **Bottlenecks & Hot Keys**: Popular routes; mitigate with sharding and caching.
+- **Failure Handling**: Fallback to stale data if index lag; retries on queries.
+- **Cost Considerations**: Not stated in video.
 
-[Ask AI: Failure Handling](https://alisol.ir/?ai=Failure%20Handling%7CVinayak%20Sangar%7CDesign%20Flight%20Booking%20System%20%7C%20Airline%20Reservation%20System%20%7C%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency)
-
----
-
-## Interviewer-Friendly Walkthrough (how to lead)
-
-1. Start with the high-level diagram and interfaces so you and the interviewer align.   
-2. List FRs then NFRs (search, book, payments; global reach, correctness, latency).    
-3. Clarify data model for flights and why you chose those indices/partition keys.   
-4. Walk through the four booking steps and discuss distributed transactions at a high level.   
-5. Close with scale justification—when to keep it simple vs. distribute. 
-
-[Ask AI: Interview Walkthrough](https://alisol.ir/?ai=Interview%20Walkthrough%7CVinayak%20Sangar%7CDesign%20Flight%20Booking%20System%20%7C%20Airline%20Reservation%20System%20%7C%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency)
+[Ask AI: Subsystem - Search](https://alisol.ir/?ai=Subsystem%20-%20Search%7CVinayak%20Sangar%7CAirline%20Reservation%20System%20-%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency)
 
 ---
 
-### Appendix: Optional Services (call out, don’t overbuild)
+## Subsystem: Booking
 
-- **Notifications:** Email/WhatsApp on confirmation; keep async.   
-- **User Analytics/Discounts:** Track for marketing/UX—but not core to MVP.   
-  [Personal note: Route events via a queue and process downstream to avoid impacting booking latency.]
+- **Role & Responsibilities**: Handle seat booking with concurrency, payments, and failures; ensure no overbooking.
+- **Data Model (from video only)**: Flight seats: flight_id+seat_num (PK), status (available/booked), lock_ttl; Bookings: booking_id (PK), user_id, flight_id, seat_num, status.
+- **APIs/Contracts**: POST /book with flight_id, seat_id; integrates payment.
+- **Scaling & Partitioning**: Shard by flight_id; use MySQL for transactions.
+- **Caching Strategy**: Redis for seat availability checks; invalidate post-booking.
+- **Consistency Model**: Strong consistency for reads after writes (linearization).
+- **Bottlenecks & Hot Keys**: High-contention flights; use pessimistic locks.
+- **Failure Handling**: TTL on locks for network drops; offline refunds if payment succeeds but booking fails; rollbacks on payment failure.
+- **Cost Considerations**: Not stated in video.
 
-[Ask AI: Optional Services](https://alisol.ir/?ai=Optional%20Services%7CVinayak%20Sangar%7CDesign%20Flight%20Booking%20System%20%7C%20Airline%20Reservation%20System%20%7C%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency)
+[Ask AI: Subsystem - Booking](https://alisol.ir/?ai=Subsystem%20-%20Booking%7CVinayak%20Sangar%7CAirline%20Reservation%20System%20-%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency)
 
+---
+
+# Trade-offs & Alternatives
+
+| Topic | Option A | Option B | Video’s Leaning | Rationale (from video) |
+| --- | --- | --- | --- | --- |
+| Consistency vs. Availability | High availability with eventual consistency | High consistency with potential downtime | A for search, B for booking | Search can tolerate lag for new flights; booking must ensure consistent status reads. |
+| Locking Mechanism | Pessimistic locking (FOR UPDATE) | Optimistic locking (version check at commit) | Pessimistic | Better for high parallelism to avoid wasted compute on failed transactions. |
+| Database for Search | MySQL (relational) | Elasticsearch (search engine) | Elasticsearch | Faster complex queries; synced via CDC for availability. |
+| Database for Booking | NoSQL (e.g., Cassandra) | MySQL (relational) | MySQL | Supports ACID, locks, and strong consistency needed for transactions. |
+| Failure Handling | Indefinite locks | TTL on locks + refunds | TTL + refunds | Prevents resource starvation; offline service handles edge cases like payment success but booking failure. |
+| Sync Mechanism | Direct writes to both stores | CDC (e.g., Kafka) | CDC | Ensures eventual consistency without blocking writes. |
+
+[Ask AI: Trade-offs](https://alisol.ir/?ai=Trade-offs%7CVinayak%20Sangar%7CAirline%20Reservation%20System%20-%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency)
+
+---
+
+# Reliability, Availability, and Performance
+
+- Replication/quorum/consistency: MySQL replicas with strong consistency for booking; eventual for search via CDC.
+- Latency budget across tiers: Low for search (Elasticsearch); booking accepts higher due to locks/transactions.
+- Backpressure & throttling: Not stated in video.
+- Load shedding & degradation: Not stated in video.
+- Disaster recovery (RPO/RTO if stated): Not stated in video.
+
+[Ask AI: Reliability & Performance](https://alisol.ir/?ai=Reliability%20and%20Performance%7CVinayak%20Sangar%7CAirline%20Reservation%20System%20-%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency)
+
+---
+
+# Security & Privacy
+
+Not stated in video.
+
+[Ask AI: Security & Privacy](https://alisol.ir/?ai=Security%20and%20Privacy%7CVinayak%20Sangar%7CAirline%20Reservation%20System%20-%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency)
+
+---
+
+# Observability
+
+Not stated in video.
+
+[Ask AI: Observability](https://alisol.ir/?ai=Observability%7CVinayak%20Sangar%7CAirline%20Reservation%20System%20-%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency)
+
+---
+
+# Follow-up Questions
+
+Not stated in video.
+
+[Ask AI: Follow-ups](https://alisol.ir/?ai=Follow-up%20Questions%7CVinayak%20Sangar%7CAirline%20Reservation%20System%20-%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency)
+
+---
+
+# Candidate Questions
+
+Not stated in video.
+
+[Ask AI: Candidate Questions](https://alisol.ir/?ai=Candidate%20Questions%7CVinayak%20Sangar%7CAirline%20Reservation%20System%20-%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency)
+
+---
+
+# Key Takeaways
+
+- Start with high-level diagram: clients (search/book), admin (add flights), backend system.
+- Clarify functional (search/book/payments) and non-functional (availability for search, consistency for booking).
+- Estimate scale: read-heavy with low TPS, but focus on contention.
+- Use MySQL for booking with pessimistic locks, TTL, and transactions to handle concurrency.
+- Employ Elasticsearch for search with CDC sync for eventual consistency.
+- Discuss failure modes: network drops (TTL), payment fails (rollback), partial successes (refunds).
+- Differentiate serialization (locks for writes) from consistency (linear reads across replicas).
+- Avoid optimistic locks in high-contention scenarios to save compute.
+- Design for extensibility: add notifications/analytics later.
+- Similar to flash sales: limited resources, parallelism, search, failures.
+- Read "Designing Data-Intensive Applications" for deep dives on these concepts.
+- Lead the interview by peeling layers: high-level, requirements, estimates, deep dives.
+
+[Ask AI: Key Takeaways](https://alisol.ir/?ai=Key%20Takeaways%7CVinayak%20Sangar%7CAirline%20Reservation%20System%20-%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency)
+
+---
+
+# Glossary
+
+- Serialization: Ensuring concurrent transactions execute as if sequential via locks.
+- Linearization: Strong consistency where operations appear to happen in a single global order.
+- Pessimistic Locking: Acquire exclusive lock before operations to prevent conflicts.
+- Optimistic Locking: Proceed without lock, check for changes at commit.
+- Change Data Capture (CDC): Mechanism to capture DB changes and propagate to other systems.
+- TTL (Time-to-Live): Expiration time on locks to free resources on failures.
+- Distributed Transactions: Coordinating actions across multiple systems (e.g., DB + payment).
+- Eventual Consistency: Replicas eventually converge without immediate guarantees.
+- Strong Consistency: All reads see the latest write immediately.
+
+[Ask AI: Glossary](https://alisol.ir/?ai=Glossary%7CVinayak%20Sangar%7CAirline%20Reservation%20System%20-%20Distributed%20Transactions%2C%20Serialisation%2C%20Linearisation%2C%20Consistency)
+
+---
+
+# Attribution
+
+- Source Video: https://www.youtube.com/watch?v=qsGcfVGvFSs
+- Channel: Vinayak Sangar
+- Note: This document is a summary of the linked mock interview.
+
+---
+
+# About the summarizer
+
+I'm *Ali Sol*, a Backend Developer. Learn more:
+
+- Website: [alisol.ir](https://alisol.ir)
+- LinkedIn: [linkedin.com/in/alisolphp](https://www.linkedin.com/in/alisolphp)
