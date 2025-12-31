@@ -89,6 +89,7 @@ Check Understanding:
 
 **Link for More Details**:
 [Ask AI: Enabling Tool Use and Planning in Agents](https://alisol.ir/?ai=Enabling%20Tool%20Use%20and%20Planning%20in%20Agents%7CAnjanava%20Biswas%2C%20Wrick%20Talukdar%7CBuilding%20Agentic%20AI%20Systems)
+
 [Personal note: CrewAI, AutoGen, and LangGraph are solid for agent workflows, but in 2025 I'd check out emerging frameworks like LangChain updates for even better multi-agent orchestration.]
 
 ### Exploring the Coordinator, Worker, and Delegator Approach
