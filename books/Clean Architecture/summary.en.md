@@ -328,6 +328,7 @@ Check Understanding:
 
 **Link for More Details**:
 [Ask AI: Services in Architecture](https://alisol.ir/?ai=Services%20in%20Architecture%7CRobert%20C.%20Martin%7CClean%20Architecture)
+
 [Personal note: REST is still solid for APIs, but I'd check GraphQL for more flexible querying in modern apps.]
 
 ## The Test Boundary
@@ -347,6 +348,7 @@ Check Understanding:
 
 **Link for More Details**:
 [Ask AI: Clean Embedded Architecture](https://alisol.ir/?ai=Clean%20Embedded%20Architecture%7CRobert%20C.%20Martin%7CClean%20Architecture)
+
 [Personal note: Docker and Kubernetes are great for orchestration, but for embedded, I'd look at lighter container options or unikernels in 2025 setups.]
 
 ## Part VI: Details
@@ -366,6 +368,7 @@ Check Understanding:
 
 **Link for More Details**:
 [Ask AI: Database as Detail](https://alisol.ir/?ai=Database%20as%20Detail%7CRobert%20C.%20Martin%7CClean%20Architecture)
+
 [Personal note: Relational DBs are still key, but NoSQL like MongoDB or cloud options like DynamoDB often fit better for scalable, unstructured data now.]
 
 ## The Web Is a Detail
