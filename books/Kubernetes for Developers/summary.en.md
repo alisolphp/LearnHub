@@ -121,6 +121,7 @@ Check Understanding:
 
 **Link for More Details**:
 [Ask AI: Internal Services and Load Balancing](https://alisol.ir/?ai=Internal%20Services%20and%20Load%20Balancing%7CWilliam%20Denniss%7CKubernetes%20for%20Developers)
+
 [Personal note: TLS 1.0/1.1 are deprecated; in 2025 I'd target TLS 1.2+ (ideally TLS 1.3) for new systems.]
 
 ## Node Feature Selection
@@ -140,6 +141,7 @@ Check Understanding:
 
 **Link for More Details**:
 [Ask AI: Stateful Applications](https://alisol.ir/?ai=Stateful%20Applications%7CWilliam%20Denniss%7CKubernetes%20for%20Developers)
+
 [Personal note: Redis and Memcached are solid for caching, but in 2025 I often lean toward managed cloud options to cut down on ops work.]
 
 ## Background Processing
