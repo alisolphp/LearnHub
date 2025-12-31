@@ -76,6 +76,7 @@ Check Understanding:
 
 **Link for More Details**:
 [Ask AI: Integrating Event-Driven Architectures with Existing Systems](https://alisol.ir/?ai=Integrating%20Event-Driven%20Architectures%20with%20Existing%20Systems%7CAdam%20Bellemare%7CBuilding%20Event-Driven%20Microservices)
+
 [Personal note: Debezium is solid for CDC, but in 2025 I'd check out newer managed services like those in cloud platforms for easier scaling if ops overhead is a concern.]
 
 ## Event-Driven Processing Basics
@@ -122,6 +123,7 @@ Check Understanding:
 
 **Link for More Details**:
 [Ask AI: Microservices Using Function-as-a-Service](https://alisol.ir/?ai=Microservices%20Using%20Function-as-a-Service%7CAdam%20Bellemare%7CBuilding%20Event-Driven%20Microservices)
+
 [Personal note: AWS Lambda and similar are still handy, but in 2025 I'd lean toward more integrated serverless options in clouds for better observability if your stack allows.]
 
 ## Basic Producer and Consumer Microservices
@@ -141,6 +143,7 @@ Check Understanding:
 
 **Link for More Details**:
 [Ask AI: Heavyweight Framework Microservices](https://alisol.ir/?ai=Heavyweight%20Framework%20Microservices%7CAdam%20Bellemare%7CBuilding%20Event-Driven%20Microservices)
+
 [Personal note: Spark and Flink hold up well, but for lighter workloads in 2025, I might opt for managed serverless streaming to cut down on cluster management.]
 
 ## Lightweight Framework Microservices
@@ -151,6 +154,7 @@ Check Understanding:
 
 **Link for More Details**:
 [Ask AI: Lightweight Framework Microservices](https://alisol.ir/?ai=Lightweight%20Framework%20Microservices%7CAdam%20Bellemare%7CBuilding%20Event-Driven%20Microservices)
+
 [Personal note: Kafka Streams is reliable, but I'd double-check if newer embeds like those in Pulsar suit your needs better for multi-tenancy.]
 
 ## Integrating Event-Driven and Request-Response Microservices
@@ -170,6 +174,7 @@ Check Understanding:
 
 **Link for More Details**:
 [Ask AI: Supportive Tooling](https://alisol.ir/?ai=Supportive%20Tooling%7CAdam%20Bellemare%7CBuilding%20Event-Driven%20Microservices)
+
 [Personal note: Kubernetes integration is key here; in 2025, I'd prioritize tools with strong service mesh support for better traffic management.]
 
 ## Testing Event-Driven Microservices
