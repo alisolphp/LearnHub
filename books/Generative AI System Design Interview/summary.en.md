@@ -2,7 +2,7 @@
 * **Author**: Ali Aminian, Hao Sheng
 * **Genre**: Machine Learning System Design
 * **Publication Date**: Nov, 2024
-* **Books Link**: https://amazon.com/dp/1736049143
+* **Book Link**: https://amazon.com/dp/1736049143
 
 This document summarizes the key lessons and insights extracted from the book.
 I highly recommend reading the original book for the full depth and author's perspective.
