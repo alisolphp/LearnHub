@@ -12,7 +12,33 @@ I highly recommend reading the original book for the full depth and author's per
 * Simply click on `Ask AI` links after each section to dive deeper.
 
 <!-- LH-BUTTONS:START -->
-<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:HASH=b11a91a9 -->
+
+### AI-Powered buttons
+
+Teach Me: 
+[5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=en&src=books/Build%20a%20Large%20Language%20Model%20From%20Scratch) | 
+[Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=books/Build%20a%20Large%20Language%20Model%20From%20Scratch) | 
+[Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=books/Build%20a%20Large%20Language%20Model%20From%20Scratch) | 
+[Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=books/Build%20a%20Large%20Language%20Model%20From%20Scratch) | 
+[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer)
+
+Learn Differently:
+[Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=books/Build%20a%20Large%20Language%20Model%20From%20Scratch) | 
+[Storytelling](https://alisol.ir/?ai=learnhub_summary_story&lang=en&src=books/Build%20a%20Large%20Language%20Model%20From%20Scratch) | 
+[Cheatsheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=books/Build%20a%20Large%20Language%20Model%20From%20Scratch) | 
+[Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=books/Build%20a%20Large%20Language%20Model%20From%20Scratch) | 
+[Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=en&src=books/Build%20a%20Large%20Language%20Model%20From%20Scratch) | 
+[Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=en&src=books/Build%20a%20Large%20Language%20Model%20From%20Scratch) | 
+[Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=en&src=books/Build%20a%20Large%20Language%20Model%20From%20Scratch) | 
+[Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=en&src=books/Build%20a%20Large%20Language%20Model%20From%20Scratch)
+
+Check Understanding:
+[Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=books/Build%20a%20Large%20Language%20Model%20From%20Scratch) | 
+[Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=books/Build%20a%20Large%20Language%20Model%20From%20Scratch) | 
+[Refactor Challenge](https://alisol.ir/?ai=learnhub_summary_refactor&lang=en&src=books/Build%20a%20Large%20Language%20Model%20From%20Scratch) | 
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=books/Build%20a%20Large%20Language%20Model%20From%20Scratch) | 
+[Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=books/Build%20a%20Large%20Language%20Model%20From%20Scratch)
 <!-- LH-BUTTONS:END -->
 
 ## Understanding Large Language Models
