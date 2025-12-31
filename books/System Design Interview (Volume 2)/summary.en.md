@@ -76,6 +76,7 @@ Check Understanding:
 
 **Link for More Details**:
 [Ask AI: Distributed Message Queue](https://alisol.ir/?ai=Distributed%20Message%20Queue%7CAlex%20Xu%7CSystem%20Design%20Interview%20%28Volume%202%29)
+
 [Personal note: Kafka remains solid for this, but I've found Apache Pulsar handy in 2025 for its built-in tiered storage and easier multi-tenancy in cloud setups.]
 
 ## Metrics Monitoring and Alerting System
@@ -86,6 +87,7 @@ Check Understanding:
 
 **Link for More Details**:
 [Ask AI: Metrics Monitoring and Alerting System](https://alisol.ir/?ai=Metrics%20Monitoring%20and%20Alerting%20System%7CAlex%20Xu%7CSystem%20Design%20Interview%20%28Volume%202%29)
+
 [Personal note: InfluxDB is still useful, but for larger scales in 2025, I lean toward Prometheus with Thanos for better federation and long-term storage in Kubernetes environments.]
 
 ## Ad Click Event Aggregation
@@ -96,6 +98,7 @@ Check Understanding:
 
 **Link for More Details**:
 [Ask AI: Ad Click Event Aggregation](https://alisol.ir/?ai=Ad%20Click%20Event%20Aggregation%7CAlex%20Xu%7CSystem%20Design%20Interview%20%28Volume%202%29)
+
 [Personal note: Flink works well here, but in 2025, I've seen more teams using Apache Beam on cloud runners for unified batch and stream processing without much rework.]
 
 ## Hotel Reservation System
