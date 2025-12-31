@@ -12,7 +12,33 @@ I highly recommend reading the original book for the full depth and author's per
 * Simply click on `Ask AI` links after each section to dive deeper.
 
 <!-- LH-BUTTONS:START -->
-<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:HASH=b11a91a9 -->
+
+### AI-Powered buttons
+
+Teach Me: 
+[5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=en&src=books/Hands-On%20Generative%20AI%20with%20Transformers%20and%20Diffusion%20Models) | 
+[Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=books/Hands-On%20Generative%20AI%20with%20Transformers%20and%20Diffusion%20Models) | 
+[Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=books/Hands-On%20Generative%20AI%20with%20Transformers%20and%20Diffusion%20Models) | 
+[Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=books/Hands-On%20Generative%20AI%20with%20Transformers%20and%20Diffusion%20Models) | 
+[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer)
+
+Learn Differently:
+[Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=books/Hands-On%20Generative%20AI%20with%20Transformers%20and%20Diffusion%20Models) | 
+[Storytelling](https://alisol.ir/?ai=learnhub_summary_story&lang=en&src=books/Hands-On%20Generative%20AI%20with%20Transformers%20and%20Diffusion%20Models) | 
+[Cheatsheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=books/Hands-On%20Generative%20AI%20with%20Transformers%20and%20Diffusion%20Models) | 
+[Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=books/Hands-On%20Generative%20AI%20with%20Transformers%20and%20Diffusion%20Models) | 
+[Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=en&src=books/Hands-On%20Generative%20AI%20with%20Transformers%20and%20Diffusion%20Models) | 
+[Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=en&src=books/Hands-On%20Generative%20AI%20with%20Transformers%20and%20Diffusion%20Models) | 
+[Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=en&src=books/Hands-On%20Generative%20AI%20with%20Transformers%20and%20Diffusion%20Models) | 
+[Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=en&src=books/Hands-On%20Generative%20AI%20with%20Transformers%20and%20Diffusion%20Models)
+
+Check Understanding:
+[Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=books/Hands-On%20Generative%20AI%20with%20Transformers%20and%20Diffusion%20Models) | 
+[Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=books/Hands-On%20Generative%20AI%20with%20Transformers%20and%20Diffusion%20Models) | 
+[Refactor Challenge](https://alisol.ir/?ai=learnhub_summary_refactor&lang=en&src=books/Hands-On%20Generative%20AI%20with%20Transformers%20and%20Diffusion%20Models) | 
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=books/Hands-On%20Generative%20AI%20with%20Transformers%20and%20Diffusion%20Models) | 
+[Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=books/Hands-On%20Generative%20AI%20with%20Transformers%20and%20Diffusion%20Models)
 <!-- LH-BUTTONS:END -->
 
 ## An Introduction to Generative Media
