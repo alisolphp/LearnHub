@@ -76,6 +76,7 @@ Check Understanding:
 
 **Link for More Details**:
 [Ask AI: Introduction to LangChain](https://alisol.ir/?ai=Introduction%20to%20LangChain%7CJames%20Phoenix%20and%20Mike%20Taylor%7CPrompt%20Engineering%20for%20Generative%20AI)
+
 [Personal note: LangChain is still a go-to framework, but in 2026, I'd check for updates or alternatives like LlamaIndex for potentially smoother integrations with newer models.]
 
 ## Advanced Text Generation with Agents and RAG
@@ -86,6 +87,7 @@ Check Understanding:
 
 **Link for More Details**:
 [Ask AI: Advanced Text Generation with Agents and RAG](https://alisol.ir/?ai=Advanced%20Text%20Generation%20with%20Agents%20and%20RAG%7CJames%20Phoenix%20and%20Mike%20Taylor%7CPrompt%20Engineering%20for%20Generative%20AI)
+
 [Personal note: Tools like FAISS and Pinecone remain solid, but cloud-native options might offer better scalability in 2026; I'd verify against current benchmarks.]
 
 ## Foundations of Image Generation with Diffusion Models
@@ -96,6 +98,7 @@ Check Understanding:
 
 **Link for More Details**:
 [Ask AI: Foundations of Image Generation with Diffusion Models](https://alisol.ir/?ai=Foundations%20of%20Image%20Generation%20with%20Diffusion%20Models%7CJames%20Phoenix%20and%20Mike%20Taylor%7CPrompt%20Engineering%20for%20Generative%20AI)
+
 [Personal note: Midjourney v6 and Stable Diffusion XL are great, but by 2026, v7 or SD3 might handle details like hands better; I'd test the latest for improvements.]
 
 ## Advanced Image Generation Techniques
@@ -106,6 +109,7 @@ Check Understanding:
 
 **Link for More Details**:
 [Ask AI: Advanced Image Generation Techniques](https://alisol.ir/?ai=Advanced%20Image%20Generation%20Techniques%7CJames%20Phoenix%20and%20Mike%20Taylor%7CPrompt%20Engineering%20for%20Generative%20AI)
+
 [Personal note: ControlNet and DreamBooth are timeless, but newer fine-tuning methods like LoRA might be more efficient now; I'd double-check for your setup.]
 
 ## AI for Content Writing and Blogging
@@ -116,6 +120,7 @@ Check Understanding:
 
 **Link for More Details**:
 [Ask AI: AI for Content Writing and Blogging](https://alisol.ir/?ai=AI%20for%20Content%20Writing%20and%20Blogging%7CJames%20Phoenix%20and%20Mike%20Taylor%7CPrompt%20Engineering%20for%20Generative%20AI)
+
 [Personal note: GPT-4 for content is reliable, but GPT-5 or Claude 3 might offer better nuance; I'd explore managed services to cut down on custom chaining.]
 
 ## Summary: Wrapping Up Prompt Engineering
