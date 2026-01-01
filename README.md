@@ -9,7 +9,7 @@
 
 > Learn and review tech topics efficiently using concise, high-quality summaries.
 
-### Try it out: 
+### Try it out:  
 
 https://LearnHubAI.github.io/
 
