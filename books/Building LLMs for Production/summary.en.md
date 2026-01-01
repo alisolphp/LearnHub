@@ -103,6 +103,7 @@ Check Understanding:
 
 **Link for More Details**:
 [Ask AI: Chapter V: Introduction to LangChain & LlamaIndex](https://alisol.ir/?ai=Chapter%20V%3A%20Introduction%20to%20LangChain%20%26%20LlamaIndex%7CLouis-Fran%C3%A7ois%20Bouchard%2C%20Louie%20Peters%7CBuilding%20LLMs%20for%20Production)
+
 [Personal note: LangChain and LlamaIndex are still solid, but in 2026 I'd check out their latest versions or alternatives like Haystack for even smoother integrations in my setups.]
 
 ## Prompting with LangChain
@@ -131,6 +132,7 @@ Check Understanding:
 
 **Link for More Details**:
 [Ask AI: Chapter VIII: Advanced RAG](https://alisol.ir/?ai=Chapter%20VIII%3A%20Advanced%20RAG%7CLouis-Fran%C3%A7ois%20Bouchard%2C%20Louie%20Peters%7CBuilding%20LLMs%20for%20Production)
+
 [Personal note: LlamaIndex keeps evolving; in 2026, I'd pair it with vector stores like Pinecone or Weaviate for scalability in my projects.]
 
 ## Agents
@@ -150,6 +152,7 @@ Check Understanding:
 
 **Link for More Details**:
 [Ask AI: Chapter X: Fine-Tuning](https://alisol.ir/?ai=Chapter%20X%3A%20Fine-Tuning%7CLouis-Fran%C3%A7ois%20Bouchard%2C%20Louie%20Peters%7CBuilding%20LLMs%20for%20Production)
+
 [Personal note: LoRA and QLoRA are great, but in 2026 I'd look at PEFT updates or alternatives like DoRA for even lighter fine-tuning in my stacks.]
 
 ## Deployment
@@ -160,7 +163,9 @@ Check Understanding:
 
 **Link for More Details**:
 [Ask AI: Chapter XI: Deployment](https://alisol.ir/?ai=Chapter%20XI%3A%20Deployment%7CLouis-Fran%C3%A7ois%20Bouchard%2C%20Louie%20Peters%7CBuilding%20LLMs%20for%20Production)
+
 [Personal note: Optimum and Neural Compressor work well, but in 2026 I'd explore ONNX Runtime updates for broader hardware support in my deployments.]
+
 [Personal note: Docker and Kubernetes are solid for orchestration, but serverless options like AWS Lambda or Google Cloud Run often simplify ops for me now.]
 
 ## Conclusion
