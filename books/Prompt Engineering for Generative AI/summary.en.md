@@ -50,7 +50,7 @@ Check Understanding:
 **Link for More Details**:
 [Ask AI: Preface: The Rise of Generative AI and Prompt Engineering](https://alisol.ir/?ai=Preface%3A%20The%20Rise%20of%20Generative%20AI%20and%20Prompt%20Engineering%7CJames%20Phoenix%20and%20Mike%20Taylor%7CPrompt%20Engineering%20for%20Generative%20AI)
 
-## Chapter 1: The Five Principles of Prompting
+## The Five Principles of Prompting
 
 **Summary**: This chapter outlines the core framework for effective prompting: Give Direction (brief the AI like a human, using roles or best practices), Specify Format (define output structure like JSON or lists to avoid inconsistencies), Provide Examples (use few-shot learning for better results, balancing reliability and creativity), Evaluate Quality (test prompts rigorously, from simple ratings to evals, to measure performance), and Divide Labor (break complex tasks into steps or chains). These principles apply to both text and image models, making prompts more reliable and efficient. Examples show how naive prompts improve with these techniques.
 
