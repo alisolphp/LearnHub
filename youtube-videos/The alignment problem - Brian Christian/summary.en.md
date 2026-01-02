@@ -15,7 +15,33 @@
 - Simply click on `Ask AI` links to dive into any topic you want.
 
 <!-- LH-BUTTONS:START -->
-<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:HASH=b11a91a9 -->
+
+### AI-Powered buttons
+
+Teach Me: 
+[5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=en&src=youtube-videos/The%20alignment%20problem%20-%20Brian%20Christian) | 
+[Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=youtube-videos/The%20alignment%20problem%20-%20Brian%20Christian) | 
+[Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=youtube-videos/The%20alignment%20problem%20-%20Brian%20Christian) | 
+[Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=youtube-videos/The%20alignment%20problem%20-%20Brian%20Christian) | 
+[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer)
+
+Learn Differently:
+[Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=youtube-videos/The%20alignment%20problem%20-%20Brian%20Christian) | 
+[Storytelling](https://alisol.ir/?ai=learnhub_summary_story&lang=en&src=youtube-videos/The%20alignment%20problem%20-%20Brian%20Christian) | 
+[Cheatsheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=youtube-videos/The%20alignment%20problem%20-%20Brian%20Christian) | 
+[Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=youtube-videos/The%20alignment%20problem%20-%20Brian%20Christian) | 
+[Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=en&src=youtube-videos/The%20alignment%20problem%20-%20Brian%20Christian) | 
+[Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=en&src=youtube-videos/The%20alignment%20problem%20-%20Brian%20Christian) | 
+[Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=en&src=youtube-videos/The%20alignment%20problem%20-%20Brian%20Christian) | 
+[Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=en&src=youtube-videos/The%20alignment%20problem%20-%20Brian%20Christian)
+
+Check Understanding:
+[Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=youtube-videos/The%20alignment%20problem%20-%20Brian%20Christian) | 
+[Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=youtube-videos/The%20alignment%20problem%20-%20Brian%20Christian) | 
+[Refactor Challenge](https://alisol.ir/?ai=learnhub_summary_refactor&lang=en&src=youtube-videos/The%20alignment%20problem%20-%20Brian%20Christian) | 
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/The%20alignment%20problem%20-%20Brian%20Christian) | 
+[Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=youtube-videos/The%20alignment%20problem%20-%20Brian%20Christian)
 <!-- LH-BUTTONS:END -->
 
 ## Overview of AI Alignment and the Book's Purpose
