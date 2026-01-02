@@ -15,7 +15,33 @@
 - Simply click on `Ask AI` links to dive into any topic you want.
 
 <!-- LH-BUTTONS:START -->
-<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:HASH=b11a91a9 -->
+
+### AI-Powered buttons
+
+Teach Me: 
+[5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=en&src=youtube-videos/Improving%20RAG%20Systems%20with%20Hybrid%20Search%20and%20Re-ranking%20with%20LanceDB) | 
+[Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=youtube-videos/Improving%20RAG%20Systems%20with%20Hybrid%20Search%20and%20Re-ranking%20with%20LanceDB) | 
+[Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=youtube-videos/Improving%20RAG%20Systems%20with%20Hybrid%20Search%20and%20Re-ranking%20with%20LanceDB) | 
+[Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=youtube-videos/Improving%20RAG%20Systems%20with%20Hybrid%20Search%20and%20Re-ranking%20with%20LanceDB) | 
+[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer)
+
+Learn Differently:
+[Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=youtube-videos/Improving%20RAG%20Systems%20with%20Hybrid%20Search%20and%20Re-ranking%20with%20LanceDB) | 
+[Storytelling](https://alisol.ir/?ai=learnhub_summary_story&lang=en&src=youtube-videos/Improving%20RAG%20Systems%20with%20Hybrid%20Search%20and%20Re-ranking%20with%20LanceDB) | 
+[Cheatsheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=youtube-videos/Improving%20RAG%20Systems%20with%20Hybrid%20Search%20and%20Re-ranking%20with%20LanceDB) | 
+[Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=youtube-videos/Improving%20RAG%20Systems%20with%20Hybrid%20Search%20and%20Re-ranking%20with%20LanceDB) | 
+[Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=en&src=youtube-videos/Improving%20RAG%20Systems%20with%20Hybrid%20Search%20and%20Re-ranking%20with%20LanceDB) | 
+[Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=en&src=youtube-videos/Improving%20RAG%20Systems%20with%20Hybrid%20Search%20and%20Re-ranking%20with%20LanceDB) | 
+[Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=en&src=youtube-videos/Improving%20RAG%20Systems%20with%20Hybrid%20Search%20and%20Re-ranking%20with%20LanceDB) | 
+[Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=en&src=youtube-videos/Improving%20RAG%20Systems%20with%20Hybrid%20Search%20and%20Re-ranking%20with%20LanceDB)
+
+Check Understanding:
+[Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=youtube-videos/Improving%20RAG%20Systems%20with%20Hybrid%20Search%20and%20Re-ranking%20with%20LanceDB) | 
+[Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=youtube-videos/Improving%20RAG%20Systems%20with%20Hybrid%20Search%20and%20Re-ranking%20with%20LanceDB) | 
+[Refactor Challenge](https://alisol.ir/?ai=learnhub_summary_refactor&lang=en&src=youtube-videos/Improving%20RAG%20Systems%20with%20Hybrid%20Search%20and%20Re-ranking%20with%20LanceDB) | 
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=youtube-videos/Improving%20RAG%20Systems%20with%20Hybrid%20Search%20and%20Re-ranking%20with%20LanceDB) | 
+[Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=youtube-videos/Improving%20RAG%20Systems%20with%20Hybrid%20Search%20and%20Re-ranking%20with%20LanceDB)
 <!-- LH-BUTTONS:END -->
 
 ## The Demo-to-Production Gap in RAG
