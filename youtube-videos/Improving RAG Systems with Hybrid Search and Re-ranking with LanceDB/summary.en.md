@@ -83,6 +83,8 @@ Score = Σ (1 / (k + rankᵢ))
 (k is usually 60).  
 It rewards documents that rank highly across multiple retrievers — no need to compare raw similarity scores.
 
+[Ask AI: Reciprocal Rank Fusion](https://alisol.ir/?ai=Reciprocal%20Rank%20Fusion%7CJason%20Liu%7CImproving%20RAG%20Systems%20with%20Hybrid%20Search%20and%20Re-ranking%20with%20LanceDB)
+
 ### Model-based Reranking
 For maximum quality, take the top candidates (e.g., 30 docs from multiple retrievers) and rerank them with a specialized model:
 - Open-source cross-encoders (e.g., BGE-reranker)
@@ -92,8 +94,6 @@ For maximum quality, take the top candidates (e.g., 30 docs from multiple retrie
 This step is expensive but applied to a tiny subset, so it's efficient.
 
 Real results (SQuAD & other datasets) show hybrid + Cohere reranking boosting hit rate by ~10-11 points over plain vector search.
-
-[Ask AI: Reciprocal Rank Fusion](https://alisol.ir/?ai=Reciprocal%20Rank%20Fusion%7CJason%20Liu%7CImproving%20RAG%20Systems%20with%20Hybrid%20Search%20and%20Re-ranking%20with%20LanceDB)
 
 [Ask AI: Model-based reranking](https://alisol.ir/?ai=Model-based%20reranking%7CJason%20Liu%7CImproving%20RAG%20Systems%20with%20Hybrid%20Search%20and%20Re-ranking%20with%20LanceDB)
 
