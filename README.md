@@ -2,10 +2,11 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![AI-Powered](https://img.shields.io/badge/Made%20with-AI-informational)](AI_FEATURES.md)
 [![250+ Summaries](https://img.shields.io/badge/Summaries-250%2B-blue)](#-repository-structure-at-a-glance)
+[![GitHub stars](https://img.shields.io/github/stars/alisolphp/LearnHub?style=social)](https://github.com/alisolphp/LearnHub/stargazers)
     
 # LearnHub
 
-## AI-Augmented Learning Partner (250+ Summaries )
+## AI-Augmented Learning Partner (250+ Summaries)
 
 > Learn and review tech topics efficiently using concise, high-quality summaries.
 
