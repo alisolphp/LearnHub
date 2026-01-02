@@ -1,11 +1,11 @@
 [![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![AI-Powered](https://img.shields.io/badge/Made%20with-AI-informational)](AI_FEATURES.md)
-[![250+ Summaries](https://img.shields.io/badge/Summaries-200%2B-blue)](#-repository-structure-at-a-glance)
+[![250+ Summaries](https://img.shields.io/badge/Summaries-250%2B-blue)](#-repository-structure-at-a-glance)
     
 # LearnHub
 
-## AI-Augmented Learning Partner (250+ Summaries )
+## AI-Augmented Learning Partner (250+ Summaries)
 
 > Learn and review tech topics efficiently using concise, high-quality summaries.
 
