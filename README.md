@@ -5,7 +5,7 @@
     
 # LearnHub
 
-## AI-Augmented Learning Partner (250+ Summaries)
+## AI-Augmented Learning Partner (250+ Summaries )
 
 > Learn and review tech topics efficiently using concise, high-quality summaries.
 
