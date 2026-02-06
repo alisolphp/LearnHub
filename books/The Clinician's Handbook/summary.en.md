@@ -6,6 +6,10 @@
 This document summarizes the key lessons and insights extracted from the book.
 I highly recommend reading the original book for the full depth and author's perspective.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Before You Get Started
 * I summarize key points from useful books to learn and review quickly.
 * Simply click on `Ask AI` links after each section to dive deeper.
