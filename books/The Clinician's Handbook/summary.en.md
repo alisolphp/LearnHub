@@ -2,6 +2,7 @@
 * **Author**: Robert G. Meyer, Sarah E. Deitsch
 * **Genre**: Clinical Psychology / Psychopathology
 * **Publication Date**: 1996
+* **Book Link**: https://amazon.com/dp/0205171818
 
 This document summarizes the key lessons and insights extracted from the book.
 I highly recommend reading the original book for the full depth and author's perspective.
