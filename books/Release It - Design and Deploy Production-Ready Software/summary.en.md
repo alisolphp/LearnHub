@@ -12,7 +12,33 @@ I highly recommend reading the original book for the full depth and author's per
 * Simply click on `Ask AI` links after each section to dive deeper.
 
 <!-- LH-BUTTONS:START -->
-<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:HASH=b11a91a9 -->
+
+### AI-Powered buttons
+
+Teach Me: 
+[5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=en&src=books/Release%20It%20-%20Design%20and%20Deploy%20Production-Ready%20Software) | 
+[Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=books/Release%20It%20-%20Design%20and%20Deploy%20Production-Ready%20Software) | 
+[Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=books/Release%20It%20-%20Design%20and%20Deploy%20Production-Ready%20Software) | 
+[Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=books/Release%20It%20-%20Design%20and%20Deploy%20Production-Ready%20Software) | 
+[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer)
+
+Learn Differently:
+[Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=books/Release%20It%20-%20Design%20and%20Deploy%20Production-Ready%20Software) | 
+[Storytelling](https://alisol.ir/?ai=learnhub_summary_story&lang=en&src=books/Release%20It%20-%20Design%20and%20Deploy%20Production-Ready%20Software) | 
+[Cheatsheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=books/Release%20It%20-%20Design%20and%20Deploy%20Production-Ready%20Software) | 
+[Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=books/Release%20It%20-%20Design%20and%20Deploy%20Production-Ready%20Software) | 
+[Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=en&src=books/Release%20It%20-%20Design%20and%20Deploy%20Production-Ready%20Software) | 
+[Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=en&src=books/Release%20It%20-%20Design%20and%20Deploy%20Production-Ready%20Software) | 
+[Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=en&src=books/Release%20It%20-%20Design%20and%20Deploy%20Production-Ready%20Software) | 
+[Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=en&src=books/Release%20It%20-%20Design%20and%20Deploy%20Production-Ready%20Software)
+
+Check Understanding:
+[Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=books/Release%20It%20-%20Design%20and%20Deploy%20Production-Ready%20Software) | 
+[Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=books/Release%20It%20-%20Design%20and%20Deploy%20Production-Ready%20Software) | 
+[Refactor Challenge](https://alisol.ir/?ai=learnhub_summary_refactor&lang=en&src=books/Release%20It%20-%20Design%20and%20Deploy%20Production-Ready%20Software) | 
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=books/Release%20It%20-%20Design%20and%20Deploy%20Production-Ready%20Software) | 
+[Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=books/Release%20It%20-%20Design%20and%20Deploy%20Production-Ready%20Software)
 <!-- LH-BUTTONS:END -->
 
 ## Living in Production
