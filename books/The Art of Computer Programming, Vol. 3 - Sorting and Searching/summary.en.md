@@ -12,7 +12,33 @@ I highly recommend reading the original book for the full depth and author's per
 * Simply click on `Ask AI` links after each section to dive deeper.
 
 <!-- LH-BUTTONS:START -->
-<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:HASH=b11a91a9 -->
+
+### AI-Powered buttons
+
+Teach Me: 
+[5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=en&src=books/The%20Art%20of%20Computer%20Programming%2C%20Vol.%203%20-%20Sorting%20and%20Searching) | 
+[Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=books/The%20Art%20of%20Computer%20Programming%2C%20Vol.%203%20-%20Sorting%20and%20Searching) | 
+[Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=books/The%20Art%20of%20Computer%20Programming%2C%20Vol.%203%20-%20Sorting%20and%20Searching) | 
+[Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=books/The%20Art%20of%20Computer%20Programming%2C%20Vol.%203%20-%20Sorting%20and%20Searching) | 
+[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer)
+
+Learn Differently:
+[Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=books/The%20Art%20of%20Computer%20Programming%2C%20Vol.%203%20-%20Sorting%20and%20Searching) | 
+[Storytelling](https://alisol.ir/?ai=learnhub_summary_story&lang=en&src=books/The%20Art%20of%20Computer%20Programming%2C%20Vol.%203%20-%20Sorting%20and%20Searching) | 
+[Cheatsheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=books/The%20Art%20of%20Computer%20Programming%2C%20Vol.%203%20-%20Sorting%20and%20Searching) | 
+[Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=books/The%20Art%20of%20Computer%20Programming%2C%20Vol.%203%20-%20Sorting%20and%20Searching) | 
+[Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=en&src=books/The%20Art%20of%20Computer%20Programming%2C%20Vol.%203%20-%20Sorting%20and%20Searching) | 
+[Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=en&src=books/The%20Art%20of%20Computer%20Programming%2C%20Vol.%203%20-%20Sorting%20and%20Searching) | 
+[Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=en&src=books/The%20Art%20of%20Computer%20Programming%2C%20Vol.%203%20-%20Sorting%20and%20Searching) | 
+[Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=en&src=books/The%20Art%20of%20Computer%20Programming%2C%20Vol.%203%20-%20Sorting%20and%20Searching)
+
+Check Understanding:
+[Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=books/The%20Art%20of%20Computer%20Programming%2C%20Vol.%203%20-%20Sorting%20and%20Searching) | 
+[Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=books/The%20Art%20of%20Computer%20Programming%2C%20Vol.%203%20-%20Sorting%20and%20Searching) | 
+[Refactor Challenge](https://alisol.ir/?ai=learnhub_summary_refactor&lang=en&src=books/The%20Art%20of%20Computer%20Programming%2C%20Vol.%203%20-%20Sorting%20and%20Searching) | 
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=books/The%20Art%20of%20Computer%20Programming%2C%20Vol.%203%20-%20Sorting%20and%20Searching) | 
+[Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=books/The%20Art%20of%20Computer%20Programming%2C%20Vol.%203%20-%20Sorting%20and%20Searching)
 <!-- LH-BUTTONS:END -->
 
 ## Section 5: Sorting
