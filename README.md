@@ -8,7 +8,7 @@
 
 ## AI-Augmented Learning Partner (250+ Summaries)
 
-> Learn and review tech topics efficiently using concise, high-quality summaries. 
+> Learn and review tech topics efficiently using concise, high-quality summaries.
 
 ### Try it out: 
 
