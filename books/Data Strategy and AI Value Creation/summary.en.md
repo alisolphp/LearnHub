@@ -2,6 +2,7 @@
 * **Author**: Wai Fong Boh, Chee Hua (Neumann) Chew, Thara Ravindran
 * **Genre**: Data Management and AI Business Strategy
 * **Publication Date**: 2025
+* **Book Link**: https://amazon.com/dp/9819800846
 
 This document summarizes the key lessons and insights extracted from the book.
 I highly recommend reading the original book for the full depth and author's perspective.
