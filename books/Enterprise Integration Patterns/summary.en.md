@@ -1,7 +1,7 @@
 # Book Summary: Enterprise Integration Patterns
 * **Author**: Gregor Hohpe, Bobby Woolf
 * **Genre**: Software Engineering
-* **Publication Date**: October 10, 2003
+* **Publication Date**: 2003
 * **Book Link**: https://amazon.com/dp/0321200683
 
 This document summarizes the key lessons and insights extracted from the book.
