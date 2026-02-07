@@ -2,6 +2,7 @@
 * **Author**: Lukasz Dynowski and Marcin Dulak
 * **Genre**: Software Engineering
 * **Publication Date**: 2025
+* **Book Link**: https://amazon.com/dp/1098153995
 
 This document summarizes the key lessons and insights extracted from the book.
 I highly recommend reading the original book for the full depth and author's perspective.
@@ -30,7 +31,7 @@ I highly recommend reading the original book for the full depth and author's per
 **Example**: Imagine APIs as bridges connecting cities: the style is the toll gate, trucks are requests/responses, and traffic rules are protocols. Sync means waiting for a receipt; async means dropping off and moving on.
 
 **Link for More Details**:
-[Ask AI: Chapter 1: API Concepts](https://alisol.ir/?ai=Chapter%201%3A%20API%20Concepts%7CLukasz%20Dynowski%20and%20Marcin%20Dulak%7CLearning%20API%20Styles)
+[Ask AI: API Concepts](https://alisol.ir/?ai=Chapter%201%3A%20API%20Concepts%7CLukasz%20Dynowski%20and%20Marcin%20Dulak%7CLearning%20API%20Styles)
 
 ## API Design Patterns
 
@@ -39,7 +40,7 @@ I highly recommend reading the original book for the full depth and author's per
 **Example**: For pagination, it's like flipping through a phonebook—offset jumps to page 10, but cursor marks your spot with a bookmark for efficiency in large lists.
 
 **Link for More Details**:
-[Ask AI: Chapter 2: API Design Patterns](https://alisol.ir/?ai=Chapter%202%3A%20API%20Design%20Patterns%7CLukasz%20Dynowski%20and%20Marcin%20Dulak%7CLearning%20API%20Styles)
+[Ask AI: API Design Patterns](https://alisol.ir/?ai=Chapter%202%3A%20API%20Design%20Patterns%7CLukasz%20Dynowski%20and%20Marcin%20Dulak%7CLearning%20API%20Styles)
 
 ## Network Protocols
 
@@ -48,7 +49,7 @@ I highly recommend reading the original book for the full depth and author's per
 **Example**: Picture the OSI model as a postal system: application layer writes the letter (message), transport ensures delivery (TCP), network routes it (IP), and physical sends the bits like mail trucks.
 
 **Link for More Details**:
-[Ask AI: Chapter 3: Network Protocols](https://alisol.ir/?ai=Chapter%203%3A%20Network%20Protocols%7CLukasz%20Dynowski%20and%20Marcin%20Dulak%7CLearning%20API%20Styles)
+[Ask AI: Network Protocols](https://alisol.ir/?ai=Chapter%203%3A%20Network%20Protocols%7CLukasz%20Dynowski%20and%20Marcin%20Dulak%7CLearning%20API%20Styles)
 
 ## Web Protocols
 
@@ -57,7 +58,7 @@ I highly recommend reading the original book for the full depth and author's per
 **Example**: HTTP versions are like car models: 0.9 is a basic cart, 1.1 adds cruise control, 2 turbocharges with multiple lanes, and 3 is electric with quick starts and lane-switching.
 
 **Link for More Details**:
-[Ask AI: Chapter 4: Web Protocols](https://alisol.ir/?ai=Chapter%204%3A%20Web%20Protocols%7CLukasz%20Dynowski%20and%20Marcin%20Dulak%7CLearning%20API%20Styles)
+[Ask AI: Web Protocols](https://alisol.ir/?ai=Chapter%204%3A%20Web%20Protocols%7CLukasz%20Dynowski%20and%20Marcin%20Dulak%7CLearning%20API%20Styles)
 
 ## REST API
 
@@ -66,7 +67,7 @@ I highly recommend reading the original book for the full depth and author's per
 **Example**: REST is like a menu at a restaurant—resources are dishes (URIs), orders are methods (GET to browse, POST to add), and the bill is the response, with links to related items.
 
 **Link for More Details**:
-[Ask AI: Chapter 5: REST API](https://alisol.ir/?ai=Chapter%205%3A%20REST%20API%7CLukasz%20Dynowski%20and%20Marcin%20Dulak%7CLearning%20API%20Styles)
+[Ask AI: REST API](https://alisol.ir/?ai=Chapter%205%3A%20REST%20API%7CLukasz%20Dynowski%20and%20Marcin%20Dulak%7CLearning%20API%20Styles)
 
 ## Query API with GraphQL
 
@@ -75,7 +76,7 @@ I highly recommend reading the original book for the full depth and author's per
 **Example**: GraphQL is like a customizable pizza order—you specify toppings (fields) precisely, avoiding the whole menu (over-fetching) or multiple trips (under-fetching).
 
 **Link for More Details**:
-[Ask AI: Chapter 6: Query API with GraphQL](https://alisol.ir/?ai=Chapter%206%3A%20Query%20API%20with%20GraphQL%7CLukasz%20Dynowski%20and%20Marcin%20Dulak%7CLearning%20API%20Styles)
+[Ask AI: Query API with GraphQL](https://alisol.ir/?ai=Chapter%206%3A%20Query%20API%20with%20GraphQL%7CLukasz%20Dynowski%20and%20Marcin%20Dulak%7CLearning%20API%20Styles)
 
 ## Web Feeds API with the Atom Protocol
 
@@ -84,7 +85,7 @@ I highly recommend reading the original book for the full depth and author's per
 **Example**: Feeds are like newspaper subscriptions—delivered updates (entries) in a bundle, pulled when you check your mailbox instead of constant pings.
 
 **Link for More Details**:
-[Ask AI: Chapter 7: Web Feeds API with the Atom Protocol](https://alisol.ir/?ai=Chapter%207%3A%20Web%20Feeds%20API%20with%20the%20Atom%20Protocol%7CLukasz%20Dynowski%20and%20Marcin%20Dulak%7CLearning%20API%20Styles)
+[Ask AI: Web Feeds API with the Atom Protocol](https://alisol.ir/?ai=Chapter%207%3A%20Web%20Feeds%20API%20with%20the%20Atom%20Protocol%7CLukasz%20Dynowski%20and%20Marcin%20Dulak%7CLearning%20API%20Styles)
 
 ## RPC API with gRPC
 
@@ -93,7 +94,7 @@ I highly recommend reading the original book for the full depth and author's per
 **Example**: gRPC is like a direct phone call—specify the procedure (method), pass args (Protobuf), get results fast, with streaming for ongoing chats.
 
 **Link for More Details**:
-[Ask AI: Chapter 8: RPC API with gRPC](https://alisol.ir/?ai=Chapter%208%3A%20RPC%20API%20with%20gRPC%7CLukasz%20Dynowski%20and%20Marcin%20Dulak%7CLearning%20API%20Styles)
+[Ask AI: RPC API with gRPC](https://alisol.ir/?ai=Chapter%208%3A%20RPC%20API%20with%20gRPC%7CLukasz%20Dynowski%20and%20Marcin%20Dulak%7CLearning%20API%20Styles)
 
 ## Callback API with Webhooks
 
@@ -102,7 +103,7 @@ I highly recommend reading the original book for the full depth and author's per
 **Example**: Webhooks are like a doorbell—event rings (POST), you respond if home, with a secret knock (HMAC) to verify it's not a prank.
 
 **Link for More Details**:
-[Ask AI: Chapter 9: Callback API with Webhooks](https://alisol.ir/?ai=Chapter%209%3A%20Callback%20API%20with%20Webhooks%7CLukasz%20Dynowski%20and%20Marcin%20Dulak%7CLearning%20API%20Styles)
+[Ask AI: Callback API with Webhooks](https://alisol.ir/?ai=Chapter%209%3A%20Callback%20API%20with%20Webhooks%7CLukasz%20Dynowski%20and%20Marcin%20Dulak%7CLearning%20API%20Styles)
 
 ## Bidirectional API with WebSocket
 
@@ -111,7 +112,7 @@ I highly recommend reading the original book for the full depth and author's per
 **Example**: WebSocket is like a two-way radio—constant open line for instant back-and-forth, upgrading from one-way mail (HTTP).
 
 **Link for More Details**:
-[Ask AI: Chapter 10: Bidirectional API with WebSocket](https://alisol.ir/?ai=Chapter%2010%3A%20Bidirectional%20API%20with%20WebSocket%7CLukasz%20Dynowski%20and%20Marcin%20Dulak%7CLearning%20API%20Styles)
+[Ask AI: Bidirectional API with WebSocket](https://alisol.ir/?ai=Chapter%2010%3A%20Bidirectional%20API%20with%20WebSocket%7CLukasz%20Dynowski%20and%20Marcin%20Dulak%7CLearning%20API%20Styles)
 
 ## Broker-based API with RabbitMQ
 
@@ -120,7 +121,7 @@ I highly recommend reading the original book for the full depth and author's per
 **Example**: RabbitMQ is like a post office—senders drop letters (messages) into boxes (queues), routed by labels (keys), with acknowledgments for delivery confirmation.
 
 **Link for More Details**:
-[Ask AI: Chapter 11: Broker-based API with RabbitMQ](https://alisol.ir/?ai=Chapter%2011%3A%20Broker-based%20API%20with%20RabbitMQ%7CLukasz%20Dynowski%20and%20Marcin%20Dulak%7CLearning%20API%20Styles)
+[Ask AI: Broker-based API with RabbitMQ](https://alisol.ir/?ai=Chapter%2011%3A%20Broker-based%20API%20with%20RabbitMQ%7CLukasz%20Dynowski%20and%20Marcin%20Dulak%7CLearning%20API%20Styles)
 
 [Personal note: RabbitMQ is still solid for many uses, but in 2026, I'd consider Kafka or cloud-managed options like AWS SQS for heavier streaming loads to cut ops hassle.]
 
