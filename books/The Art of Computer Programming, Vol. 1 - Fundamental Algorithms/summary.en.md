@@ -2,6 +2,7 @@
 * **Author**: Donald Knuth
 * **Genre**: Computer Science
 * **Publication Date**: 1997
+* **Book Link**: https://amazon.com/dp/0201896834
 
 This document summarizes the key lessons and insights extracted from the book.
 I highly recommend reading the original book for the full depth and author's perspective.
