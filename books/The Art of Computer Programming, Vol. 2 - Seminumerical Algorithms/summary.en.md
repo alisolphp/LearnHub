@@ -67,6 +67,7 @@ Check Understanding:
 
 **Link for More Details**:
 [Ask AI: Generating Uniform Random Numbers](https://alisol.ir/?ai=Generating%20Uniform%20Random%20Numbers%7CDonald%20Knuth%7CThe%20Art%20of%20Computer%20Programming%2C%20Vol.%202%20-%20Seminumerical%20Algorithms)
+
 [Personal note: Linear congruential generators are still useful, but in 2026 I'd lean toward more secure options like Mersenne Twister or cryptographic RNGs for sensitive apps to avoid predictability.]
 
 ## Section 3.3: Statistical Tests
