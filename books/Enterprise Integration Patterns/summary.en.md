@@ -188,6 +188,7 @@ Check Understanding:
 
 **Link for More Details**:
 [Ask AI: Concluding Remarks](https://alisol.ir/?ai=Concluding%20Remarks%7CGregor%20Hohpe%2C%20Bobby%20Woolf%7CEnterprise%20Integration%20Patterns)
+
 ---
 **About the summarizer**
 
