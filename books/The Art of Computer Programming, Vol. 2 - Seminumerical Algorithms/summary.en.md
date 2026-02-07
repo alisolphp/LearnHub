@@ -114,6 +114,7 @@ Check Understanding:
 
 **Link for More Details**:
 [Ask AI: Arithmetic](https://alisol.ir/?ai=Arithmetic%7CDonald%20Knuth%7CThe%20Art%20of%20Computer%20Programming%2C%20Vol.%202%20-%20Seminumerical%20Algorithms)
+
 [Personal note: Floating-point standards have evolved; in 2026 I'd use IEEE 754-2019 for better reproducibility, though the basics here hold strong.]
 
 ## Section 4.1: Positional Number Systems
@@ -142,6 +143,7 @@ Check Understanding:
 
 **Link for More Details**:
 [Ask AI: Multiple-Precision Arithmetic](https://alisol.ir/?ai=Multiple-Precision%20Arithmetic%7CDonald%20Knuth%7CThe%20Art%20of%20Computer%20Programming%2C%20Vol.%202%20-%20Seminumerical%20Algorithms)
+
 [Personal note: For fast multiplication, Karatsuba is classic, but in 2026 I'd check out FFT-based methods or hardware acceleration for really large numbers.]
 
 ## Section 4.4: Radix Conversion
@@ -161,6 +163,7 @@ Check Understanding:
 
 **Link for More Details**:
 [Ask AI: Rational Arithmetic](https://alisol.ir/?ai=Rational%20Arithmetic%7CDonald%20Knuth%7CThe%20Art%20of%20Computer%20Programming%2C%20Vol.%202%20-%20Seminumerical%20Algorithms)
+
 [Personal note: Binary GCD is efficient, but for huge numbers in 2026, I'd consider parallelized versions or libraries like GMP.]
 
 ## Section 4.6: Polynomial Arithmetic
