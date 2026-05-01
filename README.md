@@ -236,6 +236,14 @@ Read **[CONTRIBUTING.md](CONTRIBUTING.md)** for:
 
 ---
 
+## Intro Video
+
+You can also watch the intro video in:
+
+[ [FA](https://echotalk.ir/s3/LearnHub/intro-fa.mp4) ]
+
+---
+
 ## 🗺 Repository structure at a glance
 
 <!-- REPO_TOC_START -->
