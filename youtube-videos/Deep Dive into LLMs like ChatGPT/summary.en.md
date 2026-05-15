@@ -14,6 +14,10 @@
 - I summarize key points to help you learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Introduction and Mental Models for LLMs
 **Summary**: Andrej Karpathy provides a comprehensive, accessible introduction to large language models like ChatGPT. The video covers the full pipeline from data collection to training and inference, while building intuitive mental models. LLMs are magical yet have limitations and sharp edges.
 
