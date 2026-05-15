@@ -12,28 +12,28 @@
 ### AI-Powered buttons
 
 Teach Me: 
-[5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=en&src=mock-interviews/system-design/Design%20a%20Digital%20Wallet%20(3%2B%20Approaches)%20%7C%20Google%20Interview%20Question) | 
-[Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=mock-interviews/system-design/Design%20a%20Digital%20Wallet%20(3%2B%20Approaches)%20%7C%20Google%20Interview%20Question) | 
-[Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=mock-interviews/system-design/Design%20a%20Digital%20Wallet%20(3%2B%20Approaches)%20%7C%20Google%20Interview%20Question) | 
-[Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=mock-interviews/system-design/Design%20a%20Digital%20Wallet%20(3%2B%20Approaches)%20%7C%20Google%20Interview%20Question) | 
+[5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=en&src=mock-interviews/system-design/Design%20a%20Digital%20Wallet%20(3%20Approaches)%20%7C%20Google%20Interview%20Question) | 
+[Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=mock-interviews/system-design/Design%20a%20Digital%20Wallet%20(3%20Approaches)%20%7C%20Google%20Interview%20Question) | 
+[Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=mock-interviews/system-design/Design%20a%20Digital%20Wallet%20(3%20Approaches)%20%7C%20Google%20Interview%20Question) | 
+[Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=mock-interviews/system-design/Design%20a%20Digital%20Wallet%20(3%20Approaches)%20%7C%20Google%20Interview%20Question) | 
 [(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer)
 
 Learn Differently:
-[Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=mock-interviews/system-design/Design%20a%20Digital%20Wallet%20(3%2B%20Approaches)%20%7C%20Google%20Interview%20Question) | 
-[Storytelling](https://alisol.ir/?ai=learnhub_summary_story&lang=en&src=mock-interviews/system-design/Design%20a%20Digital%20Wallet%20(3%2B%20Approaches)%20%7C%20Google%20Interview%20Question) | 
-[Cheatsheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=mock-interviews/system-design/Design%20a%20Digital%20Wallet%20(3%2B%20Approaches)%20%7C%20Google%20Interview%20Question) | 
-[Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=mock-interviews/system-design/Design%20a%20Digital%20Wallet%20(3%2B%20Approaches)%20%7C%20Google%20Interview%20Question) | 
-[Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=en&src=mock-interviews/system-design/Design%20a%20Digital%20Wallet%20(3%2B%20Approaches)%20%7C%20Google%20Interview%20Question) | 
-[Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=en&src=mock-interviews/system-design/Design%20a%20Digital%20Wallet%20(3%2B%20Approaches)%20%7C%20Google%20Interview%20Question) | 
-[Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=en&src=mock-interviews/system-design/Design%20a%20Digital%20Wallet%20(3%2B%20Approaches)%20%7C%20Google%20Interview%20Question) | 
-[Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=en&src=mock-interviews/system-design/Design%20a%20Digital%20Wallet%20(3%2B%20Approaches)%20%7C%20Google%20Interview%20Question)
+[Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=mock-interviews/system-design/Design%20a%20Digital%20Wallet%20(3%20Approaches)%20%7C%20Google%20Interview%20Question) | 
+[Storytelling](https://alisol.ir/?ai=learnhub_summary_story&lang=en&src=mock-interviews/system-design/Design%20a%20Digital%20Wallet%20(3%20Approaches)%20%7C%20Google%20Interview%20Question) | 
+[Cheatsheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=mock-interviews/system-design/Design%20a%20Digital%20Wallet%20(3%20Approaches)%20%7C%20Google%20Interview%20Question) | 
+[Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=mock-interviews/system-design/Design%20a%20Digital%20Wallet%20(3%20Approaches)%20%7C%20Google%20Interview%20Question) | 
+[Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=en&src=mock-interviews/system-design/Design%20a%20Digital%20Wallet%20(3%20Approaches)%20%7C%20Google%20Interview%20Question) | 
+[Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=en&src=mock-interviews/system-design/Design%20a%20Digital%20Wallet%20(3%20Approaches)%20%7C%20Google%20Interview%20Question) | 
+[Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=en&src=mock-interviews/system-design/Design%20a%20Digital%20Wallet%20(3%20Approaches)%20%7C%20Google%20Interview%20Question) | 
+[Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=en&src=mock-interviews/system-design/Design%20a%20Digital%20Wallet%20(3%20Approaches)%20%7C%20Google%20Interview%20Question)
 
 Check Understanding:
-[Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=mock-interviews/system-design/Design%20a%20Digital%20Wallet%20(3%2B%20Approaches)%20%7C%20Google%20Interview%20Question) | 
-[Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=mock-interviews/system-design/Design%20a%20Digital%20Wallet%20(3%2B%20Approaches)%20%7C%20Google%20Interview%20Question) | 
-[Refactor Challenge](https://alisol.ir/?ai=learnhub_summary_refactor&lang=en&src=mock-interviews/system-design/Design%20a%20Digital%20Wallet%20(3%2B%20Approaches)%20%7C%20Google%20Interview%20Question) | 
-[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=mock-interviews/system-design/Design%20a%20Digital%20Wallet%20(3%2B%20Approaches)%20%7C%20Google%20Interview%20Question) | 
-[Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=mock-interviews/system-design/Design%20a%20Digital%20Wallet%20(3%2B%20Approaches)%20%7C%20Google%20Interview%20Question)
+[Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=mock-interviews/system-design/Design%20a%20Digital%20Wallet%20(3%20Approaches)%20%7C%20Google%20Interview%20Question) | 
+[Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=mock-interviews/system-design/Design%20a%20Digital%20Wallet%20(3%20Approaches)%20%7C%20Google%20Interview%20Question) | 
+[Refactor Challenge](https://alisol.ir/?ai=learnhub_summary_refactor&lang=en&src=mock-interviews/system-design/Design%20a%20Digital%20Wallet%20(3%20Approaches)%20%7C%20Google%20Interview%20Question) | 
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=mock-interviews/system-design/Design%20a%20Digital%20Wallet%20(3%20Approaches)%20%7C%20Google%20Interview%20Question) | 
+[Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=mock-interviews/system-design/Design%20a%20Digital%20Wallet%20(3%20Approaches)%20%7C%20Google%20Interview%20Question)
 <!-- LH-BUTTONS:END -->
 
 ---
