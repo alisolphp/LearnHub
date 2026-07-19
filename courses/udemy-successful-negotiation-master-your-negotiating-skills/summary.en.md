@@ -13,6 +13,10 @@
 - I summarize key points from useful courses to learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Deciding to Negotiate: Overcoming the Barriers
 
 **Summary**: Chris Croft starts by explaining why negotiation is crucial in both work and personal life—it can dramatically boost profits or save significant money with minimal effort. The biggest obstacle isn't skill but simply deciding to try. Many avoid it due to excuses like lack of time, fear of embarrassment, pride, or losing the deal. These are mostly false, and practice builds confidence.  
