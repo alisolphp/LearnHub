@@ -13,6 +13,10 @@
 - I summarize key points from useful courses to learn and review quickly.
 - Simply click on `Ask AI` links to dive into any topic you want.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Writing a Successful Resume: Getting Started
 
 **Summary**: The course opens by addressing why some resumes get noticed while others are ignored. Stacey emphasizes that creating an effective resume requires focus, actionable steps, and customization for the target job. She encourages active participation, note-taking, and following along with exercise files rather than passive skimming.  
