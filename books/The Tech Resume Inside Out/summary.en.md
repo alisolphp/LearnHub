@@ -19,7 +19,7 @@ The book helps developers craft a strong resume that gets them past the initial 
 **Link for More Details**:  
 [Ask AI: tech resume purpose and hiring process](https://alisol.ir/?ai=tech%20resume%20purpose%20and%20hiring%20process%7CGergely%20Orosz%7CThe%20Tech%20Resume%20Inside%20Out)
 
-## Chapter 1: Why Resumes and CVs are Important
+## Why Resumes and CVs are Important
 Resumes remain crucial even with LinkedIn because they let you tailor your story for a specific job, control the format, and make a strong first impression. Good resumes fairly represent qualified candidates and maximize interview chances. Great resumes grab attention by showcasing rare, relevant experience and clear progression. The hiring manager's quick "Yes/Maybe/No" sorting shows why your resume needs to stand out immediately.
 
 **Example**: A candidate with Google and Apple experience still needed to rework their resume to highlight backend impact instead of a weak frontend prototype—storytelling matters more than big names alone.
@@ -27,7 +27,7 @@ Resumes remain crucial even with LinkedIn because they let you tailor your story
 **Link for More Details**:  
 [Ask AI: why developer resumes still matter over LinkedIn](https://alisol.ir/?ai=why%20developer%20resumes%20still%20matter%20over%20LinkedIn%7CGergely%20Orosz%7CThe%20Tech%20Resume%20Inside%20Out)
 
-## Chapter 2: The Hiring Pipeline
+## The Hiring Pipeline
 The typical pipeline includes ATS queue, resume screen (5-20 seconds), recruiter screen, technical screen, onsite interviews, and offer. Drop-off is steep—hundreds of applications often yield one offer. Key players are hiring managers (final decision), recruiters, sourcers, and interview panels. Referrals dramatically improve chances by skipping queues and providing context. Priority goes to locals and those not needing visas due to cost and speed.
 
 **Example**: A blind referral might get your resume reviewed in depth, while a strong one from someone who knows your work could fast-track you to a recruiter call.
@@ -37,7 +37,7 @@ The typical pipeline includes ATS queue, resume screen (5-20 seconds), recruiter
 
 [Personal note: The core pipeline structure described remains very similar in 2026, though some companies have added more structured assessments or AI-assisted initial reviews. Tailoring and referrals are still the biggest levers.]
 
-## Chapter 3: Resumes and COVID-19
+## Resumes and COVID-19
 In 2020, the market became highly competitive with more applications and fewer openings due to layoffs. New grads and juniors faced extra challenges. The advice emphasizes persistence, tailoring resumes even more, and considering smaller/local companies.
 
 **Example**: Referrals became even more critical as application volumes spiked 20x at some companies.
@@ -47,7 +47,7 @@ In 2020, the market became highly competitive with more applications and fewer o
 
 [Personal note: This chapter is very specific to the 2020 situation; in 2026 markets fluctuate but the principles of standing out with tailored applications remain timeless.]
 
-## Chapter 4: Tech Resume Basics
+## Tech Resume Basics
 Focus on the first glance: years of experience, relevant technologies, work impact, and visa status if applicable. Follow ground rules—no typos, basic contact info, reverse chronological order, no photos or unnecessary personal details, PDF format, 1-2 pages. Keep it simple, consistent, and use bullet points.
 
 **Example**: Removing a photo and personal details like age or marital status prevents unconscious biases from derailing an otherwise strong application.
@@ -55,7 +55,7 @@ Focus on the first glance: years of experience, relevant technologies, work impa
 **Link for More Details**:  
 [Ask AI: tech resume basics and common pitfalls](https://alisol.ir/?ai=tech%20resume%20basics%20and%20common%20pitfalls%7CGergely%20Orosz%7CThe%20Tech%20Resume%20Inside%20Out)
 
-## Chapter 5: Resume Structure
+## Resume Structure
 Structure varies by experience level. New grads emphasize education, projects, and internships. Experienced engineers lead with recent impactful work. Seniors focus on leadership and results. Tell a story of progression and keep key info on the first page.
 
 **Example**: For new grads, a strong project with measurable impact can outweigh limited work history if presented clearly.
@@ -63,7 +63,7 @@ Structure varies by experience level. New grads emphasize education, projects, a
 **Link for More Details**:  
 [Ask AI: resume structure by experience level](https://alisol.ir/?ai=resume%20structure%20by%20experience%20level%7CGergely%20Orosz%7CThe%20Tech%20Resume%20Inside%20Out)
 
-## Chapter 6: Standing Out
+## Standing Out
 Quantify results and impact ("increased conversion by 30%"), avoid humility, tailor for the job, and use relevant keywords naturally. Different companies value different things—match your story to the role.
 
 **Example**: Instead of "built a feature," say "led migration that reduced costs by 45% for key clients."
@@ -71,7 +71,7 @@ Quantify results and impact ("increased conversion by 30%"), avoid humility, tai
 **Link for More Details**:  
 [Ask AI: making your tech resume stand out](https://alisol.ir/?ai=making%20your%20tech%20resume%20stand%20out%7CGergely%20Orosz%7CThe%20Tech%20Resume%20Inside%20Out)
 
-## Chapter 7: Common Mistakes
+## Common Mistakes
 Avoid poor formatting, ignoring your audience, unnecessary details, bad links, and inconsistent styles. Proofread thoroughly.
 
 **Example**: Listing every minor task instead of focusing on high-impact contributions buries your strengths.
@@ -79,7 +79,7 @@ Avoid poor formatting, ignoring your audience, unnecessary details, bad links, a
 **Link for More Details**:  
 [Ask AI: common tech resume mistakes to avoid](https://alisol.ir/?ai=common%20tech%20resume%20mistakes%20to%20avoid%7CGergely%20Orosz%7CThe%20Tech%20Resume%20Inside%20Out)
 
-## Chapter 8: Different Experience Levels, Different Career Paths
+## Different Experience Levels, Different Career Paths
 Tailored advice for students, bootcamp grads, career changers, those with breaks, seniors, leads, and managers. Highlight transferable skills and growth for non-traditional paths.
 
 **Example**: Career changers should emphasize relevant projects and how past experience adds unique value.
@@ -87,7 +87,7 @@ Tailored advice for students, bootcamp grads, career changers, those with breaks
 **Link for More Details**:  
 [Ask AI: resume advice for different career stages](https://alisol.ir/?ai=resume%20advice%20for%20different%20career%20stages%7CGergely%20Orosz%7CThe%20Tech%20Resume%20Inside%20Out)
 
-## Chapter 9: Exercises to Polish Your Resume
+## Exercises to Polish Your Resume
 Practical steps: write multiple versions, quantify impact, grammar checks, get feedback, and keyword optimization.
 
 **Example**: Asking friends or posting anonymously for review often uncovers blind spots you missed.
@@ -95,7 +95,7 @@ Practical steps: write multiple versions, quantify impact, grammar checks, get f
 **Link for More Details**:  
 [Ask AI: exercises to improve your resume](https://alisol.ir/?ai=exercises%20to%20improve%20your%20resume%7CGergely%20Orosz%7CThe%20Tech%20Resume%20Inside%20Out)
 
-## Chapter 10: Beyond the Resume
+## Beyond the Resume
 Optimize LinkedIn, GitHub, technical blogs, and other profiles. Write targeted cover letters when needed. These strengthen your overall application.
 
 **Example**: A clean GitHub with well-documented projects can reinforce the story your resume tells.
@@ -103,7 +103,7 @@ Optimize LinkedIn, GitHub, technical blogs, and other profiles. Write targeted c
 **Link for More Details**:  
 [Ask AI: building your developer personal brand beyond resume](https://alisol.ir/?ai=building%20your%20developer%20personal%20brand%20beyond%20resume%7CGergely%20Orosz%7CThe%20Tech%20Resume%20Inside%20Out)
 
-## Chapter 11-12: Good Resume Template Principles and Examples
+## Good Resume Template Principles and Examples
 Emphasize clean, scannable layouts (top-down preferred), consistency, and recruiter-friendly scanning. Review multiple templates and real examples showing before/after improvements.
 
 **Example**: Two-column layouts can work but often waste space; single-column with clear hierarchy is usually safer.
@@ -111,7 +111,7 @@ Emphasize clean, scannable layouts (top-down preferred), consistency, and recrui
 **Link for More Details**:  
 [Ask AI: best resume templates and layouts for tech](https://alisol.ir/?ai=best%20resume%20templates%20and%20layouts%20for%20tech%7CGergely%20Orosz%7CThe%20Tech%20Resume%20Inside%20Out)
 
-## Chapter 13: Resume Improvement Examples
+## Resume Improvement Examples
 Real anonymized before-and-after cases for various roles (2 years exp, ML engineer, backend, SRE, etc.) demonstrate how quantifying impact, better structure, and focus transform resumes.
 
 **Example**: A machine learning engineer’s cluttered multi-page resume became a powerful one-pager highlighting infrastructure wins and results.
@@ -119,7 +119,7 @@ Real anonymized before-and-after cases for various roles (2 years exp, ML engine
 **Link for More Details**:  
 [Ask AI: real tech resume improvement examples](https://alisol.ir/?ai=real%20tech%20resume%20improvement%20examples%7CGergely%20Orosz%7CThe%20Tech%20Resume%20Inside%20Out)
 
-## Chapter 14: Advice for Hiring Managers
+## Advice for Hiring Managers
 Hiring managers should treat recruitment as a partner, write clear job descriptions, build feedback loops, and recognize that resume screening is imperfect. Involve yourself in screening to reduce false negatives.
 
 **Example**: Empowering recruiters to champion promising but imperfectly presented candidates uncovers hidden gems.
