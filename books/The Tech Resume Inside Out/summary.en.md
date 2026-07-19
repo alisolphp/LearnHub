@@ -4,7 +4,7 @@
 * **Publication Date**: 2020
 * **Book Link**: https://thetechresume.com
 
-This document summarizes the key lessons and insights extracted from the book.  
+This document summarizes the key lessons and insights extracted from the book.
 I highly recommend reading the original book for the full depth and author's perspective.
 
 ## Before You Get Started
