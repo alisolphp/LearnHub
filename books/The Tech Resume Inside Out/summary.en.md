@@ -11,6 +11,10 @@ I highly recommend reading the original book for the full depth and author's per
 * I summarize key points from useful books to learn and review quickly.
 * Simply click on `Ask AI` links after each section to dive deeper.
 
+<!-- LH-BUTTONS:START -->
+<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:END -->
+
 ## Introduction and Who This Book Is For
 The book helps developers craft a strong resume that gets them past the initial screening and into interviews at tech companies, especially in competitive markets like the US, Europe, and India. It targets software developers from new grads to experienced engineers, tech leads, and engineering managers. The core message is that a resume's goal is simple: get you an interview by selling your fit for a specific role in under 10 seconds. It's not about listing everything you've done, but about representing you fairly and highlighting relevant strengths.
 
