@@ -8,7 +8,7 @@
 
 ## AI-Augmented Learning Partner (250+ Summaries)
 
-> Learn and review tech topics efficiently using concise, high-quality summaries. 
+> Learn and review tech topics efficiently using concise, high-quality summaries.
 
 ### Try it out: 
 
@@ -233,14 +233,6 @@ Read **[CONTRIBUTING.md](CONTRIBUTING.md)** for:
 - what kinds of contributions are welcome **right now**,
 - what is out of scope (e.g. editing summaries),
 - and how to open good issues / PRs.
-
----
-
-## Intro Video
-
-You can also watch the intro video in:
-
-[ [FA](https://echotalk.ir/s3/LearnHub/intro-fa.mp4) ]
 
 ---
 
