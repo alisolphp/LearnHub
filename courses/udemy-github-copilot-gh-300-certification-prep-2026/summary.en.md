@@ -46,6 +46,8 @@ Check Understanding:
 [Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=courses/udemy-github-copilot-gh-300-certification-prep-2026)
 <!-- LH-BUTTONS:END -->
 
+---
+
 ## Welcome and Course Overview
 
 * **Summary**: Ari Vilkman introduces himself as a software developer and architect with a decade of experience who now focuses on AI-assisted development. The course is built specifically to help you pass the GH-300 exam. It follows the six official exam domains in order of weight, starting with the foundation (responsible AI, features, data/architecture) and then moving into application (prompt engineering, productivity, privacy). Every section uses the same rhythm: orient, explain, demonstrate, and consolidate. You get companion study materials, chapter quizzes with exam-style questions, and a full practice test at the end. The real exam is intermediate level, offered by GitHub and Microsoft, taken online via Pearson VUE, lasts 100 minutes, costs $99, and requires a score of 700/1000.
