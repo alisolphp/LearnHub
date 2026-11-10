@@ -16,7 +16,33 @@ This document combines four public engineering blog posts into one story. It is 
 * Simply click on `Ask AI` links after each section to dive deeper.
 
 <!-- LH-BUTTONS:START -->
-<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:HASH=b11a91a9 -->
+
+### AI-Powered buttons
+
+Teach Me: 
+[5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=en&src=engineering-stories/How%20Four%20Engineering%20Teams%20Use%20AI%20Coding%20Agents) | 
+[Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=engineering-stories/How%20Four%20Engineering%20Teams%20Use%20AI%20Coding%20Agents) | 
+[Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=engineering-stories/How%20Four%20Engineering%20Teams%20Use%20AI%20Coding%20Agents) | 
+[Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=engineering-stories/How%20Four%20Engineering%20Teams%20Use%20AI%20Coding%20Agents) | 
+[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer)
+
+Learn Differently:
+[Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=engineering-stories/How%20Four%20Engineering%20Teams%20Use%20AI%20Coding%20Agents) | 
+[Storytelling](https://alisol.ir/?ai=learnhub_summary_story&lang=en&src=engineering-stories/How%20Four%20Engineering%20Teams%20Use%20AI%20Coding%20Agents) | 
+[Cheatsheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=engineering-stories/How%20Four%20Engineering%20Teams%20Use%20AI%20Coding%20Agents) | 
+[Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=engineering-stories/How%20Four%20Engineering%20Teams%20Use%20AI%20Coding%20Agents) | 
+[Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=en&src=engineering-stories/How%20Four%20Engineering%20Teams%20Use%20AI%20Coding%20Agents) | 
+[Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=en&src=engineering-stories/How%20Four%20Engineering%20Teams%20Use%20AI%20Coding%20Agents) | 
+[Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=en&src=engineering-stories/How%20Four%20Engineering%20Teams%20Use%20AI%20Coding%20Agents) | 
+[Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=en&src=engineering-stories/How%20Four%20Engineering%20Teams%20Use%20AI%20Coding%20Agents)
+
+Check Understanding:
+[Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=engineering-stories/How%20Four%20Engineering%20Teams%20Use%20AI%20Coding%20Agents) | 
+[Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=engineering-stories/How%20Four%20Engineering%20Teams%20Use%20AI%20Coding%20Agents) | 
+[Refactor Challenge](https://alisol.ir/?ai=learnhub_summary_refactor&lang=en&src=engineering-stories/How%20Four%20Engineering%20Teams%20Use%20AI%20Coding%20Agents) | 
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=engineering-stories/How%20Four%20Engineering%20Teams%20Use%20AI%20Coding%20Agents) | 
+[Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=engineering-stories/How%20Four%20Engineering%20Teams%20Use%20AI%20Coding%20Agents)
 <!-- LH-BUTTONS:END -->
 
 ## 1. Sanity: Three Attempts, and the Engineer Stays Responsible
