@@ -13,7 +13,33 @@ This document summarizes one public research paper and adds my own experience fr
 * Simply click on `Ask AI` links after each section to dive deeper.
 
 <!-- LH-BUTTONS:START -->
-<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:HASH=b11a91a9 -->
+
+### AI-Powered buttons
+
+Teach Me: 
+[5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=en&src=engineering-stories/How%20Account%20Pre-hijacking%20Hits%20Sites%20With%20Password%20and%20Google%20Sign-In) | 
+[Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=engineering-stories/How%20Account%20Pre-hijacking%20Hits%20Sites%20With%20Password%20and%20Google%20Sign-In) | 
+[Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=engineering-stories/How%20Account%20Pre-hijacking%20Hits%20Sites%20With%20Password%20and%20Google%20Sign-In) | 
+[Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=engineering-stories/How%20Account%20Pre-hijacking%20Hits%20Sites%20With%20Password%20and%20Google%20Sign-In) | 
+[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer)
+
+Learn Differently:
+[Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=engineering-stories/How%20Account%20Pre-hijacking%20Hits%20Sites%20With%20Password%20and%20Google%20Sign-In) | 
+[Storytelling](https://alisol.ir/?ai=learnhub_summary_story&lang=en&src=engineering-stories/How%20Account%20Pre-hijacking%20Hits%20Sites%20With%20Password%20and%20Google%20Sign-In) | 
+[Cheatsheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=engineering-stories/How%20Account%20Pre-hijacking%20Hits%20Sites%20With%20Password%20and%20Google%20Sign-In) | 
+[Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=engineering-stories/How%20Account%20Pre-hijacking%20Hits%20Sites%20With%20Password%20and%20Google%20Sign-In) | 
+[Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=en&src=engineering-stories/How%20Account%20Pre-hijacking%20Hits%20Sites%20With%20Password%20and%20Google%20Sign-In) | 
+[Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=en&src=engineering-stories/How%20Account%20Pre-hijacking%20Hits%20Sites%20With%20Password%20and%20Google%20Sign-In) | 
+[Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=en&src=engineering-stories/How%20Account%20Pre-hijacking%20Hits%20Sites%20With%20Password%20and%20Google%20Sign-In) | 
+[Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=en&src=engineering-stories/How%20Account%20Pre-hijacking%20Hits%20Sites%20With%20Password%20and%20Google%20Sign-In)
+
+Check Understanding:
+[Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=engineering-stories/How%20Account%20Pre-hijacking%20Hits%20Sites%20With%20Password%20and%20Google%20Sign-In) | 
+[Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=engineering-stories/How%20Account%20Pre-hijacking%20Hits%20Sites%20With%20Password%20and%20Google%20Sign-In) | 
+[Refactor Challenge](https://alisol.ir/?ai=learnhub_summary_refactor&lang=en&src=engineering-stories/How%20Account%20Pre-hijacking%20Hits%20Sites%20With%20Password%20and%20Google%20Sign-In) | 
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=engineering-stories/How%20Account%20Pre-hijacking%20Hits%20Sites%20With%20Password%20and%20Google%20Sign-In) | 
+[Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=engineering-stories/How%20Account%20Pre-hijacking%20Hits%20Sites%20With%20Password%20and%20Google%20Sign-In)
 <!-- LH-BUTTONS:END -->
 
 ## 1. The Paper: Attacks That Start Before You Even Sign Up
