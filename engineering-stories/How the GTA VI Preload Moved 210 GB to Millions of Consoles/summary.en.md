@@ -14,7 +14,33 @@ This document summarizes three public sources about how the GTA VI pre-load reac
 * Simply click on `Ask AI` links after each section to dive deeper.
 
 <!-- LH-BUTTONS:START -->
-<!-- auto-generated; do not edit -->
+<!-- LH-BUTTONS:HASH=b11a91a9 -->
+
+### AI-Powered buttons
+
+Teach Me: 
+[5 Years Old](https://alisol.ir/?ai=learnhub_summary_teach&level=5_years_old&lang=en&src=engineering-stories/How%20the%20GTA%20VI%20Preload%20Moved%20210%20GB%20to%20Millions%20of%20Consoles) | 
+[Beginner](https://alisol.ir/?ai=learnhub_summary_teach&level=beginner&lang=en&src=engineering-stories/How%20the%20GTA%20VI%20Preload%20Moved%20210%20GB%20to%20Millions%20of%20Consoles) | 
+[Intermediate](https://alisol.ir/?ai=learnhub_summary_teach&level=intermediate&lang=en&src=engineering-stories/How%20the%20GTA%20VI%20Preload%20Moved%20210%20GB%20to%20Millions%20of%20Consoles) | 
+[Advanced](https://alisol.ir/?ai=learnhub_summary_teach&level=advanced&lang=en&src=engineering-stories/How%20the%20GTA%20VI%20Preload%20Moved%20210%20GB%20to%20Millions%20of%20Consoles) | 
+[(reset auto redirect)](https://alisol.ir/?ai=reset_redirect_timer)
+
+Learn Differently:
+[Analogy](https://alisol.ir/?ai=learnhub_summary_analogy&lang=en&src=engineering-stories/How%20the%20GTA%20VI%20Preload%20Moved%20210%20GB%20to%20Millions%20of%20Consoles) | 
+[Storytelling](https://alisol.ir/?ai=learnhub_summary_story&lang=en&src=engineering-stories/How%20the%20GTA%20VI%20Preload%20Moved%20210%20GB%20to%20Millions%20of%20Consoles) | 
+[Cheatsheet](https://alisol.ir/?ai=learnhub_summary_cheatsheet&lang=en&src=engineering-stories/How%20the%20GTA%20VI%20Preload%20Moved%20210%20GB%20to%20Millions%20of%20Consoles) | 
+[Mindmap](https://alisol.ir/?ai=learnhub_summary_mindmap&lang=en&src=engineering-stories/How%20the%20GTA%20VI%20Preload%20Moved%20210%20GB%20to%20Millions%20of%20Consoles) | 
+[Flashcards](https://alisol.ir/?ai=learnhub_summary_flashcards&lang=en&src=engineering-stories/How%20the%20GTA%20VI%20Preload%20Moved%20210%20GB%20to%20Millions%20of%20Consoles) | 
+[Practical Projects](https://alisol.ir/?ai=learnhub_summary_projects&lang=en&src=engineering-stories/How%20the%20GTA%20VI%20Preload%20Moved%20210%20GB%20to%20Millions%20of%20Consoles) | 
+[Code Examples](https://alisol.ir/?ai=learnhub_summary_code&lang=en&src=engineering-stories/How%20the%20GTA%20VI%20Preload%20Moved%20210%20GB%20to%20Millions%20of%20Consoles) | 
+[Common Mistakes](https://alisol.ir/?ai=learnhub_summary_mistakes&lang=en&src=engineering-stories/How%20the%20GTA%20VI%20Preload%20Moved%20210%20GB%20to%20Millions%20of%20Consoles)
+
+Check Understanding:
+[Generate Quiz](https://alisol.ir/?ai=learnhub_summary_quiz&lang=en&src=engineering-stories/How%20the%20GTA%20VI%20Preload%20Moved%20210%20GB%20to%20Millions%20of%20Consoles) | 
+[Interview Me](https://alisol.ir/?ai=learnhub_summary_interview&lang=en&src=engineering-stories/How%20the%20GTA%20VI%20Preload%20Moved%20210%20GB%20to%20Millions%20of%20Consoles) | 
+[Refactor Challenge](https://alisol.ir/?ai=learnhub_summary_refactor&lang=en&src=engineering-stories/How%20the%20GTA%20VI%20Preload%20Moved%20210%20GB%20to%20Millions%20of%20Consoles) | 
+[Assessment Rubric](https://alisol.ir/?ai=learnhub_summary_rubric&lang=en&src=engineering-stories/How%20the%20GTA%20VI%20Preload%20Moved%20210%20GB%20to%20Millions%20of%20Consoles) | 
+[Next Steps](https://alisol.ir/?ai=learnhub_summary_nextsteps&lang=en&src=engineering-stories/How%20the%20GTA%20VI%20Preload%20Moved%20210%20GB%20to%20Millions%20of%20Consoles)
 <!-- LH-BUTTONS:END -->
 
 ## 1. What RIPE Measured: One Address, Different Networks
